@@ -1,0 +1,1890 @@
+[
+ {
+  "q": "A respeito da 8ª Conferência Nacional de Saúde, realizada em Brasília, no ano de 1986, assinale a afirmativa correta.",
+  "alts": [
+   "Estabeleceu um marco histórico, mas ainda sem participação popular.",
+   "Propôs a criação de um sistema de saúde público e de um privado, independentes.",
+   "Criou o arcabouço do SUS e a Comissão Nacional da Reforma Sanitária (CNRS).",
+   "Teve como tema central efetivando o SUS – acesso, qualidade e humanização na atenção à saúde com controle social.",
+   "Criou o Sistema Nacional de Vigilância Epidemiológica."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Relatório Final da 8ª Conferência Nacional de Saúde (1986); Constituição Federal de 1988, arts. 196 a 200",
+  "coment": "A 8ª Conferência Nacional de Saúde (1986) é o marco da Reforma Sanitária: foi a primeira com ampla participação da sociedade civil, e seu relatório final, com os eixos saúde como direito, reformulação do sistema e financiamento, deu as bases do SUS inscrito na Constituição de 1988 e na Lei 8.080/1990. Para levar as propostas adiante, instalou-se em 1986 a Comissão Nacional da Reforma Sanitária. O verbo \"criou\" é uma simplificação da banca: a conferência formulou o arcabouço, e o SUS nasceu em lei depois.",
+  "porAlt": [
+   "A 8ª CNS foi justamente a primeira com ampla participação popular, de usuários e entidades da sociedade civil.",
+   "A proposta foi um sistema único, público e universal, com a iniciativa privada em caráter complementar, não dois sistemas independentes.",
+   "Correta: o relatório da 8ª CNS deu o arcabouço do SUS e levou à instalação da Comissão Nacional da Reforma Sanitária.",
+   "\"Efetivando o SUS: acesso, qualidade e humanização com controle social\" foi o tema da 11ª Conferência, em 2000.",
+   "O Sistema Nacional de Vigilância Epidemiológica foi instituído pela Lei 6.259/1975, antes da 8ª CNS."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE multiprofissional Fisioterapia 2024/2025",
+   "n": 2,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "O Decreto nº 7.508/2011, como figura jurídica que dará concretude a cada ente federado frente aos compromissos comuns, instituiu",
+  "alts": [
+   "a alocação dos recursos do Fundo Nacional de Saúde (FNS).",
+   "o Contrato Organizativo da Ação Pública da Saúde (COAP).",
+   "o Pacto pela Saúde em defesa do SUS, pela vida e pela gestão.",
+   "os percentuais mínimos a serem investidos nas ações e serviços de saúde.",
+   "a participação direta e indireta de capital externo na assistência à saúde."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 7.508/2011, art. 2º, II, e arts. 33 a 41",
+  "coment": "O Decreto 7.508/2011 regulamenta a Lei 8.080/1990 na organização do SUS, no planejamento, na assistência e na articulação interfederativa. O art. 2º, II, define o Contrato Organizativo da Ação Pública da Saúde (COAP) como o acordo entre entes federativos que organiza e integra as ações e serviços na região de saúde, com responsabilidades, indicadores, metas e recursos. Os arts. 33 a 41 detalham seu conteúdo. As demais alternativas pertencem a outras normas: Pacto pela Saúde (Portaria 399/2006), percentuais mínimos (LC 141/2012) e capital estrangeiro (Lei 8.080, art. 23).",
+  "porAlt": [
+   "A alocação dos recursos do Fundo Nacional de Saúde segue a Lei 8.080, a Lei 8.142 e a LC 141/2012, não é o instrumento criado pelo decreto.",
+   "Correta: o COAP, definido no art. 2º, II, do Decreto 7.508/2011, formaliza os compromissos de cada ente na região de saúde.",
+   "O Pacto pela Saúde em defesa do SUS, pela vida e de gestão foi instituído pela Portaria GM/MS 399/2006.",
+   "Os percentuais mínimos de aplicação em saúde foram fixados pela Lei Complementar 141/2012.",
+   "A participação de capital estrangeiro na assistência é tratada no art. 23 da Lei 8.080/1990, alterado pela Lei 13.097/2015."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE multiprofissional Fisioterapia 2024/2025",
+   "n": 3,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Segundo o Art. 3º da Portaria de Consolidação nº 3/2017 do Ministério da Saúde, temos como Rede Temática de Atenção à Saúde, a",
+  "alts": [
+   "Rede de Atenção às Urgências e Emergências (RUE).",
+   "Rede Nacional de Prevenção da Violência e Promoção da Saúde (RNPVS).",
+   "Rede Nacional de Atenção Integral da Saúde do Trabalhador (RAIST).",
+   "Rede Brasileira de Avaliação de Tecnologias em Saúde (Rebrats).",
+   "Rede Nacional de Vigilância Epidemiológica Hospitalar (Renaveh)."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria de Consolidação GM/MS 3/2017, art. 3º; Portaria GM/MS 5.350/2024 (Rede Alyne)",
+  "coment": "O art. 3º da PRC 3/2017 lista as Redes Temáticas de Atenção à Saúde: a rede materno-infantil (Rede Cegonha, transformada em Rede Alyne pela Portaria GM/MS 5.350/2024), a Rede de Atenção às Urgências e Emergências (RUE), a Rede de Atenção Psicossocial (RAPS), a Rede de Cuidados à Pessoa com Deficiência e a Rede de Atenção à Saúde das Pessoas com Doenças Crônicas. As demais alternativas são redes de vigilância, de prevenção ou de avaliação de tecnologias, não redes temáticas de atenção.",
+  "porAlt": [
+   "Correta: a RUE é uma das redes temáticas listadas no art. 3º da PRC 3/2017.",
+   "A Rede Nacional de Prevenção da Violência e Promoção da Saúde é estratégia de vigilância e promoção, não rede temática de atenção.",
+   "A rede da saúde do trabalhador (Renast) não figura entre as redes temáticas do art. 3º da PRC 3/2017.",
+   "A Rebrats é rede de avaliação de tecnologias em saúde, ligada à gestão, não rede de atenção.",
+   "A Renaveh é rede de vigilância epidemiológica hospitalar, não rede temática de atenção à saúde."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE multiprofissional Fisioterapia 2024/2025",
+   "n": 4,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Segundo a Portaria de Consolidação nº 3/2017 do Ministério da Saúde, a Rede de Atenção à Saúde (RAS) é definida como arranjos organizativos de ações e serviços de saúde, de diferentes densidades tecnológicas, que integradas por meio de sistemas de apoio técnico, logístico e de gestão, buscam garantir a integralidade do cuidado.\n(Fonte: https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prc0003_03_10_2017.html#CAPITULOI)\nA esse respeito, analise as afirmativas a seguir.\nI. Nem todos os pontos de atenção à saúde são importantes para que os objetivos da rede de atenção à saúde sejam cumpridos.\nII. Os pontos de atenção à saúde espaços em que se ofertam determinados serviços de saúde, por meio de uma produção singular.\nIII. Um dos objetivos da RAS é promover a integração sistêmica de ações e serviços de saúde com provisão de atenção contínua, integral, de qualidade, responsável e humanizada.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "II, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria de Consolidação GM/MS 3/2017, Anexo I (origem: Portaria GM/MS 4.279/2010)",
+  "coment": "O Anexo I da PRC 3/2017, que traz as diretrizes da RAS da antiga Portaria 4.279/2010, afirma que todos os pontos de atenção são igualmente importantes para cumprir os objetivos da rede, que se diferenciam apenas pela densidade tecnológica. Por isso a afirmativa I é falsa. A II reproduz a definição de pontos de atenção como espaços onde se ofertam serviços por meio de uma produção singular. A III repete o objetivo da RAS: integração sistêmica, com atenção contínua, integral, de qualidade, responsável e humanizada.",
+  "porAlt": [
+   "A afirmativa I é falsa: a norma diz que todos os pontos de atenção são igualmente importantes.",
+   "Incompleta: a II está certa, mas a III também é verdadeira e precisa entrar.",
+   "A afirmativa I é falsa, o que elimina essa combinação.",
+   "A afirmativa I é falsa, o que elimina essa combinação mesmo com a III correta.",
+   "Correta: II e III reproduzem a norma; a I contraria a ideia de que todos os pontos são igualmente importantes."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE multiprofissional Fisioterapia 2024/2025",
+   "n": 5,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Equipe do Núcleo de Saúde da Família e Atenção Básica (NASF-AB), como competência específica, deve",
+  "alts": [
+   "planejar, estrategicamente, a implantação das Unidades Básicas de Saúde.",
+   "formar equipes multidisciplinares, a partir de indicações do Ministério da Saúde.",
+   "participar do planejamento conjunto com as equipes que atuam na Atenção Básica a que estão vinculadas.",
+   "ser responsável pela composição da equipe multiprofissional, definindo os profissionais e a carga horária da equipe.",
+   "atuar de forma integrada à Rede de Atenção à Saúde a partir de normativas do Conselho Nacional de Saúde."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), atribuições do NASF-AB; Portaria GM/MS 635/2023 (eMulti)",
+  "coment": "Na PNAB de 2017, a primeira competência específica do NASF-AB é participar do planejamento conjunto com as equipes de Atenção Básica às quais está vinculado, ao lado do apoio matricial, da discussão de casos e da construção conjunta de projetos terapêuticos. O núcleo não planeja a implantação de UBS nem define sua própria composição, tarefas do gestor. Atualização: a Portaria GM/MS 635/2023 criou as equipes Multiprofissionais na APS (eMulti), modelo que substituiu o NASF-AB, mantendo a lógica de trabalho compartilhado com as equipes de referência.",
+  "porAlt": [
+   "Planejar a implantação das UBS é atribuição da gestão municipal, não competência do NASF-AB.",
+   "A composição da equipe é definida pelo gestor local com base nas necessidades do território, não por indicação do Ministério.",
+   "Correta: a PNAB 2017 lista o planejamento conjunto com as equipes vinculadas como competência específica do NASF-AB.",
+   "Definir profissionais e carga horária cabe ao gestor municipal, não à própria equipe.",
+   "A atuação integrada à RAS segue a PNAB e a PRC 3/2017, não normativas do Conselho Nacional de Saúde, e não é competência específica do núcleo."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE multiprofissional Fisioterapia 2024/2025",
+   "n": 6,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Segundo a Política Nacional de Atenção Básica (PNAB), uma Unidade Básica de Saúde (UBS), em relação à infraestrutura e à ambiência, deve\nI. estar adequada ao quantitativo de população adscrita e suas especificidades.\nII. considerar a densidade demográfica, perfil da população e as ações e serviços de saúde a serem realizados.\nIII. ter pontos de apoio para o atendimento de populações dispersas (rurais, ribeirinhas, assentamentos etc.).\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "II, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), item Infraestrutura, ambiência e funcionamento",
+  "coment": "A PNAB 2017 determina que a infraestrutura da UBS seja adequada ao quantitativo da população adscrita e às suas especificidades (I), e que os parâmetros de estrutura considerem a densidade demográfica, a composição e o tipo das equipes, o perfil da população e as ações e serviços a realizar (II). O mesmo item prevê pontos de apoio para o atendimento de populações dispersas, como rurais, ribeirinhas e assentamentos (III). As três afirmativas estão no texto da política.",
+  "porAlt": [
+   "Incompleta: a I está certa, mas a II e a III também constam da PNAB.",
+   "Incompleta: a II está certa, mas a I e a III também constam da PNAB.",
+   "Incompleta: deixa de fora a III, que prevê pontos de apoio para populações dispersas.",
+   "Incompleta: deixa de fora a I, adequação ao quantitativo da população adscrita.",
+   "Correta: as três afirmativas reproduzem o item de infraestrutura e ambiência da PNAB 2017."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE multiprofissional Fisioterapia 2024/2025",
+   "n": 7,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Segundo a Portaria nº 198/2004, que institui a Política Nacional de Educação Permanente em Saúde como estratégia do Sistema Único de Saúde para a formação e o desenvolvimento de trabalhadores para o setor, a condução locorregional da Política Nacional de Educação Permanente em Saúde será efetivada mediante um Colegiado de Gestão configurado como polo de educação permanente em saúde para o SUS com as funções de\nI. identificar necessidades de formação e de desenvolvimento dos trabalhadores de saúde e construir estratégias e processos que qualifiquem a atenção e a gestão em saúde e fortaleçam o controle social no setor na perspectiva de produzir impacto positivo sobre a saúde individual e coletiva;\nII. mobilizar a formação de gestores de sistemas, ações e serviços para a integração da rede de atenção como cadeia de cuidados progressivos à saúde (rede única de atenção intercomplementar e de acesso ao conjunto das necessidades de saúde individuais e coletivas);\nIII. articular e estimular a transformação das práticas de saúde e de educação na saúde no conjunto do SUS e das instituições de ensino, tendo em vista a implementação das diretrizes curriculares nacionais para o conjunto dos cursos da área da saúde e a transformação de toda a rede de serviços e de gestão em rede-escola.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "II, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 198/2004, art. 2º; Portaria GM/MS 1.996/2007 (diretrizes atuais da PNEPS)",
+  "coment": "A Portaria 198/2004 atribuiu aos Polos de Educação Permanente em Saúde, colegiados de gestão locorregionais, funções como identificar necessidades de formação, mobilizar a formação de gestores para a integração da rede e articular a transformação das práticas de saúde e de educação, rumo à rede-escola. As três afirmativas estão no art. 2º. Atualização: a Portaria GM/MS 1.996/2007 trocou a condução pelos polos pelos Colegiados de Gestão Regional, hoje Comissões Intergestores Regionais, com apoio das Comissões Permanentes de Integração Ensino-Serviço (CIES).",
+  "porAlt": [
+   "Incompleta: a I está no art. 2º, mas a II e a III também.",
+   "Incompleta: a II está no art. 2º, mas a I e a III também.",
+   "Incompleta: falta a III, a transformação das práticas rumo à rede-escola.",
+   "Incompleta: falta a I, a identificação das necessidades de formação dos trabalhadores.",
+   "Correta: as três funções constam do art. 2º da Portaria 198/2004."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE multiprofissional Fisioterapia 2024/2025",
+   "n": 8,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Assinale a opção que indica o princípio da Política Nacional de Humanização que visa ao aumento do grau de comunicação intra e intergrupos e à transformação dos modos de relação e de comunicação entre os sujeitos implicados nos processos de produção de saúde.",
+  "alts": [
+   "Pluralidade.",
+   "Diversidade.",
+   "Verticalidade.",
+   "Transversalidade.",
+   "Heterogeneidade."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Política Nacional de Humanização, HumanizaSUS: documento base (MS, 2008)",
+  "coment": "A PNH tem três princípios: transversalidade; indissociabilidade entre atenção e gestão; e protagonismo, corresponsabilidade e autonomia dos sujeitos e coletivos. A transversalidade é definida exatamente como o aumento do grau de comunicação intra e intergrupos e a transformação dos modos de relação entre os sujeitos que produzem saúde, rompendo com saberes e poderes isolados e hierarquizados. Verticalidade é o oposto do que a política propõe.",
+  "porAlt": [
+   "Pluralidade não é um dos três princípios da PNH.",
+   "Diversidade é valor que a política reconhece, mas não é o nome do princípio descrito.",
+   "Verticalidade é o oposto da proposta: a PNH busca relações horizontais e comunicação entre grupos.",
+   "Correta: a transversalidade é o princípio que amplia a comunicação intra e intergrupos.",
+   "Heterogeneidade não figura entre os princípios da PNH."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE multiprofissional Fisioterapia 2024/2025",
+   "n": 9,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Assinale a opção que indica a finalidade primordial da Política Nacional de Saúde da Pessoa Idosa, Portaria nº 2.528/GM de 2006.",
+  "alts": [
+   "Garantir a permanência de portadores de doenças que necessitem de assistência médica ou de enfermagem permanente, em instituições asilares de caráter social.",
+   "Recuperar, manter e promover a autonomia e a independência dos indivíduos idosos, direcionando medidas coletivas e individuais de saúde.",
+   "Priorizar o controle e a prevenção de agravos de doenças crônicas não-transmissíveis em idosos.",
+   "Garantir o acesso de idosos aos sistemas de saúde, em especial à centros especializados de Geriatria.",
+   "Prover assistência multidisciplinar ao idoso, visto que a incapacidade funcional e as limitações físicas, cognitivas e sensoriais são consequências inevitáveis do envelhecimento."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.528/2006 (Política Nacional de Saúde da Pessoa Idosa), consolidada na PRC 2/2017",
+  "coment": "A Portaria 2.528/2006 define como finalidade primordial da PNSPI recuperar, manter e promover a autonomia e a independência dos indivíduos idosos, direcionando medidas coletivas e individuais de saúde para esse fim, conforme os princípios do SUS. O foco é a capacidade funcional, não a doença. Por isso estão erradas as alternativas que tratam a incapacidade como inevitável, que priorizam só as doenças crônicas ou que centram o cuidado em asilos e em centros especializados.",
+  "porAlt": [
+   "A política não tem como finalidade manter idosos em instituições asilares; ela prioriza a permanência na comunidade e a autonomia.",
+   "Correta: é o texto literal da finalidade primordial da PNSPI.",
+   "O controle das doenças crônicas é uma das ações, mas a finalidade primordial é a autonomia e a independência.",
+   "O acesso se organiza a partir da Atenção Básica, não com prioridade para centros especializados de Geriatria.",
+   "A política parte de que a incapacidade não é consequência inevitável do envelhecimento."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE multiprofissional Fisioterapia 2024/2025",
+   "n": 10,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Em relação à humanização no âmbito do SUS, assinale a afirmativa correta.",
+  "alts": [
+   "Trata-se de um programa que atravessa as diferentes ações e instâncias gestoras do SUS.",
+   "Enfatiza a idealização do “homem” na construção de um sentido positivo.",
+   "Oferece um eixo articulador das práticas em saúde, destacando o aspecto subjetivo nelas presente.",
+   "Constrói trocas solidárias e comprometidas com a estrita tarefa de produção de saúde.",
+   "São ações voltadas aos sujeitos de sua ação, ou seja, seus usuários."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Política Nacional de Humanização, HumanizaSUS: documento base (MS, 2008)",
+  "coment": "O documento base define a humanização como política, não como programa, que atravessa as ações e instâncias do SUS e oferece um eixo articulador das práticas em saúde, destacando o aspecto subjetivo nelas presente. A PNH busca trocas solidárias comprometidas com a dupla tarefa de produzir saúde e produzir sujeitos, e envolve usuários, trabalhadores e gestores. Também recusa a idealização de um \"homem\" abstrato e trabalha com sujeitos concretos.",
+  "porAlt": [
+   "A humanização é política transversal do SUS, não programa; esse é o ponto em que a alternativa erra.",
+   "A PNH parte de sujeitos concretos e recusa a idealização do \"homem\".",
+   "Correta: reproduz a definição do documento base, eixo articulador das práticas que destaca o aspecto subjetivo.",
+   "A política fala da dupla tarefa de produzir saúde e produzir sujeitos, não de uma estrita tarefa.",
+   "A PNH envolve usuários, trabalhadores e gestores, não apenas os usuários."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE multiprofissional Fisioterapia 2024/2025",
+   "n": 11,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Assinale a opção que, segundo a Resolução nº 588/2018 do Conselho Nacional de Saúde (CNS), apresenta a definição de vigilância em saúde.",
+  "alts": [
+   "Processo contínuo e sistemático de coleta, consolidação, análise de dados e disseminação de informações sobre eventos relacionados à saúde, visando ao planejamento e à implementação de medidas de Saúde Pública.",
+   "Ações que propiciam o conhecimento e a investigação diagnóstica de doenças e agravos e a verificação da qualidade de produtos de interesse de saúde pública e do padrão de conformidade de amostras ambientais.",
+   "Promoção da saúde como parte da integralidade do cuidado na Rede de Atenção à Saúde, articuladas com as demais redes de proteção social, abrangendo atividades voltadas para adoção de práticas sociais e de saúde centradas na equidade, na participação e no controle social.",
+   "Ações de monitoramento contínuo da situação de saúde da população do País, Estado, Região, Município ou áreas de abrangência de equipes de atenção à saúde, por estudos e análises que identifiquem e expliquem problemas de saúde e o comportamento dos principais indicadores de saúde.",
+   "Conjunto articulado de ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução CNS 588/2018 (Política Nacional de Vigilância em Saúde), art. 2º",
+  "coment": "A Resolução CNS 588/2018 institui a Política Nacional de Vigilância em Saúde. Seu art. 2º define vigilância em saúde como o processo contínuo e sistemático de coleta, consolidação, análise de dados e disseminação de informações sobre eventos relacionados à saúde, visando ao planejamento e à implementação de medidas de saúde pública, incluindo regulação e intervenção sobre condicionantes e determinantes. As demais alternativas descrevem ações laboratoriais, promoção da saúde, análise de situação de saúde e o conceito de integralidade da Lei 8.080.",
+  "porAlt": [
+   "Correta: é a definição do art. 2º da Resolução CNS 588/2018.",
+   "Descreve as ações laboratoriais, um dos componentes da vigilância, e não o conceito de vigilância em saúde.",
+   "Descreve a promoção da saúde articulada às redes de proteção social, não a definição de vigilância.",
+   "Descreve a análise de situação de saúde, uma das ações da vigilância, e não seu conceito.",
+   "É o conceito de integralidade da assistência, do art. 7º, II, da Lei 8.080/1990."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE multiprofissional Fisioterapia 2024/2025",
+   "n": 12,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "O Art. 16 da Resolução nº 588/2018 do Conselho Nacional de Saúde (CNS), estabelece que o financiamento das ações da vigilância em saúde, é garantido de forma",
+  "alts": [
+   "autônoma, apenas pelo município.",
+   "dual, pelas esferas estadual e municipal.",
+   "unívoca, apenas na esfera federal.",
+   "recíproca, pelos estados e pela União.",
+   "tripartite, pelas esferas federal, estadual e municipal."
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução CNS 588/2018, art. 16; Lei Complementar 141/2012",
+  "coment": "O art. 16 da Resolução CNS 588/2018 estabelece que o financiamento das ações de vigilância em saúde é tripartite, com recursos das esferas federal, estadual e municipal. É a mesma lógica de todo o SUS, cujo financiamento é responsabilidade das três esferas de governo, com aplicação mínima definida pela LC 141/2012. Nenhuma esfera financia sozinha a vigilância, e o município não fica isento nem é o único responsável.",
+  "porAlt": [
+   "O município não financia sozinho: a política prevê a participação das três esferas.",
+   "Exclui a União, que participa do financiamento da vigilância em saúde.",
+   "A esfera federal não é a única fonte: estados e municípios também financiam.",
+   "Exclui os municípios, que são parte do financiamento tripartite.",
+   "Correta: o art. 16 garante o financiamento tripartite, pelas esferas federal, estadual e municipal."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE multiprofissional Fisioterapia 2024/2025",
+   "n": 13,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "As opções a seguir apresentam princípios da chamada Bioética Principialista, à exceção de uma. Assinale-a.",
+  "alts": [
+   "Autonomia.",
+   "Integralidade.",
+   "Não-maleficiência.",
+   "Beneficência.",
+   "Justiça."
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Beauchamp e Childress, Principles of Biomedical Ethics (1979); Lei 8.080/1990, art. 7º, II",
+  "coment": "A bioética principialista foi sistematizada por Beauchamp e Childress em 1979 e se apoia em quatro princípios: autonomia (respeito às decisões do sujeito capaz), beneficência (fazer o bem), não maleficência (não causar dano) e justiça (distribuição equitativa). Integralidade não pertence a esse modelo: é princípio do SUS, previsto no art. 7º, II, da Lei 8.080/1990, como o conjunto articulado de ações preventivas e curativas em todos os níveis.",
+  "porAlt": [
+   "Autonomia é um dos quatro princípios do principialismo: respeito à decisão livre e informada.",
+   "Correta: integralidade é princípio do SUS (Lei 8.080, art. 7º, II), não da bioética principialista.",
+   "Não maleficência é princípio do principialismo: não causar dano intencional.",
+   "Beneficência é princípio do principialismo: agir em favor do bem do paciente.",
+   "Justiça é princípio do principialismo: distribuição equitativa de riscos, benefícios e recursos."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE multiprofissional Fisioterapia 2024/2025",
+   "n": 14,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Portaria nº 837/2014 estabelece que a Equipe de Saúde da População Ribeirinha (eSFR) será composta por, no mínimo,",
+  "alts": [
+   "dois médicos, preferencialmente da especialidade de Família e Comunidade; um enfermeiro, preferencialmente especialista em Saúde da Família; um microscopista; e dois agentes de saúde.",
+   "um médico, preferencialmente da especialidade de Família e Comunidade; um enfermeiro, preferencialmente especialista em Saúde da Família; e um auxiliar ou técnico de enfermagem.",
+   "um médico, preferencialmente da especialidade de Família e Comunidade; um enfermeiro, preferencialmente especialista em Saúde da Família; um cirurgião dentista, especialista em Saúde da Família; e um auxiliar ou técnico de enfermagem.",
+   "um médico, preferencialmente da especialidade de Família e Comunidade; um enfermeiro, preferencialmente especialista em Saúde da Família; um cirurgião dentista, especialista em Saúde da Família; e quatro agentes de saúde.",
+   "um médico, preferencialmente da especialidade de Família e Comunidade; um enfermeiro, preferencialmente especialista em Saúde da Família; um cirurgião dentista, especialista em Saúde da Família; um técnico ou auxiliar em saúde bucal; e dois auxiliares ou técnicos de enfermagem."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 837/2014; Portaria GM/MS 2.436/2017 (PNAB), equipes ribeirinhas",
+  "coment": "A Portaria 837/2014 e a PNAB 2017 fixam a composição mínima da Equipe de Saúde da Família Ribeirinha (eSFR): um médico, preferencialmente de Família e Comunidade, um enfermeiro, preferencialmente especialista em Saúde da Família, e um auxiliar ou técnico de enfermagem. A essa base podem ser acrescidos agentes comunitários, microscopistas, profissionais de saúde bucal e outros, conforme o território. As alternativas que incluem dentista ou agentes como obrigatórios confundem o mínimo com os acréscimos permitidos.",
+  "porAlt": [
+   "Dois médicos e microscopista não fazem parte do mínimo; microscopista é acréscimo possível conforme a região.",
+   "Correta: médico, enfermeiro e auxiliar ou técnico de enfermagem formam a composição mínima da eSFR.",
+   "O cirurgião-dentista pode ser acrescido, mas não integra a composição mínima obrigatória.",
+   "Dentista e quatro agentes não constam do mínimo; agentes são acréscimos conforme o território.",
+   "Equipe de saúde bucal e dois técnicos de enfermagem extrapolam a composição mínima prevista."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE multiprofissional Fisioterapia 2024/2025",
+   "n": 15,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A estratégia Consultório na Rua foi instituída pela Política Nacional de Atenção Básica, em 2011, e visa ampliar o acesso da população em situação de rua aos serviços de saúde.\nTodas as ações realizadas pelas equipes de Consultório na Rua (eCR) devem ser registradas na(o)",
+  "alts": [
+   "Rede Nacional de Dados em Saúde (RNDS).",
+   "Agência Nacional de Vigilância Sanitária (ANVISA).",
+   "Sistema de Informação de Agravos de Notificação (Sinan).",
+   "Sistema de Informação em Saúde para Atenção Básica (Sisab).",
+   "Sistema de Dados de Populações Vulneráveis (SDPV)."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), equipes de Consultório na Rua; Portaria GM/MS 122/2011",
+  "coment": "As equipes de Consultório na Rua fazem parte da Atenção Básica, e a PNAB determina que todas as suas ações sejam registradas no sistema de informação da Atenção Básica, o SISAB, alimentado pelo e-SUS APS. É esse registro que conta a produção da equipe e sustenta o financiamento. O Sinan recebe apenas as notificações de agravos; a RNDS é a plataforma de interoperabilidade de dados; a ANVISA é agência reguladora; e o SDPV não existe.",
+  "porAlt": [
+   "A RNDS é a plataforma nacional de integração de dados, não o sistema de registro da produção da eCR.",
+   "A ANVISA é agência reguladora sanitária e não recebe registros de atendimento.",
+   "O Sinan recebe só a notificação de agravos de notificação compulsória, não todas as ações da equipe.",
+   "Correta: todas as ações das eCR são registradas no SISAB, sistema de informação da Atenção Básica.",
+   "Não existe sistema oficial com esse nome no SUS."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE multiprofissional Fisioterapia 2024/2025",
+   "n": 16,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Segundo a Norma Regulamentadora de Segurança e Saúde no Trabalho em Estabelecimentos de Saúde (NR 32), os agentes biológicos são classificados em classes de risco.\nAssinale a opção que apresenta um risco classe 2.",
+  "alts": [
+   "Risco individual moderado para o trabalhador, mas com alta probabilidade de disseminação para a coletividade. Pode causar doenças ao ser humano, para as quais existem meios eficazes de profilaxia ou tratamento.",
+   "Baixo risco individual para o trabalhador e para a coletividade, mas com moderada probabilidade de causar doença ao ser humano.",
+   "Risco individual moderado para o trabalhador e com baixa probabilidade de disseminação para a coletividade. Pode causar doenças ao ser humano, para as quais existem meios eficazes de profilaxia ou tratamento.",
+   "Risco individual moderado para o trabalhador e com moderada probabilidade de disseminação para a coletividade. Pode causar doenças ao ser humano, para as quais nem sempre existem meios eficazes de profilaxia ou tratamento.",
+   "Baixo risco individual para o trabalhador e com probabilidade de moderada disseminação para a coletividade. Pode causar doenças ao ser humano, para as quais existem meios eficazes de profilaxia, mas nem sempre de tratamento."
+  ],
+  "gab": 2,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR 32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "NR 32 (Portaria MTE 485/2005), Anexo I, classificação dos agentes biológicos",
+  "coment": "A NR 32 classifica os agentes biológicos em quatro classes. Classe 1: baixo risco individual e coletivo, baixa probabilidade de causar doença. Classe 2: risco individual moderado e baixa probabilidade de disseminação, com profilaxia ou tratamento eficazes. Classe 3: risco individual elevado, com probabilidade de disseminação, nem sempre com profilaxia ou tratamento. Classe 4: risco individual elevado e alta probabilidade de disseminação, sem meios eficazes. A palavra-chave da classe 2 é risco moderado ao trabalhador com baixa disseminação.",
+  "porAlt": [
+   "Alta probabilidade de disseminação não é critério da classe 2, que tem baixa disseminação para a coletividade.",
+   "Mistura critérios: a classe 1 tem baixo risco e baixa probabilidade de causar doença.",
+   "Correta: é a definição literal da classe de risco 2 na NR 32.",
+   "Ausência eventual de profilaxia ou tratamento eficaz caracteriza classe mais alta, não a classe 2.",
+   "A combinação de baixo risco individual com disseminação moderada não corresponde a nenhuma classe da NR 32."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE multiprofissional Fisioterapia 2024/2025",
+   "n": 17,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Segundo a NR 32, assinale a opção que apresenta apenas agentes biológicos.",
+  "alts": [
+   "Microrganismos (geneticamente modificados ou não); tecidos orgânicos; culturas de células; vetores e príons.",
+   "Microrganismos (geneticamente modificados ou não); parasitas; culturas de células; toxinas e príons.",
+   "Microrganismos (geneticamente modificados ou não); tecidos orgânicos; parasitas; vetores e toxinas.",
+   "Microrganismos (geneticamente modificados ou não); culturas de células; vetores; tecidos orgânicos e toxinas.",
+   "Microrganismos (geneticamente modificados ou não); tecidos orgânicos; vetores; toxinas e príons."
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR 32",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "NR 32 (Portaria MTE 485/2005), item 32.2.1",
+  "coment": "O item 32.2.1 da NR 32 considera agentes biológicos os microrganismos, geneticamente modificados ou não, as culturas de células, os parasitas, as toxinas e os príons. A lista é fechada e cobrada ao pé da letra. Tecidos orgânicos e vetores não estão nela: o tecido pode conter agentes biológicos, e o vetor os transmite, mas nenhum dos dois é agente biológico pela definição da norma.",
+  "porAlt": [
+   "Inclui tecidos orgânicos e vetores, que não estão na definição do item 32.2.1.",
+   "Correta: microrganismos, parasitas, culturas de células, toxinas e príons formam a lista da NR 32.",
+   "Inclui tecidos orgânicos e vetores e omite culturas de células e príons.",
+   "Inclui vetores e tecidos orgânicos, ausentes da definição da norma.",
+   "Inclui tecidos orgânicos e vetores, que a NR 32 não define como agentes biológicos."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE multiprofissional Fisioterapia 2024/2025",
+   "n": 18,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Segundo o Programa Nacional de Segurança do Paciente (PNSP), assinale a opção que indica a cor obrigatória da pulseira de identificação do paciente.",
+  "alts": [
+   "Azul.",
+   "Amarela.",
+   "Vermelha.",
+   "Branca.",
+   "Verde."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Protocolo de Identificação do Paciente (Portaria GM/MS 2.095/2013, PNSP)",
+  "coment": "O Protocolo de Identificação do Paciente do PNSP determina o uso de pelo menos dois identificadores, como nome completo e data de nascimento, em pulseira branca padronizada, colocada num membro do paciente e conferida antes de qualquer cuidado. A cor única evita confusão com pulseiras coloridas de alerta (alergia, risco de queda), que algumas instituições usam com significados diferentes. O número do leito nunca serve como identificador.",
+  "porAlt": [
+   "Azul não é a cor definida pelo protocolo para a pulseira de identificação.",
+   "Amarela costuma ser usada como alerta institucional, não como pulseira de identificação.",
+   "Vermelha é usada por muitos serviços para alerta de alergia, não para identificação.",
+   "Correta: o protocolo do PNSP determina pulseira branca padronizada com pelo menos dois identificadores.",
+   "Verde não é a cor padronizada pelo protocolo de identificação."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE multiprofissional Fisioterapia 2024/2025",
+   "n": 19,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Segundo o Art. 3º, inciso IV, da RDC nº 36/2013, assinale a opção que apresenta o conceito de evento adverso.",
+  "alts": [
+   "O comprometimento da estrutura ou da função do corpo e/ou qualquer efeito dele oriundo.",
+   "O efeito que surge por meio de alguma reação distinta daquela que produz o efeito terapêutico.",
+   "O efeito causado por fármaco que leva ou pode levar a um desfecho negativo.",
+   "A ocorrência imprevista que acontece durante a assistência à saúde.",
+   "O evento ou circunstância que resulte em dano à saúde."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, art. 3º",
+  "coment": "A RDC 36/2013 define no art. 3º os termos da segurança do paciente. Dano é o comprometimento da estrutura ou da função do corpo e qualquer efeito dele oriundo. Incidente é o evento ou circunstância que poderia ter resultado, ou resultou, em dano desnecessário. Evento adverso (inciso IV) é o incidente que resulta em dano à saúde. A alternativa correta é a única que exige dano efetivo; os eventos adversos devem ser notificados ao Sistema Nacional de Vigilância Sanitária.",
+  "porAlt": [
+   "É a definição de dano, também do art. 3º da RDC 36/2013, não de evento adverso.",
+   "Descreve efeito colateral de medicamento, conceito de farmacovigilância, não o de evento adverso da RDC.",
+   "Descreve reação adversa a medicamento, que é só um tipo de evento possível.",
+   "Ocorrência imprevista sem dano não é evento adverso; pode ser um incidente sem dano ou quase erro.",
+   "Correta: evento adverso é o incidente que resulta em dano à saúde (art. 3º, IV)."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "ENARE multiprofissional Fisioterapia 2024/2025",
+   "n": 20,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Carlos Chagas, médico sanitarista e pesquisador, ao assumir a direção do recém-criado Departamento Nacional de Saúde Pública (DNSP) em 1920, reorganizou os serviços de saúde.\nSobre as atribuições do DNSP, assinale a afirmativa correta.",
+  "alts": [
+   "Estabelecer uma política de vacinação infantil.",
+   "Criar o Programa Nacional de Imunizações no Brasil.",
+   "Instituir, no âmbito federal, a Fundação Oswaldo Cruz.",
+   "Fornecer e fiscalizar o preparo de soros e vacinas.",
+   "Suprimir o controle sanitário dos portos marítimos e fluviais."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Decreto 3.987/1920 (cria o Departamento Nacional de Saúde Pública)",
+  "coment": "O DNSP, criado pelo Decreto 3.987/1920 e dirigido por Carlos Chagas, centralizou na esfera federal a saúde pública da Primeira República: saneamento urbano e rural, propaganda sanitária, higiene infantil e industrial, fiscalização de alimentos, controle sanitário dos portos e o fornecimento e a fiscalização de soros e vacinas. As outras opções misturam marcos posteriores: o PNI é de 1973 e a Fundação Oswaldo Cruz recebeu essa forma em 1970. Para a prova, guarde a linha do tempo: DNSP (1920), PNI (1973), SUS (1988).",
+  "porAlt": [
+   "Uma política nacional de vacinação infantil organizada só veio com o PNI, nos anos 1970.",
+   "O Programa Nacional de Imunizações foi criado em 1973, meio século depois do DNSP.",
+   "O Instituto Oswaldo Cruz já existia desde 1900; a Fundação Oswaldo Cruz é de 1970.",
+   "Correta: o DNSP tinha entre suas atribuições fornecer e fiscalizar o preparo de soros e vacinas.",
+   "O DNSP fazia o controle sanitário dos portos; ele não o suprimiu."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE multiprofissional Fisioterapia 2025/2026",
+   "n": 1,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Reforma Sanitária Brasileira, gestada desde a década de 1970 e consolidada na década de 1980, desenvolveu-se em meio a disputas entre diferentes atores sociais, políticos e econômicos. Havia a expectativa de que a reorganização da sociedade após o fim do período autoritário poderia abrir caminho para que se erigisse a Saúde Pública sobre novas bases.\nConsiderando os atores envolvidos nesse processo de reforma, cabe destacar o papel desempenhado",
+  "alts": [
+   "pelas grandes instituições hospitalares privadas, que assumiram a liderança política do processo de unificação dos sistemas de saúde existentes.",
+   "por setores empresariais e financeiros, que defenderam o financiamento integral do novo sistema público de saúde pelo Estado.",
+   "por movimentos sociais, que articularam propostas voltadas à universalização do acesso e à democratização das políticas públicas de saúde.",
+   "por corporações médicas tradicionais, que se colocaram à frente da formulação de políticas de descentralização e regionalização da saúde.",
+   "por setores do regime militar, que buscaram garantir a expansão dos serviços públicos de saúde sem romper com a lógica do mercado."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Relatório Final da 8ª Conferência Nacional de Saúde (1986); Constituição Federal de 1988, art. 196",
+  "coment": "A Reforma Sanitária foi conduzida por um movimento de base: sanitaristas, academia (Cebes, Abrasco), movimentos populares e sindicais, parlamentares progressistas. Esse bloco levou à 8ª Conferência Nacional de Saúde, em 1986, a tese da saúde como direito de todos e dever do Estado, com sistema único, universal e participação social, que entrou na Constituição de 1988 (art. 196). Hospitais privados, empresariado, corporações médicas tradicionais e setores do regime militar estavam do lado do modelo previdenciário e privatista que a reforma combatia.",
+  "porAlt": [
+   "Os grandes hospitais privados se beneficiavam do modelo previdenciário contratado e não lideraram a unificação.",
+   "O setor empresarial e financeiro defendia a expansão do mercado privado, não um sistema público financiado integralmente pelo Estado.",
+   "Correta: os movimentos sociais articularam a proposta de acesso universal e de democratização da saúde.",
+   "As corporações médicas tradicionais resistiram às mudanças e não formularam a descentralização.",
+   "O regime militar expandiu a assistência pela compra de serviços privados, que era justamente o modelo criticado."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE multiprofissional Fisioterapia 2025/2026",
+   "n": 2,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre a organização do Sistema Único de Saúde - SUS, o planejamento da saúde, a assistência à saúde e a articulação interfederativa, além de outras providências, considerando o Decreto nº 7.508/2011 que regulamentou a Lei nº 8.080/1990, assinale a afirmativa correta.",
+  "alts": [
+   "As Regiões de Saúde serão referência para as transferências de recursos entre os entes federativos.",
+   "As portas de entrada às ações e aos serviços de saúde nas Redes de Atenção à Saúde serão a atenção primária e a atenção de urgência e emergência.",
+   "Os serviços ambulatoriais especializados serão considerados como Portas de Entrada, em virtude da densidade tecnológica para a Rede de Saúde.",
+   "As Redes de Atenção à Saúde estarão compreendidas no âmbito de uma Região de Saúde, em consonância com as diretrizes pactuadas entre as secretarias municipais.",
+   "O Ministério da Educação e os Hospitais Universitários vinculados a ele terão a competência de dispor sobre a Relação Nacional de Medicamentos Essenciais - RENAME, assim como sobre os Protocolos Clínicos e as Diretrizes Terapêuticas para instituições de saúde."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Decreto 7.508/2011, arts. 6º, 7º, 9º, 10 e 26",
+  "coment": "O art. 6º do Decreto 7.508/2011 diz que as Regiões de Saúde serão referência para as transferências de recursos entre os entes federativos. As distratoras pegam detalhes do mesmo decreto: as Portas de Entrada (art. 9º) são quatro, atenção primária, urgência e emergência, atenção psicossocial e serviços especiais de acesso aberto; os serviços ambulatoriais especializados e hospitalares são referenciados por elas (art. 10); as RAS ficam numa ou em várias Regiões, conforme pactuação nas Comissões Intergestores (art. 7º); e a RENAME e os PCDT cabem ao Ministério da Saúde (art. 26).",
+  "porAlt": [
+   "Correta: é o texto do art. 6º; a Região de Saúde serve de referência para as transferências entre entes.",
+   "A lista está incompleta: o art. 9º inclui também a atenção psicossocial e os serviços especiais de acesso aberto.",
+   "O ambulatório especializado não é Porta de Entrada; é referenciado a partir delas (art. 10).",
+   "As RAS podem abranger uma ou várias Regiões, e a pactuação é nas Comissões Intergestores, não só entre secretarias municipais.",
+   "A RENAME e os PCDT de âmbito nacional são competência do Ministério da Saúde, não do MEC."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE multiprofissional Fisioterapia 2025/2026",
+   "n": 3,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Considere a situação hipotética a seguir.\nUm paciente realizou uma biópsia de cordas vocais em um hospital rural de pequeno porte. Quando o resultado do exame histopatológico mostrou se tratar de um carcinoma epidermoide de laringe, o paciente foi regulado para tratamento com químio e radioterapia no CACON mais próximo.\nCom base no relato, assinale a opção que apresenta o princípio do SUS que melhor embasa o encaminhamento e o tratamento desse paciente para o CACON.",
+  "alts": [
+   "Equidade.",
+   "Universalidade.",
+   "Integralidade.",
+   "Hierarquização.",
+   "Justiça Social."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 7º, II",
+  "coment": "Integralidade, pela Lei 8.080/1990 (art. 7º, II), é o conjunto articulado e contínuo das ações e serviços, preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade. O paciente fez o diagnóstico num hospital rural e foi regulado ao CACON para quimio e radioterapia: o sistema garantiu o cuidado completo, de ponta a ponta. Hierarquização também aparece no cenário, mas a banca a trata como diretriz organizativa, o caminho, e não como o princípio que justifica o direito ao tratamento. Justiça social não é princípio expresso na lei.",
+  "porAlt": [
+   "Equidade trata de dar mais a quem precisa mais; o caso não envolve priorizar um grupo vulnerável.",
+   "Universalidade garante acesso a todos, mas não explica a continuidade do cuidado entre níveis.",
+   "Correta: a integralidade assegura todas as ações necessárias ao caso, em todos os níveis de complexidade.",
+   "Hierarquização é diretriz organizativa da rede; descreve o fluxo, não o princípio que fundamenta o tratamento.",
+   "Justiça social não consta entre os princípios e diretrizes do art. 7º da Lei 8.080/1990."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE multiprofissional Fisioterapia 2025/2026",
+   "n": 4,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Lei nº 8.142/1990, que dispõe, entre outras coisas, sobre as transferências intergovernamentais de recursos financeiros na área da saúde, estabelece condições para que os Municípios recebam recursos do Fundo Nacional de Saúde (FNS). Eles devem, por exemplo, formar Conselhos de Saúde, elaborar planos de saúde e produzir relatórios de gestão.\nAssinale a opção que indica corretamente o que ocorre caso estes requisitos não sejam atendidos.",
+  "alts": [
+   "O Município continua recebendo normalmente os repasses do Fundo Nacional de Saúde, mas com restrição para utilizá-los em despesas de custeio.",
+   "O Município passa a receber os repasses em caráter parcial, com valores reduzidos proporcionalmente ao descumprimento das exigências legais.",
+   "Os recursos deixam de ser transferidos diretamente ao Município e passam a ser administrados pela esfera de governo imediatamente superior.",
+   "O Município permanece recebendo os repasses, mas fica obrigado a devolver anualmente os valores aplicados sem comprovação em relatórios de gestão.",
+   "O Município tem suspensas apenas as transferências estaduais, mas mantém os recursos federais normalmente, sob fiscalização da União."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.142/1990, art. 4º, parágrafo único",
+  "coment": "O art. 4º da Lei 8.142/1990 exige de Municípios, Estados e DF, para receber os repasses do Fundo Nacional de Saúde: fundo de saúde, conselho de saúde paritário, plano de saúde, relatório de gestão, contrapartida no orçamento e comissão para o plano de carreira. O parágrafo único traz a consequência: sem esses requisitos, os recursos passam a ser administrados pelos Estados (no caso do Município) ou pela União (no caso do Estado). Não há repasse parcial nem devolução anual: a gestão dos recursos sobe de esfera.",
+  "porAlt": [
+   "A lei não prevê manter o repasse com restrição de uso; a gestão dos recursos é transferida.",
+   "Não existe repasse proporcional ao descumprimento na Lei 8.142/1990.",
+   "Correta: o parágrafo único do art. 4º manda os recursos serem administrados pela esfera imediatamente superior.",
+   "A lei não cria regime de devolução anual; a sanção é a perda da administração dos recursos.",
+   "A consequência atinge os repasses federais do FNS, que passam ao Estado; não há a separação descrita."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE multiprofissional Fisioterapia 2025/2026",
+   "n": 5,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Rede de Atenção à Saúde (RAS) é uma forma de organização e estruturação dos serviços oferecidos pelo Sistema Único de Saúde (SUS). A RAS promove a integração vertical (entre diferentes níveis) e a integração horizontal (entre serviços similares).\nAssinale a opção que exemplifica um caso de integração vertical.",
+  "alts": [
+   "Laboratórios de análises clínicas de municípios vizinhos organizam uma central única de processamento de exames laboratoriais.",
+   "Três Centros de Atenção Psicossocial de uma região pactuam ações conjuntas para manejo de crises e internação em leitos de saúde mental.",
+   "Dois hospitais gerais firmam um convênio para otimizar o uso de seus centros cirúrgicos e reduzir a fila de usuários à espera de cirurgias eletivas.",
+   "Uma Unidade Básica de Saúde encaminha um paciente para atendimento especializado e posterior tratamento em unidade de alta complexidade.",
+   "Duas Unidades Básicas de Saúde de bairros vizinhos compartilham uma equipe de Saúde Bucal para ampliar o atendimento odontológico da região."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 4.279/2010 (diretrizes da RAS, consolidada na PRC 3/2017)",
+  "coment": "Na RAS, integração vertical une serviços de níveis diferentes da atenção sob uma mesma linha de cuidado (APS, atenção especializada, alta complexidade); integração horizontal une serviços do mesmo nível para ganhar escala e eficiência. A UBS que encaminha o paciente à atenção especializada e depois à alta complexidade percorre os níveis do sistema: é a integração vertical. As outras opções juntam serviços semelhantes (laboratórios, CAPS, hospitais, UBS), o que é integração horizontal, conceito trabalhado por Eugênio Vilaça Mendes e pela Portaria 4.279/2010.",
+  "porAlt": [
+   "Laboratórios que centralizam o processamento são serviços do mesmo tipo: integração horizontal.",
+   "Três CAPS que pactuam ações estão no mesmo nível de atenção: integração horizontal.",
+   "Dois hospitais gerais que compartilham centro cirúrgico são integração horizontal.",
+   "Correta: a UBS articula-se com a atenção especializada e a alta complexidade, níveis diferentes da rede.",
+   "Duas UBS compartilhando equipe de saúde bucal integram serviços do mesmo nível."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE multiprofissional Fisioterapia 2025/2026",
+   "n": 6,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Com relação às Redes de Atenção à Saúde (RAS), avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Um dos atributos das RAS é a adscrição de clientela, ou seja, a definição de uma população em território específico para cada ponto de atenção.\n( ) Um dos objetivos das RAS é garantir a referência e a contrarreferência adequadas entre os serviços, assegurando continuidade do cuidado.\n( ) A Atenção Primária à Saúde ocupa posição periférica na rede, que tem como enfoque o atendimento em serviços especializados ou hospitalares.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "F – V – F.",
+   "F – V – V.",
+   "V – F – F.",
+   "V – V – F.",
+   "F – F – V."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 4.279/2010 (diretrizes da RAS, consolidada na PRC 3/2017)",
+  "coment": "A Portaria 4.279/2010 lista como primeiro atributo da RAS a população e o território definidos, com conhecimento de suas necessidades, base da adscrição de clientela. A rede existe para garantir continuidade do cuidado, com referência e contrarreferência entre os pontos de atenção. O erro está na terceira afirmativa: a Atenção Primária é o centro de comunicação da rede, coordenadora do cuidado e ordenadora do fluxo, e não um ponto periférico. A estrutura é poliárquica, sem hierarquia de importância entre os pontos. Sequência: V, V, F.",
+  "porAlt": [
+   "A primeira afirmativa é verdadeira: território e população definidos são atributo da RAS.",
+   "A terceira é falsa: a APS é o centro de comunicação da rede, não um ponto periférico.",
+   "A segunda também é verdadeira: continuidade do cuidado com referência e contrarreferência é objetivo da RAS.",
+   "Correta: V, V, F; a única falsa é a que coloca a APS na periferia da rede.",
+   "As duas primeiras são verdadeiras e a terceira é falsa, o oposto do que esta opção indica."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE multiprofissional Fisioterapia 2025/2026",
+   "n": 7,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "As Equipes Consultório na Rua (ECR) são o braço do Sistema Único de Saúde (SUS) voltado para o atendimento às populações em situação de rua.\nPara ser atendido por uma ECR, é necessário que o indivíduo",
+  "alts": [
+   "comprove nacionalidade brasileira no momento do atendimento.",
+   "busque ativamente o atendimento junto à unidade de saúde de referência.",
+   "possua encaminhamento formal de unidade de saúde da atenção primária.",
+   "seja identificado como em situação de rua por uma abordagem ativa das equipes.",
+   "esteja previamente cadastro no sistema governamental para o acesso a programas sociais."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 122/2011 (diretrizes das equipes de Consultório na Rua); Portaria GM/MS 2.436/2017 (PNAB)",
+  "coment": "As equipes de Consultório na Rua, previstas na PNAB e reguladas pela Portaria 122/2011, fazem atenção integral de forma itinerante, indo até a população em situação de rua. O acesso nasce da busca ativa e do vínculo construído no território. Por isso não se exige comprovação de nacionalidade, documento, cadastro em programa social nem encaminhamento formal: barreiras assim excluiriam justamente quem a equipe existe para alcançar. A Política Nacional para a População em Situação de Rua (Decreto 7.053/2009) segue a mesma lógica de acesso sem exigência documental.",
+  "porAlt": [
+   "O SUS é universal; exigir nacionalidade contraria a Lei 8.080/1990 e o próprio desenho da equipe.",
+   "A ECR é itinerante e vai até a pessoa; não depende de ela procurar a unidade.",
+   "Não há exigência de encaminhamento formal; o acesso à ECR é direto, pela abordagem no território.",
+   "Correta: a pessoa é alcançada pela abordagem ativa da equipe, que a identifica em situação de rua.",
+   "Exigir cadastro prévio em programa social criaria barreira de acesso incompatível com a política."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE multiprofissional Fisioterapia 2025/2026",
+   "n": 8,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre a Portaria nº 2.803/2013, que redefine e amplia o Processo Transexualizador no Sistema Único de Saúde, analise as diretrizes de assistência ao usuário com demanda para a realização do Processo no SUS.\nI. Garantir a integralidade da atenção a transexuais e travestis, centralizando a meta terapêutica nas cirurgias de transgenitalização e demais intervenções somáticas.\nII. Providenciar que o atendimento seja sempre realizado por equipes interdisciplinares e multiprofissionais.\nIII. Implementar a integração com as ações e os serviços em atendimento ao Processo Transexualizador, tendo como entrada a Atenção Básica em saúde, incluindo-se o acolhimento e a humanização do atendimento livre de qualquer discriminação.\nAs afirmativas são, na ordem apresentada,",
+  "alts": [
+   "F – V – V.",
+   "V – V – V",
+   "F – V – F.",
+   "V – F – V.",
+   "F – F – V."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.803/2013, art. 2º",
+  "coment": "O art. 2º da Portaria 2.803/2013 fixa as diretrizes do Processo Transexualizador. A primeira é a integralidade da atenção a transexuais e travestis, sem restringir nem centralizar a meta terapêutica nas cirurgias de transgenitalização e outras intervenções somáticas. A afirmativa I inverte esse sentido e é falsa. A II reproduz o trabalho em equipe interdisciplinar e multiprofissional, e a III, a integração com a rede tendo a Atenção Básica como porta de entrada, com acolhimento e humanização livres de discriminação. Sequência: F, V, V.",
+  "porAlt": [
+   "Correta: F, V, V; a portaria diz expressamente que a meta terapêutica não se centraliza nas cirurgias.",
+   "A afirmativa I é falsa, porque a norma proíbe centralizar o cuidado nas intervenções cirúrgicas.",
+   "A afirmativa III é verdadeira: a Atenção Básica é a porta de entrada do Processo Transexualizador.",
+   "A afirmativa I é falsa e a II é verdadeira, o contrário do que esta opção marca.",
+   "A afirmativa II é verdadeira: o atendimento é por equipe interdisciplinar e multiprofissional."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE multiprofissional Fisioterapia 2025/2026",
+   "n": 9,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Estratégia Saúde da Família (ESF) é um modelo crucial na organização e execução da Atenção Primária à Saúde (APS) no Brasil. Dentre os atributos que orientam seu funcionamento, destaca-se a longitudinalidade.\nAssinale a opção que exemplifica corretamente esse atributo.",
+  "alts": [
+   "Realização de ações educativas em grupos comunitários para promoção de hábitos saudáveis.",
+   "Integração de diferentes níveis de atenção para garantir acesso a exames e cirurgias de alta complexidade.",
+   "Encaminhamento imediato de casos agudos para o atendimento especializado, visando rápida resolução.",
+   "Planejamento de ações com base em indicadores epidemiológicos locais, priorizando grupos de risco.",
+   "Acompanhamento contínuo de um paciente com hipertensão arterial por uma mesma equipe de saúde ao longo dos anos."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), Anexo, diretrizes da Atenção Básica",
+  "coment": "Longitudinalidade é o vínculo contínuo entre a pessoa e uma mesma equipe ao longo do tempo, com acompanhamento dos efeitos das intervenções e ajuste do cuidado. A PNAB (Portaria 2.436/2017) a coloca entre as diretrizes da Atenção Básica, e Barbara Starfield a define como atributo essencial da APS. O hipertenso seguido pela mesma equipe durante anos é o exemplo típico. As outras opções descrevem promoção da saúde em grupo, coordenação do cuidado entre níveis, encaminhamento de casos agudos e planejamento com base no território.",
+  "porAlt": [
+   "Grupo educativo para hábitos saudáveis é ação de promoção da saúde, não longitudinalidade.",
+   "Integrar níveis para garantir exames e cirurgias descreve coordenação do cuidado e integralidade.",
+   "Encaminhar casos agudos ao especialista é acesso e referência, não acompanhamento contínuo.",
+   "Planejar ações com indicadores locais é territorialização e vigilância em saúde.",
+   "Correta: acompanhar o hipertenso pela mesma equipe ao longo dos anos é o próprio conceito de longitudinalidade."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE multiprofissional Fisioterapia 2025/2026",
+   "n": 10,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Portaria nº 2.436/2017 do Ministério da Saúde estabelece as responsabilidades das esferas do governo no âmbito da Política Nacional de Atenção Básica (PNAB).\nAssinale a opção que exemplifica um caso em que uma dessas responsabilidades é violada.",
+  "alts": [
+   "A União direcionou parte maior de seus repasses financeiros relativos à cobertura de Atenção Básica para municípios com maior densidade populacional.",
+   "Um Estado estabeleceu metas de expansão da cobertura de serviços, priorizando inicialmente regiões metropolitanas e, em etapas posteriores, áreas rurais.",
+   "Equipes de Saúde utilizaram os sistemas oficiais de informação da Atenção Básica para monitorar atendimentos, analisar indicadores e planejar intervenções.",
+   "Um Município ampliou a infraestrutura de suas Unidades Básicas de Saúde (UBS), criando consultórios adicionais e adaptando gradualmente os espaços para atender melhor à população adscrita.",
+   "Conselhos Municipais de Saúde organizaram encontros periódicos com representantes da comunidade para discutir prioridades locais e avaliar o desempenho das equipes."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), Anexo, princípios e responsabilidades das esferas",
+  "coment": "A PNAB (Portaria 2.436/2017) tem a equidade como princípio e manda a União, ao financiar a Atenção Básica, considerar as desigualdades e a vulnerabilidade dos territórios. Destinar mais recursos a municípios só por terem maior densidade populacional premia quem já tem mais estrutura e contraria esse princípio: é a violação pedida. As outras situações são responsabilidades cumpridas: planejar a expansão em etapas, usar os sistemas oficiais de informação, qualificar a estrutura das UBS e fortalecer o controle social. O cofinanciamento federal foi refeito pela Portaria 3.493/2024, que manteve critérios de vulnerabilidade.",
+  "porAlt": [
+   "Correta: priorizar a densidade populacional, e não a necessidade e a vulnerabilidade, fere a equidade que orienta o financiamento.",
+   "Planejar a expansão por etapas é atribuição estadual de planejamento; a banca não a trata como violação.",
+   "Usar os sistemas oficiais de informação para monitorar e planejar é obrigação prevista na PNAB.",
+   "Ampliar e adequar a estrutura das UBS à população adscrita é responsabilidade do Município.",
+   "Conselhos que discutem prioridades e avaliam equipes exercem o controle social previsto na Lei 8.142/1990."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE multiprofissional Fisioterapia 2025/2026",
+   "n": 11,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Política Nacional de Atenção Básica (PNAB) é o resultado da experiência acumulada por um conjunto de atores envolvidos historicamente com o desenvolvimento e a consolidação do Sistema Único de Saúde (SUS), como movimentos sociais, população, trabalhadores e gestores das três esferas de governo. Essa Política, tem na Saúde da Família sua estratégia prioritária para expansão e consolidação da Atenção Básica.\nSobre as equipes que integram a Estratégia Saúde da Família (ESF), no contexto da PNAB, assinale a afirmativa correta.",
+  "alts": [
+   "É obrigatória a participação de um profissional de saúde bucal.",
+   "Em áreas consideradas de risco, é aceitável a cobertura pela equipe de ESF de até 75% do território.",
+   "Não há necessidade das categorias de médicos e enfermeiros serem especialistas em medicina de família e comunidade e saúde da família, respectivamente.",
+   "Para a equipe de ESF, há a obrigatoriedade de carga horária de 10 (dez) horas semanais para todos os profissionais que a compõem.",
+   "É de responsabilidade de cada profissional a distribuição da carga horária, levando em consideração o perfil demográfico e epidemiológico local atendido, garantido 100% de cobertura."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), Anexo, composição da equipe de Saúde da Família",
+  "coment": "Pela PNAB (Portaria 2.436/2017), a eSF tem no mínimo médico, preferencialmente da especialidade Medicina de Família e Comunidade, enfermeiro, preferencialmente especialista em Saúde da Família, auxiliar ou técnico de enfermagem e agente comunitário de saúde. O termo preferencialmente torna a especialização desejável, não obrigatória. Os profissionais de saúde bucal podem compor a equipe, sem obrigatoriedade. A carga horária é de 40 horas semanais para todos, e em áreas de risco e vulnerabilidade social a recomendação é cobertura de 100% da população.",
+  "porAlt": [
+   "A saúde bucal pode fazer parte da eSF, mas a PNAB não a torna obrigatória.",
+   "Em áreas de risco e vulnerabilidade a PNAB recomenda cobertura de 100%, não de 75%.",
+   "Correta: a especialização em MFC e em Saúde da Família é preferencial, não exigida.",
+   "A carga horária da eSF é de 40 horas semanais para todos os profissionais.",
+   "A carga horária não fica a critério de cada profissional; a PNAB fixa 40 horas semanais."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE multiprofissional Fisioterapia 2025/2026",
+   "n": 12,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Política Nacional de Educação Permanente em Saúde (PNEPS) busca fortalecer a integração entre os processos formativos dos profissionais de saúde e os diversos aspectos que constituem sua atuação no sistema de saúde.\nAssinale a opção que exemplifica uma ação compatível com os objetivos da PNEPS.",
+  "alts": [
+   "A equipe gestora de um hospital promove capacitações técnicas com foco em atualização de procedimentos clínicos previamente definidos em planos anuais.",
+   "Profissionais de uma unidade básica de saúde organizam encontros periódicos para elaborar estratégias que qualifiquem o cuidado a partir da realidade local.",
+   "Uma instituição oferece cursos presenciais com foco em habilidades técnicas voltadas ao atendimento em unidades de média complexidade.",
+   "O departamento de ensino de uma Secretaria de Saúde realiza oficinas sobre gestão de processos administrativos e uso de ferramentas digitais no serviço público.",
+   "Uma empresa contratada ministra treinamentos sobre protocolos assistenciais com base em diretrizes nacionais de boas práticas clínicas."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 198/2004 e Portaria GM/MS 1.996/2007 (Política Nacional de Educação Permanente em Saúde)",
+  "coment": "Educação permanente, na PNEPS (Portarias 198/2004 e 1.996/2007), é aprendizagem no trabalho: parte dos problemas reais do serviço, é feita pelos próprios trabalhadores e transforma as práticas. Profissionais da UBS que se reúnem para criar estratégias a partir da realidade local fazem exatamente isso. As demais opções descrevem educação continuada: cursos e treinamentos técnicos definidos de fora, em cronograma prévio, centrados na atualização individual. A distinção entre educação permanente e educação continuada é cobrada com frequência.",
+  "porAlt": [
+   "Capacitação técnica em plano anual, definida pela gestão, é educação continuada.",
+   "Correta: encontros da equipe para qualificar o cuidado a partir da realidade local são educação permanente.",
+   "Curso presencial de habilidades técnicas é modelo de educação continuada, não problematizador.",
+   "Oficina administrativa definida pelo departamento de ensino não parte dos problemas do processo de trabalho.",
+   "Treinamento ministrado por empresa externa em protocolos é transmissão de conteúdo, típico da educação continuada."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE multiprofissional Fisioterapia 2025/2026",
+   "n": 13,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Política Nacional de Humanização (PNH) se baseia em três princípios orientadores. A esse respeito, considere a situação a seguir.\nEm um hospital público, os gestores e profissionais percebem que os longos tempos de espera no pronto-socorro comprometem a qualidade do atendimento. Para resolver o problema, reorganizam a escala de trabalho da equipe e implantam acolhimento com classificação de risco.\nAssinale a opção que indica o princípio exemplificado pela iniciativa dos gestores.",
+  "alts": [
+   "Protagonismo.",
+   "Transversalidade.",
+   "Corresponsabilidade.",
+   "Autonomia dos sujeitos e coletivos.",
+   "Indissociabilidade entre ação e gestão."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Política Nacional de Humanização, HumanizaSUS (Ministério da Saúde, 2013)",
+  "coment": "A PNH tem três princípios: transversalidade, indissociabilidade entre atenção e gestão, e protagonismo, corresponsabilidade e autonomia dos sujeitos e coletivos. Indissociabilidade significa que decisões de gestão interferem diretamente na atenção e vice-versa. No caso, gestores e profissionais mudam a organização do trabalho (escala) e implantam um dispositivo de cuidado (acolhimento com classificação de risco) para resolver um problema assistencial: gestão e cuidado andam juntos. As opções A, C e D recortam pedaços do terceiro princípio.",
+  "porAlt": [
+   "Protagonismo é parte do terceiro princípio e envolve o papel ativo de usuários e trabalhadores, não o caso.",
+   "Transversalidade é ampliar a comunicação entre grupos e saberes, não reorganizar gestão e atenção juntas.",
+   "Corresponsabilidade é fragmento do terceiro princípio e não traduz a integração entre gestão e cuidado.",
+   "Autonomia dos sujeitos e coletivos não descreve uma mudança de gestão para resolver um problema assistencial.",
+   "Correta: reorganizar a escala e implantar o acolhimento une decisão de gestão e mudança na atenção."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE multiprofissional Fisioterapia 2025/2026",
+   "n": 14,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Segundo a Portaria nº 1.378/2013, do GM/MS, a Agência Nacional de Vigilância Sanitária deve",
+  "alts": [
+   "coordenar o Programa Nacional de Imunizações, incluindo a definição das vacinas componentes do calendário nacional.",
+   "regular, controlar e fiscalizar os procedimentos, os produtos, as substâncias e os serviços de saúde e de interesse para a saúde.",
+   "coordenar a preparação e a resposta das ações de vigilância em saúde nas emergências de Saúde Pública de importância nacional e internacional.",
+   "prover os insumos de prevenção, o diagnóstico e o tratamento de doenças sexualmente transmissíveis, relacionados pelos programas das comissões tripartites.",
+   "prover os insumos destinados ao controle de doenças transmitidas por vetores, compreendendo inseticidas, larvicidas e moluscocidas - indicados pelos programas."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária e ambiental",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 1.378/2013 (responsabilidades na Vigilância em Saúde, consolidada na PRC 4/2017)",
+  "coment": "A Portaria 1.378/2013 distribui as responsabilidades da vigilância em saúde entre as esferas. À ANVISA cabe regular, controlar e fiscalizar procedimentos, produtos, substâncias e serviços de saúde e de interesse para a saúde, coordenando o Sistema Nacional de Vigilância Sanitária. As outras atribuições são da Secretaria de Vigilância em Saúde do Ministério da Saúde: coordenar o PNI e o calendário, coordenar a resposta às emergências de saúde pública e prover insumos estratégicos, como os de IST e os de controle de vetores.",
+  "porAlt": [
+   "Coordenar o PNI e definir o calendário vacinal é atribuição do Ministério da Saúde, pela sua secretaria de vigilância.",
+   "Correta: regular, controlar e fiscalizar produtos e serviços de interesse para a saúde é a missão da ANVISA.",
+   "A coordenação da resposta às emergências de saúde pública cabe ao Ministério da Saúde.",
+   "Prover insumos de prevenção, diagnóstico e tratamento das IST é responsabilidade do Ministério da Saúde.",
+   "Inseticidas, larvicidas e moluscocidas são insumos estratégicos providos pelo Ministério da Saúde."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE multiprofissional Fisioterapia 2025/2026",
+   "n": 15,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Com base nos tipos de ação previstos na Política Nacional de Vigilância em Saúde (PNVS), assinale a opção que apresenta uma situação que não se enquadra no escopo dessa política.",
+  "alts": [
+   "Inspeção sanitária em estabelecimentos que produzem alimentos e medicamentos.",
+   "Realização de campanhas de vacinação para prevenir surtos de doenças transmissíveis.",
+   "Acompanhamento de condições de saúde relacionadas ao ambiente de trabalho.",
+   "Monitoramento da qualidade da água e do ar em áreas urbanas e rurais.",
+   "Vistoria de equipamentos hospitalares com foco em controle de custos."
+  ],
+  "gab": 4,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária e ambiental",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução CNS 588/2018 (Política Nacional de Vigilância em Saúde)",
+  "coment": "A PNVS (Resolução CNS 588/2018) abrange vigilância epidemiológica, sanitária, ambiental e em saúde do trabalhador, sempre voltadas a riscos e agravos à saúde da população. Inspeção de fábricas de alimentos e medicamentos é vigilância sanitária; vacinação para conter surtos é ação de vigilância epidemiológica e de imunização; monitorar o ambiente de trabalho é vigilância em saúde do trabalhador; qualidade da água e do ar é vigilância ambiental. Vistoriar equipamentos com foco em custos é gestão administrativa e financeira, fora do escopo da política.",
+  "porAlt": [
+   "Inspeção sanitária de quem produz alimentos e medicamentos é ação clássica de vigilância sanitária.",
+   "Vacinação para evitar surtos integra a vigilância epidemiológica e o controle de doenças.",
+   "Acompanhar as condições de saúde ligadas ao trabalho é vigilância em saúde do trabalhador.",
+   "Monitorar a qualidade da água e do ar é vigilância em saúde ambiental.",
+   "Correta: vistoria com foco em controle de custos é gestão financeira, não vigilância de riscos à saúde."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE multiprofissional Fisioterapia 2025/2026",
+   "n": 16,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Relacione os princípios clássicos da bioética listados a seguir ao seu respectivo exemplo de violação.\n1. Autonomia\n2. Justiça\n3. Não-maleficência\n4. Beneficência\n( ) Um paciente é submetido a um procedimento cirúrgico invasivo sem ter sido previamente informado sobre os riscos, as alternativas e as possíveis consequências.\n( ) Uma equipe médica prescreve um medicamento cuja toxicidade já era conhecida e superior ao benefício terapêutico esperado para aquele caso.\n( ) Em um hospital público, pacientes com convênios privados são sistematicamente priorizados em detrimento daqueles atendidos via SUS.\n( ) Um médico decide manter um tratamento agressivo e doloroso a um paciente terminal, mesmo quando já se sabe que não há nenhum possível benefício.\nAssinale a opção que indica a relação correta, segundo a ordem apresentada.",
+  "alts": [
+   "1, 3, 2 e 4.",
+   "1, 4, 2 e 3.",
+   "4, 2, 3 e 1.",
+   "2, 4, 3 e 1.",
+   "4, 3, 2 e 1."
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Beauchamp e Childress, Principles of Biomedical Ethics, 8ª ed. (Oxford, 2019)",
+  "coment": "Procedimento invasivo sem informar riscos e alternativas viola a autonomia, por falta de consentimento esclarecido. Privilegiar conveniados num hospital público fere a justiça distributiva. Nos dois casos restantes a banca seguiu Beauchamp e Childress: a beneficência inclui pesar benefícios contra riscos, e prescrever um fármaco cuja toxicidade supera o benefício esperado falha nesse balanço; manter tratamento agressivo e doloroso sem nenhum benefício possível impõe dano ao paciente terminal (obstinação terapêutica) e viola a não maleficência. Ordem: 1, 4, 2 e 3. A inversão desses dois itens também tem defesa, mas o gabarito definitivo ficou assim.",
+  "porAlt": [
+   "Troca beneficência e não maleficência: a banca ligou a toxicidade maior que o benefício à beneficência.",
+   "Correta: autonomia, beneficência, justiça e não maleficência, na ordem dos exemplos.",
+   "O primeiro exemplo, falta de consentimento informado, é violação da autonomia, não da beneficência.",
+   "O primeiro exemplo é violação da autonomia, não da justiça; a justiça corresponde ao terceiro item.",
+   "O primeiro item trata de consentimento, que é autonomia; esta opção começa pela beneficência."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE multiprofissional Fisioterapia 2025/2026",
+   "n": 17,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "No contexto do Programa Nacional de Segurança do Paciente (PNSP), assinale a opção que indica uma ação obrigatória para os serviços de saúde.",
+  "alts": [
+   "Garantir visitas irrestritas em unidades de terapia intensiva.",
+   "Priorizar intervenções farmacológicas off-label, sem notificação.",
+   "Resguardar os processos decisórios da participação de pacientes e acompanhantes.",
+   "Implementar Núcleos de Segurança do Paciente nos estabelecimentos de saúde.",
+   "Usar terminologias médicas em linguagem técnica nos prontuários dos pacientes."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, art. 4º; Portaria GM/MS 529/2013 (PNSP)",
+  "coment": "A Portaria 529/2013 instituiu o Programa Nacional de Segurança do Paciente, e a RDC ANVISA 36/2013 tornou obrigatória a constituição do Núcleo de Segurança do Paciente pela direção de cada serviço de saúde (art. 4º). O NSP elabora o Plano de Segurança do Paciente, implanta os protocolos e notifica os eventos adversos ao Sistema Nacional de Vigilância Sanitária. O programa estimula a participação de pacientes e familiares, exige notificação e não traz regra sobre visita irrestrita nem sobre linguagem técnica no prontuário.",
+  "porAlt": [
+   "A visita irrestrita em UTI não é obrigação do PNSP nem da RDC 36/2013.",
+   "Uso off-label sem notificação contraria a lógica do programa, que exige notificar incidentes.",
+   "O PNSP estimula a participação do paciente e da família nas decisões, não as afasta.",
+   "Correta: a RDC 36/2013 obriga todo serviço de saúde a constituir o Núcleo de Segurança do Paciente.",
+   "Registro claro e compreensível favorece a segurança; jargão técnico não é exigência do programa."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE multiprofissional Fisioterapia 2025/2026",
+   "n": 18,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Norma Regulamentadora nº 32 (NR-32) estabeleceu diretrizes de segurança e saúde no trabalho no âmbito dos serviços de saúde. Um elemento fundamental a ser levado em conta é a exposição a riscos químicos e biológicos.\nAssinale a opção que indica um risco biológico.",
+  "alts": [
+   "Inalação de gases anestésicos em centro cirúrgico.",
+   "Exposição a vapores de formaldeído em sala de anatomia.",
+   "Inalação de óxido nitroso em procedimentos odontológicos.",
+   "Contato com sangue contaminado durante a coleta de amostras laboratoriais.",
+   "Manipulação de glutaraldeído para desinfecção de equipamentos hospitalares."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR 32",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "NR 32 (Portaria MTE 485/2005), itens 32.2 e 32.3",
+  "coment": "A NR 32 separa os riscos biológicos (item 32.2), definidos pela probabilidade de exposição a agentes biológicos como microrganismos, parasitas e material contaminado, dos riscos químicos (item 32.3). Contato com sangue contaminado na coleta de amostras é exposição a agente biológico, com risco de transmissão de HIV, hepatite B e hepatite C. Gases anestésicos, óxido nitroso, formaldeído e glutaraldeído são substâncias químicas, tratadas no item de riscos químicos, com exigências de ventilação, EPI e inventário de produtos.",
+  "porAlt": [
+   "Gases anestésicos inalados são risco químico, tratado no item 32.3 da NR 32.",
+   "O formaldeído é agente químico, com potencial irritante e carcinogênico.",
+   "O óxido nitroso é gás anestésico, portanto risco químico.",
+   "Correta: sangue contaminado é material biológico e caracteriza risco biológico.",
+   "O glutaraldeído é desinfetante químico e entra nos riscos químicos."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE multiprofissional Fisioterapia 2025/2026",
+   "n": 19,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Leia o texto a seguir.\nDurante o acompanhamento de um idoso com múltiplas condições crônicas, o médico ajustou a medicação, a nutricionista elaborou uma nova dieta e o fisioterapeuta prescreveu séries de exercícios. O paciente saiu da unidade de saúde sem compreender como as atividades prescritas tratam seus sintomas.\nO trabalho em equipes multidisciplinares coloca uma série de desafios, de modo que diversos fatores podem prejudicar o seu bom andamento.\nNa situação exposta, trata-se de um problema de",
+  "alts": [
+   "fragmentação do cuidado multiprofissional.",
+   "comunicação deficiente entre os profissionais.",
+   "sobrecarga de trabalho dos profissionais de saúde.",
+   "hierarquização entre as profissões da equipe de saúde.",
+   "precarização dos vínculos de trabalho na atenção primária."
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Trabalho em equipe multiprofissional",
+  "cenario": "aps",
+  "comp": "cond",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), coordenação do cuidado e trabalho em equipe multiprofissional",
+  "coment": "Cada profissional atuou isolado: o médico ajustou remédios, a nutricionista mudou a dieta, o fisioterapeuta indicou exercícios, e ninguém integrou as condutas num plano único que o idoso entendesse. É a fragmentação do cuidado multiprofissional, oposta à coordenação do cuidado e ao projeto terapêutico singular que a PNAB propõe. A falha de comunicação existe, mas é consequência dessa fragmentação; o enunciado não aponta conflito entre profissionais, sobrecarga, hierarquia ou vínculo precário. Para pacientes com multimorbidade, o plano deve ser construído em conjunto e explicado à pessoa.",
+  "porAlt": [
+   "Correta: as condutas foram feitas em paralelo, sem integração num plano compreensível, o que é fragmentação.",
+   "A comunicação falha, mas o problema central descrito é a ausência de cuidado integrado.",
+   "Nada no texto sugere excesso de demanda ou de jornada dos profissionais.",
+   "O enunciado não mostra disputa de poder ou subordinação entre as profissões.",
+   "Vínculo de trabalho precário não aparece no caso nem explica a falha descrita."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "ENARE multiprofissional Fisioterapia 2025/2026",
+   "n": 20,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Para assegurar a integralidade dos cuidados, o Sistema Único de Saúde (SUS) organiza os seus serviços em regiões de saúde, articulando o acesso dos usuários entre diferentes municípios.\nSobre o acesso às ações e aos serviços de saúde nesse modelo, assinale a afirmativa correta.",
+  "alts": [
+   "Organiza-se pela livre procura e pela escolha do serviço pelo usuário.",
+   "Distribui-se em redes próprias e independentes para cada ente federativo.",
+   "Condiciona-se à capacidade instalada e à oferta do município de residência.",
+   "Concentra-se nos serviços municipais e abrange todos os níveis de atenção.",
+   "Inicia-se pelas portas de entrada e segue o percurso assistencial indicado."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 7.508/2011, arts. 8º a 11",
+  "coment": "O Decreto 7.508/2011, que regulamenta a Lei 8.080/1990, diz no art. 8º que o acesso universal, igualitário e ordenado às ações e aos serviços de saúde se inicia pelas Portas de Entrada do SUS e se completa na rede regionalizada e hierarquizada. As portas de entrada (art. 9º) são a atenção primária, a urgência e emergência, a atenção psicossocial e os serviços especiais de acesso aberto. Os serviços hospitalares e ambulatoriais especializados são referenciados a partir delas (art. 10), e a região de saúde articula municípios para garantir esse percurso.",
+  "porAlt": [
+   "O acesso não é por livre procura: é ordenado pela atenção primária e pelas portas de entrada, com referência regulada.",
+   "A região de saúde existe justamente para integrar os entes em rede regionalizada, e não para criar redes isoladas por ente.",
+   "A região de saúde serve para superar o limite da oferta do município de residência, e não para condicionar o acesso a ela.",
+   "Nenhum município isolado garante todos os níveis de atenção; por isso o SUS se organiza em regiões com pactuação entre entes.",
+   "Correta: o art. 8º do Decreto 7.508/2011 diz que o acesso se inicia pelas portas de entrada e se completa na rede regionalizada."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2026,
+   "prova": "ENARE multiprofissional Fisioterapia 2026/2027",
+   "n": 1,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Leia o trecho a seguir.\nEm um hospital, enquanto os usuários relatam dificuldades para obter informações sobre seu cuidado, os trabalhadores, por sua vez, apontam que os fluxos de atendimento são definidos sem considerar os problemas enfrentados pelas equipes.\nDe acordo com a Política Nacional de Humanização, assinale a opção que indica a medida mais coerente da direção do hospital para enfrentar essa situação.",
+  "alts": [
+   "Criar espaços coletivos para pactuar mudanças no cuidado e no trabalho.",
+   "Adotar protocolos para padronizar as informações fornecidas aos usuários.",
+   "Ampliar a ouvidoria para registrar reclamações e produzir relatórios técnicos.",
+   "Reorganizar os fluxos de atendimento para reduzir a espera e aumentar a eficácia.",
+   "Capacitar as equipes para aperfeiçoar a comunicação com usuários e familiares."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Política Nacional de Humanização (HumanizaSUS), Ministério da Saúde, 2003; cartilha PNH de 2013",
+  "coment": "O problema descrito envolve os dois lados do cuidado: usuários sem informação e trabalhadores excluídos das decisões sobre os fluxos. A PNH responde a isso com a cogestão, diretriz que inclui novos sujeitos na análise e na decisão, e com o princípio da indissociabilidade entre atenção e gestão. O dispositivo adequado são espaços coletivos (rodas, colegiados gestores, grupos de trabalho de humanização) em que gestores, trabalhadores e usuários pactuam juntos as mudanças. Protocolos, ouvidoria, reorganização de cima para baixo e capacitação isolada mantêm a decisão concentrada na direção.",
+  "porAlt": [
+   "Correta: a cogestão da PNH cria espaços coletivos em que trabalhadores e usuários participam das decisões sobre cuidado e trabalho.",
+   "Padronizar informações por protocolo trata só a queixa dos usuários e mantém os trabalhadores fora da definição dos fluxos.",
+   "A ouvidoria registra queixas, mas não inclui trabalhadores e usuários na decisão; é escuta sem cogestão.",
+   "Reorganizar fluxos pela direção repete o problema relatado, que é definir fluxos sem ouvir as equipes.",
+   "Capacitar a comunicação ajuda o usuário, porém não altera o modo verticalizado de decidir os fluxos de trabalho."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2026,
+   "prova": "ENARE multiprofissional Fisioterapia 2026/2027",
+   "n": 2,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Entre os atributos essenciais da Atenção Primária à Saúde, a longitudinalidade qualifica a relação estabelecida entre a equipe e a população atendida.\nEsse atributo se caracteriza pela",
+  "alts": [
+   "manutenção do vínculo entre equipe e usuários, mesmo sem demanda imediata.",
+   "articulação do cuidado entre serviços, com circulação das informações clínicas.",
+   "utilização da unidade como referência inicial para novas necessidades de saúde.",
+   "oferta de ações compatíveis com as diferentes necessidades da população atendida.",
+   "consideração das condições familiares e comunitárias no planejamento das ações."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Starfield B., Atenção Primária (UNESCO/Ministério da Saúde, 2002); Portaria GM/MS 2.436/2017 (PNAB)",
+  "coment": "Starfield define quatro atributos essenciais da APS: primeiro contato, longitudinalidade, integralidade e coordenação; orientação familiar e comunitária e competência cultural são derivados. Longitudinalidade é a relação pessoal de longa duração entre a equipe e os usuários, uma fonte regular de cuidado ao longo do tempo, independentemente da presença de doença ou de demanda imediata. A PNAB (Portaria 2.436/2017) a lista como diretriz: continuidade da relação de cuidado, com construção de vínculo e responsabilização entre profissionais e usuários.",
+  "porAlt": [
+   "Correta: longitudinalidade é o vínculo duradouro entre equipe e usuários, que persiste mesmo sem demanda imediata.",
+   "Articular serviços e fazer circular a informação clínica descreve a coordenação do cuidado, outro atributo essencial.",
+   "Ser a referência inicial para cada nova necessidade descreve o atributo de primeiro contato (porta de entrada).",
+   "Ofertar ações para todas as necessidades da população descreve a integralidade, e não a longitudinalidade.",
+   "Considerar o contexto familiar e comunitário é a orientação familiar e comunitária, atributo derivado da APS."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2026,
+   "prova": "ENARE multiprofissional Fisioterapia 2026/2027",
+   "n": 3,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre a Política Nacional de Vigilância em Saúde, que orienta a integração das ações no âmbito do Sistema Único de Saúde (SUS), analise as afirmativas a seguir.\nI. Articula as vigilâncias epidemiológica, sanitária, ambiental e em saúde do trabalhador.\nII. Prioriza a identificação de doenças e agravos como eixo central das ações de vigilância.\nIII. Integra as ações de vigilância às redes de atenção e às necessidades dos territórios.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução CNS 588/2018 (Política Nacional de Vigilância em Saúde)",
+  "coment": "A Resolução CNS 588/2018 define a vigilância em saúde como processo contínuo e sistemático de coleta, análise e disseminação de dados sobre eventos relacionados à saúde, e articula as vigilâncias epidemiológica, sanitária, em saúde ambiental e em saúde do trabalhador (item I correto). Ela também determina a integração da vigilância à Rede de Atenção à Saúde e às necessidades do território (item III correto). O item II erra porque a PNVS não põe a doença como eixo central: seu foco são os determinantes, riscos, vulnerabilidades e a promoção da saúde, além dos agravos.",
+  "porAlt": [
+   "Incompleta: o item III também está correto, pois a PNVS integra a vigilância à RAS e ao território.",
+   "O item II está errado: a PNVS se orienta por riscos, determinantes e vulnerabilidades, não só pela identificação de doenças.",
+   "Correta: I e III reproduzem a PNVS, que integra as quatro vigilâncias e as vincula à RAS e ao território.",
+   "O item I está correto e foi excluído, e o item II, que reduz a vigilância à doença, está errado.",
+   "O item II está errado, porque a política não tem a doença como eixo central das ações."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2026,
+   "prova": "ENARE multiprofissional Fisioterapia 2026/2027",
+   "n": 4,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Realizada no contexto da Reforma Sanitária, a 8ª Conferência Nacional de Saúde, ocorrida em 1986, sistematizou propostas que orientaram os debates constituintes relativos às políticas de saúde.\nEntre essas propostas, assinale a que serviu de base para o texto constitucional de 1988.",
+  "alts": [
+   "A unificação da previdência social e a ampliação da cobertura aos trabalhadores rurais.",
+   "O reconhecimento da saúde como direito e a criação de um sistema único e universal.",
+   "A integração dos serviços de saúde por convênios entre órgãos federais e estaduais.",
+   "A manutenção do acesso à assistência médica condicionado à vinculação previdenciária.",
+   "O fortalecimento da assistência médica individual e a ampliação da contratação de serviços privados."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Relatório Final da 8ª Conferência Nacional de Saúde (1986); Constituição Federal de 1988, arts. 196 a 198",
+  "coment": "A 8ª Conferência Nacional de Saúde (1986) consagrou três eixos: saúde como direito de todos e dever do Estado, reformulação do sistema nacional de saúde e financiamento setorial. Dela saiu a proposta de um sistema único, público e universal, separado da previdência, que a Constituição de 1988 acolheu no art. 196 (saúde direito de todos e dever do Estado) e no art. 198 (rede regionalizada e hierarquizada que constitui um sistema único). As demais alternativas descrevem o modelo previdenciário que a Reforma Sanitária queria superar.",
+  "porAlt": [
+   "A unificação da previdência (INPS, 1966) e a cobertura rural (Funrural) são anteriores e pertencem ao modelo previdenciário.",
+   "Correta: saúde como direito e sistema único e universal foram as teses da 8ª CNS levadas aos arts. 196 e 198 da CF/1988.",
+   "Convênios entre órgãos federais e estaduais lembram as Ações Integradas de Saúde e o SUDS, etapas de transição, não a base do texto constitucional.",
+   "Vincular a assistência à contribuição previdenciária é exatamente o que a 8ª CNS propôs extinguir.",
+   "Fortalecer a assistência médica individual e comprar serviços privados era o modelo médico privatista criticado pela Reforma Sanitária."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2026,
+   "prova": "ENARE multiprofissional Fisioterapia 2026/2027",
+   "n": 5,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Política Nacional de Educação Permanente em Saúde propõe que a formação dos trabalhadores esteja vinculada às situações vivenciadas nos serviços.\nNessa perspectiva, a educação permanente caracteriza-se por",
+  "alts": [
+   "problematizar situações do trabalho para produzir mudanças nas práticas de saúde.",
+   "promover qualificações formais para adequar os profissionais às funções institucionais.",
+   "desenvolver cursos periódicos para ampliar os conhecimentos técnicos dos trabalhadores.",
+   "oferecer treinamentos específicos para corrigir dificuldades identificadas pela gestão.",
+   "organizar conteúdos previamente definidos para atualizar os procedimentos profissionais."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 198/2004 e Portaria GM/MS 1.996/2007 (Política Nacional de Educação Permanente em Saúde)",
+  "coment": "A Política Nacional de Educação Permanente em Saúde (Portaria 198/2004, com diretrizes revistas pela Portaria 1.996/2007) define educação permanente como aprendizagem no trabalho, em que aprender e ensinar se incorporam ao cotidiano dos serviços. Seu método é a problematização: os problemas reais enfrentados pelas equipes são o ponto de partida para transformar as práticas profissionais e a organização do trabalho. Cursos periódicos, treinamentos pontuais e conteúdos definidos de antemão caracterizam a educação continuada, de lógica transmissiva.",
+  "porAlt": [
+   "Correta: a educação permanente problematiza o cotidiano do trabalho para transformar as práticas de saúde.",
+   "Qualificação formal para adequar o profissional ao cargo é lógica de educação continuada, não de educação permanente.",
+   "Cursos periódicos de atualização técnica são o modelo de educação continuada, centrado na transmissão de conteúdo.",
+   "Treinamento para corrigir falhas apontadas pela gestão é vertical e pontual, contrário à construção coletiva da PNEPS.",
+   "Conteúdos previamente definidos invertem a lógica da PNEPS, que parte dos problemas vividos pelas equipes."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2026,
+   "prova": "ENARE multiprofissional Fisioterapia 2026/2027",
+   "n": 6,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Política Nacional de Saúde Integral da População Negra reconhece que o racismo pode operar tanto nas relações interpessoais quanto no funcionamento dos serviços.\nConsiderando especificamente sua dimensão institucional, o racismo caracteriza-se pela",
+  "alts": [
+   "atribuição das desigualdades de saúde às diferenças culturais entre os grupos atendidos.",
+   "diferenciação das condutas dos agentes segundo características raciais presumidas dos usuários.",
+   "reprodução de desvantagens por normas, rotinas e práticas que limitam o acesso e o cuidado.",
+   "organização de serviços específicos como resposta às necessidades da população negra.",
+   "concentração do problema em atitudes discriminatórias ocorridas durante os atendimentos."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 992/2009 (Política Nacional de Saúde Integral da População Negra)",
+  "coment": "A PNSIPN (Portaria GM/MS 992/2009) reconhece o racismo como determinante social das condições de saúde. Na dimensão institucional, o racismo não depende da intenção de uma pessoa: ele se expressa no funcionamento dos serviços, por normas, rotinas, práticas e comportamentos que colocam a população negra em desvantagem no acesso e na qualidade do cuidado. Por isso a política prevê ações de gestão, monitoramento por raça/cor e educação permanente. As alternativas que falam de atitudes de agentes durante o atendimento descrevem a dimensão interpessoal.",
+  "porAlt": [
+   "Atribuir desigualdades a diferenças culturais é uma explicação que oculta o racismo, e não a definição de racismo institucional.",
+   "Condutas diferentes de agentes conforme a raça presumida descrevem a dimensão interpessoal do racismo.",
+   "Correta: o racismo institucional opera por normas, rotinas e práticas dos serviços que reproduzem desvantagens no acesso e no cuidado.",
+   "Serviços e ações específicas para a população negra são resposta de equidade prevista na política, e não racismo.",
+   "Concentrar o problema em atitudes individuais durante o atendimento reduz o racismo à dimensão interpessoal."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2026,
+   "prova": "ENARE multiprofissional Fisioterapia 2026/2027",
+   "n": 7,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Durante uma coleta de sangue, a profissional percebe que o recipiente para descarte de perfurocortantes está longe do local do procedimento. Após retirar a agulha, ela avalia como realizar o descarte de maneira segura.\nNesse contexto, de acordo com a Norma Regulamentadora nº 32, assinale a opção que apresenta a conduta adequada.",
+  "alts": [
+   "Dobrar a agulha com auxílio de instrumento e acondicioná-la junto aos resíduos infectantes.",
+   "Reencapar a agulha com uma das mãos e transportá-la até o recipiente de descarte disponível.",
+   "Manter o conjunto sobre a bandeja e descartá-lo após a conclusão dos demais atendimentos.",
+   "Solicitar a aproximação do recipiente e descartar o conjunto, sem reencapar ou desconectar a agulha.",
+   "Desconectar a agulha da seringa manualmente e descartar cada material no recipiente correspondente."
+  ],
+  "gab": 3,
+  "tema": "seguranca",
+  "sub": "Biossegurança e NR 32",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "NR 32 (Portaria MTE 485/2005), item 32.2.4.15; Portaria MTE 1.748/2011",
+  "coment": "A NR 32 veda o reencape e a desconexão manual de agulhas (item 32.2.4.15) e exige que o descarte de perfurocortantes seja feito pelo próprio usuário, imediatamente após o uso, em recipiente rígido e resistente à punção, posicionado próximo ao local do procedimento. Se o coletor está longe, a conduta segura é aproximá-lo e descartar seringa e agulha como um único conjunto, sem manipular a agulha. Dobrar, reencapar, deixar sobre a bandeja ou separar as partes aumentam o risco de acidente com material biológico.",
+  "porAlt": [
+   "Dobrar a agulha é manipulação proibida, e perfurocortante não vai junto com resíduo infectante comum, e sim em coletor rígido.",
+   "Reencapar é vedado pela NR 32 mesmo com uma das mãos, e transportar a agulha exposta aumenta o risco de acidente.",
+   "Deixar o perfurocortante na bandeja adia o descarte, que deve ser imediato, e expõe outros trabalhadores.",
+   "Correta: aproxima-se o coletor e descarta-se o conjunto inteiro, sem reencapar nem desconectar a agulha, como manda a NR 32.",
+   "A desconexão manual da agulha é expressamente vedada pelo item 32.2.4.15 da NR 32."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2026,
+   "prova": "ENARE multiprofissional Fisioterapia 2026/2027",
+   "n": 8,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A cultura de segurança, no Programa Nacional de Segurança do Paciente, orienta a forma como as instituições lidam com os incidentes na assistência.\nCom relação ao tema, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) A notificação de incidentes contribui para o aprendizado institucional e a melhoria dos processos.\n( ) A culpabilização individual do profissional contribui para a prevenção de novos incidentes.\n( ) A análise dos incidentes contribui para identificar fatores organizacionais e oportunidades de melhoria.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – V – F.",
+   "F – V – V.",
+   "V – F – F.",
+   "F – V – F.",
+   "V – F – V."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 529/2013 (PNSP) e RDC ANVISA 36/2013",
+  "coment": "A Portaria 529/2013 e a RDC 36/2013 definem cultura de segurança como aquela em que todos assumem responsabilidade pela própria segurança e pela do paciente, que encoraja e recompensa a identificação, a notificação e a resolução de problemas, e que promove o aprendizado organizacional a partir dos incidentes. Daí: notificar contribui para o aprendizado (V); a análise busca causas sistêmicas e organizacionais (V); a culpabilização individual é contrária a essa cultura, porque desestimula a notificação e esconde falhas do sistema (F). Sequência V, F, V.",
+  "porAlt": [
+   "A segunda afirmativa é falsa: culpar o indivíduo inibe a notificação, e a terceira, sobre análise de fatores organizacionais, é verdadeira.",
+   "A primeira é verdadeira, pois a notificação alimenta o aprendizado, e a segunda é falsa.",
+   "A terceira afirmativa é verdadeira: analisar incidentes revela fatores organizacionais e oportunidades de melhoria.",
+   "Inverte a lógica da cultura de segurança: notificação e análise são verdadeiras e a culpabilização é falsa.",
+   "Correta: notificação e análise de incidentes são pilares da cultura de segurança, e a culpabilização individual não previne novos eventos."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2026,
+   "prova": "ENARE multiprofissional Fisioterapia 2026/2027",
+   "n": 9,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Nas Redes de Atenção à Saúde, os diferentes serviços devem atuar de maneira integrada para garantir a continuidade dos cuidados.\nNessa organização, os pontos de atenção mantêm relações",
+  "alts": [
+   "centralizadas e escalonadas, conforme a gravidade imediata de cada demanda.",
+   "autônomas e territoriais, conforme os limites administrativos de cada município.",
+   "especializadas e independentes, conforme os protocolos próprios de cada área.",
+   "horizontais e complementares, conforme as necessidades de cuidado dos usuários.",
+   "sucessivas e subordinadas, conforme a complexidade dos atendimentos oferecidos."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 4.279/2010 (diretrizes da RAS), consolidada na PRC 3/2017",
+  "coment": "A Portaria 4.279/2010 define as Redes de Atenção à Saúde como arranjos organizativos de ações e serviços de diferentes densidades tecnológicas que, integrados por sistemas de apoio técnico, logístico e de gestão, buscam garantir a integralidade do cuidado. Nelas não há hierarquia entre os pontos de atenção: as relações são horizontais e todos são igualmente importantes, diferenciando-se apenas pela densidade tecnológica. A APS é o centro de comunicação, e os pontos se complementam conforme as necessidades do usuário. A ideia de pirâmide subordinada é a que a RAS substitui.",
+  "porAlt": [
+   "Relações centralizadas e escalonadas reproduzem o modelo piramidal que a RAS pretende superar.",
+   "Os pontos não são autônomos nem limitados ao município; a rede é regional e integrada por sistemas logísticos e de governança.",
+   "Pontos especializados e independentes fragmentam o cuidado, que é o oposto da integração proposta pela RAS.",
+   "Correta: na RAS os pontos de atenção mantêm relações horizontais e complementares, organizadas pelas necessidades dos usuários.",
+   "Relações sucessivas e subordinadas por complexidade descrevem a hierarquia piramidal, rejeitada pela Portaria 4.279/2010."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2026,
+   "prova": "ENARE multiprofissional Fisioterapia 2026/2027",
+   "n": 10,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "O Sistema Único de Saúde (SUS) é considerado uma das maiores políticas públicas de inclusão social do mundo. A partir da década de 1960, a incorporação das ciências sociais ao campo da saúde contribuiu para a formulação de novas concepções de cuidado. Posteriormente, os movimentos da Reforma Sanitária Brasileira, articulados às lutas pela redemocratização do país, impulsionaram mudanças na concepção, na organização e na gestão das políticas de saúde. Esse processo contribuiu para a construção das bases do sistema que seria instituído pela Constituição Federal de 1988.\nAdaptado de https://www.nexojornal.com.br/\nConsiderando o processo histórico apresentado e os princípios que orientaram a Reforma Sanitária, assinale a afirmativa correta.",
+  "alts": [
+   "Propõe a ampliação do acesso à saúde como direito de cidadania, associada à construção de um sistema público de caráter universal e à superação da vinculação entre assistência e condição previdenciária.",
+   "Sustenta a participação da sociedade na formulação das políticas de saúde, mas preserva a vinculação do acesso aos serviços públicos à condição de trabalhador segurado pela Previdência Social.",
+   "Prioriza a assistência hospitalar individual, atribuindo às ações de promoção da saúde e prevenção de doenças papel complementar na organização dos serviços.",
+   "Propõe a ampliação do acesso aos serviços de saúde, mantendo, contudo, a centralização da gestão e do financiamento das ações na esfera federal.",
+   "Prioriza a coordenação federal das políticas de saúde, mantendo nos demais entes federativos funções essencialmente operacionais na execução dos serviços."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, arts. 196 a 198; Relatório Final da 8ª Conferência Nacional de Saúde (1986)",
+  "coment": "A Reforma Sanitária propôs a saúde como direito de cidadania e dever do Estado, com um sistema público, universal, descentralizado e com participação social, rompendo com o modelo em que só o trabalhador segurado do INAMPS tinha direito à assistência. A CF/1988 acolheu essas teses: saúde direito de todos (art. 196), sistema único com descentralização, integralidade com prioridade para a prevenção e participação da comunidade (art. 198). Centralização federal, foco hospitalar e vínculo previdenciário são traços do modelo anterior.",
+  "porAlt": [
+   "Correta: a Reforma Sanitária defendeu a saúde como direito de cidadania e um sistema universal, sem vínculo com a condição previdenciária.",
+   "Preservar o acesso vinculado ao segurado da Previdência contraria a universalidade, tese central do movimento.",
+   "A Reforma Sanitária priorizou promoção e prevenção, e a CF/1988 manda priorizar as atividades preventivas (art. 198, II).",
+   "O movimento defendeu a descentralização da gestão, incorporada como diretriz do SUS no art. 198, I.",
+   "A descentralização com direção única em cada esfera dá papel de gestão a estados e municípios, não só execução."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2026,
+   "prova": "ENARE multiprofissional Fisioterapia 2026/2027",
+   "n": 11,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Se os valores e aspirações do Sistema Único de Saúde (SUS) foram estabelecidos na Constituição de 1988, seu conteúdo institucional teve como momento fundador a aprovação da Lei Orgânica da Saúde (Lei nº 8.080/1990), que regula e operacionaliza o novo sistema de saúde, à qual seguiram-se diversas outras, que desenvolveram o arcabouço institucional do sistema pactuado em 1988.\nConsiderando o processo de institucionalização do Sistema Único de Saúde e o disposto nas Leis nº 8.080/1990 e nº 8.142/1990, analise as afirmativas a seguir.\nI. A Lei Orgânica da Saúde estabeleceu, entre as diretrizes do SUS, a descentralização político-administrativa e a regionalização da rede de serviços, além da criação dos Conselhos e das Conferências de Saúde como instâncias permanentes de participação da comunidade.\nII. A descentralização previa um sistema com maior protagonismo dos estados e municípios na provisão das ações e serviços de saúde e na tomada de decisões, com direção única em cada esfera de governo e distribuição de competências entre os diferentes níveis de governo.\nIII. A participação da comunidade foi institucionalizada como componente da gestão do SUS, mediante a criação dos Conselhos e das Conferências de Saúde em cada esfera de governo, com atribuições relacionadas à participação na formulação de estratégias e no controle da execução da política de saúde.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 7º, IX; Lei 8.142/1990, art. 1º",
+  "coment": "O item I erra ao atribuir à Lei 8.080/1990 a criação dos Conselhos e das Conferências: os dispositivos de participação da Lei Orgânica foram vetados, e as duas instâncias colegiadas foram instituídas pela Lei 8.142/1990, art. 1º, em cada esfera de governo. O item II está correto: a Lei 8.080 (art. 7º, IX) traz a descentralização político-administrativa com direção única em cada esfera, ênfase na municipalização e regionalização. O item III também: a Conferência propõe diretrizes e o Conselho, de caráter permanente e deliberativo, atua na formulação de estratégias e no controle da execução da política.",
+  "porAlt": [
+   "O item I está errado, porque Conselhos e Conferências foram criados pela Lei 8.142/1990, não pela Lei 8.080/1990.",
+   "Inclui o item I, que erra a lei de origem das instâncias de participação, e exclui o item III, que está correto.",
+   "Inclui o item I, incorreto quanto à lei, e deixa de fora o item II, que descreve corretamente a descentralização.",
+   "Correta: II descreve a descentralização com direção única (Lei 8.080, art. 7º, IX) e III a participação criada pela Lei 8.142.",
+   "O item I está errado, pois Conselhos e Conferências não vêm da Lei 8.080, cujos artigos sobre participação foram vetados."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2026,
+   "prova": "ENARE multiprofissional Fisioterapia 2026/2027",
+   "n": 12,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre as Redes de Atenção à Saúde (RAS), conforme a concepção adotada no Sistema Único de Saúde (SUS), assinale a afirmativa correta.",
+  "alts": [
+   "Prestam serviços de saúde, com foco exclusivamente nos procedimentos hospitalares de alta complexidade.",
+   "Organizam os serviços de saúde em níveis independentes de atuação, sem necessidade de comunicação entre eles.",
+   "Substituem a Atenção Primária à Saúde pelos Serviços Especializados, como principal porta de entrada do sistema.",
+   "Integram as ações e os serviços de saúde sob diferentes pontos de atenção, com o objetivo de garantir cuidado contínuo e integral aos usuários.",
+   "Organizam os serviços de saúde dando autonomia aos seus componentes, priorizando o encaminhamento direto para procedimentos especializados."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 4.279/2010 (diretrizes da RAS), consolidada na PRC 3/2017",
+  "coment": "Pela Portaria 4.279/2010, as Redes de Atenção à Saúde são arranjos organizativos de ações e serviços de diferentes densidades tecnológicas que, integrados por sistemas de apoio técnico, logístico e de gestão, buscam garantir a integralidade do cuidado. Têm a Atenção Primária como centro de comunicação e ordenadora do cuidado, com pontos de atenção que se relacionam de forma horizontal e contínua. Não se restringem à alta complexidade, não funcionam em níveis isolados nem trocam a APS pelo especialista como porta de entrada.",
+  "porAlt": [
+   "A RAS abrange todos os níveis de densidade tecnológica, e não só procedimentos hospitalares de alta complexidade.",
+   "A RAS integra os pontos de atenção por sistemas logísticos e de comunicação; níveis isolados são o oposto da rede.",
+   "Na RAS a APS é o centro de comunicação e principal porta de entrada; o serviço especializado é referenciado por ela.",
+   "Correta: a RAS integra ações e serviços em diferentes pontos de atenção para garantir cuidado contínuo e integral.",
+   "Autonomia dos componentes com acesso direto ao especialista fragmenta o cuidado e ignora a coordenação pela APS."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2026,
+   "prova": "ENARE multiprofissional Fisioterapia 2026/2027",
+   "n": 13,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Em um município, uma equipe de saúde identifica que pessoas que utilizam espaços públicos para moradia e subsistência encontram dificuldades para acessar os serviços de saúde e outras políticas públicas. A equipe decide discutir estratégias de atendimento articuladas com outros setores da rede de proteção social.\nConsiderando a Política Nacional para a População em Situação de Rua, instituída pelo Decreto nº 7.053/2009, assinale a opção que identifica corretamente a população a que essa política se destina.",
+  "alts": [
+   "Migrantes e imigrantes em situação de vulnerabilidade socioeconômica, especialmente aqueles que enfrentam dificuldades de acesso à moradia, ao trabalho e aos serviços públicos.",
+   "Pessoas que residem em abrigos ou instituições de acolhimento, independentemente de sua situação socioeconômica e de seus vínculos familiares ou comunitários.",
+   "Pessoas que utilizam as ruas e outros espaços públicos como espaço de moradia e/ou subsistência, em situação de pobreza e com vínculos familiares ou comunitários fragilizados ou interrompidos.",
+   "Comunidades quilombolas em situação de vulnerabilidade social, especialmente aquelas que enfrentam dificuldades de acesso às políticas públicas e aos serviços de proteção social.",
+   "Pessoas em situação de pobreza que não possuem residência própria, ainda que disponham de moradia regular e mantenham vínculos familiares e comunitários preservados."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 7.053/2009, art. 1º, parágrafo único",
+  "coment": "O Decreto 7.053/2009 (art. 1º, parágrafo único) define população em situação de rua como o grupo heterogêneo que tem em comum a pobreza extrema, os vínculos familiares interrompidos ou fragilizados e a inexistência de moradia convencional regular, e que utiliza logradouros públicos e áreas degradadas como espaço de moradia e de sustento, de forma temporária ou permanente, bem como unidades de acolhimento para pernoite ou moradia provisória. Os três elementos, pobreza, vínculos fragilizados e uso do espaço público, precisam estar juntos.",
+  "porAlt": [
+   "Migrantes vulneráveis podem estar em situação de rua, mas a política não se define pela condição migratória.",
+   "O decreto inclui quem usa unidades de acolhimento, porém exige pobreza extrema e vínculos fragilizados, e não 'independentemente' deles.",
+   "Correta: reproduz o art. 1º do Decreto 7.053/2009, com pobreza, vínculos fragilizados e uso do espaço público para moradia ou sustento.",
+   "Comunidades quilombolas têm política própria de equidade; não são o público definido pelo Decreto 7.053/2009.",
+   "Quem tem moradia regular e vínculos preservados não está em situação de rua, mesmo sem casa própria."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2026,
+   "prova": "ENARE multiprofissional Fisioterapia 2026/2027",
+   "n": 14,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre a Estratégia Saúde da Família (ESF), de acordo com a Política Nacional de Atenção Básica (PNAB), assinale a afirmativa correta.",
+  "alts": [
+   "Atua na assistência hospitalar, concentrando suas ações no tratamento de agravos de alta complexidade.",
+   "Desenvolve, graças à atuação de equipes multiprofissionais, ações de cuidado para a população de um território definido.",
+   "Realiza exclusivamente atividades de prevenção de doenças, encaminhando todas as demais demandas para os serviços especializados.",
+   "Presta atendimento apenas aos indivíduos previamente cadastrados na unidade, sendo vedado o acolhimento de usuários não adscritos ao território.",
+   "Substitui integralmente os demais pontos da Rede de Atenção à Saúde, tornando desnecessário o funcionamento dos serviços ambulatoriais especializados e dos hospitalares."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), consolidada na PRC 2/2017",
+  "coment": "A PNAB (Portaria 2.436/2017) considera a Estratégia Saúde da Família a forma prioritária de expansão e consolidação da Atenção Básica. Ela atua com equipe multiprofissional (no mínimo médico, enfermeiro, técnico ou auxiliar de enfermagem e agentes comunitários) responsável por população adscrita a um território definido, com ações de promoção, prevenção, diagnóstico, tratamento, reabilitação e cuidados paliativos. A PNAB manda acolher também quem não é adscrito e define a APS como porta preferencial e coordenadora do cuidado na RAS, sem substituir os outros pontos.",
+  "porAlt": [
+   "A ESF é Atenção Básica, no território, e não assistência hospitalar de alta complexidade.",
+   "Correta: a ESF desenvolve, com equipes multiprofissionais, ações de cuidado para a população de um território definido.",
+   "A ESF resolve a maior parte das necessidades, com cuidado integral, e não só prevenção com encaminhamento do resto.",
+   "A PNAB determina o acolhimento de usuários não cadastrados, inclusive em demanda espontânea, sem exclusão.",
+   "A APS coordena o cuidado na RAS; ambulatórios especializados e hospitais continuam necessários como pontos de atenção."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2026,
+   "prova": "ENARE multiprofissional Fisioterapia 2026/2027",
+   "n": 15,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Sobre a Política Nacional de Humanização, que busca pôr em prática os princípios do SUS, assinale a afirmativa correta.",
+  "alts": [
+   "Retira a responsabilidade pelo cuidado nos tratamentos de saúde da rede sociofamiliar dos usuários dos serviços.",
+   "Dissocia a assistência em saúde da gestão, de modo que a tomada de decisão seja focada na necessidade do usuário.",
+   "Busca preservar a equipe de saúde ao impedir que o usuário de saúde compartilhe suas dores durante a internação em suas redes sociais.",
+   "Respeita a diretriz da clínica ampliada, de modo à ampliar os exames para o diagnóstico clínico, melhorando a análise técnica e fragmentada sobre o sujeito.",
+   "Busca transformar as relações de trabalho, ampliando o grau de contato e a comunicação entre as pessoas, tirando-as do isolamento e das relações de poder hierarquizadas."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Política Nacional de Humanização (HumanizaSUS), Ministério da Saúde, 2003; cartilha PNH de 2013",
+  "coment": "A PNH tem três princípios: transversalidade, indissociabilidade entre atenção e gestão, e protagonismo, corresponsabilidade e autonomia dos sujeitos. A transversalidade, nas palavras da política, busca transformar as relações de trabalho a partir da ampliação do grau de contato e da comunicação entre pessoas e grupos, tirando-os do isolamento e das relações de poder hierarquizadas. A clínica ampliada amplia o olhar sobre o sujeito, e não o número de exames, e a política valoriza a rede sociofamiliar no cuidado.",
+  "porAlt": [
+   "A PNH envolve a rede sociofamiliar e corresponsabiliza usuários e familiares, em vez de retirar essa responsabilidade.",
+   "A PNH afirma a indissociabilidade entre atenção e gestão; dissociá-las contraria um de seus princípios.",
+   "Restringir a expressão do usuário em redes sociais não tem relação com a PNH, que valoriza escuta e protagonismo.",
+   "A clínica ampliada supera a abordagem técnica e fragmentada, e não se define por ampliar exames.",
+   "Correta: é o princípio da transversalidade, que amplia contato e comunicação e tira as pessoas do isolamento e da hierarquia."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2026,
+   "prova": "ENARE multiprofissional Fisioterapia 2026/2027",
+   "n": 16,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "A Política Nacional de Vigilância em Saúde, instituída pela Resolução nº 588, de 12 de julho de 2018, é uma política pública essencial do SUS. Tem caráter universal, transversal e orientador do modelo de atenção nos territórios, sendo a sua gestão de responsabilidade exclusiva do poder público.\nNesse sentido, sobre as estratégias para a organização da Vigilância em Saúde, analise as afirmativas a seguir.\nI. Os processos de trabalho devem estar integrados com a atenção à saúde, sendo pautados pelo conhecimento das condições sociais e econômicas do território e organizados em diversas situações.\nII. Os processos de trabalho devem atender ao planejamento do Ministério da Saúde, com identificação das prioridades, com base na análise da situação de saúde, no mapeamento das atividades de produção, consumo e infraestrutura e no potencial impacto no território.\nIII. A inserção da vigilância em saúde na Rede de Atenção à Saúde (RAS) deve contribuir para a construção de linhas de cuidado que agrupem doenças e agravos e determinantes de saúde, identificando riscos e situações de vulnerabilidade.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução CNS 588/2018 (Política Nacional de Vigilância em Saúde)",
+  "coment": "Entre as estratégias de organização da vigilância, a Resolução CNS 588/2018 prevê processos de trabalho integrados à atenção à saúde, pautados no conhecimento do território (item I correto), e a inserção da vigilância na RAS para construir linhas de cuidado a partir de riscos, vulnerabilidades e determinantes (item III correto). O item II erra ao subordinar os processos ao planejamento do Ministério da Saúde: a PNVS respeita a descentralização e define as prioridades em cada território, pela análise da situação de saúde local, com gestão compartilhada entre as três esferas.",
+  "porAlt": [
+   "Incompleta: o item III também está correto, pois a PNVS insere a vigilância na RAS e nas linhas de cuidado.",
+   "O item II está errado, porque as prioridades saem da análise do território, e não de um planejamento imposto pelo Ministério da Saúde.",
+   "Correta: I e III reproduzem estratégias da PNVS, e o item II erra ao centralizar o planejamento no Ministério da Saúde.",
+   "Inclui o item II, que contraria a descentralização da vigilância, e deixa de fora o item I, que está correto.",
+   "O item II está errado, pois a PNVS não subordina os processos de trabalho ao planejamento federal."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2026,
+   "prova": "ENARE multiprofissional Fisioterapia 2026/2027",
+   "n": 17,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Em uma unidade de saúde, a equipe percebe que pacientes com nomes semelhantes têm sido chamados apenas pelo primeiro nome, aumentando o risco de administração de medicamentos ou realização de procedimentos ao paciente errado.\nDe acordo com o Programa Nacional de Segurança do Paciente, assinale a opção que indica a medida mais adequada para enfrentar essa situação.",
+  "alts": [
+   "Implantar protocolo de identificação segura do paciente, utilizando pelo menos dois identificadores.",
+   "Reforçar a atenção dos profissionais durante a chamada dos pacientes.",
+   "Orientar os pacientes a confirmar verbalmente seu nome antes dos procedimentos.",
+   "Centralizar a conferência da identidade dos pacientes na equipe de enfermagem.",
+   "Registrar os casos de identificação incorreta para avaliação posterior pela gestão."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "enf",
+  "comp": "cond",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.095/2013 (Protocolo de Identificação do Paciente); Portaria GM/MS 529/2013 (PNSP)",
+  "coment": "O Protocolo de Identificação do Paciente, aprovado pela Portaria 2.095/2013 no âmbito do PNSP, exige pelo menos dois identificadores (por exemplo, nome completo e data de nascimento ou número de prontuário), registrados em pulseira, e a conferência ativa antes de qualquer cuidado, medicamento, hemocomponente, exame ou procedimento. O número do quarto ou do leito nunca serve de identificador. É uma medida de sistema: chamar pelo primeiro nome ou depender só da atenção individual não elimina o risco de troca entre homônimos.",
+  "porAlt": [
+   "Correta: o protocolo de identificação do PNSP exige ao menos dois identificadores conferidos antes de cada cuidado.",
+   "Reforçar a atenção depende do indivíduo e não cria barreira de sistema contra a troca de pacientes.",
+   "Confirmar só o nome não resolve nomes semelhantes; o paciente pode estar confuso ou responder por outro.",
+   "A identificação segura é responsabilidade de todos os profissionais que prestam cuidado, fisioterapeuta incluído, e não só da enfermagem.",
+   "Registrar para avaliar depois é reativo; a falha precisa de barreira preventiva já implantada."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2026,
+   "prova": "ENARE multiprofissional Fisioterapia 2026/2027",
+   "n": 18,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Diversos estudos destacam que o trabalho em equipe na saúde é fundamental para a melhoria da qualidade assistencial, segurança do paciente e integralidade do cuidado.\nSegundo a Organização Mundial da Saúde (OMS) e estudos sobre Educação Interprofissional, as equipes que desenvolvem práticas colaborativas apresentam melhores resultados clínicos e maior satisfação dos usuários.\nSobre as práticas colaborativas efetivas em equipes multiprofissionais de saúde, assinale a afirmativa correta.",
+  "alts": [
+   "As decisões clínicas são centralizadas no profissional médico, cabendo aos demais membros da equipe executar as condutas definidas.",
+   "A comunicação entre os profissionais deve ocorrer apenas quando houver divergências técnicas que possam comprometer a assistência ao paciente.",
+   "O trabalho colaborativo exige que todos os profissionais possuam formação semelhante para reduzir conflitos e aumentar a eficiência assistencial.",
+   "Os profissionais compartilham o mesmo espaço físico de trabalho, mas realizam suas atividades de forma autônoma, preservando integralmente a autonomia de cada categoria profissional.",
+   "Os diferentes profissionais compartilham objetivos comuns, participam da tomada de decisão e reconhecem as competências específicas e complementares dos demais membros da equipe."
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Trabalho em equipe multiprofissional",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "OMS, Marco para Ação em Educação Interprofissional e Prática Colaborativa (2010)",
+  "coment": "O Marco para Ação da OMS (2010) define prática colaborativa como a atuação conjunta de profissionais de diferentes formações com pacientes, famílias e comunidade para oferecer cuidado de maior qualidade. Seus elementos são objetivos comuns, tomada de decisão compartilhada, comunicação contínua e reconhecimento das competências específicas e complementares de cada profissão. A colaboração não exige formação semelhante; ela se apoia justamente na diferença entre os saberes, articulados em torno das necessidades do usuário.",
+  "porAlt": [
+   "Centralizar as decisões no médico descreve trabalho hierarquizado, e não prática colaborativa.",
+   "Na prática colaborativa a comunicação é contínua e rotineira, e não restrita a momentos de divergência.",
+   "A colaboração se baseia na complementaridade de formações diferentes, e não na homogeneidade da equipe.",
+   "Dividir espaço e trabalhar de forma isolada é agrupamento de profissionais, não integração.",
+   "Correta: objetivos comuns, decisão compartilhada e reconhecimento das competências complementares definem a prática colaborativa."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2026,
+   "prova": "ENARE multiprofissional Fisioterapia 2026/2027",
+   "n": 19,
+   "parte": "gerais"
+  }
+ },
+ {
+  "q": "Em um hospital com leitos de terapia intensiva, a equipe responsável pela segurança do paciente identifica que diferentes profissionais adotam procedimentos distintos para prevenir eventos adversos. Além disso, alguns incidentes são registrados apenas informalmente e não são analisados pela instituição para identificar suas causas e prevenir novas ocorrências.\nConsiderando o Programa Nacional de Segurança do Paciente, assinale a opção que apresenta a medida mais adequada para enfrentar essa situação.",
+  "alts": [
+   "Implantar protocolos de segurança, fortalecer a notificação de incidentes e promover a gestão de riscos nos processos de cuidado.",
+   "Padronizar os procedimentos de segurança e concentrar na direção o acompanhamento dos incidentes identificados.",
+   "Priorizar a notificação dos eventos adversos que resultem em dano ao paciente e adotar medidas corretivas.",
+   "Orientar os profissionais sobre os riscos identificados e avaliar individualmente as condutas que resultem em incidentes.",
+   "Avaliar os incidentes após sua ocorrência e estabelecer medidas corretivas para evitar sua repetição."
+  ],
+  "gab": 0,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "uti",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 529/2013 (PNSP) e RDC ANVISA 36/2013",
+  "coment": "A RDC 36/2013 obriga o serviço a ter Núcleo de Segurança do Paciente e um Plano de Segurança do Paciente que contemple a gestão de riscos, a implantação dos protocolos básicos do PNSP, a notificação dos eventos adversos ao Sistema Nacional de Vigilância Sanitária e a análise dos incidentes para prevenir novas ocorrências. A situação descrita tem dois problemas, falta de padronização e notificação informal sem análise, e só a alternativa A atua nos dois com uma abordagem sistêmica, preventiva e de aprendizado.",
+  "porAlt": [
+   "Correta: protocolos, notificação estruturada e gestão de riscos são as ações que a RDC 36/2013 exige do serviço.",
+   "Concentrar o acompanhamento na direção afasta as equipes da análise e enfraquece a cultura de segurança.",
+   "A notificação deve abranger todos os incidentes, inclusive os sem dano e os quase erros, e não só eventos com dano.",
+   "Avaliar condutas individualmente tende à culpabilização e não identifica as causas organizacionais.",
+   "Atuar só depois do incidente é reativo; a gestão de riscos inclui identificar e prevenir antes que ocorram."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2026,
+   "prova": "ENARE multiprofissional Fisioterapia 2026/2027",
+   "n": 20,
+   "parte": "gerais"
+  }
+ }
+]

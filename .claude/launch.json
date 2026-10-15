@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "fisiare",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "servir.py",
+        "8751"
+      ],
+      "port": 8751
+    },
+    {
+      "name": "fisiare-teste",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": [
+        "-c",
+        "cd /private/tmp/claude-501/-Users-matheusparente/24edeac6-15cd-4c88-8b50-83646c37609c/scratchpad/teste-fi && python3 servir.py 8752"
+      ],
+      "port": 8752
+    }
+  ]
+}

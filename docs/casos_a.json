@@ -1,0 +1,683 @@
+[
+ {
+  "id": "caso-sdra-ventilacao-protetora",
+  "titulo": "Ventilação protetora e titulação de PEEP na SDRA moderada",
+  "area": "uti",
+  "cenario": "uti",
+  "tempo": 25,
+  "abertura": "UTI adulto, madrugada. Sr. R., 54 anos, intubado há 6 horas por pneumonia comunitária grave, sedado, sem esforço respiratório. Ventilação em volume controlado: volume corrente de 650 mL, FR 18 irpm, PEEP 8 cmH2O, FiO2 0,70. SpO2 92%. Gasometria: PaO2 98 mmHg, PaCO2 44 mmHg, pH 7,34. Radiografia com opacidades bilaterais; ecocardiograma à beira do leito sem disfunção ventricular. Peso na admissão 98 kg; a prescrição anterior calculou o volume pelo peso real. Noradrenalina em dose baixa, PAM 70 mmHg. Você é o fisioterapeuta de plantão. Avalie o paciente e a ventilação antes de mexer em qualquer parâmetro.",
+  "etapas": [
+   {
+    "n": 1,
+    "tarefa": "Diga o que mede e calcula à beira do leito, como classifica o quadro e qual é o problema da ventilação atual.",
+    "entrega": "Altura medida: 1,75 m. Pausa inspiratória de 2 segundos, paciente sem esforço: pressão de pico 38 cmH2O, platô 33 cmH2O, PEEP total 8 cmH2O. Sem auto-PEEP na pausa expiratória. Tubo bem posicionado, sem secreção que obstrua, ausculta simétrica."
+   },
+   {
+    "n": 2,
+    "tarefa": "Proponha o novo ajuste ventilatório com os números e diga o que aceita como consequência.",
+    "entrega": "Volume corrente reduzido para 420 mL e FR elevada para 28 irpm. Nova pausa: platô 24 cmH2O, pressão de distensão 16 cmH2O. Gasometria em 1 hora: pH 7,26, PaCO2 58 mmHg, PaO2 80 mmHg com FiO2 0,70. Sem hipertensão intracraniana conhecida."
+   },
+   {
+    "n": 3,
+    "tarefa": "Explique como titula a PEEP, o que não faz e o que leva à equipe médica com estes resultados.",
+    "entrega": "Titulação pela complacência, em passos, com o mesmo volume: PEEP 10, platô 25, distensão 15; PEEP 12, platô 26, distensão 14, melhor complacência; PEEP 14, platô 28,5, distensão 14,5; PEEP 16, platô 32 e PAM caindo para 60 mmHg. PEEP fixada em 12 cmH2O. Com FiO2 0,60, PaO2 84 mmHg. O residente pergunta se não seria melhor uma manobra de recrutamento com PEEP de 40 cmH2O por 2 minutos."
+   },
+   {
+    "n": 4,
+    "tarefa": "Responda ao residente, diga o que propõe agora, o que é decisão compartilhada e como registra o plantão.",
+    "entrega": "Encerramento do caso."
+   }
+  ],
+  "espelho": [
+   {
+    "eixo": "C",
+    "item": "Classifica como SDRA intubada moderada, com PaO2/FiO2 de 140 mmHg (acima de 100 e até 200) com PEEP de pelo menos 5 cmH2O, depois de afastar causa cardiogênica (definição global ESICM/ATS/SCCM, 2024)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "C",
+    "item": "Calcula o peso predito pela altura e pelo sexo (homem: 50 + 0,91 x (altura em cm menos 152,4), cerca de 70,6 kg) e identifica que 650 mL equivalem a cerca de 9 mL/kg de peso predito (ARDSNet, 2000; ATS, 2024)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "C",
+    "item": "Mede platô em pausa inspiratória sem esforço, calcula a pressão de distensão (platô menos PEEP, 25 cmH2O) e a complacência estática, e lê os dois valores como ventilação lesiva",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Reduz o volume corrente para cerca de 6 mL/kg de peso predito (420 mL), dentro da faixa de 4 a 8 mL/kg, com platô abaixo de 30 cmH2O (ATS, 2024, recomendação forte)",
+    "peso": 0.6
+   },
+   {
+    "eixo": "H",
+    "item": "Compensa a ventilação minuto com aumento da frequência, sem gerar auto-PEEP, e aceita a hipercapnia permissiva acompanhando o pH na gasometria, por não haver hipertensão intracraniana",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Titula PEEP mais alta sem manobra de recrutamento, escolhendo a de melhor complacência e menor distensão, e recusa a manobra prolongada com PEEP de 35 cmH2O ou mais por mais de 60 segundos (ATS, 2024: condicional a favor da PEEP alta, forte contra o recrutamento prolongado)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Busca pressão de distensão abaixo de 15 cmH2O como alvo prático, sabendo que vem de análise observacional e não de ensaio (Amato et al., 2015)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Leva à equipe a indicação de posição prona por mais de 12 horas por dia, porque a PaO2/FiO2 segue abaixo de 150 com FiO2 de 0,60 (PROSEVA, 2013; ATS, 2024)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Define antes da titulação os critérios de interrupção (queda da PAM, dessaturação, arritmia, sinais de pneumotórax) e volta à PEEP anterior quando a PAM cai na PEEP de 16",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Prepara a prona com segurança: equipe suficiente, tubo e acessos fixados, olhos e pontos de pressão protegidos, plano de retorno ao supino em caso de parada",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Registra parâmetros, mecânica, gasometrias e justificativa em evolução de cada turno (RDC ANVISA 7/2010) e deixa claro que sedação, bloqueio neuromuscular e decisão de pronar são da equipe com o médico, enquanto o ajuste do ventilador segue o protocolo da unidade",
+    "peso": 0.4
+   }
+  ]
+ },
+ {
+  "id": "caso-desmame-extubacao-alto-risco",
+  "titulo": "Teste de respiração espontânea e extubação com alto risco de falha",
+  "area": "uti",
+  "cenario": "uti",
+  "tempo": 25,
+  "abertura": "UTI adulto, manhã. Sra. L., 72 anos, DPOC e insuficiência cardíaca com fração de ejeção reduzida, intubada há 5 dias por pneumonia. Hoje: pressão de suporte 10 cmH2O, PEEP 6 cmH2O, FiO2 0,35, SpO2 94%, PaO2 82 mmHg. Sem vasopressor desde ontem, PA 132/74 mmHg, FC 92 bpm. Sedação suspensa às 6 h; acordada, calma, obedece a comandos. Balanço hídrico negativo nas últimas 24 horas. Você faz a busca ativa diária de desmame com a equipe. Diga se ela está apta a testar e o que mais precisa saber.",
+  "etapas": [
+   {
+    "n": 1,
+    "tarefa": "Liste os critérios de aptidão que confere e diga que dados de via aérea ainda faltam antes de pensar em extubar.",
+    "entrega": "Glasgow com abertura ocular espontânea e resposta motora a comando. Tosse forte à aspiração, pico de fluxo de tosse medido de 70 L/min. Secreção mucoide moderada, aspirada a cada 3 horas. Índice de respiração rápida e superficial de 78. Intubação na admissão foi difícil, com três tentativas."
+   },
+   {
+    "n": 2,
+    "tarefa": "Descreva como conduz o teste de respiração espontânea e o que faria você interrompê-lo.",
+    "entrega": "Teste em pressão de suporte de 7 cmH2O e PEEP de 5 cmH2O por 30 minutos. Ao fim: FR 26 irpm, SpO2 93%, FC 102 bpm, PA 138/76 mmHg, sem sudorese nem uso de musculatura acessória. Gasometria ao fim do teste: pH 7,36, PaCO2 52 mmHg. Teste de vazamento do balonete: vazamento presente."
+   },
+   {
+    "n": 3,
+    "tarefa": "Decida se extuba, para qual suporte, e explique como estratificou o risco de falha.",
+    "entrega": "Extubada às 11 h para VNI, intercalada com cateter nasal de alto fluxo nas pausas. Às 7 h do dia seguinte, 20 horas depois: FR 34 irpm, tiragem e uso de musculatura acessória, SpO2 86% com FiO2 0,60, sonolenta. Gasometria: pH 7,25, PaCO2 68 mmHg. O médico de plantão está no centro de imagem com outro paciente e o colega sugere aumentar a pressão inspiratória da VNI e esperar mais 2 horas."
+   },
+   {
+    "n": 4,
+    "tarefa": "Diga o que faz agora, o que comunica e como registra a evolução do desmame.",
+    "entrega": "Encerramento do caso."
+   }
+  ],
+  "espelho": [
+   {
+    "eixo": "C",
+    "item": "Confere a aptidão ao teste: causa controlada, PaO2 de pelo menos 60 mmHg com FiO2 até 0,4 e PEEP até 5 a 8 cmH2O, estabilidade hemodinâmica sem vasopressor ou em dose baixa, esforço inspiratório e balanço zerado ou negativo (AMIB/SBPT, 2013)",
+    "peso": 0.6
+   },
+   {
+    "eixo": "C",
+    "item": "Usa o índice de respiração rápida e superficial (corte de 105) só como apoio e não como critério isolado para deixar de testar (Yang e Tobin, 1991; AMIB/SBPT, 2013)",
+    "peso": 0.3
+   },
+   {
+    "eixo": "C",
+    "item": "Estratifica alto risco de falha da extubação por idade acima de 65 anos, insuficiência cardíaca, DPOC e hipercapnia durante o teste (ATS/CHEST, 2017; AMIB/SBPT, 2013)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Conduz o teste em pressão de suporte de 5 a 8 cmH2O (ATS/CHEST, 2017) ou em tubo T ou pressão de suporte de 5 a 7 cmH2O por 30 a 120 minutos (AMIB/SBPT, 2013)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Confere a proteção da via aérea antes de extubar: Glasgow acima de 8, tosse eficaz com pico de fluxo acima de 60 L/min e secreção que não exige aspiração a cada 1 a 2 horas (AMIB/SBPT, 2013)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Faz o teste de vazamento do balonete porque a intubação traumática eleva o risco de estridor e, se ausente, leva ao médico a indicação de corticoide pelo menos 4 horas antes da extubação, que é prescrição dele (ATS/CHEST, 2017)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Extuba direto para VNI preventiva no paciente de alto risco (ATS/CHEST, 2017, recomendação forte), preferindo VNI ao alto fluxo salvo contraindicação (ERS, 2022) e usando alto fluxo nas pausas (HIGH-WEAN, 2019)",
+    "peso": 0.7
+   },
+   {
+    "eixo": "A",
+    "item": "Interrompe o teste e volta ao suporte diante de FR acima de 35 irpm, SpO2 abaixo de 90%, FC acima de 140 bpm, PA sistólica acima de 180 ou abaixo de 90 mmHg, agitação, sudorese ou rebaixamento (AMIB/SBPT, 2013)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Reconhece a falência pós-extubação instalada, recusa usar a VNI para adiar a reintubação (ERS/ATS, 2017, condicional contra) e aciona o médico de imediato, preparando material de via aérea difícil",
+    "peso": 0.7
+   },
+   {
+    "eixo": "A",
+    "item": "Trata a extubação como decisão compartilhada com o médico e registra teste, parâmetros, horário e suporte, contando a falha dentro das 48 horas como falha de extubação (AMIB/SBPT, 2013)",
+    "peso": 0.4
+   }
+  ]
+ },
+ {
+  "id": "caso-dpoc-exacerbada-enfermaria",
+  "titulo": "Exacerbação de DPOC na enfermaria e encaminhamento à reabilitação pulmonar",
+  "area": "respiratoria",
+  "cenario": "enf",
+  "tempo": 20,
+  "abertura": "Enfermaria de clínica médica. Sr. A., 68 anos, ex-tabagista, DPOC com duas internações no último ano. Internado há 2 dias por exacerbação com aumento de dispneia e de escarro purulento; em uso de broncodilatador, corticoide e antibiótico prescritos. Recebe oxigênio por cateter nasal a 2 L/min. Antes da exacerbação andava um quarteirão e parava; hoje só vai ao banheiro com ajuda. O médico pede avaliação da fisioterapia. Faça a avaliação e diga o que prioriza.",
+  "etapas": [
+   {
+    "n": 1,
+    "tarefa": "Diga o que avalia, que dados pede e que riscos procura neste paciente.",
+    "entrega": "FR 22 irpm, FC 92 bpm, sem uso de musculatura acessória, consciente e orientado. SpO2 95% com 2 L/min. Gasometria da manhã: pH 7,37, PaCO2 52 mmHg, PaO2 78 mmHg. Roncos difusos, tosse produtiva, mas pouco eficaz. Levanta da cadeira com apoio das mãos e dessatura até 89% ao andar 10 metros, com dispneia que obriga a parar."
+   },
+   {
+    "n": 2,
+    "tarefa": "Formule o diagnóstico cinético-funcional, os objetivos e a conduta das próximas 48 horas.",
+    "entrega": "Na noite do terceiro dia, o técnico de enfermagem chama: o paciente está sonolento, FR 28 irpm, com uso de musculatura acessória. Gasometria: pH 7,31, PaCO2 64 mmHg. A família conta que um visitante aumentou o oxigênio para 5 L/min 'porque ele estava cansado'."
+   },
+   {
+    "n": 3,
+    "tarefa": "Diga o que faz agora, com quem decide e como reavalia.",
+    "entrega": "Recebeu VNI por 2 dias, com melhora. Hoje tolera mais de 4 horas sem o suporte, com pH 7,38 e PaCO2 50 mmHg. Anda 40 metros com pausa. Alta prevista para depois de amanhã. Ele pergunta se precisa 'continuar a fisioterapia' em casa e diz que mora a 30 km do hospital."
+   },
+   {
+    "n": 4,
+    "tarefa": "Monte o plano de alta da fisioterapia e o encaminhamento.",
+    "entrega": "Encerramento do caso."
+   }
+  ],
+  "espelho": [
+   {
+    "eixo": "C",
+    "item": "Avalia a gravidade da exacerbação hospitalar pelos sinais clínicos e pela gasometria (FR, FC, musculatura acessória, consciência, PaCO2 e pH) e identifica risco de insuficiência hipercápnica (GOLD, 2026)",
+    "peso": 0.6
+   },
+   {
+    "eixo": "C",
+    "item": "Formula o diagnóstico cinético-funcional na linguagem da CIF: hipersecreção com tosse ineficaz, dispneia e dessaturação ao esforço e fraqueza periférica (funções), marcha e transferências limitadas (atividade) e perda de autonomia em casa (participação)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Leva à equipe a redução do oxigênio para manter SpO2 entre 88 e 92% no paciente com risco de hipercapnia (BTS, 2017), porque 95% com PaCO2 de 52 mmHg está acima do alvo",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Escolhe a técnica de higiene brônquica pela secreção e pela tosse (expiração lenta e prolongada, pressão expiratória positiva oscilante, tosse assistida) e reavalia ausculta e escarro depois da sessão",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Mobiliza e treina marcha e transferências de forma progressiva durante a internação, com oxigênio ajustado ao alvo, sem iniciar o programa formal de reabilitação antes da alta, que um estudo associou a pior sobrevida (GOLD, 2026)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "C",
+    "item": "Reconhece a indicação de VNI: pH até 7,35 com PaCO2 acima de 45 mmHg e frequência elevada apesar do tratamento (ERS/ATS, 2017; GOLD, 2026), agravada pela hiperóxia",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Instala VNI em dois níveis com máscara adequada e reavalia em 30 minutos a 2 horas por FR, consciência, pH e PaCO2, tratando a falta de melhora como indicação de intubação a discutir com o médico (AMIB/SBPT, 2013)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Comunica o médico na hora diante da sonolência e da acidose, orienta família e visitantes a não mexer no fluxo de oxigênio e não deixa a VNI atrasar a intubação",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Retira a VNI sem desmame gradual quando o paciente tolera ao menos 4 horas sem suporte (GOLD, 2026) e interrompe qualquer sessão diante de dessaturação abaixo do alvo que não se recupera com o repouso, arritmia ou dor torácica",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Encaminha à reabilitação pulmonar para início em até 4 semanas após a alta, em programa de no mínimo 6 semanas (GOLD, 2026), buscando serviço perto de casa ou modalidade a distância",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Envia contrarreferência à atenção primária e ao serviço de reabilitação com o diagnóstico cinético-funcional, o oxigênio em uso e os objetivos, e deixa ao médico e à equipe a revisão do tratamento, a vacinação e o apoio à cessação do tabagismo",
+    "peso": 0.4
+   }
+  ]
+ },
+ {
+  "id": "caso-avc-subagudo-hemiparesia",
+  "titulo": "Reabilitação ambulatorial da hemiparesia após AVC isquêmico",
+  "area": "neuro",
+  "cenario": "amb",
+  "tempo": 25,
+  "abertura": "Ambulatório de reabilitação. Sra. M., 61 anos, hipertensa, AVC isquêmico no território da artéria cerebral média direita há 6 semanas, tratada com trombólise. Alta hospitalar com hemiparesia esquerda. Anda dentro de casa com bengala e supervisão da filha, arrasta o pé esquerdo e tropeçou duas vezes. Reclama de dor no ombro esquerdo ao se vestir. Era costureira, mora em sobrado e vai à igreja todo domingo. O neurologista encaminha para fisioterapia. Faça a avaliação.",
+  "etapas": [
+   {
+    "n": 1,
+    "tarefa": "Diga o que avalia e que escalas ou testes aplica, ligando cada um ao que mede.",
+    "entrega": "Força: flexão dorsal do tornozelo esquerdo ausente, flexão do quadril vence a gravidade. Espasticidade leve em flexores do cotovelo e flexores plantares. Sensibilidade tátil reduzida no membro superior esquerdo. Ombro esquerdo com subluxação inferior de um dedo à palpação e dor na rotação externa passiva. Fugl-Meyer de membro superior 28. Berg 38. Velocidade de marcha em 10 metros de 0,5 m/s com bengala. TUG de 24 segundos. Sem negligência no teste de cancelamento. Humor rebaixado; diz que 'não serve mais para nada'."
+   },
+   {
+    "n": 2,
+    "tarefa": "Formule o diagnóstico cinético-funcional e defina com ela os objetivos para 8 semanas.",
+    "entrega": "Ela quer subir a escada de casa sozinha, voltar à igreja e costurar com as duas mãos. A filha só pode acompanhar duas vezes por semana."
+   },
+   {
+    "n": 3,
+    "tarefa": "Descreva o plano terapêutico: o que treina, com que lógica de dose e progressão, e o que indica fora da sessão.",
+    "entrega": "Oito semanas depois: velocidade de marcha de 0,8 m/s, Berg 46, TUG 15 segundos, sobe a escada com corrimão e supervisão. Na sessão de hoje chega com PA 196/108 mmHg, cefaleia que começou ontem e diz que a mão esquerda está 'mais boba' desde a manhã."
+   },
+   {
+    "n": 4,
+    "tarefa": "Diga o que faz com a sessão de hoje, quem aciona e como registra.",
+    "entrega": "Encerramento do caso."
+   }
+  ],
+  "espelho": [
+   {
+    "eixo": "C",
+    "item": "Escolhe instrumentos por domínio: Fugl-Meyer para comprometimento motor (Fugl-Meyer et al., 1975), Ashworth modificada para espasticidade (Bohannon e Smith, 1987), Berg para equilíbrio (Berg et al., 1992), velocidade em 10 metros e TUG para mobilidade (Podsiadlo e Richardson, 1991)",
+    "peso": 0.6
+   },
+   {
+    "eixo": "C",
+    "item": "Formula o diagnóstico cinético-funcional pela CIF (OMS, 2001): paresia, espasticidade, déficit sensitivo e ombro doloroso (funções e estruturas), marcha e uso do membro superior limitados (atividade), igreja e trabalho (participação), sobrado e apoio da filha (fatores ambientais)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "C",
+    "item": "Investiga a causa do ombro doloroso (subluxação, sensibilidade, manuseio) e o humor, e encaminha a suspeita de depressão ao médico em vez de ignorá-la",
+    "peso": 0.3
+   },
+   {
+    "eixo": "H",
+    "item": "Define objetivos mensuráveis e com prazo acordados com a paciente (subir a escada de casa sem ajuda, andar até a igreja), não só objetivos de força ou de amplitude",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Prioriza treino orientado à tarefa, repetitivo e progressivo, de marcha, escada e uso do membro superior em atividades reais, com programa domiciliar entre as sessões",
+    "peso": 0.7
+   },
+   {
+    "eixo": "H",
+    "item": "Indica órtese tornozelo-pé para o pé caído e treina a marcha com ela, por ser o mecanismo dos tropeços",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Protege o ombro parético: posicionamento e apoio do membro, sem tração pelo braço nas transferências, orientação à filha",
+    "peso": 0.3
+   },
+   {
+    "eixo": "C",
+    "item": "Reavalia com os mesmos instrumentos e lê a mudança contra os objetivos acordados, e não pela impressão da sessão",
+    "peso": 0.3
+   },
+   {
+    "eixo": "A",
+    "item": "Afere PA, FC e sintomas antes de cada sessão e, diante de PA muito elevada com cefaleia nova e piora da mão, suspende o exercício e aciona o serviço de urgência, porque pode ser novo evento cerebrovascular",
+    "peso": 0.6
+   },
+   {
+    "eixo": "A",
+    "item": "Leva ao médico o que é dele: controle pressórico, espasticidade focal que limite função e eventual toxina botulínica, e o tratamento do humor, sabendo que antidepressivo não melhora a recuperação motora (AHA/ASA, 2026)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Registra escalas, objetivos e o episódio de hoje com horário e conduta, e envia relatório ao neurologista e à atenção primária",
+    "peso": 0.4
+   }
+  ]
+ },
+ {
+  "id": "caso-lca-retorno-esporte",
+  "titulo": "Reconstrução do LCA e retorno ao esporte por critérios",
+  "area": "orto",
+  "cenario": "amb",
+  "tempo": 20,
+  "abertura": "Ambulatório de ortopedia e esporte. J., 22 anos, joga futebol amador três vezes por semana. Reconstrução do ligamento cruzado anterior do joelho direito com enxerto de tendões flexores há 2 semanas, sem lesão meniscal tratada. Chega de muletas, com joelho imobilizado em extensão para dormir, e diz que quer jogar a final do campeonato daqui a 4 meses. O cirurgião liberou carga conforme tolerância. Faça a avaliação inicial.",
+  "etapas": [
+   {
+    "n": 1,
+    "tarefa": "Diga o que avalia nesta fase e o que procura além do joelho operado.",
+    "entrega": "Déficit de extensão de 5 graus, flexão até 90 graus. Derrame articular moderado. Não consegue elevar a perna estendida sem deixar o joelho dobrar. Marcha com muletas, sem apoio do calcanhar. Panturrilha sem dor nem edema, ferida operatória limpa."
+   },
+   {
+    "n": 2,
+    "tarefa": "Formule o diagnóstico cinético-funcional, os objetivos da fase e o que precisa estar presente para progredir de fase.",
+    "entrega": "Quatro meses depois: sem derrame, amplitude completa, marcha normal, corre em linha reta sem dor. Dinamometria isocinética: força extensora do joelho operado de 72% do outro lado. Testes de salto ainda não feitos. Ele insiste: 'a final é mês que vem e o médico disse que o enxerto já pegou'."
+   },
+   {
+    "n": 3,
+    "tarefa": "Responda ao paciente com os critérios e as evidências, e diga o que muda no treino.",
+    "entrega": "Nove meses e meio depois da cirurgia: força extensora de 92%, quatro testes de salto entre 94 e 96%, escala de atividades de vida diária do joelho (KOS-ADLS) de 93 e autoavaliação global de 92. Na escala de prontidão psicológica, pontuação baixa: diz ter medo de 'apoiar e o joelho sair'."
+   },
+   {
+    "n": 4,
+    "tarefa": "Decida sobre o retorno e monte o plano de transição até o jogo.",
+    "entrega": "Encerramento do caso."
+   }
+  ],
+  "espelho": [
+   {
+    "eixo": "C",
+    "item": "Avalia na fase inicial derrame, déficit de extensão, ativação do quadríceps pela elevação da perna estendida, marcha, dor e sinais de trombose venosa e de infecção",
+    "peso": 0.5
+   },
+   {
+    "eixo": "C",
+    "item": "Formula o diagnóstico cinético-funcional pela CIF: déficit de extensão, derrame e inibição do quadríceps (funções), marcha com muletas (atividade) e afastamento do futebol (participação)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Prioriza na fase inicial extensão completa, controle do derrame e ativação do quadríceps, com eletroestimulação neuromuscular como recurso associado ao exercício",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Progride de fase por critérios clínicos (sem derrame, extensão completa, elevação da perna sem déficit, marcha normal) e não pelo calendário",
+    "peso": 0.6
+   },
+   {
+    "eixo": "H",
+    "item": "Fortalece o quadríceps com progressão de carga em cadeia aberta e fechada e protege a área doadora dos flexores no início",
+    "peso": 0.4
+   },
+   {
+    "eixo": "C",
+    "item": "Mede a simetria da força do quadríceps e dos testes de salto pelo índice entre membros e lê 72% como insuficiente para o retorno",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Recusa liberar o jogo aos 5 meses com dados: o risco de nova lesão caiu 51% a cada mês de adiamento do retorno até 9 meses, e relesionaram 38,2% dos que falharam nos critérios contra 5,6% dos que passaram, com critério de mais de 90 em todos os testes (Grindem et al., 2016)",
+    "peso": 0.7
+   },
+   {
+    "eixo": "C",
+    "item": "Avalia a prontidão psicológica antes de liberar (escala ACL-RSI, Webster et al., 2008) e trata o medo como critério, não como detalhe",
+    "peso": 0.3
+   },
+   {
+    "eixo": "H",
+    "item": "Planeja o retorno em etapas (treino sem contato, treino com contato, jogo parcial, jogo completo) e mantém programa de prevenção neuromuscular depois do retorno",
+    "peso": 0.5
+   },
+   {
+    "eixo": "A",
+    "item": "Decide o retorno com o atleta e o cirurgião, registra os testes com datas e orienta que derrame, dor ou falseio pedem parar e reavaliar com o médico",
+    "peso": 0.6
+   }
+  ]
+ },
+ {
+  "id": "caso-prematuro-cpap-utin",
+  "titulo": "Prematuro de 30 semanas em CPAP com desconforto respiratório",
+  "area": "pediatria",
+  "cenario": "uti",
+  "tempo": 20,
+  "abertura": "UTI neonatal. RN de M., 6 horas de vida, idade gestacional de 30 semanas, 1.350 g, parto vaginal, mãe recebeu só uma dose de corticoide antenatal. Na sala de parto recebeu CPAP com peça T e máscara. Agora em CPAP nasal com pronga, pressão de 6 cmH2O, FiO2 0,35, SpO2 no alvo prescrito. FR 72 irpm, gemido expiratório e tiragem. A enfermeira pede avaliação da fisioterapia porque 'a FiO2 vem subindo'. Avalie o RN.",
+  "etapas": [
+   {
+    "n": 1,
+    "tarefa": "Diga o que avalia no RN e no sistema de CPAP, e que escore usa para acompanhar o desconforto.",
+    "entrega": "Boletim de Silverman-Andersen de 6. FiO2 subiu para 0,40 na última hora para manter a saturação. Radiografia com padrão reticulogranular difuso e broncograma aéreo, sem pneumotórax. A pronga é grande para a narina e o septo está hiperemiado; boca aberta com vazamento; o manômetro do circuito marca 4 cmH2O. Abdome distendido, sonda orogástrica fechada."
+   },
+   {
+    "n": 2,
+    "tarefa": "Formule o raciocínio, diga o que corrige no sistema, o que comunica e o que não faz.",
+    "entrega": "O neonatologista administrou surfactante por cateter fino com o RN em CPAP. Duas horas depois, FiO2 0,25 e Silverman 2. No quinto dia, estável, sem secreção, a equipe de enfermagem pergunta se a fisioterapia vai fazer 'a sessão de rotina de vibração e aspiração' e como posicionar o bebê."
+   },
+   {
+    "n": 3,
+    "tarefa": "Responda à equipe e organize o cuidado respiratório e de desenvolvimento nos próximos dias.",
+    "entrega": "No décimo dia, durante a troca de decúbito feita por você, o RN apresenta bradicardia para 80 bpm e SpO2 de 78%, que não melhora em 20 segundos."
+   },
+   {
+    "n": 4,
+    "tarefa": "Diga o que faz, quem chama e o que registra.",
+    "entrega": "Encerramento do caso."
+   }
+  ],
+  "espelho": [
+   {
+    "eixo": "C",
+    "item": "Acompanha o desconforto com o boletim de Silverman-Andersen seriado, cinco itens de 0 a 2 (Silverman e Andersen, 1956), junto com a tendência da FiO2",
+    "peso": 0.6
+   },
+   {
+    "eixo": "C",
+    "item": "Reconhece o padrão de síndrome do desconforto respiratório do prematuro (piora nas primeiras horas, gemido, FiO2 crescente, radiografia reticulogranular) e afasta pneumotórax",
+    "peso": 0.5
+   },
+   {
+    "eixo": "C",
+    "item": "Confere o sistema antes de culpar o pulmão: tamanho e posição da pronga, lesão de septo, vazamento pela boca, pressão real no circuito e distensão gástrica",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Corrige a interface (pronga do tamanho certo, fixação sem pressão no septo, controle do vazamento oral, gás aquecido e umidificado, circuito sem condensado) e restabelece a pressão prescrita, pedindo à enfermagem a sonda orogástrica aberta",
+    "peso": 0.6
+   },
+   {
+    "eixo": "A",
+    "item": "Comunica de imediato ao neonatologista que a FiO2 acima de 0,30 com CPAP de pelo menos 6 cmH2O é critério de surfactante, de preferência por técnica minimamente invasiva (Consenso Europeu, Sweet et al., 2023), cuja indicação e administração são médicas",
+    "peso": 0.6
+   },
+   {
+    "eixo": "H",
+    "item": "Não faz fisioterapia respiratória convencional nem aspiração de rotina no prematuro estável sem secreção, e aspira só quando há secreção que comprometa a via aérea",
+    "peso": 0.5
+   },
+   {
+    "eixo": "H",
+    "item": "Organiza o cuidado de desenvolvimento com a enfermagem: manuseio mínimo e agrupado, posicionamento em flexão com contenção, alternância de decúbito e estímulo ao Método Canguru (Portaria MS 1.683/2007)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Planeja o desmame do CPAP por critérios clínicos estáveis, decidido com a equipe médica",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Interrompe o manuseio diante de bradicardia e dessaturação, devolve o RN à posição de conforto, confere a via aérea e a interface e chama o médico quando não há recuperação rápida",
+    "peso": 0.6
+   },
+   {
+    "eixo": "A",
+    "item": "Registra avaliação, intercorrência e conduta na evolução de cada turno, dentro da equipe mínima de 1 fisioterapeuta para cada 10 leitos em 18 horas diárias (RDC ANVISA 7/2010)",
+    "peso": 0.4
+   }
+  ]
+ },
+ {
+  "id": "caso-iue-pos-parto",
+  "titulo": "Incontinência urinária de esforço no pós-parto",
+  "area": "mulher",
+  "cenario": "amb",
+  "tempo": 20,
+  "abertura": "Ambulatório de fisioterapia pélvica, encaminhamento da unidade básica. Sra. C., 31 anos, 4 meses após parto vaginal com episiotomia e período expulsivo prolongado, primeiro filho, amamentando. Perde urina ao tossir, ao espirrar e ao levantar o bebê do berço; usa absorvente todos os dias e deixou de fazer caminhada. Já teve alta da consulta de puerpério. Diz que 'isso é normal depois do parto' e que tem vergonha de falar disso. Faça a avaliação.",
+  "etapas": [
+   {
+    "n": 1,
+    "tarefa": "Diga o que pergunta, que instrumentos usa e que sinais exigiriam avaliação médica antes de tratar.",
+    "entrega": "Perdas só aos esforços, sem urgência nem noctúria. Diário miccional de 3 dias sem alterações de frequência. ICIQ-SF de 12. Sem hematúria, dor, febre ou disúria. Sem sensação de peso vaginal. Aceita o exame depois da explicação e pede que a porta fique trancada."
+   },
+   {
+    "n": 2,
+    "tarefa": "Descreva o exame do assoalho pélvico, com as condições para fazê-lo.",
+    "entrega": "Períneo cicatrizado. À palpação digital, contração perceptível, mas fraca: Oxford modificada 2, sustenta 4 segundos, 5 repetições, com apneia e contração de glúteos e adutores. Sem prolapso visível ao esforço."
+   },
+   {
+    "n": 3,
+    "tarefa": "Formule o diagnóstico cinético-funcional e prescreva o programa, com os parâmetros.",
+    "entrega": "Três meses depois: Oxford modificada 4, ICIQ-SF de 5, perde urina só ao correr. Quer voltar a correr. Conta que no fim do dia sente 'uma bola' na vagina que melhora ao deitar."
+   },
+   {
+    "n": 4,
+    "tarefa": "Diga como reavalia, o que mantém e o que encaminha.",
+    "entrega": "Encerramento do caso."
+   }
+  ],
+  "espelho": [
+   {
+    "eixo": "C",
+    "item": "Caracteriza a incontinência como de esforço pela anamnese e pelo diário miccional e mede o impacto com o ICIQ-SF (Avery et al., 2004; validação brasileira de Tamanini et al., 2004)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "C",
+    "item": "Procura sinais que exigem avaliação médica antes de tratar: hematúria, dor pélvica, infecção urinária, retenção e prolapso sintomático",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Explica o exame, obtém e registra o consentimento para a palpação intravaginal, oferece acompanhante e garante que a paciente pode interromper a qualquer momento",
+    "peso": 0.5
+   },
+   {
+    "eixo": "C",
+    "item": "Confirma a contração por palpação digital antes de iniciar o treino (NICE NG123, 2019) e a gradua pela escala de Oxford modificada e pelo esquema PERFECT (Laycock e Jerwood, 2001)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "C",
+    "item": "Formula o diagnóstico cinético-funcional pela CIF: fraqueza e baixa resistência dos músculos do assoalho pélvico com coativação inadequada (funções), perda aos esforços (atividade) e abandono da caminhada (participação)",
+    "peso": 0.3
+   },
+   {
+    "eixo": "H",
+    "item": "Prescreve treino dos músculos do assoalho pélvico supervisionado por pelo menos 3 meses, com pelo menos 8 contrações 3 vezes ao dia, como primeira linha (NICE NG123, 2019)",
+    "peso": 0.6
+   },
+   {
+    "eixo": "H",
+    "item": "Ensina a contração correta sem apneia e sem compensação de glúteos e adutores, a contração antes do esforço (tossir, levantar o bebê) e progride posição e carga",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Não associa eletroestimulação nem biofeedback de rotina ao treino, e reserva a eletroestimulação para quem não consegue contrair (NICE NG123, 2019)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "C",
+    "item": "Reavalia ao fim de 3 meses com os mesmos instrumentos e mantém o programa porque houve benefício",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Encaminha a sensação de bola vaginal para avaliação médica de prolapso, cujo diagnóstico e decisão sobre pessário ou cirurgia são do ginecologista, sem suspender o treino",
+    "peso": 0.6
+   },
+   {
+    "eixo": "A",
+    "item": "Registra a avaliação, o consentimento e a evolução, e devolve à unidade básica o plano por escrito",
+    "peso": 0.4
+   }
+  ]
+ },
+ {
+  "id": "caso-quedas-idoso-aps",
+  "titulo": "Idoso com quedas de repetição na atenção primária",
+  "area": "idoso",
+  "cenario": "aps",
+  "tempo": 20,
+  "abertura": "Unidade básica de saúde, atendimento da eMulti. Sr. J., 79 anos, viúvo, mora sozinho. Caiu três vezes no último ano; na última, fraturou o punho. Usa nove medicamentos, entre eles um benzodiazepínico para dormir e dois anti-hipertensivos. Diz que tem tontura ao levantar da cama e que passou a sair menos de casa 'para não cair de novo'. A médica de família pede a avaliação da fisioterapia. Diga como começa.",
+  "etapas": [
+   {
+    "n": 1,
+    "tarefa": "Classifique o risco de queda, diga se precisa de teste para isso e o que avalia na consulta.",
+    "entrega": "Velocidade de marcha de 0,7 m/s. TUG de 18 segundos. Levanta da cadeira só com apoio das mãos. PA deitado, depois de 5 minutos: 142/80 mmHg; em pé, no primeiro minuto: 118/70 mmHg, com tontura. Não consegue levantar do chão sozinho. Usa chinelo, tem tapetes soltos e o banheiro sem barra. Diz que enxerga mal de perto."
+   },
+   {
+    "n": 2,
+    "tarefa": "Formule o diagnóstico cinético-funcional e o plano: o que você faz e o que leva à equipe.",
+    "entrega": "Seis semanas depois, ele foi ao grupo da unidade só uma vez por semana e não fez os exercícios em casa. Diz que sozinho tem medo e que não entendeu a folha."
+   },
+   {
+    "n": 3,
+    "tarefa": "Ajuste o plano para garantir a dose e diga quando e como reavalia.",
+    "entrega": "Doze semanas depois: velocidade de marcha de 0,9 m/s, TUG de 13 segundos, sem quedas no período. A médica reduziu o benzodiazepínico. Ele pergunta se pode parar os exercícios."
+   },
+   {
+    "n": 4,
+    "tarefa": "Responda e defina o seguimento.",
+    "entrega": "Encerramento do caso."
+   }
+  ],
+  "espelho": [
+   {
+    "eixo": "C",
+    "item": "Classifica como alto risco pelas duas ou mais quedas em 12 meses e pela queda com lesão, o que já indica avaliação multifatorial multiprofissional sem depender de teste de marcha (World Guidelines for Falls Prevention, 2022, grau 1B)",
+    "peso": 0.6
+   },
+   {
+    "eixo": "C",
+    "item": "Usa a velocidade de marcha (corte abaixo de 0,8 m/s, grau 1A) e o TUG (acima de 15 segundos, grau 1B) como medidas basais para acompanhar a resposta (World Guidelines for Falls Prevention, 2022)",
+    "peso": 0.5
+   },
+   {
+    "eixo": "C",
+    "item": "Mede a PA deitado depois de pelo menos 5 minutos e repetidamente em pé (World Guidelines for Falls Prevention, 2022) e identifica a queda pressórica com tontura",
+    "peso": 0.4
+   },
+   {
+    "eixo": "C",
+    "item": "Avalia medo de cair, capacidade de levantar do chão, calçado, ambiente da casa e visão como fatores do caso",
+    "peso": 0.3
+   },
+   {
+    "eixo": "H",
+    "item": "Prescreve exercício com desafio de equilíbrio e exercícios funcionais (sentar e levantar, passos), três ou mais vezes por semana, individualizado e progressivo, por pelo menos 12 semanas e mantido depois (World Guidelines for Falls Prevention, 2022, grau 1A)",
+    "peso": 0.7
+   },
+   {
+    "eixo": "H",
+    "item": "Acrescenta fortalecimento progressivo ou Tai Chi quando viável (World Guidelines for Falls Prevention, 2022, grau 1B)",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Ensina a levantar do chão e combina um plano para pedir ajuda, porque mora sozinho",
+    "peso": 0.4
+   },
+   {
+    "eixo": "H",
+    "item": "Organiza a dose no território com a eMulti (Portaria GM/MS 635/2023): grupo na unidade, programa domiciliar ilustrado e acompanhamento por visita ou contato, até cumprir a frequência",
+    "peso": 0.3
+   },
+   {
+    "eixo": "A",
+    "item": "Leva à médica e ao farmacêutico a revisão do benzodiazepínico e da polifarmácia com instrumento estruturado como o STOPPFall (World Guidelines for Falls Prevention, 2022), sem orientar suspensão de remédio por conta própria",
+    "peso": 0.6
+   },
+   {
+    "eixo": "A",
+    "item": "Encaminha à médica a hipotensão ortostática e a queixa visual, e à terapia ocupacional ou à equipe a adaptação da casa",
+    "peso": 0.4
+   },
+   {
+    "eixo": "A",
+    "item": "Registra as medidas basais e de reavaliação, não restringe a marcha como forma de prevenir quedas e orienta manter o exercício depois das 12 semanas",
+    "peso": 0.4
+   }
+  ]
+ }
+]

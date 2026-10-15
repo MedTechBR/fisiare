@@ -1,0 +1,94 @@
+{
+  "name": "Fisiare — estudo de Fisioterapia",
+  "short_name": "Fisiare",
+  "start_url": "./index.html?fonte=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FAFAF8",
+  "theme_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "icons/icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/fisiare/",
+  "description": "Questões de provas reais e autorais comentadas de Fisioterapia, simulados no formato do ENARE multiprofissional e de concursos, casos clínicos, cartões e leituras ancoradas em normas e diretrizes vigentes.",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "categories": [
+    "medical",
+    "education"
+  ],
+  "orientation": "portrait-primary",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "shortcuts": [
+    {
+      "name": "Questões",
+      "short_name": "Questões",
+      "url": "./index.html?ir=questoes",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Leituras",
+      "short_name": "Leituras",
+      "url": "./index.html?ir=leituras",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Cartões de hoje",
+      "short_name": "Cartões",
+      "url": "./index.html?ir=cartoes",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Simulado",
+      "short_name": "Simulado",
+      "url": "./index.html?ir=simulado",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

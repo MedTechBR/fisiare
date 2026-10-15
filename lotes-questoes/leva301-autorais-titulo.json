@@ -1,0 +1,1002 @@
+[
+ {
+  "q": "Homem de 50 anos, 170 cm e 92 kg, com SDRA moderada por pneumonia, está em VCV com volume corrente de 420 mL, fluxo quadrado de 60 L/min, PEEP de 12 cmH₂O e FiO₂ de 0,6. Na pausa inspiratória, a pressão de pico é de 36 cmH₂O e a de platô, de 30 cmH₂O. A gasometria mostra pH 7,36 e PaCO₂ de 44 mmHg. Pelas orientações práticas de ventilação mecânica da AMIB e da SBPT de 2025, qual o ajuste mais coerente?",
+  "alts": [
+   "Manter os parâmetros, pois o volume está em cerca de 6 mL/kg de peso predito e o platô não passa de 30 cmH₂O.",
+   "Reduzir o volume para cerca de 5 mL/kg de peso predito, buscando distensão de até 15 cmH₂O e tolerando alguma hipercapnia.",
+   "Elevar a PEEP para 16 cmH₂O sem mudar o volume, porque a PEEP mais alta reduz por si a pressão de distensão.",
+   "Fazer manobra de recrutamento prolongada com PEEP de 40 cmH₂O e voltar ao volume atual, que já é protetor.",
+   "Recalcular o volume pelo peso real do paciente e manter 4,5 mL/kg, cerca de 410 mL, já que ele tem sobrepeso."
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "SDRA e ventilação protetora",
+  "cenario": "uti",
+  "comp": "cond",
+  "nivel": "tit",
+  "base": "Orientações práticas de ventilação mecânica AMIB/SBPT, J Bras Pneumol 2025;51(1):e20240255; diretriz ESICM de SDRA 2023",
+  "coment": "O volume se calcula pelo peso predito: 50 + 0,91 × (170 − 152,4) ≈ 66 kg, de modo que 420 mL equivalem a 6,4 mL/kg. O ponto decisivo é a pressão de distensão: platô de 30 menos PEEP de 12 dá 18 cmH₂O, acima do limite de 15 que as orientações AMIB/SBPT de 2025 consideram em todas as gravidades. A complacência estática é de cerca de 23 mL/cmH₂O; com 330 mL (5 mL/kg), a distensão cai para perto de 14. O documento admite de 4 a 8 mL/kg, começando com 6 e ajustando por platô, PaCO₂ e pH, e o pH de 7,36 dá margem para hipercapnia permissiva. Recrutamento prolongado deve ser evitado.",
+  "porAlt": [
+   "Errada: platô no limite não basta; a distensão de 18 cmH₂O passa do teto de 15 considerado pela AMIB/SBPT em 2025.",
+   "Correta: com complacência de cerca de 23 mL/cmH₂O, 5 mL/kg leva a distensão a perto de 14 cmH₂O, e o pH permite tolerar mais PaCO₂.",
+   "Errada: sem ganho de complacência, subir a PEEP com o mesmo volume eleva o platô para cerca de 34 cmH₂O; a distensão não cai por si.",
+   "Errada: as orientações de 2025 mandam evitar recrutamento prolongado, e a ESICM 2023 recomenda com força contra ele.",
+   "Errada: o volume corrente se calcula pelo peso predito, por sexo e altura, e não pelo peso real; o pulmão acompanha a estatura."
+  ]
+ },
+ {
+  "q": "Mulher de 64 anos, no quinto dia de ventilação mecânica por pneumonia, está em PSV de 10 cmH₂O, PEEP de 6 cmH₂O e FiO₂ de 0,35, com PaO₂ de 82 mmHg, noradrenalina em dose baixa e estável, boa perfusão, abertura ocular ao chamado e esforço inspiratório presente. A equipe pede ao fisioterapeuta que conduza o teste de respiração espontânea. Pelas orientações da AMIB e da SBPT de 2025, como deve ser feito o teste?",
+  "alts": [
+   "Em tubo T por 120 minutos, que passou a ser o modo preferencial por reproduzir a carga que virá após a extubação.",
+   "Depois de suspender a noradrenalina, já que o uso de vasopressor impede o início do desmame ventilatório.",
+   "Pelo índice de Tobin: com relação f/VT abaixo de 105, extubar sem necessidade de completar o teste de respiração.",
+   "Em PSV de 5 a 7 cmH₂O com PEEP de até 5 cmH₂O, por 30 a 60 minutos, e repouso de cerca de 1 hora antes de extubar.",
+   "Em SIMV com redução progressiva da frequência mandatória ao longo de 24 horas, até a paciente sustentar a ventilação."
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Desmame e extubação",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "tit",
+  "base": "Orientações práticas AMIB/SBPT, J Bras Pneumol 2025;51(1):e20240255; Recomendações Brasileiras de Ventilação Mecânica 2013, Parte 2",
+  "coment": "Pelas orientações AMIB/SBPT de 2025, o teste de respiração espontânea é feito em PSV de 5 a 7 cmH₂O com PEEP de 0 a 5 cmH₂O, por 30 a 60 minutos (sugestão), e, após teste bem-sucedido, considera-se voltar aos parâmetros prévios por cerca de 1 hora antes de extubar. A paciente preenche os critérios de prontidão das recomendações de 2013: PaO₂ ≥ 60 mmHg com FiO₂ ≤ 0,4 e PEEP ≤ 5 a 8, estabilidade com dose baixa de vasopressor e drive presente. O tubo T por até 120 minutos era aceito em 2013, mas deixou de ser primeira opção; o ensaio de Subirà (JAMA 2019) extubou com sucesso mais pacientes com PSV por 30 minutos.",
+  "porAlt": [
+   "Errada: o tubo T era aceito em 2013, mas em 2025 a sugestão é a PSV baixa por 30 a 60 minutos.",
+   "Errada: estabilidade com dose baixa de vasopressor e boa perfusão não impede o desmame pelos critérios de 2013.",
+   "Errada: o índice de Tobin só ajuda na decisão difícil e não substitui o teste de respiração espontânea, que é quem decide.",
+   "Correta: é o formato sugerido em 2025, com a consideração de repouso nos parâmetros prévios antes da extubação.",
+   "Errada: a SIMV deve ser evitada no desmame, pois se associou a maior tempo até a retirada da ventilação."
+  ]
+ },
+ {
+  "q": "Homem de 72 anos, com insuficiência cardíaca e DPOC, foi intubado por edema agudo de pulmão e está há 5 dias em ventilação mecânica. Passou no teste de respiração espontânea, tem Glasgow 15, tosse eficaz e pouca secreção; a gasometria no fim do teste mostra PaCO₂ de 49 mmHg. Não há contraindicação à ventilação não invasiva. Qual suporte deve ser planejado logo após a extubação?",
+  "alts": [
+   "Oxigênio por cateter, reservando a VNI para o caso de surgir insuficiência respiratória após a extubação.",
+   "Cânula nasal de alto fluxo isolada, que a ERS 2022 prefere à VNI no hipercápnico com alto risco de falha da extubação.",
+   "VNI preventiva iniciada logo após a extubação, podendo alternar com cânula nasal de alto fluxo nos intervalos.",
+   "Adiar a extubação até a PaCO₂ ficar abaixo de 45 mmHg, já que a hipercapnia contraindica a retirada do tubo.",
+   "Máscara de Venturi a 50% e incentivador inspiratório, já que o sucesso no teste dispensa qualquer suporte ventilatório."
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Ventilação não invasiva e alto fluxo",
+  "cenario": "uti",
+  "comp": "cond",
+  "nivel": "tit",
+  "base": "Diretriz ATS/ACCP de liberação da ventilação mecânica 2017; diretriz ERS de cânula nasal de alto fluxo 2022; Recomendações Brasileiras de Ventilação Mecânica 2013",
+  "coment": "O paciente soma fatores de risco para insuficiência respiratória pós-extubação listados pela AMIB/SBPT em 2013: idade acima de 65 anos, insuficiência cardíaca como causa da intubação, ventilação por mais de 72 horas e PaCO₂ acima de 45 mmHg. No alto risco, a VNI preventiva aplicada imediatamente após a extubação tem recomendação forte da ATS/ACCP 2017, e a ERS 2022 prefere a VNI à cânula de alto fluxo, salvo contraindicação. As orientações de 2025 admitem a cânula associada à VNI nesse grupo. Já a VNI usada para resgatar a falência instalada (curativa) deve ser evitada fora do pós-operatório, porque atrasa a reintubação.",
+  "porAlt": [
+   "Errada: é a VNI curativa, que deve ser evitada fora do pós-operatório porque atrasa a reintubação necessária.",
+   "Errada: a ERS 2022 prefere a VNI à cânula no alto risco de falha e manda tentar a VNI primeiro no hipercápnico.",
+   "Correta: no alto risco, a VNI preventiva imediata tem recomendação forte da ATS/ACCP 2017 e pode alternar com o alto fluxo.",
+   "Errada: PaCO₂ acima de 45 mmHg é fator de risco que pede suporte preventivo, e não motivo para manter o tubo.",
+   "Errada: passar no teste não elimina o risco de falha; esse paciente precisa de suporte ventilatório preventivo."
+  ]
+ },
+ {
+  "q": "Mulher de 46 anos com SDRA por pneumonia, intubada há 10 horas, em ventilação protetora com volume corrente de 6 mL/kg de peso predito, PEEP de 14 cmH₂O e FiO₂ de 0,7, mantém PaO₂/FiO₂ de 120 após o período de estabilização. Não há contraindicação à posição prona. Pelas orientações da AMIB e da SBPT de 2025, qual a conduta?",
+  "alts": [
+   "Aguardar 72 horas de ventilação protetora e pronar se a relação PaO₂/FiO₂ cair abaixo de 80 com FiO₂ de 100%.",
+   "Contraindicar a prona, porque PEEP acima de 12 cmH₂O aumenta o risco de barotrauma durante o decúbito ventral.",
+   "Pronar em sessões de 4 a 6 horas e voltar ao supino assim que a relação passar de 150 durante a sessão em prono.",
+   "Fazer antes um recrutamento alveolar máximo, reservando a prona para quem não responder à manobra de recrutamento.",
+   "Pronar o quanto antes, em sessões longas, e suspender quando a relação em supino ficar acima de 150 por mais de 4 horas."
+  ],
+  "gab": 4,
+  "tema": "uti",
+  "sub": "SDRA e ventilação protetora",
+  "cenario": "uti",
+  "comp": "cond",
+  "nivel": "tit",
+  "base": "Orientações práticas AMIB/SBPT, J Bras Pneumol 2025;51(1):e20240255; diretriz ESICM de SDRA 2023 (Intensive Care Med 2023;49(7):727-759)",
+  "coment": "As orientações AMIB/SBPT de 2025 sugerem a prona com PaO₂/FiO₂ ≤ 150, FiO₂ acima de 60% e PEEP ≥ 5 cmH₂O, o mais cedo possível, de preferência nas primeiras 12 horas após a estabilização e a confirmação da hipoxemia. A suspensão ocorre quando a relação fica acima de 150 por mais de 4 horas em supino, ou se duas sessões seguidas reduzirem a relação em mais de 20%. A ESICM 2023 recomenda com força a prona na SDRA moderada a grave, em sessões de 16 horas ou mais. A melhora durante o prono não autoriza suspender, porque o critério é medido em supino. Recrutamento prolongado deve ser evitado.",
+  "porAlt": [
+   "Errada: os limiares de 80 e FiO₂ máxima lembram critérios de ECMO; a prona deve ser precoce, com PaO₂/FiO₂ ≤ 150.",
+   "Errada: PEEP elevada não é contraindicação; a paciente cumpre os critérios e não tem contraindicação descrita.",
+   "Errada: as sessões devem ser longas, e a melhora em prono não basta; o critério de suspensão é medido em supino.",
+   "Errada: as orientações de 2025 mandam evitar recrutamento prolongado, que não é etapa prévia obrigatória da prona.",
+   "Correta: são os critérios de indicação precoce e de suspensão das orientações de 2025, com sessões prolongadas."
+  ]
+ },
+ {
+  "q": "Homem de 58 anos, no 12º dia de UTI por choque séptico, está desperto, cumpre ordens simples e segue em ventilação mecânica após falhar em dois testes de respiração espontânea por taquipneia e fadiga. A soma do MRC é 38 de 60, a preensão palmar é de 9 kg e a PImáx é de −22 cmH₂O. Eletrólitos e aporte nutricional estão nas metas. Qual a leitura e a conduta mais adequadas?",
+  "alts": [
+   "Fraqueza adquirida grave, pois o MRC está abaixo de 40; manter repouso no leito até a extubação para poupar a energia dele.",
+   "Fraqueza adquirida na UTI, com MRC abaixo de 48; associar mobilização ativa progressiva a treino muscular inspiratório.",
+   "Sem fraqueza adquirida, pois o diagnóstico exige MRC abaixo de 30; priorizar testes diários em tubo T por 2 horas.",
+   "Fraqueza adquirida na UTI; adiar o treino muscular inspiratório para depois da extubação, quando passa a ser seguro.",
+   "Diagnóstico depende de eletroneuromiografia; suspender a mobilização até o exame definir neuropatia ou miopatia."
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Mobilização precoce e fraqueza adquirida",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "Orientações práticas AMIB/SBPT, J Bras Pneumol 2025;51(1):e20240255; Piva, Fagoni e Latronico, F1000Res 2019;8:508",
+  "coment": "No paciente desperto e colaborativo, o diagnóstico de fraqueza adquirida na UTI é clínico: soma do MRC abaixo de 48 de 60 indica fraqueza significativa, e abaixo de 36, grave; a preensão palmar abaixo de 11 kg em homens reforça o achado (Piva, Fagoni e Latronico, 2019). Com 38, ele tem fraqueza significativa, não grave. As orientações AMIB/SBPT de 2025 sugerem mobilização precoce ativa e reabilitação muscular quando a doença aguda reverteu, sem distúrbio eletrolítico e com nutrição adequada, e treinamento muscular inspiratório para quem está ventilado há mais de 7 dias e para quem falhou no desmame por fraqueza respiratória. Os dois critérios estão presentes.",
+  "porAlt": [
+   "Errada: o corte de fraqueza grave é MRC abaixo de 36, e o repouso no leito agrava a perda muscular.",
+   "Correta: MRC de 38 confirma a fraqueza, e as orientações de 2025 sugerem mobilização ativa e treino inspiratório nesse perfil.",
+   "Errada: o corte é abaixo de 48 de 60; além disso, o teste sugerido em 2025 é em PSV por 30 a 60 minutos.",
+   "Errada: o treino inspiratório é sugerido justamente para quem segue ventilado há mais de 7 dias e falhou por fraqueza.",
+   "Errada: no colaborativo o diagnóstico é clínico; a eletrofisiologia fica para quem não colabora, e mobilizar não espera o exame."
+  ]
+ },
+ {
+  "q": "Homem de 69 anos com DPOC está em PSV de 14 cmH₂O, PEEP de 5 cmH₂O e critério de ciclagem de 25% do pico de fluxo. O fisioterapeuta observa contração da musculatura abdominal no fim de cada inspiração, elevação da pressão acima do valor ajustado no fim da fase inspiratória e uma curva de fluxo que desacelera devagar, com tempo inspiratório mecânico maior que o neural. Qual a assincronia e a correção indicada?",
+  "alts": [
+   "Ciclagem tardia; elevar o critério de ciclagem da PSV, por exemplo de 25% para 40% ou mais do pico de fluxo.",
+   "Ciclagem prematura; reduzir o critério de ciclagem para 10% e alongar a inspiração entregue pelo ventilador.",
+   "Duplo disparo; elevar a pressão de suporte para 20 cmH₂O, para que um único ciclo atenda à demanda do paciente.",
+   "Autodisparo; reduzir a sensibilidade do disparo até que os ciclos sem esforço do paciente deixem de ocorrer.",
+   "Fluxo insuficiente; trocar para VCV com fluxo de 30 L/min, para controlar melhor o tempo inspiratório do ciclo."
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Ajuste e mecânica do sistema respiratório",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "tit",
+  "base": "Recomendações Brasileiras de Ventilação Mecânica 2013 (AMIB/SBPT), J Bras Pneumol 2014;40(4):327-363",
+  "coment": "Na ciclagem tardia, o ventilador continua insuflando depois que o esforço neural do paciente terminou: o tempo mecânico é maior que o neural. É típica da DPOC em PSV, porque a constante de tempo longa faz o fluxo desacelerar devagar e demorar a atingir os 25% do pico. O paciente tenta expirar contra o ventilador, recruta abdominais e a pressão sobe no fim da inspiração. As Recomendações Brasileiras de 2013 corrigem reduzindo o tempo inspiratório e, em PSV, elevando o critério de ciclagem, por exemplo de 25% para 40% ou mais; na DPOC exacerbada, citam ciclagem de 40 a 60%. Isso encurta a inspiração e dá tempo à expiração, o que também reduz a auto-PEEP.",
+  "porAlt": [
+   "Correta: tempo mecânico maior que o neural na DPOC em PSV se corrige elevando o critério de ciclagem.",
+   "Errada: na ciclagem prematura o tempo mecânico é menor que o neural; baixar o critério pioraria o quadro descrito.",
+   "Errada: no duplo disparo um esforço gera dois ciclos; aumentar a pressão alongaria ainda mais a inspiração.",
+   "Errada: no autodisparo há ciclo sem esforço; aqui o problema está no fim da inspiração, e não no seu início.",
+   "Errada: fluxo insuficiente gera pressão côncava no início da inspiração, e 30 L/min alongaria o tempo inspiratório."
+  ]
+ },
+ {
+  "q": "Recém-nascido de 28 semanas e 1.050 g está desde a sala de parto em CPAP de 7 cmH₂O por prongas binasais curtas. Com 3 horas de vida, mantém gemência e retração subcostal e precisa de FiO₂ de 0,40 para manter a SpO₂ entre 90% e 94%. Segundo o Consenso Europeu de Síndrome do Desconforto Respiratório (atualização de 2022), qual a leitura correta?",
+  "alts": [
+   "Há critério para surfactante de resgate, por FiO₂ acima de 0,30 em CPAP de 6 cmH₂O ou mais, de preferência por LISA.",
+   "Ainda não há critério; o surfactante se indica com FiO₂ acima de 0,60 e após subir a meta de SpO₂ para 95% a 98%.",
+   "Deve-se intubar e ventilar com 8 mL/kg, pois o surfactante precisa ser dado em ventilação mecânica convencional.",
+   "Deve-se trocar o CPAP por cânula nasal de alto fluxo na mesma FiO₂, já que o alto fluxo dispensa o surfactante.",
+   "Deve-se reduzir o CPAP para 4 cmH₂O, pois pressões acima de 5 cmH₂O no pré-termo elevam o risco de pneumotórax."
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Ventilação não invasiva e alto fluxo",
+  "cenario": "uti",
+  "comp": "cond",
+  "nivel": "tit",
+  "base": "Consenso Europeu de SDR, atualização 2022 (Sweet e colaboradores, Neonatology 2023;120(1):3-23)",
+  "coment": "O Consenso Europeu de SDR (Sweet e colaboradores, Neonatology 2023, atualização de 2022) recomenda CPAP desde o nascimento no pré-termo de risco que respira espontaneamente, com pressão inicial em torno de 6 a 8 cmH₂O, e surfactante de resgate precoce para o bebê que piora com FiO₂ acima de 0,30 em CPAP de 6 cmH₂O ou mais; a LISA é o método preferido no bebê em CPAP. A saturação-alvo no pré-termo em oxigênio é de 90% a 94%. O fisioterapeuta, que ajusta e monitora o CPAP, reconhece o critério e o comunica à equipe médica, que prescreve o surfactante. A cânula de alto fluxo é alternativa ao CPAP em alguns bebês, e não substitui o surfactante.",
+  "porAlt": [
+   "Correta: FiO₂ de 0,40 em CPAP de 7 cmH₂O preenche o critério do consenso, e a LISA é o método preferido em CPAP.",
+   "Errada: o limiar é FiO₂ acima de 0,30, e a meta de SpO₂ no pré-termo em oxigênio é de 90% a 94%.",
+   "Errada: a LISA permite dar surfactante sem ventilação mecânica; o consenso busca evitar a intubação para ventilar.",
+   "Errada: o alto fluxo é alternativa ao CPAP em alguns bebês, mas não trata a deficiência de surfactante.",
+   "Errada: o consenso recomenda CPAP inicial em torno de 6 a 8 cmH₂O; baixar a pressão agravaria o colapso alveolar."
+  ]
+ },
+ {
+  "q": "Lactente de 3 meses, sem comorbidades, está na UTI pediátrica com bronquiolite por vírus sincicial respiratório, em cânula nasal de alto fluxo, com SpO₂ de 93% em FiO₂ de 0,35, roncos difusos e tiragem subcostal moderada. A prescrição pede fisioterapia respiratória três vezes ao dia. O que a evidência atual sustenta?",
+  "alts": [
+   "Vibrocompressão e percussão três vezes ao dia, que encurtam a internação segundo a revisão Cochrane de 2023.",
+   "Expiração forçada passiva com aumento rápido do fluxo, que tem o melhor resultado nas formas mais graves da doença.",
+   "Não aplicar técnicas de desobstrução de rotina; avaliar o desconforto, ajustar o suporte e vigiar sinais de falência.",
+   "Drenagem postural em cefalodeclive associada a tapotagem, para mobilizar a secreção das vias aéreas mais distais.",
+   "Expiração lenta prolongada como técnica de rotina, por ter benefício de certeza alta comprovado na bronquiolite viral."
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Ventilação não invasiva e alto fluxo",
+  "cenario": "uti",
+  "comp": "cond",
+  "nivel": "tit",
+  "base": "Diretriz de bronquiolite da American Academy of Pediatrics 2014 (Ralston e colaboradores, Pediatrics 2014); revisão Cochrane de fisioterapia respiratória na bronquiolite, 2023",
+  "coment": "A diretriz da American Academy of Pediatrics de 2014 recomenda não usar fisioterapia respiratória em lactentes com bronquiolite (recomendação moderada), e a revisão Cochrane de 2023, com 17 ensaios, mostrou com certeza alta que vibração, percussão e drenagem postural não mudam gravidade, uso de oxigênio nem tempo de internação, e que a expiração forçada passiva na forma grave não melhora o quadro e pode causar eventos adversos graves. A expiração lenta passiva teve possível benefício leve, com certeza baixa. Sem comorbidade que dificulte eliminar secreção, o papel do fisioterapeuta na UTI pediátrica é avaliar o desconforto, ajustar o suporte e reconhecer a falência.",
+  "porAlt": [
+   "Errada: a Cochrane 2023 mostrou, com certeza alta, que as técnicas convencionais não mudam o tempo de internação.",
+   "Errada: a expiração forçada passiva na bronquiolite grave não melhora o quadro e pode causar eventos adversos graves.",
+   "Correta: sem comorbidade, a fisioterapia de rotina não é indicada; o foco é avaliar, ajustar o suporte e reconhecer falência.",
+   "Errada: drenagem postural e tapotagem são técnicas convencionais sem efeito na bronquiolite, e o cefalodeclive traz riscos.",
+   "Errada: a expiração lenta passiva teve possível benefício leve, com certeza baixa, e não é técnica de rotina."
+  ]
+ },
+ {
+  "q": "Mulher de 68 anos com DPOC chega ao pronto-socorro em exacerbação, com frequência respiratória de 30 ipm e uso de musculatura acessória, alerta e colaborativa. Em máscara de Venturi a 28%, a gasometria mostra pH 7,28, PaCO₂ de 70 mmHg, bicarbonato de 32 mEq/L e PaO₂ de 58 mmHg. Qual a interpretação e a conduta coerentes com a diretriz ERS/ATS de 2017?",
+  "alts": [
+   "Acidose respiratória crônica compensada; manter a Venturi e a higiene brônquica, sem necessidade de suporte ventilatório.",
+   "Acidose respiratória crônica agudizada; iniciar VNI com dois níveis de pressão e reavaliar entre 30 minutos e 2 horas.",
+   "Acidose respiratória aguda pura; iniciar cânula nasal de alto fluxo, que é a primeira escolha antes de tentar a VNI.",
+   "Acidose metabólica com compensação respiratória; elevar a FiO₂ para SpO₂ acima de 96% e repetir a gasometria.",
+   "Distúrbio misto grave; intubar de imediato, pois pH abaixo de 7,30 contraindica a VNI na exacerbação da DPOC."
+  ],
+  "gab": 1,
+  "tema": "respiratoria",
+  "sub": "Gasometria arterial",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "Diretriz ERS/ATS de VNI na insuficiência respiratória aguda (Rochwerg e colaboradores, Eur Respir J 2017;50(2):1602426); diretriz ERS de alto fluxo 2022",
+  "coment": "O pH baixo com PaCO₂ alta define acidose respiratória. Na compensação crônica, o bicarbonato sobe cerca de 3,5 a 4 mEq/L para cada 10 mmHg de PaCO₂: para 70 mmHg, seria esperado em torno de 34 a 36 mEq/L. O valor de 32, com pH de 7,28, indica componente agudo sobre a retenção crônica, ou seja, acidose respiratória crônica agudizada. A diretriz ERS/ATS de 2017 recomenda com força a VNI binível na exacerbação da DPOC com pH ≤ 7,35, inclusive em quem se considera precisar de intubação, salvo deterioração imediata. A reavaliação ocorre entre 30 minutos e 2 horas; sem melhora, intuba-se. A ERS 2022 manda tentar a VNI antes do alto fluxo no hipercápnico.",
+  "porAlt": [
+   "Errada: o pH de 7,28 mostra que a compensação não é suficiente; é acidose agudizada, indicação de VNI.",
+   "Correta: bicarbonato abaixo do esperado para a retenção crônica e pH baixo; a VNI binível tem recomendação forte.",
+   "Errada: o bicarbonato de 32 mostra retenção crônica, e a ERS 2022 manda tentar a VNI antes do alto fluxo nesse quadro.",
+   "Errada: o bicarbonato está alto, e não baixo, e oxigênio em excesso no hipercápnico pode piorar a PaCO₂.",
+   "Errada: pH baixo não contraindica a VNI; a contraindicação absoluta é a necessidade de intubação de emergência."
+  ]
+ },
+ {
+  "q": "Homem de 52 anos faz espirometria: VEF1 pré-broncodilatador de 1,20 L, com previsto de 4,00 L; 15 minutos após o broncodilatador, o VEF1 é de 1,50 L. A CVF não muda de forma relevante. Pela norma técnica ERS/ATS de 2022 de interpretação dos testes de função pulmonar, como se classifica a resposta ao broncodilatador?",
+  "alts": [
+   "Positiva, pois o VEF1 subiu 25% em relação ao valor basal e mais de 200 mL, critério que define a resposta.",
+   "Positiva, porque um ganho absoluto acima de 200 mL basta, sem levar em conta nenhum percentual de referência.",
+   "Não significativa, pois o aumento equivale a 7,5% do previsto, abaixo do limiar de mais de 10% do previsto.",
+   "Não significativa, pois a norma exige ganho de pelo menos 15% e 400 mL sobre o valor medido antes do fármaco.",
+   "Indeterminada, já que a norma de 2022 avalia a resposta pela CVF, e a CVF ficou praticamente estável."
+  ],
+  "gab": 2,
+  "tema": "respiratoria",
+  "sub": "Espirometria e função pulmonar",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "ERS/ATS technical standard on interpretive strategies for routine lung function tests (Stanojevic e colaboradores, Eur Respir J 2022;60(1):2101499)",
+  "coment": "A norma ERS/ATS de 2022 (Stanojevic e colaboradores) define resposta ao broncodilatador como aumento do VEF1 ou da CVF maior que 10% do valor previsto. Aqui o ganho foi de 0,30 L, que corresponde a 7,5% do previsto de 4,00 L: resposta não significativa. Pelo critério de 2005, que usava o valor basal como denominador (pelo menos 12% e 200 mL), o mesmo exame seria positivo, porque 0,30 L são 25% de 1,20 L. A troca do denominador corrige o viés que favorecia quem tem função muito baixa. Quando a questão cita a norma de 2022, vale o percentual do previsto.",
+  "porAlt": [
+   "Errada: esse é o critério de 2005, sobre o valor basal; a norma de 2022 usa o valor previsto como denominador.",
+   "Errada: nenhuma das normas aceita só o ganho absoluto; a de 2022 exige mais de 10% do previsto.",
+   "Correta: 0,30 L sobre 4,00 L previstos dá 7,5%, abaixo do limiar de mais de 10% do previsto da norma de 2022.",
+   "Errada: 15% e 400 mL não é critério de nenhuma das normas; em 2005 eram 12% e 200 mL sobre o basal.",
+   "Errada: a norma de 2022 aceita o ganho do VEF1 ou da CVF; o VEF1 basta para a classificação."
+  ]
+ },
+ {
+  "q": "Homem de 74 anos com DPOC grave e internação prévia com hipercapnia é admitido na enfermaria por pneumonia. Está alerta, com SpO₂ de 84% em ar ambiente; a gasometria arterial ainda não foi colhida. Pela diretriz da British Thoracic Society de 2017 para uso de oxigênio em adultos, qual a prescrição inicial adequada?",
+  "alts": [
+   "Oxigênio titulado, de preferência por máscara de Venturi, para SpO₂ de 88% a 92% até sair a gasometria.",
+   "Máscara com reservatório a 15 L/min até SpO₂ de 98% ou mais, reduzindo o fluxo depois da gasometria.",
+   "SpO₂ alvo de 94% a 98%, a mesma da maioria dos pacientes agudos, porque ainda não há gasometria.",
+   "Nenhum oxigênio até a gasometria, já que, no retentor de CO₂, ele suprime o drive respiratório.",
+   "Cânula de alto fluxo a 60 L/min com FiO₂ de 1,0, reduzindo a FiO₂ quando a PaO₂ passar de 100 mmHg."
+  ],
+  "gab": 0,
+  "tema": "respiratoria",
+  "sub": "Oxigenoterapia",
+  "cenario": "enf",
+  "comp": "cond",
+  "nivel": "tit",
+  "base": "BTS guideline for oxygen use in adults in healthcare and emergency settings (O'Driscoll e colaboradores, Thorax 2017;72 Suppl 1:ii1-ii90)",
+  "coment": "A diretriz BTS de 2017 trabalha com faixas-alvo de saturação: 94% a 98% para a maioria dos pacientes agudos e 88% a 92% para quem tem risco de insuficiência respiratória hipercápnica, como na DPOC com retenção prévia, até que a gasometria mostre o contrário. Hipoxemia de 84% exige oxigênio, e negá-lo seria perigoso. O excesso de oxigênio no hipercápnico eleva a PaCO₂ sobretudo pela perda da vasoconstrição hipóxica e pelo efeito Haldane, mais do que pela queda do drive. A máscara de Venturi entrega FiO₂ previsível, porque o fluxo supera a demanda, e é a escolha clássica para titular nesse paciente. A gasometria orienta o ajuste seguinte.",
+  "porAlt": [
+   "Correta: no risco de hipercapnia, a BTS 2017 manda titular para 88% a 92%, e a Venturi dá FiO₂ previsível.",
+   "Errada: buscar SpO₂ de 98% no paciente com risco de hipercapnia pode elevar a PaCO₂; o alvo é 88% a 92%.",
+   "Errada: a faixa de 94% a 98% vale para a maioria, mas não para quem tem risco de insuficiência hipercápnica.",
+   "Errada: SpO₂ de 84% é hipoxemia que exige oxigênio; o que se controla é o alvo, e não a oferta.",
+   "Errada: FiO₂ de 1,0 sem alvo expõe à hiperóxia e à piora da hipercapnia; o oxigênio deve ser titulado."
+  ]
+ },
+ {
+  "q": "Um serviço de reabilitação pulmonar vai usar o teste de caminhada de seis minutos para medir o efeito de um programa de 8 semanas em pessoas com DPOC. Pelo padrão técnico ERS/ATS de 2014 para testes de caminhada em doença respiratória crônica, qual organização do teste está correta?",
+  "alts": [
+   "Esteira com velocidade escolhida pelo paciente, que dispensa o corredor e elimina a variação causada pelas voltas.",
+   "Corredor de 15 metros com cones e um único teste por avaliação, para evitar fadiga e poupar o tempo do serviço.",
+   "Corredor de 30 metros, frases de incentivo padronizadas e dois testes na avaliação, pelo efeito de aprendizado.",
+   "Terapeuta caminhando ao lado do paciente, ditando o ritmo, para que todos andem na mesma velocidade de referência.",
+   "Retirar o oxigênio de uso habitual durante o teste, para que a distância reflita a capacidade real sem suplemento."
+  ],
+  "gab": 2,
+  "tema": "respiratoria",
+  "sub": "Reabilitação pulmonar",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "ERS/ATS technical standard: field walking tests in chronic respiratory disease (Holland e colaboradores, Eur Respir J 2014;44(6):1428-1446)",
+  "coment": "O padrão técnico ERS/ATS de 2014 (Holland e colaboradores), que está na bibliografia da especialidade respiratória do certame do COFFITO, padroniza o teste de caminhada de seis minutos em corredor reto de 30 metros, com frases de incentivo padronizadas, sem que o avaliador caminhe ao lado ditando o ritmo. Como há efeito de aprendizado, a norma recomenda dois testes quando o objetivo é medir mudança, registrando a maior distância. A esteira não reproduz o teste, porque o paciente não controla o próprio ritmo da mesma forma. Se o paciente usa oxigênio, o dispositivo e o fluxo são registrados e repetidos de forma idêntica nas reavaliações, para que a comparação seja válida.",
+  "porAlt": [
+   "Errada: a esteira não reproduz o teste em corredor, em que o paciente controla o próprio ritmo de caminhada.",
+   "Errada: a norma usa corredor de 30 metros, e um teste único subestima a distância pelo efeito de aprendizado.",
+   "Correta: corredor de 30 metros, incentivo padronizado e dois testes para medir mudança são exigências da norma de 2014.",
+   "Errada: o avaliador não acompanha ditando o ritmo; isso altera a distância e invalida a comparação.",
+   "Errada: o oxigênio em uso é mantido e registrado, igual nas reavaliações; retirá-lo traz risco e invalida a comparação."
+  ]
+ },
+ {
+  "q": "Homem de 66 anos com DPOC recebeu alta há 10 dias, após internação por exacerbação. O VEF1 pós-broncodilatador é de 58% do previsto, e ele refere dispneia ao caminhar no plano (mMRC 2). A equipe discute quando encaminhá-lo à reabilitação pulmonar. Pela diretriz de prática clínica da ATS de 2023, qual a orientação?",
+  "alts": [
+   "Aguardar 3 meses de estabilidade clínica, pois o exercício logo após a exacerbação aumenta o risco de readmissão.",
+   "Encaminhar quando o VEF1 cair abaixo de 50% do previsto, faixa em que a reabilitação passa a ter benefício.",
+   "Indicar treino muscular inspiratório domiciliar, pois o treino físico supervisionado fica para a doença estável.",
+   "Encaminhar logo após a alta, idealmente nas primeiras 3 semanas, pois a reabilitação pós-exacerbação tem recomendação forte.",
+   "Contraindicar a reabilitação até nova espirometria, pois a exacerbação recente invalida a avaliação funcional prévia."
+  ],
+  "gab": 3,
+  "tema": "respiratoria",
+  "sub": "DPOC, asma e bronquiectasias",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "tit",
+  "base": "ATS Clinical Practice Guideline: pulmonary rehabilitation for adults with chronic respiratory disease (Rochester e colaboradores, Am J Respir Crit Care Med 2023;208(4):e7-e26)",
+  "coment": "A diretriz de prática clínica da ATS de 2023 (Rochester e colaboradores) faz recomendação forte, com certeza moderada, a favor da reabilitação pulmonar após hospitalização por exacerbação de DPOC. Os programas analisados nessa pergunta começaram em até 3 semanas da alta e reduziram readmissões. A recomendação não depende de um corte de VEF1, e a dispneia com limitação de atividade basta para indicar. O núcleo do programa é o treinamento físico aeróbio e resistido, com educação e mudança de comportamento, como define o statement ATS/ERS de 2013; o treino muscular inspiratório é adjunto na fraqueza inspiratória, e não substituto do treino físico.",
+  "porAlt": [
+   "Errada: os programas que reduziram readmissões começaram em até 3 semanas da alta, e não após 3 meses.",
+   "Errada: a recomendação da ATS 2023 não depende de corte de VEF1; sintomas e limitação bastam.",
+   "Errada: o treino inspiratório é adjunto; o núcleo da reabilitação é o treinamento físico, inclusive após exacerbação.",
+   "Correta: a ATS 2023 recomenda com força a reabilitação após hospitalização por exacerbação, iniciada precocemente.",
+   "Errada: não há exigência de nova espirometria; a avaliação para o programa é feita pelo próprio serviço."
+  ]
+ },
+ {
+  "q": "Homem de 63 anos, candidato a lobectomia superior direita por câncer de pulmão, tem VEF1 de 76% e DLCO de 72% do previsto, sem segmentos obstruídos. Usando o cálculo por segmentos (19 no total, 3 no lobo superior direito) da diretriz do American College of Chest Physicians de 2013, qual a estimativa e a consequência?",
+  "alts": [
+   "VEF1 ppo de cerca de 64% e DLCO ppo de cerca de 61%; ambos acima de 60%, risco baixo sem teste adicional.",
+   "VEF1 ppo de cerca de 56% e DLCO ppo de cerca de 53%; ambos entre 30% e 60%, com teste de escada ou shuttle.",
+   "VEF1 ppo de cerca de 64% e DLCO ppo de cerca de 61%; ainda assim, ergoespirometria obrigatória antes da cirurgia.",
+   "VEF1 ppo de cerca de 73% e DLCO ppo de cerca de 69%, pois o cálculo desconta um segmento por lobo ressecado.",
+   "VEF1 ppo de cerca de 48% e DLCO ppo de cerca de 45%; abaixo de 50%, a ressecção fica contraindicada por si."
+  ],
+  "gab": 0,
+  "tema": "respiratoria",
+  "sub": "Pré e pós-operatório",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "ACCP 2013, avaliação fisiológica do paciente com câncer de pulmão candidato a ressecção (Brunelli e colaboradores, Chest 2013;143(5 Suppl):e166S-e190S)",
+  "coment": "O valor previsto no pós-operatório é o pré-operatório multiplicado por (1 menos os segmentos funcionais a ressecar sobre o total). Com 3 de 19 segmentos: VEF1 de 76% × 16/19 ≈ 64% e DLCO de 72% × 16/19 ≈ 61%. Na diretriz do ACCP de 2013 (Brunelli e colaboradores), quando VEF1 ppo e DLCO ppo ficam ambos acima de 60% do previsto, o risco é baixo e não se exige teste adicional; se algum fica entre 30% e 60%, indica-se teste de exercício simples, como escada ou shuttle; abaixo de 30%, teste cardiopulmonar. Para o fisioterapeuta, o número orienta a pré-habilitação e o plano pós-operatório.",
+  "porAlt": [
+   "Correta: 3 de 19 segmentos dão VEF1 ppo de cerca de 64% e DLCO ppo de cerca de 61%, ambos acima de 60%.",
+   "Errada: esses valores descontam 5 segmentos, que é o lobo inferior direito, e não os 3 do lobo superior direito.",
+   "Errada: com os dois valores acima de 60%, a diretriz classifica como baixo risco e não exige ergoespirometria.",
+   "Errada: o cálculo desconta todos os segmentos funcionais do lobo, e não um segmento por lobo.",
+   "Errada: os números estão errados, e não existe contraindicação automática por valor abaixo de 50%."
+  ]
+ },
+ {
+  "q": "Homem de 70 anos, 30 horas após AVC isquêmico sem trombólise, NIHSS de 9, está acordado e colaborativo. Antes da primeira saída do leito, o fisioterapeuta mede pressão arterial de 232/110 mmHg, frequência cardíaca de 88 bpm, SpO₂ de 95% em ar ambiente e temperatura de 37 °C. Pelas Diretrizes Brasileiras de Reabilitação do AVC (ABN 2022), qual a conduta?",
+  "alts": [
+   "Sentar fora do leito em sessão longa e intensa, pois passadas 24 horas o AVERT deixa de restringir a dose.",
+   "Adiar a saída do leito e comunicar a equipe, pois sistólica acima de 220 mmHg contraindica iniciar a reabilitação.",
+   "Iniciar a marcha assistida, pois a hipertensão permissiva do AVC isquêmico afasta a pressão como critério.",
+   "Manter a cabeceira a 0 grau por 72 horas, para preservar a perfusão cerebral, antes de qualquer mobilização.",
+   "Suspender a mobilização por 7 dias, pois o AVERT mostrou que mobilizar na primeira semana piora o desfecho."
+  ],
+  "gab": 1,
+  "tema": "neuro",
+  "sub": "Acidente vascular cerebral",
+  "cenario": "enf",
+  "comp": "cond",
+  "nivel": "tit",
+  "base": "Diretrizes Brasileiras de Reabilitação do AVC, Parte I (Minelli e colaboradores, Arq Neuropsiquiatr 2022;80(6):634-652)",
+  "coment": "A Parte I das Diretrizes Brasileiras de Reabilitação do AVC (ABN 2022) lista as condições que contraindicam iniciar a reabilitação, entre elas pressão sistólica abaixo de 110 ou acima de 220 mmHg, SpO₂ abaixo de 92% com oxigênio, frequência cardíaca de repouso abaixo de 40 ou acima de 110 bpm e temperatura acima de 38,5 °C. Com 232 mmHg, a saída do leito deve esperar, e a equipe médica é informada. Fora dessas condições, a mobilização é indicada entre 24 e 48 horas, em sessões curtas e frequentes. O AVERT condenou a mobilização muito precoce e em alta dose nas primeiras 24 horas (ABN III-A), e não a mobilização da primeira semana.",
+  "porAlt": [
+   "Errada: além da pressão fora do limite, o protocolo prefere sessões curtas e frequentes, e não longas e intensas.",
+   "Correta: sistólica acima de 220 mmHg está entre as condições que contraindicam iniciar a reabilitação pela ABN 2022.",
+   "Errada: a ABN fixa limites de pressão para iniciar a reabilitação, e 232 mmHg está acima do teto de 220.",
+   "Errada: o HeadPoST não mostrou benefício da cabeceira a 0 grau, conduta classificada como III-A pela ABN.",
+   "Errada: o AVERT condenou a dose alta nas primeiras 24 horas; a recomendação é mobilizar entre 24 e 48 horas."
+  ]
+ },
+ {
+  "q": "Mulher de 59 anos, quatro meses após AVC isquêmico esquerdo, tem 25 graus de extensão ativa de punho e 15 graus de extensão ativa dos dedos à direita, sensibilidade e cognição preservadas, mas quase não usa a mão direita nas tarefas de casa. Pela diretriz canadense de reabilitação do AVC (atualização de 2025), qual a conduta para o membro superior?",
+  "alts": [
+   "Não indicar a contensão induzida, que exige pelo menos 45 graus de extensão de punho e 30 graus de extensão dos dedos.",
+   "Não indicar a contensão induzida, cuja janela de benefício é o primeiro mês após o AVC, prazo já ultrapassado.",
+   "Priorizar alongamento passivo para reduzir o tônus antes de liberar o uso da mão direita em tarefas funcionais.",
+   "Treinar a mão esquerda para compensar e adaptar o ambiente, já que o não uso aprendido é irreversível nessa fase.",
+   "Indicar contensão induzida: restringir a mão esquerda na maior parte da vigília e treinar tarefas de 3 a 6 horas por dia."
+  ],
+  "gab": 4,
+  "tema": "neuro",
+  "sub": "Abordagens terapêuticas em neurologia",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "tit",
+  "base": "Canadian Stroke Best Practice Recommendations, Rehabilitation, 7ª edição, atualização 2025 (Salbach e colaboradores, Am J Phys Med Rehabil 2026;105(2):151-167)",
+  "coment": "A diretriz canadense de 2025 recomenda, com força e qualidade alta, a terapia por contensão induzida de alta intensidade para quem cumpre os critérios dos ensaios: pelo menos 20 graus de extensão ativa de punho e 10 graus de extensão ativa dos dedos, déficit sensitivo mínimo e cognição normal, com restrição do membro não parético em 90% das horas de vigília e 3 a 6 horas diárias de treino orientado à tarefa. A mesma fonte adverte contra a forma intensiva no primeiro mês, por causa do ensaio VECTORS. Aos quatro meses, com 25 e 15 graus, a paciente é candidata. A diretriz brasileira da ABN classifica a contensão induzida como IIa-A.",
+  "porAlt": [
+   "Errada: os critérios mínimos são 20 graus de punho e 10 graus de dedos, que a paciente supera.",
+   "Errada: a advertência é contra a forma intensiva no primeiro mês; aos quatro meses ela é indicada.",
+   "Errada: a lógica atual treina a tarefa sem esperar a normalização do tônus; alongar não trata o não uso aprendido.",
+   "Errada: o não uso aprendido é justamente o alvo da contensão induzida, que obriga o uso do membro parético.",
+   "Correta: ela preenche os critérios de extensão, sensibilidade e cognição e está fora do primeiro mês."
+  ]
+ },
+ {
+  "q": "Homem de 67 anos, 10 dias após AVC com lesão no tálamo posterolateral direito, sentado na beira do leito inclina o tronco para a esquerda, empurra o colchão com a mão direita e resiste a qualquer tentativa de trazê-lo à linha média. Quando o fisioterapeuta o corrige passivamente, o empurramento aumenta. Qual abordagem é coerente com o mecanismo descrito por Karnath?",
+  "alts": [
+   "Corrigir a inclinação com força contínua contra o empurramento, até que o paciente aceite a posição vertical.",
+   "Usar referências visuais da vertical, como batente e espelho, para que ele perceba a inclinação e se corrija.",
+   "Tratar como heminegligência, com varredura visual para a esquerda, pois as duas condições são a mesma síndrome.",
+   "Treinar o equilíbrio de olhos fechados com pistas proprioceptivas, já que a vertical visual está comprometida.",
+   "Imobilizar o braço direito em tipoia nas sessões, para impedir o empurramento sem trabalhar a postura do tronco."
+  ],
+  "gab": 1,
+  "tema": "neuro",
+  "sub": "Acidente vascular cerebral",
+  "cenario": "enf",
+  "comp": "cond",
+  "nivel": "tit",
+  "base": "Karnath, Ferber e Dichgans, Neurology 2000;55(9):1298-1304 (origem do empurramento contraversivo)",
+  "coment": "Na síndrome do empurrador, o paciente empurra com os membros não paréticos em direção ao lado parético e resiste à correção. Karnath e colaboradores (Neurology, 2000) mostraram que a causa é uma percepção alterada da orientação do corpo em relação à gravidade, enquanto a percepção da vertical visual está preservada; as lesões se concentram no tálamo posterolateral. Por isso a conduta usa a vertical visual, com referências do ambiente e do terapeuta, para que o paciente perceba o desvio e reorganize a postura de forma ativa. A correção passiva contra a força dele aumenta o empurramento. A heminegligência pode coexistir, mas é outra condição.",
+  "porAlt": [
+   "Errada: a correção passiva contra a força do paciente aumenta o empurramento, como o próprio caso mostra.",
+   "Correta: a vertical visual está preservada e serve de referência para o paciente perceber o desvio e se corrigir.",
+   "Errada: são condições distintas; a heminegligência pode coexistir, mas não explica o empurramento.",
+   "Errada: o achado de Karnath é o oposto: a vertical visual está preservada, e a percepção postural é que está alterada.",
+   "Errada: imobilizar o braço não trata a percepção alterada da vertical e tira do paciente um recurso de apoio."
+  ]
+ },
+ {
+  "q": "Homem de 28 anos com lesão medular traumática é examinado pela ISNCSCI (revisão de 2019). O nível neurológico é C6. Há contração anal voluntária e sensibilidade preservada em S4 e S5. Dos 16 músculos-chave abaixo do nível neurológico (8 de cada lado), 9 têm grau 3 ou mais. Qual a classificação na escala de deficiência da ASIA?",
+  "alts": [
+   "AIS B, pois a preservação sacral é sensitiva e a contração anal não entra na definição de lesão motora incompleta.",
+   "AIS C, pois para AIS D seria preciso que três quartos dos músculos-chave abaixo do nível tivessem grau 3 ou mais.",
+   "AIS D, pois a lesão é motora incompleta e metade ou mais dos músculos-chave abaixo do nível tem grau 3 ou mais.",
+   "AIS A, pois o nível C6 caracteriza tetraplegia, e toda tetraplegia traumática é classificada como lesão completa.",
+   "AIS E, pois existe força grau 3 ou mais na maioria dos músculos-chave abaixo do nível neurológico da lesão."
+  ],
+  "gab": 2,
+  "tema": "neuro",
+  "sub": "Traumatismo cranioencefálico e lesão medular",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "International Standards for Neurological Classification of Spinal Cord Injury, revisão 2019 (Rupp e colaboradores, Top Spinal Cord Inj Rehabil 2021;27(2):1-22)",
+  "coment": "Pela ISNCSCI (revisão de 2019), a lesão é incompleta quando há função sacral em S4 e S5. Ela é motora incompleta quando há contração anal voluntária, ou preservação sensitiva sacral com função motora mais de três níveis abaixo do nível motor. Na lesão motora incompleta, a separação entre AIS C e D depende dos músculos-chave abaixo do nível neurológico único: menos da metade com grau 3 ou mais é C; metade ou mais é D. Abaixo de C6 há 8 músculos-chave por lado (C7, C8, T1 e L2 a S1). Com 9 de 16 em grau 3 ou mais, a classificação é AIS D. AIS E exige exame motor e sensitivo normal em quem tinha déficit.",
+  "porAlt": [
+   "Errada: a contração anal voluntária é critério suficiente de lesão motora incompleta, o que afasta AIS B.",
+   "Errada: o corte entre C e D é a metade dos músculos-chave abaixo do nível, e não três quartos.",
+   "Correta: há contração anal voluntária, e 9 de 16 músculos-chave abaixo do nível têm grau 3 ou mais.",
+   "Errada: tetraplegia descreve a topografia; a preservação sacral define a lesão como incompleta.",
+   "Errada: AIS E exige exame motor e sensitivo normal em quem tinha déficit, o que não é o caso."
+  ]
+ },
+ {
+  "q": "Um ensaio clínico randomizado com pessoas com doença de Parkinson comparou um programa de treino de equilíbrio ao cuidado usual. Em 12 meses, 40% dos participantes do grupo controle e 25% do grupo intervenção tiveram ao menos uma queda. Qual o número necessário para tratar (NNT) e como interpretá-lo?",
+  "alts": [
+   "NNT de 4: a cada 4 pessoas tratadas, uma deixa de cair, pois o NNT é o inverso do risco no grupo tratado.",
+   "NNT de cerca de 3: o inverso da redução relativa do risco, de 37,5%, mostra quantos precisam ser tratados.",
+   "NNT de 15: corresponde à diferença absoluta entre os grupos, expressa em pontos percentuais de risco.",
+   "NNT de cerca de 7: tratar 7 pessoas por 12 meses evita que uma delas tenha ao menos uma queda no período.",
+   "NNT de cerca de 1,6: o inverso do risco relativo de 0,625 indica o benefício obtido por paciente tratado."
+  ],
+  "gab": 3,
+  "tema": "neuro",
+  "sub": "Doença de Parkinson e distúrbios do movimento",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "tit",
+  "base": "Laupacis, Sackett e Roberts, N Engl J Med 1988;318(26):1728-1733 (número necessário para tratar); Edital COFFITO/IADES 1/2026, Anexo I, prática baseada em evidências",
+  "coment": "O NNT é o inverso da redução absoluta do risco (Laupacis, Sackett e Roberts, 1988). A redução absoluta é 40% menos 25%, ou seja, 15 pontos percentuais (0,15); 1 ÷ 0,15 ≈ 6,7, arredondado para 7. Em palavras: é preciso tratar cerca de 7 pessoas por 12 meses para evitar que uma tenha queda. A redução relativa do risco (15 ÷ 40 = 37,5%) e o risco relativo (25 ÷ 40 = 0,625) descrevem o mesmo efeito em escala proporcional, mas não dão o NNT. Interpretar medidas de efeito faz parte da dimensão de prática baseada em evidências do certame do COFFITO.",
+  "porAlt": [
+   "Errada: o inverso do risco no grupo tratado não tem significado clínico; o NNT usa a redução absoluta do risco.",
+   "Errada: o NNT é o inverso da redução absoluta, e não da relativa, que superestima o benefício.",
+   "Errada: 15 é a redução absoluta em pontos percentuais; o NNT é o seu inverso, cerca de 7.",
+   "Correta: 1 dividido por 0,15 dá cerca de 6,7, arredondado para 7 pessoas tratadas para evitar uma queda.",
+   "Errada: o risco relativo descreve o efeito proporcional, e o seu inverso não corresponde ao NNT."
+  ]
+ },
+ {
+  "q": "Mulher de 62 anos, dois meses após AVC, treina com o fisioterapeuta transferências da cadeira para a cama e alcance de objetos. Ela executa bem as tarefas durante a sessão, mas não reproduz o desempenho em casa. Qual organização da prática favorece a retenção e a transferência da aprendizagem motora?",
+  "alts": [
+   "Prática variada em contextos e objetos reais, com retroalimentação extrínseca reduzida aos poucos e foco externo.",
+   "Prática em blocos da mesma tarefa, com retroalimentação do terapeuta a cada tentativa, até o erro desaparecer.",
+   "Prática maciça sem intervalos, com foco de atenção interno no segmento, para fixar o padrão de movimento correto.",
+   "Treino de componentes isolados de cada tarefa em decúbito, antes de permitir a execução da tarefa completa.",
+   "Retroalimentação contínua sobre a qualidade do movimento em todas as tentativas, para evitar que erros se fixem."
+  ],
+  "gab": 0,
+  "tema": "neuro",
+  "sub": "Abordagens terapêuticas em neurologia",
+  "cenario": "amb",
+  "comp": "tec",
+  "nivel": "tit",
+  "base": "Shea e Morgan, J Exp Psychol Hum Learn Mem 1979;5(2):179-187 (interferência contextual); Kleim e Jones, J Speech Lang Hear Res 2008;51(1):S225-S239",
+  "coment": "Aprendizagem motora é a mudança relativamente permanente na capacidade de produzir movimento, medida por retenção e transferência, e não pelo desempenho na sessão. A prática em blocos melhora o desempenho imediato, enquanto a prática variada ou aleatória, pelo efeito de interferência contextual descrito por Shea e Morgan (1979), favorece retenção e transferência. Retroalimentação extrínseca muito frequente cria dependência, e reduzi-la à medida que a paciente melhora ajuda a aprendizagem; o foco externo, no efeito do movimento, costuma render mais que o interno. Treinar no contexto real e com metas da paciente segue os princípios de especificidade e relevância de Kleim e Jones (2008).",
+  "porAlt": [
+   "Correta: variar a prática, reduzir a retroalimentação e usar foco externo favorece retenção e transferência.",
+   "Errada: blocos e retroalimentação a cada tentativa melhoram o desempenho na sessão, mas prejudicam a retenção.",
+   "Errada: a prática distribuída tende a superar a maciça na retenção, e o foco interno costuma render menos.",
+   "Errada: tarefas contínuas e funcionais se treinam de preferência inteiras e no contexto em que serão usadas.",
+   "Errada: retroalimentação contínua cria dependência do terapeuta e prejudica a aprendizagem."
+  ]
+ },
+ {
+  "q": "Atleta de 24 anos está na quinta semana após reconstrução isolada do ligamento cruzado anterior com enxerto de flexores, sem lesão meniscal, com extensão completa, sem derrame e com boa ativação do quadríceps. Pela diretriz Aspetar de 2023, como introduzir a extensão do joelho em cadeia cinética aberta?",
+  "alts": [
+   "Não usar a cadeia aberta até o sexto mês, pois ela aumenta a frouxidão anterior da tíbia em relação à cadeia fechada.",
+   "Usar o arco de 45 a 0 graus de flexão desde a segunda semana, pois a extensão terminal é a mais segura para o novo enxerto.",
+   "Iniciar no arco de 90 a 45 graus de flexão, monitorando a dor anterior do joelho, e associar exercícios em cadeia fechada.",
+   "Adiar a cadeia aberta até o índice de simetria do quadríceps chegar a 90%, critério de entrada nessa fase do programa.",
+   "Substituir a cadeia aberta pelo movimento passivo contínuo até a 12ª semana, para proteger o enxerto de flexores."
+  ],
+  "gab": 2,
+  "tema": "orto",
+  "sub": "Fraturas e pós-operatório ortopédico",
+  "cenario": "amb",
+  "comp": "tec",
+  "nivel": "tit",
+  "base": "Diretriz Aspetar de reabilitação após reconstrução do LCA (Kotsifaki e colaboradores, Br J Sports Med 2023;57(9):500-514)",
+  "coment": "A diretriz Aspetar de reabilitação após reconstrução do LCA (Kotsifaki e colaboradores, Br J Sports Med 2023), que está na bibliografia do título traumato-ortopédico e esportivo, admite cadeia cinética aberta a partir da 4ª semana, em arco limitado de 90 a 45 graus de flexão, sem comprometer a estabilidade e monitorando a dor anterior do joelho. A revisão da diretriz não encontrou diferença de frouxidão anterior da tíbia entre cadeia aberta e fechada e recomenda usar as duas para recuperar o quadríceps. A extensão terminal em cadeia aberta é o arco que mais traciona o enxerto e fica para depois. O movimento passivo contínuo não supera o exercício ativo e tem recomendação contra o uso rotineiro.",
+  "porAlt": [
+   "Errada: a diretriz não achou diferença de frouxidão entre cadeia aberta e fechada e admite a aberta desde a 4ª semana.",
+   "Errada: o arco de 45 a 0 graus é o que mais traciona o enxerto; o arco inicial recomendado é de 90 a 45 graus.",
+   "Correta: a partir da 4ª semana, a Aspetar admite cadeia aberta de 90 a 45 graus, associada à cadeia fechada.",
+   "Errada: a simetria de força é critério de retorno à corrida e ao esporte, e não de entrada da cadeia aberta.",
+   "Errada: o movimento passivo contínuo não supera o exercício ativo e tem recomendação contra o uso rotineiro."
+  ]
+ },
+ {
+  "q": "Mulher de 35 anos torceu o tornozelo em inversão ao descer um degrau há 2 horas. Consegue dar quatro passos, mancando. Não há dor à palpação das bordas posteriores nem das pontas dos maléolos, nem do navicular, mas há dor à palpação da base do quinto metatarso. Pelas regras de Ottawa, qual a conduta?",
+  "alts": [
+   "Dispensar a radiografia, porque a paciente consegue apoiar o peso e dar quatro passos logo após o trauma.",
+   "Pedir radiografia do tornozelo e não do pé, já que o mecanismo em inversão lesa sobretudo os maléolos.",
+   "Pedir ressonância magnética antes de definir a conduta, pois a radiografia não exclui fratura do mediopé.",
+   "Encaminhar para radiografia do pé, pela dor à palpação da base do quinto metatarso, que basta como critério.",
+   "Tratar como entorse lateral grau I com carga total, pois as regras de Ottawa foram validadas em crianças."
+  ],
+  "gab": 3,
+  "tema": "orto",
+  "sub": "Membro inferior",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "Regras de Ottawa para tornozelo e pé (Stiell e colaboradores, JAMA 1993;269(9):1127-1132); revisão de Bachmann e colaboradores, BMJ 2003",
+  "coment": "As regras de Ottawa (Stiell e colaboradores, JAMA 1993) indicam radiografia do pé quando há dor no mediopé e qualquer um destes achados: dor à palpação da base do quinto metatarso, dor à palpação do navicular ou incapacidade de apoiar o peso e dar quatro passos, logo após o trauma e na avaliação. Para o tornozelo, os pontos são as bordas posteriores e as pontas dos maléolos. Aqui não há critério para o tornozelo, mas a dor na base do quinto metatarso basta para o pé, mesmo com a marcha preservada. A revisão de Bachmann (BMJ 2003) mostrou sensibilidade de quase 100% para excluir fratura de tornozelo e mediopé, com redução de radiografias desnecessárias.",
+  "porAlt": [
+   "Errada: os critérios são alternativos; a dor na base do quinto metatarso indica radiografia mesmo com marcha preservada.",
+   "Errada: não há dor nos pontos maleolares; o critério presente é do pé, que indica radiografia do pé.",
+   "Errada: as regras de Ottawa decidem a radiografia; a ressonância não é o exame inicial dessa triagem.",
+   "Correta: a dor à palpação da base do quinto metatarso é critério suficiente para radiografia do pé.",
+   "Errada: as regras foram criadas e validadas em adultos, e há critério positivo que exige imagem."
+  ]
+ },
+ {
+  "q": "Homem de 45 anos, motorista, tem dor lombar há 8 meses, sem irradiação e sem sinais de alerta. Evita se curvar porque acredita, pela ressonância que mostrou desidratação discal, que a coluna está gasta; a escala Tampa de cinesiofobia está alta. Pela diretriz de prática clínica da JOSPT de 2021 para dor lombar, qual plano tem recomendação de grau A?",
+  "alts": [
+   "Educação em neurociência da dor isolada por seis sessões, deixando os exercícios para quando o medo diminuir.",
+   "Tração mecânica lombar e cinta de suporte, para proteger o disco desidratado enquanto a dor persistir.",
+   "Repouso relativo e afastamento das atividades até a escala de cinesiofobia voltar à faixa de normalidade.",
+   "Nova ressonância para mostrar a evolução do disco e decidir, pela imagem, a carga dos exercícios.",
+   "Educação em neurociência da dor associada a exercício progressivo, sem usá-la como intervenção isolada."
+  ],
+  "gab": 4,
+  "tema": "orto",
+  "sub": "Coluna vertebral",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "tit",
+  "base": "JOSPT Clinical Practice Guideline de dor lombar, revisão 2021 (George e colaboradores, J Orthop Sports Phys Ther 2021;51(11):CPG1-CPG60); OMS 2023, lombalgia crônica primária",
+  "coment": "Sem sinal de alerta, a dor lombar de 8 meses sem atribuição a lesão estrutural é inespecífica, e o achado degenerativo da ressonância é comum em assintomáticos. A diretriz da JOSPT de 2021 (George e colaboradores) dá grau A ao exercício na lombalgia crônica e à educação em neurociência da dor junto com exercício ou terapia manual, e não isolada; também dá grau A aos tratamentos ativos em vez da educação isolada. A tração mecânica recebe grau D na lombalgia crônica com dor na perna, e a OMS (2023) recomenda contra órteses, cintas e tração na lombalgia crônica primária. Com cinesiofobia, a exposição gradual ao movimento faz parte do plano.",
+  "porAlt": [
+   "Errada: a JOSPT 2021 recomenda a educação em dor associada a exercício ou terapia manual, e não isolada.",
+   "Errada: a OMS 2023 recomenda contra cintas e tração na lombalgia crônica primária, e a JOSPT não as indica.",
+   "Errada: repouso e afastamento reforçam o medo e a incapacidade; o tratamento é ativo, com exposição gradual.",
+   "Errada: sem sinal de alerta, a imagem não é repetida, e o achado degenerativo não orienta a carga do exercício.",
+   "Correta: educação em neurociência da dor junto com exercício tem grau A na lombalgia crônica pela JOSPT 2021."
+  ]
+ },
+ {
+  "q": "Jogador de futebol de 19 anos choca a cabeça com a de um adversário. Não perde a consciência, mas refere cefaleia, tontura e sensação de lentidão. Após 15 minutos à beira do campo, diz estar melhor, e o técnico pede que ele volte ao jogo. Pelo consenso internacional sobre concussão no esporte de Amsterdã (2022), qual a conduta?",
+  "alts": [
+   "Liberar o retorno ao jogo se a avaliação à beira do campo, repetida após 15 minutos, estiver normal.",
+   "Liberar o retorno no mesmo dia, desde que não tenha havido perda de consciência nem amnésia evidente.",
+   "Retirar do jogo sem retorno no mesmo dia, encaminhar à avaliação médica e seguir retorno gradual por etapas.",
+   "Retirar do jogo e manter repouso absoluto em ambiente escuro por 7 dias, sem nenhuma atividade física.",
+   "Retirar do jogo e liberar o treino com contato no dia seguinte, se os sintomas tiverem desaparecido à noite."
+  ],
+  "gab": 2,
+  "tema": "orto",
+  "sub": "Lesões esportivas",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "tit",
+  "base": "Consenso internacional sobre concussão no esporte, Amsterdã 2022 (Patricios e colaboradores, Br J Sports Med 2023;57(11):695-711)",
+  "coment": "Cefaleia, tontura e lentidão após impacto na cabeça configuram suspeita de concussão, e a perda de consciência não é necessária para o diagnóstico. O consenso de Amsterdã (Patricios e colaboradores, Br J Sports Med 2023) mantém que o atleta com suspeita de concussão deve ser retirado e não retornar ao jogo no mesmo dia, com avaliação médica. Melhora rápida à beira do campo não exclui a lesão. Depois de um período inicial de repouso relativo, de 24 a 48 horas, a atividade leve é estimulada, e o retorno segue uma estratégia gradual por etapas até o contato, com liberação médica. Repouso absoluto prolongado não é recomendado.",
+  "porAlt": [
+   "Errada: avaliação normal à beira do campo não exclui concussão, e não há retorno no mesmo dia.",
+   "Errada: a perda de consciência não é necessária para o diagnóstico e não define a liberação.",
+   "Correta: suspeita de concussão exige retirada, sem retorno no mesmo dia, e retorno gradual por etapas.",
+   "Errada: o consenso recomenda repouso relativo breve e atividade leve precoce, e não repouso absoluto prolongado.",
+   "Errada: o retorno ao contato vem no fim de uma progressão por etapas e depende de liberação médica."
+  ]
+ },
+ {
+  "q": "Mulher de 66 anos, com IMC de 32 kg/m² e osteoartrite de joelhos, tem dor ao subir escadas e caminha pouco. Pede orientação sobre o tratamento não farmacológico. Pela diretriz do American College of Rheumatology e da Arthritis Foundation de 2019, qual conjunto reúne intervenções com recomendação forte a favor?",
+  "alts": [
+   "TENS e ultrassom terapêutico como base do tratamento, associados a repouso articular nos períodos de dor.",
+   "Palmilha em cunha lateral e massagem, deixando o exercício para depois que a dor estiver controlada.",
+   "Glucosamina e condroitina para retardar a progressão, associadas ao calor superficial diário.",
+   "Exercício terapêutico, perda de peso e programa de autogerenciamento, com bengala se necessário.",
+   "Terapia manual isolada, que supera o exercício na osteoartrite do joelho segundo essa diretriz."
+  ],
+  "gab": 3,
+  "tema": "orto",
+  "sub": "Doenças reumáticas",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "tit",
+  "base": "Diretriz ACR/Arthritis Foundation 2019 para osteoartrite de mão, quadril e joelho (Kolasinski e colaboradores, Arthritis Care Res 2020;72(2):149-162)",
+  "coment": "A diretriz ACR/Arthritis Foundation de 2019 (Kolasinski e colaboradores) faz recomendação forte a favor de exercício, perda de peso em quem tem sobrepeso, programas de autoeficácia e autogerenciamento, tai chi, bengala e órtese tibiofemoral no joelho. É forte contra a TENS no joelho e no quadril e contra a glucosamina, e condicional contra massagem, palmilhas em cunha e terapia manual somada ao exercício em vez do exercício isolado. As modalidades térmicas têm recomendação condicional a favor, como adjunto. Na prática, a dor ao subir escadas não adia o exercício, que é o núcleo do tratamento, e a perda de peso reduz a carga articular.",
+  "porAlt": [
+   "Errada: a diretriz é forte contra a TENS no joelho, e o repouso não trata a osteoartrite.",
+   "Errada: palmilha em cunha e massagem são condicionais contra, e o exercício não deve esperar a dor ceder.",
+   "Errada: a glucosamina tem recomendação forte contra; o calor é só condicional a favor, como adjunto.",
+   "Correta: exercício, perda de peso, autogerenciamento e bengala têm recomendação forte a favor em 2019.",
+   "Errada: a terapia manual não substitui o exercício, e a diretriz é condicional contra somá-la a ele."
+  ]
+ },
+ {
+  "q": "Homem de 60 anos, 10 semanas após infarto tratado com angioplastia, fez teste ergométrico em uso de betabloqueador: frequência cardíaca de repouso de 62 bpm e de pico de 142 bpm, sem isquemia nem arritmia. Pela Diretriz Brasileira de Reabilitação Cardiovascular de 2020, qual a zona inicial de treino aeróbico entre 50% e 70% da frequência cardíaca de reserva?",
+  "alts": [
+   "Entre 102 e 118 bpm, somando a fração da reserva à frequência cardíaca de repouso.",
+   "Entre 71 e 99 bpm, aplicando os percentuais diretamente à frequência cardíaca de pico.",
+   "Entre 80 e 112 bpm, aplicando os percentuais à frequência máxima predita de 160 bpm.",
+   "Entre 99 e 121 bpm, pelos percentuais de 70% a 85% da frequência cardíaca de pico.",
+   "Entre 111 e 131 bpm, usando a reserva calculada pela frequência máxima de 160 bpm."
+  ],
+  "gab": 0,
+  "tema": "cardio",
+  "sub": "Teste de esforço e prescrição de exercício",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "tit",
+  "base": "Diretriz Brasileira de Reabilitação Cardiovascular 2020 (Carvalho e colaboradores, Arq Bras Cardiol 2020;114(5):943-987)",
+  "coment": "A frequência cardíaca de reserva (método de Karvonen) é a frequência de pico menos a de repouso: 142 menos 62 = 80 bpm. A frequência alvo é a de repouso somada ao percentual da reserva: 62 + 0,5 × 80 = 102 bpm e 62 + 0,7 × 80 = 118 bpm. A SBC 2020 prefere a frequência de pico de um teste máximo feito com os medicamentos habituais, como aqui, e não a predita pela idade, que superestima o alvo em quem usa betabloqueador. Para o coronariopata após evento, a diretriz situa a intensidade entre 40% e 80% da reserva, e a maioria treina entre 50% e 70%, começando pelo limite inferior.",
+  "porAlt": [
+   "Correta: a reserva é de 80 bpm; 62 + 40 = 102 e 62 + 56 = 118 bpm.",
+   "Errada: aplicar o percentual à frequência de pico ignora a de repouso e não é o método de Karvonen.",
+   "Errada: a fórmula pela idade não serve para prescrever ao cardiopata, sobretudo em uso de betabloqueador.",
+   "Errada: 70% a 85% da frequência de pico é outro método da diretriz, e não a faixa de 50% a 70% da reserva.",
+   "Errada: a reserva deve sair da frequência de pico medida no teste, e não da máxima predita pela idade."
+  ]
+ },
+ {
+  "q": "Mulher de 62 anos, 5 meses após cirurgia de revascularização miocárdica, inicia reabilitação ambulatorial. O teste ergométrico mostrou capacidade de 6,5 MET, sem isquemia nem arritmia, e ela está em classe funcional II. Pela tabela de estratificação da Diretriz Brasileira de Reabilitação Cardiovascular de 2020, qual o risco e a supervisão adequados?",
+  "alts": [
+   "Risco baixo, com exercício domiciliar sem supervisão, já que o teste não mostrou isquemia nem arritmia.",
+   "Risco alto, com médico presente na sala, pois todo paciente operado há menos de 1 ano é de alto risco.",
+   "Risco baixo, por ter capacidade acima de 5 MET, com reavaliação e teste de esforço a cada 24 meses.",
+   "Risco alto, com monitor e desfibrilador na sala, pela classe funcional II somada à cirurgia recente.",
+   "Risco intermediário, com supervisão do fisioterapeuta, médico acionável e desfibrilador externo no local."
+  ],
+  "gab": 4,
+  "tema": "cardio",
+  "sub": "Reabilitação cardiovascular",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "Diretriz Brasileira de Reabilitação Cardiovascular 2020, Tabela 1 (Arq Bras Cardiol 2020;114(5):943-987)",
+  "coment": "Na tabela da SBC 2020, o risco intermediário inclui tempo desde o evento superior a 12 semanas (o baixo exige mais de 6 meses), capacidade de 5 a 7 MET e classe funcional I ou II. Para ser baixo risco, todas as características precisam ser de baixo risco; para alto ou intermediário, basta uma. Com 5 meses, 6,5 MET e classe II, ela é intermediária. Nessa classe, a supervisão é do fisioterapeuta ou do profissional de educação física, idealmente com coordenação de médico experiente, possibilidade de acionamento médico rápido e suporte básico de vida com desfibrilador externo automático no local. No baixo risco, a reavaliação não deve passar de 12 meses.",
+  "porAlt": [
+   "Errada: 5 meses e 6,5 MET são critérios de risco intermediário, e o baixo exige todas as características de baixo risco.",
+   "Errada: o alto risco pela tabela é evento há menos de 8 a 12 semanas, e ela está com 5 meses.",
+   "Errada: o baixo risco exige mais de 7 MET e mais de 6 meses do evento, e a reavaliação não passa de 12 meses.",
+   "Errada: classe funcional II é critério intermediário; o alto risco corresponde às classes III e IV.",
+   "Correta: tempo, capacidade e classe funcional a colocam no risco intermediário, com essa estrutura de supervisão."
+  ]
+ },
+ {
+  "q": "Homem de 58 anos faz teste ergométrico para prescrição de exercício. Assintomático, a pressão sistólica sobe de 130 para 168 mmHg nos primeiros estágios e, com o aumento seguinte da carga, cai para 144 mmHg. O eletrocardiograma não mostra alteração do segmento ST. Pela Diretriz Brasileira de Ergometria de 2024, qual a conduta?",
+  "alts": [
+   "Manter o teste, pois o critério pressórico de interrupção é a sistólica ultrapassar 250 mmHg no esforço.",
+   "Interromper o teste, pois a queda da sistólica de 20 mmHg ou mais após a elevação inicial é critério de parada.",
+   "Reduzir a carga e manter o teste, já que a queda interrompe o teste quando a sistólica fica abaixo da de repouso.",
+   "Manter o teste, porque a queda pressórica com a carga é a resposta esperada em quem usa betabloqueador.",
+   "Manter o teste até a exaustão, pois, sem sintomas, a interrupção depende de Borg igual ou maior que 18."
+  ],
+  "gab": 1,
+  "tema": "cardio",
+  "sub": "Teste de esforço e prescrição de exercício",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "Diretriz Brasileira de Ergometria em População Adulta 2024 (Carvalho e colaboradores, Arq Bras Cardiol 2024;121(3):e20240110)",
+  "coment": "A Diretriz Brasileira de Ergometria de 2024 inclui entre os critérios de interrupção a queda da pressão sistólica de 20 mmHg ou mais após o aumento inicial, mesmo sem sintomas. Aqui a queda foi de 24 mmHg, de 168 para 144, com o aumento da carga, o que sugere incapacidade de elevar o débito cardíaco, sinal de disfunção ventricular ou isquemia. Na resposta normal, a sistólica sobe progressivamente com a carga e a diastólica fica estável ou oscila até 10 mmHg. Sistólica acima de 250 mmHg e Borg igual ou maior que 18 também interrompem o teste, mas não são os únicos critérios. Na reabilitação, a carga prescrita fica abaixo desse ponto.",
+  "porAlt": [
+   "Errada: a sistólica acima de 250 mmHg é um dos critérios; a queda de 20 mmHg ou mais também interrompe o teste.",
+   "Correta: a queda de 24 mmHg após a elevação inicial preenche o critério de interrupção da diretriz de 2024.",
+   "Errada: o critério não exige queda abaixo do repouso; basta cair 20 mmHg ou mais após a elevação inicial.",
+   "Errada: o betabloqueador atenua a elevação, mas a queda com o aumento da carga não é resposta normal.",
+   "Errada: Borg igual ou maior que 18 é um dos critérios, e a queda pressórica interrompe mesmo sem sintomas."
+  ]
+ },
+ {
+  "q": "Homem de 67 anos, tabagista, refere dor em panturrilha direita ao caminhar cerca de 150 metros, que alivia com 2 minutos de repouso. O índice tornozelo-braquial é de 0,72, sem dor em repouso nem lesão trófica. Pela Diretriz Brasileira de Reabilitação Cardiovascular de 2020, qual programa é indicado?",
+  "alts": [
+   "Caminhada supervisionada até a claudicação, com pausas, ao menos três vezes por semana por no mínimo 3 meses.",
+   "Caminhada interrompida antes do início da dor, porque a claudicação induzida agrava a isquemia muscular.",
+   "Exercício contraindicado até a revascularização, já que o índice tornozelo-braquial está abaixo de 0,90.",
+   "Programa domiciliar sem supervisão como primeira escolha, por ser superior ao supervisionado na claudicação.",
+   "Ciclismo e ergômetro de braço no lugar da caminhada, que piora a claudicação do paciente com doença arterial."
+  ],
+  "gab": 0,
+  "tema": "cardio",
+  "sub": "Doença vascular periférica e linfedema",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "tit",
+  "base": "Diretriz Brasileira de Reabilitação Cardiovascular 2020, seção de doença arterial obstrutiva periférica (Arq Bras Cardiol 2020;114(5):943-987)",
+  "coment": "O quadro é de claudicação intermitente por doença arterial obstrutiva periférica, com índice tornozelo-braquial abaixo de 0,90 e sem isquemia crítica. A SBC 2020 dá classe I, nível A, ao exercício supervisionado para melhora funcional, qualidade de vida e redução da claudicação, e IIa, nível A, ao domiciliar ou a outras modalidades. O programa típico dos estudos é caminhada com indução da claudicação, com pausas para alívio, por no mínimo 3 meses e ao menos três sessões semanais; a supervisão direta rendeu cerca de 180 metros a mais de caminhada sem dor. Ciclismo e ergômetro de braço ficam para quem não pode caminhar. O exercício só é contraindicado na isquemia crítica, até a revascularização.",
+  "porAlt": [
+   "Correta: caminhada supervisionada com indução da claudicação, por 3 meses ou mais, tem classe I, nível A.",
+   "Errada: os programas eficazes induzem a claudicação e usam pausas; parar antes da dor reduz o estímulo de treino.",
+   "Errada: o exercício só é contraindicado na isquemia crítica; claudicação com índice baixo é indicação de treino.",
+   "Errada: o domiciliar é alternativa IIa; o supervisionado é a primeira escolha, com classe I, nível A.",
+   "Errada: as alternativas à caminhada ficam para quem não consegue caminhar; ela é a modalidade principal."
+  ]
+ },
+ {
+  "q": "Mulher de 48 anos refere perda urinária ao tossir e ao correr há 2 anos, sem urgência miccional. Na avaliação, contrai voluntariamente o assoalho pélvico com força moderada e não tem prolapso significativo. Pela diretriz NICE NG123 (2019) para incontinência urinária feminina, qual o tratamento fisioterapêutico de primeira linha?",
+  "alts": [
+   "Eletroestimulação intravaginal de rotina associada ao treino desde a primeira sessão, para acelerar o ganho de força.",
+   "Cones vaginais como primeira linha por 4 semanas, com indicação de cirurgia se não houver melhora nesse prazo.",
+   "Programa domiciliar sem supervisão por 4 semanas e encaminhamento cirúrgico se a perda urinária persistir.",
+   "Exercícios abdominais hipopressivos como tratamento principal, no lugar da contração do assoalho pélvico.",
+   "Treino supervisionado do assoalho pélvico por no mínimo 3 meses, com ao menos 8 contrações 3 vezes ao dia."
+  ],
+  "gab": 4,
+  "tema": "mulher",
+  "sub": "Assoalho pélvico e incontinência",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "tit",
+  "base": "NICE NG123 (2019): Urinary incontinence and pelvic organ prolapse in women, recomendações sobre treinamento dos músculos do assoalho pélvico",
+  "coment": "A diretriz NICE NG123 (2019) manda oferecer, como primeira linha para mulheres com incontinência urinária de esforço ou mista, um período de treinamento dos músculos do assoalho pélvico supervisionado, com duração mínima de 3 meses, e define o programa com pelo menos 8 contrações realizadas 3 vezes ao dia. A mesma diretriz não recomenda o uso rotineiro de eletroestimulação, nem associada ao treino; ela fica para quem não consegue contrair voluntariamente, o que não é o caso. Quatro semanas são pouco para avaliar o efeito, e a cirurgia só se discute após falha do tratamento conservador adequado.",
+  "porAlt": [
+   "Errada: a NG123 não recomenda eletroestimulação de rotina, nem associada ao treino, em quem contrai voluntariamente.",
+   "Errada: a primeira linha é o treino supervisionado por pelo menos 3 meses, e 4 semanas é prazo curto.",
+   "Errada: a diretriz pede treino supervisionado, e 4 semanas não bastam para avaliar o efeito antes de cirurgia.",
+   "Errada: os exercícios hipopressivos não substituem o treino dos músculos do assoalho pélvico na primeira linha.",
+   "Correta: é a recomendação da NG123 para incontinência de esforço ou mista: supervisão, 3 meses e 8 contrações 3 vezes ao dia."
+  ]
+ },
+ {
+  "q": "Na avaliação por palpação vaginal de uma mulher de 41 anos com incontinência urinária de esforço, a fisioterapeuta observa contração moderada com elevação da parede vaginal posterior, sem vencer resistência. A contração máxima é sustentada por 6 segundos, repetida 4 vezes com essa duração, e ela realiza 8 contrações rápidas antes de fadigar. Como se registra o achado pelo esquema PERFECT?",
+  "alts": [
+   "P4 E6 R4 F8",
+   "P3 E4 R6 F8",
+   "P3 E6 R8 F4",
+   "P2 E6 R4 F8",
+   "P3 E6 R4 F8"
+  ],
+  "gab": 4,
+  "tema": "mulher",
+  "sub": "Assoalho pélvico e incontinência",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "Esquema PERFECT de avaliação do assoalho pélvico (Laycock e Jerwood, Physiotherapy 2001;87(12):631-642)",
+  "coment": "O esquema PERFECT (Laycock e Jerwood, 2001) registra a função dos músculos do assoalho pélvico na palpação. P (power) é a força pela escala de Oxford modificada, de 0 a 5; E (endurance) é o tempo, em segundos, que a contração máxima é sustentada, até 10; R (repetitions) é o número de repetições dessa contração sustentada, até 10; F (fast) é o número de contrações rápidas de cerca de 1 segundo, até 10; ECT lembra que cada contração é cronometrada. Na escala de Oxford modificada, o grau 2 é contração fraca sem elevação, o 3 é moderada com elevação, e o 4 já eleva contra resistência. O registro correto é P3 E6 R4 F8.",
+  "porAlt": [
+   "Errada: o grau 4 exige elevação contra resistência, o que a contração descrita não atinge.",
+   "Errada: E é o tempo de sustentação (6 segundos) e R o número de repetições (4); os valores foram trocados.",
+   "Errada: R corresponde às 4 repetições sustentadas e F às 8 contrações rápidas; os valores foram invertidos.",
+   "Errada: o grau 2 é contração fraca sem elevação, e a contração descrita eleva a parede posterior.",
+   "Correta: força grau 3, sustentação de 6 segundos, 4 repetições sustentadas e 8 contrações rápidas."
+  ]
+ },
+ {
+  "q": "Gestante de 29 semanas, sedentária antes da gravidez e com IMC de 31 kg/m², procura a fisioterapia para iniciar um programa de exercício aeróbico. A ultrassonografia mostrou placenta prévia, e ela não teve sangramento. Pela Opinião de Comitê nº 804 do American College of Obstetricians and Gynecologists (2020), qual a conduta?",
+  "alts": [
+   "Liberar 150 minutos semanais de intensidade moderada, pois sem sangramento a placenta prévia é relativa.",
+   "Não iniciar o programa aeróbico, pois placenta prévia após 26 semanas é contraindicação absoluta ao exercício.",
+   "Não iniciar o programa pelo sedentarismo prévio, que contraindica de forma absoluta começar na gestação.",
+   "Liberar exercícios em decúbito dorsal, pois a obesidade contraindica de forma absoluta o exercício em pé.",
+   "Liberar exercício aeróbico de alta intensidade, desde que a frequência cardíaca materna fique abaixo de 160 bpm."
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Gestação e puerpério",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "tit",
+  "base": "ACOG Committee Opinion nº 804, Physical activity and exercise during pregnancy and the postpartum period (Obstet Gynecol 2020;135(4):e178-e188)",
+  "coment": "A Opinião de Comitê nº 804 do ACOG (2020), que está na bibliografia do título em Saúde da Mulher, recomenda na gestação sem complicações pelo menos 150 minutos semanais de atividade aeróbica de intensidade moderada, inclusive para quem era sedentária, com início gradual. Entre as contraindicações absolutas ao exercício aeróbico estão placenta prévia após 26 semanas, sangramento persistente no segundo ou terceiro trimestre, trabalho de parto prematuro, ruptura de membranas, pré-eclâmpsia, colo incompetente ou cerclagem e anemia grave. Obesidade extrema e sedentarismo extremo são contraindicações relativas, que pedem avaliação. Com placenta prévia às 29 semanas, o programa não é iniciado, e a equipe obstétrica é comunicada.",
+  "porAlt": [
+   "Errada: a placenta prévia após 26 semanas é contraindicação absoluta, mesmo sem sangramento.",
+   "Correta: placenta prévia após 26 semanas está entre as contraindicações absolutas da Opinião nº 804 do ACOG.",
+   "Errada: o sedentarismo prévio não contraindica; o ACOG orienta começar de forma gradual na gestação sem complicações.",
+   "Errada: a obesidade não é contraindicação absoluta, e o decúbito dorsal prolongado deve ser evitado na gestação avançada.",
+   "Errada: a intensidade não se libera por um teto de frequência cardíaca, e a placenta prévia impede o programa aeróbico."
+  ]
+ },
+ {
+  "q": "Fisioterapeuta com 6 anos de inscrição no CREFITO concluiu pós-graduação lato sensu de 360 horas em Fisioterapia Respiratória, em instituição reconhecida pelo MEC, e passou a se anunciar nas redes sociais como especialista em Fisioterapia Respiratória. Pela Resolução COFFITO nº 630/2025, essa divulgação é adequada?",
+  "alts": [
+   "Sim, porque a pós lato sensu reconhecida pelo MEC, com 360 horas, confere o título de especialista na área.",
+   "Não, porque a pós lato sensu dá o título de pós-graduado, e o de especialista profissional só o COFFITO concede.",
+   "Sim, desde que ela registre o certificado no CREFITO, que o converte em registro de especialista profissional.",
+   "Sim, porque após 48 meses de inscrição o título de especialista é concedido de forma automática pelo COFFITO.",
+   "Não, porque o título de especialista é emitido pela sociedade científica da área, e não por curso universitário."
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Especialidades e parâmetros assistenciais",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "tit",
+  "base": "Resolução COFFITO nº 630/2025 (considerandos e art. 2º); Resolução COFFITO nº 424/2013 (Código de Ética)",
+  "coment": "A Resolução COFFITO nº 630/2025 regulamenta a concessão do Título de Especialista Profissional em Fisioterapia e revogou a Res. 377/2010 (art. 3º). Seus considerandos distinguem a especialização acadêmica, curso lato sensu de instituição reconhecida pelo MEC que permite usar o título de pós-graduado, do Título de Especialista Profissional, concedido exclusivamente pelo COFFITO. Pelo art. 2º, especialista profissional é quem recebe o título do COFFITO, nas especialidades que ele regulamenta, por certame público (prova de conhecimentos e avaliação de títulos e experiência), convalidação ou validação de residência. As entidades das especialidades participam por convênio, mas não emitem o título. O Código de Ética proíbe anunciar título que não atenda às normas do COFFITO.",
+  "porAlt": [
+   "Errada: a carga horária do curso não muda a natureza do título; o lato sensu dá o título de pós-graduado.",
+   "Correta: é a distinção feita nos considerandos da Res. 630/2025; o título profissional é exclusivo do COFFITO.",
+   "Errada: o certificado acadêmico não se converte em título; as vias são certame, convalidação e validação de residência.",
+   "Errada: os 48 meses de inscrição são requisito para se inscrever no certame, e não concessão automática.",
+   "Errada: as entidades participam por convênio, mas o título de especialista profissional é concedido pelo COFFITO."
+  ]
+ },
+ {
+  "q": "Fisioterapeuta titulada em Fisioterapia em Terapia Intensiva em 2019, com Registro Profissional de Especialista (RPE) emitido na época, pergunta o que deve fazer depois da publicação da Resolução COFFITO nº 627/2025. Qual a resposta correta?",
+  "alts": [
+   "Requerer a conversão do RPE em até 60 dias, sob pena de perder o registro da especialidade que já foi concedido.",
+   "Prestar novo certame público, pois a resolução extinguiu os títulos concedidos antes da criação do RQE.",
+   "Nenhuma providência: o RPE é convertido automaticamente em RQE, com numeração que respeita a ordem anterior.",
+   "Manter o RPE nos documentos, porque o RQE se aplica aos títulos concedidos depois da nova resolução.",
+   "Solicitar o RQE ao CREFITO de sua região, que passou a emitir e a numerar os registros de especialista."
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Resoluções do COFFITO",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "tit",
+  "base": "Resolução COFFITO nº 627/2025, arts. 1º, 2º, 4º e 6º",
+  "coment": "A Resolução COFFITO nº 627/2025 instituiu o Registro de Qualificação de Especialista (RQE), que substitui o Registro Profissional de Especialista (RPE) desde a sua publicação (art. 1º, parágrafo único). O RQE é ato emitido pelo COFFITO e chancela o título obtido por certame, convalidação ou residência reconhecida (arts. 2º e 3º). Pelo art. 4º, os RPEs anteriores são convertidos automaticamente em RQE, com numeração sequencial que respeita a ordem do RPE, sem providência do profissional e mantida a validade da qualificação; os 60 dias são o prazo para a lista de especialistas sair no site do COFFITO. O parágrafo único do art. 6º diz que o RQE é a única forma legal de divulgar-se especialista.",
+  "porAlt": [
+   "Errada: os 60 dias são o prazo para o COFFITO publicar a lista de especialistas; a conversão independe de pedido.",
+   "Errada: a resolução mantém a validade das qualificações anteriores e converte os registros existentes.",
+   "Correta: o art. 4º converte automaticamente o RPE em RQE, sem providência do profissional.",
+   "Errada: o RQE substituiu o RPE para todos e é a única forma legal de divulgar-se especialista.",
+   "Errada: o RQE é ato do COFFITO, e a conversão dos registros antigos é automática."
+  ]
+ },
+ {
+  "q": "Em um hospital, a fisioterapeuta da enfermaria conclui que um paciente atingiu os objetivos do plano terapêutico. A coordenação administrativa informa que a alta fisioterapêutica só pode ser registrada com a assinatura do médico assistente. Pelo Código de Ética e Deontologia da Fisioterapia (Resolução COFFITO nº 424/2013), qual o entendimento correto?",
+  "alts": [
+   "A alta fisioterapêutica depende de autorização médica, porque o Decreto-Lei 938/1969 a subordina à prescrição.",
+   "A alta cabe à equipe multiprofissional em conjunto, e nenhum profissional pode concedê-la de forma isolada.",
+   "A alta deve ser dada pelo CREFITO quando houver discordância entre a fisioterapeuta e o médico assistente.",
+   "Cabe à fisioterapeuta conceder a alta dos cuidados fisioterapêuticos e registrá-la no prontuário do paciente.",
+   "A alta fisioterapêutica é dispensável, pois o fim do tratamento acompanha a alta hospitalar dada pelo médico."
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Código de Ética e Deontologia da Fisioterapia",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "tit",
+  "base": "Resolução COFFITO nº 424/2013, art. 12; Resolução COFFITO nº 414/2012 (prontuário)",
+  "coment": "O Código de Ética e Deontologia da Fisioterapia (Res. COFFITO nº 424/2013) atribui ao fisioterapeuta a elaboração do diagnóstico fisioterapêutico, a instituição e a aplicação do plano de tratamento e a concessão da alta dos cuidados fisioterapêuticos, ou o encaminhamento a outro profissional quando julgar necessário (art. 12). A Res. 414/2012 manda registrar no prontuário o plano e a evolução a cada atendimento. O Decreto-Lei 938/1969 reconhece o fisioterapeuta como profissional de nível superior com atividade privativa, sem subordiná-lo à prescrição médica. A alta fisioterapêutica não se confunde com a alta hospitalar, que é médica, e trabalhar em equipe não transfere a decisão técnica.",
+  "porAlt": [
+   "Errada: o decreto não subordina a fisioterapia à prescrição médica, e o Código atribui a alta ao fisioterapeuta.",
+   "Errada: a equipe discute o caso, mas a alta dos cuidados fisioterapêuticos é decisão do fisioterapeuta.",
+   "Errada: o CREFITO fiscaliza o exercício e julga infrações; não concede alta de paciente.",
+   "Correta: o art. 12 atribui ao fisioterapeuta o diagnóstico, o plano de tratamento e a alta fisioterapêutica.",
+   "Errada: a alta fisioterapêutica é ato próprio, distinto da alta hospitalar, e deve ser registrada."
+  ]
+ },
+ {
+  "q": "Um fisioterapeuta é convidado, no mesmo mês, para dirigir o serviço de reabilitação de um hospital público, lecionar disciplina profissional em curso técnico de nível médio e supervisionar estagiários de Fisioterapia em uma clínica-escola. À luz do Decreto-Lei nº 938/1969, como se enquadram essas atividades?",
+  "alts": [
+   "São atividades privativas do fisioterapeuta pelo art. 3º, que define a execução de métodos e técnicas fisioterápicos.",
+   "Ele pode dirigir o serviço e supervisionar os estagiários, mas o magistério fica limitado a cursos de nível superior.",
+   "Todas exigem título de especialista, pois o decreto restringe a direção e o ensino aos profissionais titulados.",
+   "Ele pode lecionar e supervisionar, mas dirigir serviço em órgão público é atribuição reservada a cargo médico.",
+   "O art. 5º as admite no campo da profissão: direção de serviços, magistério de nível superior ou médio e supervisão."
+  ],
+  "gab": 4,
+  "tema": "etica",
+  "sub": "Decreto-Lei 938/1969 e Lei 6.316/1975",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "tit",
+  "base": "Decreto-Lei nº 938/1969, arts. 2º, 3º e 5º",
+  "coment": "O Decreto-Lei nº 938/1969 define no art. 3º a atividade privativa do fisioterapeuta: executar métodos e técnicas fisioterápicos com a finalidade de restaurar, desenvolver e conservar a capacidade física do paciente. O art. 5º acrescenta que, no campo de atividades específico de cada profissão, o fisioterapeuta pode dirigir serviços em órgãos e estabelecimentos públicos ou particulares, ou assessorá-los tecnicamente (inciso I); exercer o magistério nas disciplinas de formação básica ou profissional, de nível superior ou médio (inciso II); e supervisionar profissionais e alunos em trabalhos técnicos e práticos (inciso III). O decreto não exige título de especialista para essas funções, e o art. 2º afirma o nível superior da profissão.",
+  "porAlt": [
+   "Errada: o art. 3º trata da execução de métodos e técnicas; direção, ensino e supervisão estão no art. 5º.",
+   "Errada: o inciso II do art. 5º admite o magistério de nível superior ou médio.",
+   "Errada: o decreto não condiciona a direção, o ensino ou a supervisão a título de especialista.",
+   "Errada: o inciso I do art. 5º admite dirigir serviços em órgãos e estabelecimentos públicos ou particulares.",
+   "Correta: os três incisos do art. 5º cobrem a direção de serviços, o magistério e a supervisão descritos."
+  ]
+ },
+ {
+  "q": "Mulher de 78 anos, independente, é avaliada no ambulatório de geriatria: força de preensão palmar de 14 kg, cinco repetições de sentar e levantar em 17 segundos, massa muscular esquelética apendicular baixa na absorciometria e velocidade de marcha de 0,7 m/s. Pelo consenso europeu EWGSOP2 (2019), qual a classificação?",
+  "alts": [
+   "Sarcopenia grave, pela força baixa, pela massa muscular baixa confirmada e pelo desempenho físico reduzido.",
+   "Sarcopenia provável, porque a força de preensão está abaixo do corte feminino e a massa não entra na definição.",
+   "Sem sarcopenia, porque o ponto de corte de preensão para mulheres é de 12 kg e o teste de cadeira está normal.",
+   "Sarcopenia confirmada sem gravidade, porque o corte de gravidade da velocidade de marcha é de 0,6 m/s.",
+   "Fragilidade, e não sarcopenia, porque a força baixa associada à marcha lenta define a síndrome de fragilidade."
+  ],
+  "gab": 0,
+  "tema": "idoso",
+  "sub": "Sarcopenia e osteoporose",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "EWGSOP2, consenso europeu revisado de sarcopenia (Cruz-Jentoft e colaboradores, Age Ageing 2019;48(1):16-31)",
+  "coment": "O EWGSOP2 (Cruz-Jentoft e colaboradores, Age Ageing 2019) usa a força baixa como critério principal: preensão abaixo de 27 kg em homens e de 16 kg em mulheres, ou mais de 15 segundos para cinco repetições de sentar e levantar, indica sarcopenia provável. A confirmação vem da quantidade ou da qualidade muscular baixa, medida por absorciometria, bioimpedância, tomografia ou ressonância. A gravidade é definida pelo desempenho físico baixo, como velocidade de marcha de 0,8 m/s ou menos. A paciente tem os três: 14 kg e 17 segundos, massa apendicular baixa e 0,7 m/s. A conduta fisioterapêutica central é o treino resistido progressivo, com atenção ao risco de quedas.",
+  "porAlt": [
+   "Correta: força baixa, massa baixa e velocidade de marcha de 0,7 m/s configuram sarcopenia grave.",
+   "Errada: a massa muscular entra no EWGSOP2 e, baixa, confirma a sarcopenia; a marcha lenta acrescenta a gravidade.",
+   "Errada: o corte feminino é de 16 kg, e 17 segundos no teste de cadeira estão acima do limite de 15.",
+   "Errada: o corte de gravidade da velocidade de marcha no EWGSOP2 é de 0,8 m/s ou menos.",
+   "Errada: fragilidade e sarcopenia podem coexistir, e os critérios do EWGSOP2 estão todos presentes."
+  ]
+ },
+ {
+  "q": "Homem de 76 anos, que vive na comunidade, caiu uma vez nos últimos 12 meses, sem lesão, e levantou-se sozinho logo depois. Não tem critérios de fragilidade nem episódio sugestivo de síncope. A velocidade de marcha é de 0,7 m/s. Pelas Diretrizes Mundiais de Prevenção e Manejo de Quedas em Idosos (2022), qual a estratificação e a intervenção recomendada?",
+  "alts": [
+   "Risco baixo, com orientação geral e reavaliação anual, pois a queda única não teve lesão associada.",
+   "Risco alto, com avaliação multifatorial, pois uma queda no último ano já define esse grupo de risco.",
+   "Risco intermediário, com caminhada isolada duas vezes por semana por 4 semanas, como prevenção primária.",
+   "Risco alto, com dispositivo de auxílio e restrição das saídas de casa até a velocidade de marcha melhorar.",
+   "Risco intermediário, com exercício de equilíbrio e funcional 3 ou mais vezes por semana, por ao menos 12 semanas."
+  ],
+  "gab": 4,
+  "tema": "idoso",
+  "sub": "Quedas e fragilidade",
+  "cenario": "aps",
+  "comp": "cond",
+  "nivel": "tit",
+  "base": "World Guidelines for Falls Prevention and Management for Older Adults (Montero-Odasso e colaboradores, Age Ageing 2022;51(9):afac205)",
+  "coment": "As Diretrizes Mundiais de Prevenção e Manejo de Quedas (Montero-Odasso e colaboradores, Age Ageing 2022) classificam como risco intermediário a pessoa com uma queda não grave e alteração da marcha ou do equilíbrio; a velocidade de marcha abaixo de 0,8 m/s é o teste preferido para detectá-la (recomendação forte, 1A). O alto risco exige queda com lesão, duas ou mais quedas no ano, fragilidade, incapacidade de se levantar sem ajuda por pelo menos uma hora ou suspeita de perda transitória de consciência. Para o risco intermediário, a diretriz indica exercícios individualizados, desafiadores de equilíbrio e funcionais, 3 ou mais vezes por semana, progredidos por pelo menos 12 semanas (1A).",
+  "porAlt": [
+   "Errada: a velocidade de 0,7 m/s indica alteração da marcha, o que tira o paciente do risco baixo.",
+   "Errada: uma queda não grave sem outros critérios de gravidade não define alto risco.",
+   "Errada: a caminhada isolada não é o programa indicado, e 4 semanas ficam abaixo das 12 recomendadas.",
+   "Errada: ele não preenche critério de alto risco, e restringir saídas não é intervenção recomendada.",
+   "Correta: queda não grave com marcha lenta é risco intermediário, tratado com exercício de equilíbrio por 12 semanas ou mais."
+  ]
+ },
+ {
+  "q": "Mulher de 52 anos, dois anos após mastectomia com esvaziamento axilar à esquerda, tem aumento de volume do braço esquerdo que não regride com a elevação do membro, com sinal de cacifo presente e sem alterações tróficas da pele. Pelo consenso da International Society of Lymphology, qual o estágio e a abordagem fisioterapêutica?",
+  "alts": [
+   "Estágio I, pois há cacifo; elevação do membro e orientações de autocuidado bastam, sem necessidade de compressão.",
+   "Estágio III, pela persistência após a elevação; encaminhar à cirurgia, pois a terapia conservadora não responde.",
+   "Estágio II; contraindicar exercícios do membro superior, que aumentam a produção de linfa e o volume do braço.",
+   "Estágio II; terapia física complexa, com fase intensiva de enfaixamento multicamadas e manutenção com malha.",
+   "Estágio 0, subclínico, pois não há alteração trófica; acompanhar o volume do braço a cada seis meses, sem tratar."
+  ],
+  "gab": 3,
+  "tema": "onco",
+  "sub": "Fisioterapia oncológica",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "tit",
+  "base": "Consenso da International Society of Lymphology sobre diagnóstico e tratamento do linfedema periférico (Lymphology 2020;53(1):3-19)",
+  "coment": "No estadiamento da International Society of Lymphology, o estágio 0 é subclínico; no I, o edema rico em proteína regride com a elevação; no II, a elevação sozinha raramente reduz o edema e o cacifo é evidente, podendo desaparecer na fase tardia pela fibrose; no III há elefantíase linfostática, com alterações tróficas da pele. A paciente está no estágio II. O tratamento conservador de referência é a terapia física complexa em duas fases: a intensiva, com drenagem linfática manual, enfaixamento compressivo multicamadas, exercícios e cuidados com a pele, e a de manutenção, com malha compressiva, exercício e autocuidado. Exercitar com o membro comprimido faz parte do tratamento.",
+  "porAlt": [
+   "Errada: no estágio I o edema regride com a elevação, o que não ocorre aqui; e a compressão é parte do tratamento.",
+   "Errada: o estágio III tem alterações tróficas da pele, ausentes no caso, e o tratamento inicial é conservador.",
+   "Errada: exercícios, de preferência com o membro comprimido, fazem parte da terapia física complexa.",
+   "Correta: edema que não regride com a elevação e cacifo evidente é estágio II, tratado com terapia física complexa.",
+   "Errada: o estágio 0 é subclínico, sem edema visível; aqui o edema é evidente e persistente."
+  ]
+ },
+ {
+  "q": "Mulher de 58 anos, três anos após tratamento de câncer de mama, tem linfedema estável no braço direito, controlado com malha compressiva. Quer fazer musculação, mas foi orientada a evitar qualquer carga no membro afetado. Pela evidência do ensaio PAL (Physical Activity and Lymphedema), qual a orientação?",
+  "alts": [
+   "Contraindicar o treino resistido no membro afetado até o volume do braço voltar ao do lado não operado.",
+   "Restringir o treino a exercícios aeróbicos de membros inferiores, pois a carga no braço agrava o linfedema.",
+   "Iniciar com cargas altas desde a primeira semana, pois a malha compressiva neutraliza o risco de piora do edema.",
+   "Treino resistido supervisionado e progressivo, começando com carga baixa e usando a malha durante o exercício.",
+   "Preferir exercícios na água, já que a pressão hidrostática é a forma segura de exercitar o braço afetado."
+  ],
+  "gab": 3,
+  "tema": "onco",
+  "sub": "Fisioterapia oncológica",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "tit",
+  "base": "Ensaio PAL, Weight lifting in women with breast-cancer-related lymphedema (Schmitz e colaboradores, N Engl J Med 2009;361(7):664-673)",
+  "coment": "O ensaio PAL (Schmitz e colaboradores, N Engl J Med 2009) randomizou sobreviventes de câncer de mama com linfedema estável para levantamento de peso lento e progressivo, supervisionado no início e com malha compressiva durante o exercício, ou para controle. O treino não aumentou o volume do braço, reduziu as exacerbações do linfedema e melhorou a força. O ganho veio da progressão gradual a partir de carga baixa, com acompanhamento dos sintomas do membro. Por isso a orientação de evitar carga é superada pela evidência, e o exercício resistido entra no plano, junto da manutenção da compressão e do cuidado com a pele, como prevê a terapia física complexa na fase de manutenção.",
+  "porAlt": [
+   "Errada: o PAL mostrou que o treino resistido progressivo não aumenta o volume do braço com linfedema estável.",
+   "Errada: o braço afetado pode ser treinado com carga progressiva, como no ensaio PAL.",
+   "Errada: o protocolo do PAL começa com carga baixa e progride devagar, monitorando os sintomas.",
+   "Correta: é o protocolo do PAL, que não piorou o linfedema e reduziu as suas exacerbações.",
+   "Errada: o exercício aquático é uma opção, mas o treino resistido em solo foi testado no PAL e se mostrou seguro."
+  ]
+ }
+]

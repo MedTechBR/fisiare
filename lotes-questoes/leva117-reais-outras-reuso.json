@@ -1,0 +1,628 @@
+[
+ {
+  "q": "Estão incluídas no campo de atuação do Sistema Único de Saúde (SUS), a execução das ações de:",
+  "alts": [
+   "acesso e permanência na escola especial;",
+   "reabilitação das crianças e adolescentes carentes;",
+   "níveis elevados do ensino, da pesquisa de cada da comunidade;",
+   "atendimento especializado nas instituições privadas;",
+   "assistência terapêutica integral, inclusive farmacêutica."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 6º, I, d",
+  "coment": "O art. 6º da Lei 8.080/1990 lista o campo de atuação do SUS. No inciso I estão a execução de ações de vigilância sanitária, vigilância epidemiológica, saúde do trabalhador e assistência terapêutica integral, inclusive farmacêutica (alínea d) e, desde a Lei 14.572/2023, saúde bucal (alínea e). Os outros incisos trazem saneamento básico, recursos humanos, vigilância nutricional, meio ambiente, medicamentos e insumos, sangue e derivados, fiscalização de produtos e desenvolvimento científico. Educação especial e assistência social são campos de outras políticas.",
+  "porAlt": [
+   "Errada: acesso e permanência na escola especial são da política de educação, não do campo do SUS.",
+   "Errada: a reabilitação é ação de saúde, mas o texto limitado a crianças carentes não corresponde à lei.",
+   "Errada: a alternativa não corresponde a nenhum inciso do art. 6º e mistura ensino com atuação do SUS.",
+   "Errada: o SUS pode contratar o setor privado de forma complementar, mas atendimento em instituição privada não é campo de atuação.",
+   "Correta: a assistência terapêutica integral, inclusive farmacêutica, está no art. 6º, I, d, da Lei 8.080/1990."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "IBADE Prefeitura do Recife/PE 2024 - Fisioterapeuta 20h",
+   "n": 11,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "O conjunto de ações e serviços de saúde, prestadas por órgãos e instituições públicas federais, estaduais e municipais, da Administração direta e indireta e das fundações mantidas pelo poder público, constitui o Sistema Único de Saúde (SUS). A iniciativa privada poderá participar do Sistema Único de Saúde (SUS) em caráter:",
+  "alts": [
+   "complementar;",
+   "universal;",
+   "fiscalizador;",
+   "assistencial;",
+   "Regulador."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 4º, § 2º, e Constituição Federal de 1988, art. 199, § 1º",
+  "coment": "O enunciado reproduz o art. 4º da Lei 8.080/1990, que define o SUS como o conjunto de ações e serviços prestados por órgãos e instituições públicas das três esferas, da administração direta e indireta e das fundações mantidas pelo poder público. O § 2º completa: a iniciativa privada poderá participar do SUS em caráter complementar. A Constituição (art. 199, § 1º) e os arts. 24 a 26 da lei detalham: contrato de direito público ou convênio, preferência às filantrópicas e sem fins lucrativos, e só quando a rede pública for insuficiente.",
+  "porAlt": [
+   "Correta: o art. 4º, § 2º, da Lei 8.080/1990 prevê participação da iniciativa privada em caráter complementar.",
+   "Errada: universalidade é princípio do acesso ao SUS, não a forma de participação do setor privado.",
+   "Errada: fiscalizar é papel do poder público sobre os serviços, inclusive os privados contratados.",
+   "Errada: a participação privada é assistencial no conteúdo, mas a lei a qualifica como complementar.",
+   "Errada: a regulação é competência dos gestores públicos, não da iniciativa privada."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "IBADE Prefeitura do Recife/PE 2024 - Fisioterapeuta 20h",
+   "n": 12,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A organização básica das ações e serviços de saúde, quanto à direção, gestão, competências e atribuições de cada esfera de governo no Sistema Único de Saúde (SUS) foram detalhadas pelas leis:",
+  "alts": [
+   "8080/90 e 6360/76;",
+   "8080/90 e 8142/90;",
+   "8142/90 e 8213/91;",
+   "8896/94 e 8142/90;",
+   "6369/76 e 8080/90;"
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990 e Lei 8.142/1990",
+  "coment": "As Leis Orgânicas da Saúde são duas, ambas de 1990. A Lei 8.080 dispõe sobre as condições para promoção, proteção e recuperação da saúde e sobre a organização e o funcionamento dos serviços: direção única em cada esfera, competências da União, estados e municípios, princípios e diretrizes. A Lei 8.142 trata da participação da comunidade na gestão do SUS (conferências e conselhos de saúde) e das transferências intergovernamentais de recursos, com os requisitos para recebê-los. A Lei 6.360/1976 é da vigilância sanitária de medicamentos, e a 8.213/1991 é da Previdência.",
+  "porAlt": [
+   "Errada: a Lei 6.360/1976 trata da vigilância sanitária de medicamentos e produtos, não da organização do SUS.",
+   "Correta: as Leis 8.080/1990 e 8.142/1990 são as Leis Orgânicas da Saúde que organizam o SUS.",
+   "Errada: a Lei 8.213/1991 dispõe sobre os planos de benefícios da Previdência Social.",
+   "Errada: a Lei 8.896/1994 não é lei orgânica da saúde; só a 8.142/1990 está correta no par.",
+   "Errada: a Lei 6.369/1976 não organiza o SUS, criado em 1988; só a 8.080/1990 está correta no par."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "IBADE Prefeitura do Recife/PE 2024 - Fisioterapeuta 20h",
+   "n": 13,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "O Decreto Presidencial nº 7.508/2011 define o processo de planejamento da saúde no Sistema Único de Saúde (SUS), definindo que deve ser:",
+  "alts": [
+   "ascendente e integrado, do nível local até o federal, ouvindo os respectivos Conselhos de Saúde;",
+   "é obrigatório para a iniciativa privada e será indutor de políticas para os entes públicos;",
+   "é competência da Comissão Intergestores Tripartite pactuar as etapas do processo e os prazos do planejamento municipal;",
+   "ascendente, do nível local até o federal, ouvindo os respectivos Conselhos de Saúde;",
+   "no planejamento são considerados os serviços e ações desenvolvidas pelo setor público sem levar em consideração a iniciativa privada."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Decreto 7.508/2011, arts. 15, 16 e 19",
+  "coment": "O art. 15 do Decreto 7.508/2011 diz que o planejamento da saúde é ascendente e integrado, do nível local até o federal, ouvidos os respectivos Conselhos de Saúde, compatibilizando necessidades e recursos. O § 1º diz que ele é obrigatório para os entes públicos e indutor de políticas para a iniciativa privada. O art. 16 manda considerar os serviços privados, complementares ou não ao SUS. O art. 19 dá à Comissão Intergestores Bipartite, e não à Tripartite, a pactuação das etapas e prazos do planejamento municipal. A alternativa que omite integrado é cópia incompleta do caput.",
+  "porAlt": [
+   "Correta: é o texto do art. 15, planejamento ascendente e integrado, do nível local ao federal, ouvidos os Conselhos de Saúde.",
+   "Errada: inverte o § 1º, que torna o planejamento obrigatório para os entes públicos e indutor para a iniciativa privada.",
+   "Errada: pelo art. 19, quem pactua etapas e prazos do planejamento municipal é a CIB, não a CIT.",
+   "Errada como resposta: omite o termo integrado do art. 15; a banca exigiu a definição completa.",
+   "Errada: o art. 16 manda considerar no planejamento os serviços prestados pela iniciativa privada."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "IBADE Prefeitura do Recife/PE 2024 - Fisioterapeuta 20h",
+   "n": 14,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "São Portas de Entrada às ações e aos serviços de saúde nas Redes de Atenção à Saúde os serviços definidos no Decreto Presidencial nº 7.508/2011:",
+  "alts": [
+   "atenção hospitalar;",
+   "ambulatórios especializados;",
+   "atenção primária;",
+   "distritos sanitários indígenas;",
+   "conselhos de saúde;"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Decreto 7.508/2011, art. 9º",
+  "coment": "O art. 9º do Decreto 7.508/2011 define as Portas de Entrada às ações e serviços de saúde nas Redes de Atenção: atenção primária, atenção de urgência e emergência, atenção psicossocial e serviços especiais de acesso aberto. A partir delas o usuário é referenciado à atenção ambulatorial especializada e hospitalar (art. 10). A atenção primária, além de porta de entrada, ordena o acesso universal e igualitário (art. 11). Conselho de saúde é instância de controle social, não serviço assistencial.",
+  "porAlt": [
+   "Errada: a atenção hospitalar é referenciada a partir das portas de entrada (art. 10), não é porta de entrada.",
+   "Errada: os ambulatórios especializados também recebem o usuário por referência das portas de entrada.",
+   "Correta: a atenção primária é a primeira das portas de entrada listadas no art. 9º do Decreto 7.508/2011.",
+   "Errada: os DSEI organizam a saúde indígena, mas não constam como porta de entrada no art. 9º.",
+   "Errada: conselhos de saúde são instâncias de controle social, não serviços de atendimento."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "IBADE Prefeitura do Recife/PE 2024 - Fisioterapeuta 20h",
+   "n": 15,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "“O processo contínuo e sistemático de coleta, consolidação, análise de dados e disseminação de informações sobre eventos relacionados à saúde, visando o planejamento e a implementação de medidas de saúde pública, incluindo a regulação, intervenção e atuação em condicionantes e determinantes da saúde, para a proteção e promoção da saúde da população, prevenção e controle de riscos, agravos e doenças”. O conceito apresentado refere-se a:",
+  "alts": [
+   "evento sentinela;",
+   "vigilância ambiental;",
+   "vigilância em saúde;",
+   "vigilância epidemiológica;",
+   "vigilância nacional de agravos sanitários."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Vigilância epidemiológica e notificação compulsória",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução CNS 588/2018 (Política Nacional de Vigilância em Saúde), art. 2º",
+  "coment": "A definição é a de vigilância em saúde da Política Nacional de Vigilância em Saúde (Resolução CNS 588/2018, art. 2º), que repete a da Portaria GM/MS 1.378/2013: processo contínuo e sistemático de coleta, consolidação, análise e disseminação de dados sobre eventos de saúde, para planejar e implementar medidas de saúde pública, atuando inclusive sobre condicionantes e determinantes. A vigilância em saúde é o conceito amplo que abrange as vigilâncias epidemiológica, sanitária, ambiental e em saúde do trabalhador e a promoção da saúde.",
+  "porAlt": [
+   "Errada: evento sentinela é a ocorrência evitável que sinaliza falha no sistema, não um processo de vigilância.",
+   "Errada: a vigilância ambiental é um dos componentes da vigilância em saúde, voltada aos fatores do meio ambiente.",
+   "Correta: é a definição de vigilância em saúde do art. 2º da Política Nacional de Vigilância em Saúde.",
+   "Errada: a vigilância epidemiológica é componente mais restrito, definido no art. 6º, § 2º, da Lei 8.080/1990.",
+   "Errada: não existe na legislação uma vigilância nacional de agravos sanitários com esse conceito."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "IBADE Prefeitura do Recife/PE 2024 - Fisioterapeuta 20h",
+   "n": 16,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Sistemas de Informação em Saúde (SIS) são instrumentos que, por meio do processamento de dados coletados em serviços de saúde e outros locais, dão suporte à produção de informações para a melhor compreensão dos problemas e tomada de decisão no âmbito das políticas e do cuidado em saúde. Sobre o tema, a alternativa correta é:",
+  "alts": [
+   "o sistema de informações sobre mortalidade coleta, transmite e dissemina dados gerados rotineiramente pelo sistema de vigilância epidemiológica, nas três esferas de governo;",
+   "o sistema de informações em saúde da atenção básica e o e-SUS é uma estratégia que faz referência ao processo de informatização qualificada do SUS em busca de um SUS eletrônico;",
+   "o sistema de pactuação dos indicadores traz informações sobre os indicadores de mortalidade, permitindo o registro de metas pactuadas pelos municípios;",
+   "o sistema de informações sobre orçamentos públicos em saúde coleta, armazena e analisa as informações de gestão do trabalho para formulação de políticas de gestão;",
+   "o sistema do cadastro nacional de estabelecimentos de saúde registra apenas as equipes de saúde da família e de agentes comunitários de saúde."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Sistemas de informação em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 1.412/2013 (institui o SISAB e a estratégia e-SUS AB)",
+  "coment": "A Portaria GM/MS 1.412/2013 instituiu o Sistema de Informação em Saúde para a Atenção Básica (SISAB), operado pela estratégia e-SUS AB, que faz referência ao processo de informatização qualificada do SUS em busca de um SUS eletrônico, com registro individualizado pelo CDS e pelo prontuário eletrônico (PEC). As outras trocam as funções dos sistemas: quem coleta e dissemina dados da vigilância epidemiológica é o SINAN; o SISPACTO registra metas de todos os indicadores pactuados; o SIOPS trata de orçamento público em saúde; e o CNES cadastra todos os estabelecimentos e profissionais.",
+  "porAlt": [
+   "Errada: essa é a descrição do SINAN; o SIM registra os óbitos a partir da Declaração de Óbito.",
+   "Correta: o SISAB com a estratégia e-SUS AB é o processo de informatização qualificada do SUS em busca de um SUS eletrônico.",
+   "Errada: o sistema de pactuação registra metas de indicadores de várias áreas, não só de mortalidade.",
+   "Errada: o SIOPS acompanha receitas e despesas públicas em saúde, não a gestão do trabalho.",
+   "Errada: o CNES cadastra todos os estabelecimentos de saúde, públicos e privados, e suas equipes."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "IBADE Prefeitura do Recife/PE 2024 - Fisioterapeuta 20h",
+   "n": 17,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "As redes de atenção à saúde são mecanismos que qualificam as demandas em níveis de atenção, otimizam e organizam o sistema frente às necessidades de saúde da população. São fundamentos utilizados para sua efetivação de forma eficiente e com qualidade:",
+  "alts": [
+   "economia de escala e serviços especializados;",
+   "mecanismos de coordenação e níveis de atenção;",
+   "processos de substituição e integração horizontal;",
+   "integração vertical e participação social;",
+   "sistema de governança único e região de saúde."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 4.279/2010 (diretrizes da RAS), consolidada na PRC 3/2017, Anexo I",
+  "coment": "A Portaria GM/MS 4.279/2010 lista os fundamentos da Rede de Atenção à Saúde: economia de escala, disponibilidade de recursos, qualidade e acesso; integração horizontal e vertical; processos de substituição; região de saúde ou abrangência; e níveis de atenção. Processos de substituição (reagrupar recursos para fazer o cuidado no lugar e com o custo mais adequados) e integração horizontal (articular unidades da mesma natureza) são os dois fundamentos pedidos. Sistema de governança único é atributo da rede, não fundamento.",
+  "porAlt": [
+   "Errada: economia de escala é fundamento, mas serviços especializados não estão entre eles.",
+   "Errada: níveis de atenção é fundamento, mas mecanismos de coordenação não constam da lista de fundamentos.",
+   "Correta: processos de substituição e integração horizontal são fundamentos da RAS na Portaria 4.279/2010.",
+   "Errada: integração vertical é fundamento, mas participação social é atributo ligado à governança, não fundamento.",
+   "Errada: região de saúde é fundamento, mas sistema de governança único é atributo da RAS."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "IBADE Prefeitura do Recife/PE 2024 - Fisioterapeuta 20h",
+   "n": 18,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A governança das Redes de Atenção à Saúde no Sistema Único de Saúde deve ser feita:",
+  "alts": [
+   "comissões locais de saúde;",
+   "conselho dos secretários estaduais de saúde;",
+   "comissões intersetoriais e de planejamento;",
+   "comissões intergestores tripartite, bipartite e regionais;",
+   "conselho nacional de saúde."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 4.279/2010, consolidada na PRC 3/2017, e Decreto 7.508/2011, arts. 30 a 32",
+  "coment": "A governança da Rede de Atenção à Saúde é a capacidade de intervenção que envolve os atores e as estruturas de gestão das três esferas. No SUS ela se exerce nas comissões intergestores: Tripartite (CIT, nacional), Bipartite (CIB, estadual) e Regional (CIR, criada pelo Decreto 7.508/2011 no lugar dos antigos Colegiados de Gestão Regional). Essas comissões pactuam a organização e o funcionamento das ações e serviços integrados em rede. Conselhos de saúde fazem controle social, e o CONASS só representa os estados.",
+  "porAlt": [
+   "Errada: comissões locais de saúde são instâncias de participação, não de governança interfederativa da rede.",
+   "Errada: o CONASS representa os secretários estaduais, mas sozinho não exerce a governança da RAS.",
+   "Errada: comissões intersetoriais assessoram os conselhos de saúde, sem papel de pactuação entre gestores.",
+   "Correta: a governança das RAS se exerce nas comissões intergestores tripartite, bipartite e regionais.",
+   "Errada: o Conselho Nacional de Saúde é instância de controle social, não de governança da rede."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "IBADE Prefeitura do Recife/PE 2024 - Fisioterapeuta 20h",
+   "n": 19,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "São impactos identificados quando da implementação de Redes de Atenção à Saúde:",
+  "alts": [
+   "diminuição de produtividade;",
+   "produção de uma oferta fixa de atenção geral e especializada;",
+   "descontentamento dos usuários;",
+   "aumento no tempo de permanência hospitalar;",
+   "continuidade da atenção, gerando uma maior efetividade clínica."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 4.279/2010 (diretrizes da RAS), consolidada na PRC 3/2017, Anexo I",
+  "coment": "A Portaria GM/MS 4.279/2010 justifica a organização em redes pela fragmentação da atenção e cita evidências de que as RAS melhoram a qualidade clínica, os resultados sanitários e a satisfação dos usuários e reduzem custos. Entre os efeitos esperados estão a continuidade da atenção, com maior efetividade clínica, a redução do tempo de permanência hospitalar, o uso racional dos recursos e o aumento da produtividade. As alternativas erradas listam o contrário desses impactos, e a oferta deixa de ser fixa para se ajustar às necessidades da população.",
+  "porAlt": [
+   "Errada: a rede tende a aumentar a produtividade, por economia de escala e melhor uso dos recursos.",
+   "Errada: a oferta na RAS se organiza pela necessidade da população, não de forma fixa.",
+   "Errada: as evidências citadas na portaria mostram maior satisfação dos usuários.",
+   "Errada: a coordenação do cuidado reduz o tempo de permanência hospitalar, não o aumenta.",
+   "Correta: a continuidade da atenção, com maior efetividade clínica, é impacto esperado das RAS."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "IBADE Prefeitura do Recife/PE 2024 - Fisioterapeuta 20h",
+   "n": 20,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Sobre o tema modelos assistenciais em saúde é correto afirmar que:",
+  "alts": [
+   "o modelo médico-assistencial privatista é aquele que privilegia o atendimento individual e curativo prestado pelo médico e outros profissionais da saúde;",
+   "o modelo de vigilância em saúde é constituído pelas campanhas e programas de saúde pública voltados ao controle de doenças;",
+   "o modelo denominado médico-assistencial privatista é considerado o mais resolutivo frente às demandas de saúde da população devido ao seu caráter tecnicista;",
+   "o modelo de vigilância em saúde não leva em consideração os determinantes sociais que afetam as pessoas;",
+   "o modelo sanitarista privilegia o atendimento individual e curativo, prestado pelo médico e outros profissionais da saúde."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Paim JS, Modelos de atenção à saúde no Brasil, em Políticas e Sistema de Saúde no Brasil (Fiocruz, 2008)",
+  "coment": "Na classificação de Jairnilson Paim, o modelo médico-assistencial privatista é centrado na demanda espontânea, no atendimento individual e curativo e no hospital, e não alcança os problemas que não geram procura. O modelo sanitarista atua por campanhas e programas especiais de controle de doenças. A vigilância da saúde é proposta alternativa, que trabalha sobre o território e os determinantes sociais, integrando promoção, prevenção e assistência. Nenhum dos modelos hegemônicos é considerado o mais resolutivo.",
+  "porAlt": [
+   "Correta: o modelo médico-assistencial privatista privilegia o atendimento individual e curativo.",
+   "Errada: campanhas e programas de controle de doenças caracterizam o modelo sanitarista, não a vigilância da saúde.",
+   "Errada: o modelo privatista não é o mais resolutivo; ignora necessidades que não chegam como demanda.",
+   "Errada: a vigilância da saúde atua justamente sobre os determinantes sociais no território.",
+   "Errada: o modelo sanitarista age por campanhas e programas coletivos, não pelo atendimento individual curativo."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "IBADE Prefeitura do Recife/PE 2024 - Fisioterapeuta 20h",
+   "n": 21,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Portaria nº 2.436/2017 aprova a Política Nacional de Atenção Básica, estabelecendo a revisão de diretrizes para a organização da Atenção Básica, no âmbito do Sistema Único de Saúde (SUS). Sobre o tema é correto afirmar que:",
+  "alts": [
+   "a Política Nacional de Atenção Básica considera os termos Atenção Básica (AB) e Atenção Primária à Saúde (APS), nas atuais concepções, como termos diferentes, de forma a diferenciar ambas conforme os princípios e as diretrizes definidas;",
+   "a Atenção Básica é o conjunto de ações de saúde individuais, familiares e coletivas que envolvem promoção, prevenção, proteção, diagnóstico, tratamento, realizada com equipe multiprofissional e dirigida à população em território definido, sobre as quais as equipes assumem responsabilidade sanitária.",
+   "a Atenção Básica será a principal porta de entrada e centro de comunicação da Rede de Atenção à Saúde, coordenadora do cuidado e ordenadora das ações e serviços disponibilizados na rede;",
+   "a Atenção Básica será ofertada integralmente e gratuitamente a todas as pessoas, de acordo com suas necessidades e demandas do território, considerando sua condição financeira;",
+   "a Atenção Básica considera as famílias em sua singularidade e inserção financeira, buscando produzir a atenção integral, incorporar as ações de vigilância em saúde para a proteção, a prevenção e o controle de riscos, agravos e doenças, bem como para a promoção da saúde."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), Anexo, art. 2º",
+  "coment": "O art. 2º, § 1º, da PNAB (Portaria 2.436/2017) diz que a Atenção Básica será a principal porta de entrada e centro de comunicação da Rede de Atenção à Saúde, coordenadora do cuidado e ordenadora das ações e serviços disponibilizados na rede. A mesma política considera Atenção Básica e Atenção Primária termos equivalentes e manda ofertar a AB integral e gratuitamente a todos, considerando os determinantes e condicionantes de saúde, não a condição financeira. A definição do caput inclui ainda reabilitação, redução de danos, cuidados paliativos e vigilância em saúde, omitidos em uma das alternativas.",
+  "porAlt": [
+   "Errada: a PNAB considera Atenção Básica e Atenção Primária à Saúde termos equivalentes.",
+   "Errada como resposta: a definição foi cortada, sem reabilitação, redução de danos, cuidados paliativos e vigilância em saúde.",
+   "Correta: reproduz o art. 2º, § 1º, da PNAB, porta de entrada preferencial, coordenadora do cuidado e ordenadora da rede.",
+   "Errada: a oferta considera os determinantes e condicionantes de saúde, nunca a condição financeira do usuário.",
+   "Errada: a PNAB considera a inserção sociocultural das famílias, não a inserção financeira."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "IBADE Prefeitura do Recife/PE 2024 - Fisioterapeuta 20h",
+   "n": 23,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Educação Permanente em Saúde (EPS) é definida como prática de ensino-aprendizagem no trabalho, pelo trabalho e para o trabalho e apresenta como característica:",
+  "alts": [
+   "pedagogia centrada na transmissão;",
+   "prática institucionalizada;",
+   "atualização de conhecimento;",
+   "prática autônoma;",
+   "ação esporádica."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Educação permanente em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 1.996/2007 (Política Nacional de Educação Permanente em Saúde)",
+  "coment": "A Educação Permanente em Saúde, base da política instituída pela Portaria GM/MS 1.996/2007, é aprendizagem no trabalho, a partir dos problemas reais do serviço, e por isso é prática institucionalizada, articulada à gestão e ao controle social. Na comparação clássica com a educação continuada, esta é que tem prática autônoma (iniciativa individual), pedagogia centrada na transmissão de conteúdo, objetivo de atualização técnico-científica e ações esporádicas. A EPS é contínua, problematizadora e voltada à transformação das práticas.",
+  "porAlt": [
+   "Errada: pedagogia centrada na transmissão é marca da educação continuada; a EPS é problematizadora.",
+   "Correta: a EPS é prática institucionalizada, ligada à gestão do serviço e ao processo de trabalho.",
+   "Errada: a atualização de conhecimento é o objetivo da educação continuada; a EPS visa transformar as práticas.",
+   "Errada: a prática autônoma, por iniciativa individual, caracteriza a educação continuada.",
+   "Errada: ação esporádica é traço da educação continuada; a EPS é contínua."
+  ],
+  "fonte": {
+   "banca": "IBADE",
+   "ano": 2024,
+   "prova": "IBADE Prefeitura do Recife/PE 2024 - Fisioterapeuta 20h",
+   "n": 25,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Declaração de Alma-Ata (1978) é um marco histórico no contexto da Atenção Primária à Saúde (APS), e estabeleceu diretrizes para a organização dos sistemas de saúde em nível global. Com base em seus princípios e na definição de APS, seus fundamentos e objetivos consistem em:",
+  "alts": [
+   "propor que a Atenção Primária à Saúde seja voltada apenas para ações de promoção de saúde, sendo desnecessária a integração com os serviços de saúde secundária ou terciária, com foco exclusivo em educação em saúde",
+   "enfatizar que a Atenção Primária à Saúde deve ser baseada em serviços curativos para doenças infecciosas, com a exclusão da participação social na gestão da saúde, visando a apenas a prestação de assistência médica pela rede hospitalar",
+   "estabelecer que a Atenção Primária à Saúde deve ser a porta de entrada principal do sistema de saúde, com ênfase na promoção da saúde, prevenção de doenças, tratamento adequado e no fortalecimento da participação comunitária, assegurando acesso universal e equitativo",
+   "propor que a Atenção Primária à Saúde deve ser exclusivamente voltada para tratamento de doenças agudas e urgências, com foco em serviços de alta complexidade hospitalar, sem a necessidade de integração com outras esferas do cuidado ou com a comunidade"
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Declaração de Alma-Ata (Conferência Internacional sobre Cuidados Primários de Saúde, 1978)",
+  "coment": "A Declaração de Alma-Ata define os cuidados primários como cuidados essenciais, acessíveis a todos, com participação da comunidade, e os coloca como o primeiro nível de contato das pessoas com o sistema, levando a atenção o mais perto possível de onde vivem e trabalham. Eles incluem educação em saúde, nutrição, saneamento, saúde materno-infantil, imunização, controle de endemias e tratamento das doenças comuns, integrados ao restante do sistema. A meta era \"Saúde para todos no ano 2000\". As distratoras isolam um único tipo de ação ou excluem a comunidade.",
+  "porAlt": [
+   "Errada: Alma-Ata não restringe a APS à promoção e prevê integração com os demais níveis do sistema.",
+   "Errada: a declaração valoriza a participação comunitária e não reduz a APS a cuidado curativo hospitalar.",
+   "Correta: APS como primeiro contato, com promoção, prevenção, tratamento e participação comunitária, de acesso universal.",
+   "Errada: a APS não é voltada à alta complexidade hospitalar e depende da integração com a comunidade e a rede."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Selecon Hemominas 2025 - Analista de Hematologia e Hemoterapia - Fisioterapeuta",
+   "n": 12,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "O conceito de territorialização é fundamental para a organização e a prestação dos serviços de saúde, visando a garantir a efetividade e a equidade no atendimento à população. Considerando as diretrizes da Lei nº 8.080/1990 e na Política Nacional de Atenção Básica (PNAB), a principal finalidade da territorialização no SUS é:",
+  "alts": [
+   "organizar a oferta de serviços de saúde em áreas geograficamente delimitadas, considerando as especificidades sociais, culturais e econômicas de cada território, com o objetivo de aumentar a eficiência do sistema, priorizando a descentralização da gestão e o atendimento da população",
+   "garantir o acesso universal e igualitário aos serviços de saúde, sem levar em consideração as características geográficas e as desigualdades regionais, buscando uma distribuição uniforme de recursos e de serviços de saúde em todo o território nacional",
+   "estabelecer a centralização da gestão da saúde na esfera federal, criando unidades de atendimento em grandes centros urbanos, sem necessidade de considerar as particularidades dos territórios ou as condições locais de saúde",
+   "promover a segregação entre diferentes regiões do país, criando barreiras geográficas e sociais que limitam o acesso das populações mais vulneráveis aos serviços de saúde, com o objetivo de otimizar o uso dos recursos financeiros disponíveis"
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), diretriz Territorialização e Adstrição; Lei 8.080/1990, art. 7º",
+  "coment": "Na PNAB, territorialização e adstrição é diretriz: a equipe trabalha num território delimitado, conhece sua população adscrita e planeja as ações a partir das condições sociais, culturais, econômicas e sanitárias daquele lugar. Isso conversa com os princípios do art. 7º da Lei 8.080/1990, em especial a descentralização político-administrativa e a regionalização e hierarquização da rede. Territorializar não é ignorar as diferenças locais nem centralizar a gestão; é usar o território para dar equidade e efetividade ao cuidado.",
+  "porAlt": [
+   "Correta: organizar a oferta em áreas delimitadas, considerando as especificidades do território, com gestão descentralizada.",
+   "Errada: territorializar é justamente considerar as características e desigualdades locais, não ignorá-las.",
+   "Errada: a Lei 8.080/1990 prevê descentralização, não centralização federal da gestão.",
+   "Errada: o território serve para ampliar o acesso com equidade, não para criar barreiras às populações vulneráveis."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Selecon Hemominas 2025 - Analista de Hematologia e Hemoterapia - Fisioterapeuta",
+   "n": 13,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Em um município de médio porte, a Unidade Básica de Saúde (UBS) está enfrentando um aumento significativo na demanda espontânea de pacientes. Muitos deles buscam atendimento devido a problemas de saúde de menor complexidade, como hipertensão não controlada, gripe comum e dúvidas sobre alimentação saudável. No entanto, devido à alta demanda, o atendimento tem se tornado mais lento e os profissionais de saúde estão sobrecarregados. Diante desse cenário, a estratégia mais adequada para a gestão dessa demanda, respeitando os princípios do Sistema Único de Saúde (SUS) e garantindo a continuidade da Atenção Primária à Saúde, é:",
+  "alts": [
+   "a UBS deve priorizar o atendimento a casos urgentes e graves, como infartos e acidente vascular cerebral (AVC), encaminhando a maioria dos casos de hipertensão e gripe para os serviços especializados, uma vez que a Atenção Primária à Saúde não tem capacidade para resolver essas situações de forma eficaz",
+   "a UBS deve interromper o atendimento à demanda espontânea e priorizar o agendamento de consultas, com foco na gestão de casos de alta complexidade, para evitar que os profissionais de saúde da Atenção Primária à Saúde sejam sobrecarregados",
+   "a demanda espontânea pode ser atendida de maneira imediata, mas a UBS deve criar uma triagem rígida para separar os casos de menor complexidade (como gripe e hipertensão) daqueles que exigem maior complexidade, encaminhando todos os casos de doenças crônicas diretamente para o serviço de urgência e emergência",
+   "a UBS deve garantir o acolhimento imediato de todos os pacientes, com a priorização da resolução de problemas de saúde de menor complexidade, utilizando estratégias de triagem e de acolhimento para organização da demanda e encaminhando, quando necessário, para a atenção especializada ou outros serviços de maior complexidade, de acordo com o protocolo do SUS"
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "aps",
+  "comp": "cond",
+  "nivel": "r1",
+  "base": "Caderno de Atenção Básica nº 28, v. 1, Acolhimento à demanda espontânea (MS, 2013)",
+  "coment": "O Caderno de Atenção Básica nº 28 orienta que a UBS acolha toda pessoa que chega, escute sua necessidade, avalie risco e vulnerabilidade e dê a resposta adequada: atendimento no dia, agendamento ou encaminhamento. Hipertensão descompensada, síndrome gripal e orientação alimentar são problemas que a Atenção Básica deve resolver, e encaminhar à rede é exceção, conforme protocolos. A palavra \"triagem\" no gabarito é a da banca; o Ministério prefere falar em acolhimento com classificação ou avaliação de risco, que inclui e não exclui.",
+  "porAlt": [
+   "Errada: hipertensão e gripe são problemas que a APS resolve; mandar a maioria ao especialista fere a resolutividade.",
+   "Errada: suspender a demanda espontânea viola o acesso; a APS deve acolher demanda programada e espontânea.",
+   "Errada: doença crônica não vai rotineiramente para a urgência, e triagem rígida contraria o acolhimento.",
+   "Correta: acolher todos, resolver o que é de menor complexidade e encaminhar quando necessário, com avaliação de risco."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Selecon Hemominas 2025 - Analista de Hematologia e Hemoterapia - Fisioterapeuta",
+   "n": 14,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A transição do que se entende enquanto história natural da doença pode ser ilustrada pela relação entre a teoria miasmática e os determinantes sociais de saúde. Considerando as transformações nas abordagens de saúde pública e o avanço do conhecimento sobre os determinantes sociais de saúde, a relação entre esses dois conceitos e suas implicações para a organização da saúde no contexto contemporâneo é:",
+  "alts": [
+   "a teoria miasmática e os determinantes sociais de saúde compartilham uma visão comum de que as doenças são causadas por fatores individuais e biológicos, com ênfase na intervenção terapêutica e na cura, sem considerar a importância das condições sociais e políticas na saúde da população",
+   "a teoria miasmática reconhecia a importância de fatores sociais e ambientais, porém limitava-se a não abordar aspectos estruturais como as desigualdades socioeconômicas, enquanto os determinantes sociais de saúde o fazem, reconhecendo que as condições de saúde de um indivíduo estão intimamente ligadas às condições sociais, políticas e econômicas em que ele vive",
+   "a teoria miasmática focava na explicação das doenças por meio de miasmas e condições ambientais, vinculando-as às condições de higiene e de saneamento, mas desconsiderando fatores estruturais e sociais como a desigualdade econômica, que, segundo os determinantes sociais, têm um papel crucial nas condições de saúde da população",
+   "a teoria miasmática e os determinantes sociais de saúde são conceitos inconciliáveis, uma vez que a primeira adota uma visão essencialmente biológica das doenças e a segunda enfatiza a universalidade do acesso à saúde, desconsiderando qualquer tipo de interdependência entre os aspectos biológicos e sociais na prevenção e na promoção da saúde"
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, art. 3º; relatório da Comissão Nacional sobre Determinantes Sociais da Saúde (CNDSS, 2008)",
+  "coment": "A teoria miasmática atribuía as doenças a emanações do ar e do ambiente insalubre e, por isso, fundamentou o movimento sanitarista do século XIX, que já associava doença à pobreza, à moradia aglomerada e à falta de saneamento. Faltava-lhe o olhar estrutural. O modelo dos determinantes sociais, adotado pela CNDSS em 2008 e coerente com o art. 3º da Lei 8.080/1990, liga a saúde às condições sociais, políticas e econômicas e às desigualdades. A alternativa C também é próxima, mas a banca considerou que a teoria miasmática não desconsiderava os fatores sociais.",
+  "porAlt": [
+   "Errada: nenhum dos dois conceitos reduz a doença a fatores individuais e biológicos.",
+   "Correta: a teoria miasmática via fatores sociais e ambientais, mas não as desigualdades estruturais, que os determinantes sociais abordam.",
+   "Errada pela banca: afirma que a teoria miasmática desconsiderava fatores sociais, quando ela os associava à doença.",
+   "Errada: os conceitos não são inconciliáveis, e os determinantes sociais não desconsideram a interação entre biológico e social."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Selecon Hemominas 2025 - Analista de Hematologia e Hemoterapia - Fisioterapeuta",
+   "n": 15,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Resolução da Diretoria Colegiada (RDC) nº 36, de 25 de julho de 2013, estabelece um conjunto de diretrizes para promover a segurança do paciente no Brasil, com foco na redução de riscos associados à assistência em serviços de saúde. Sobre as exigências dessa resolução, está:",
+  "alts": [
+   "estabelecer um sistema único de regulação de leitos hospitalares, priorizando as unidades de referência em casos de urgência e emergência",
+   "implementar estratégias de educação permanente para a equipe de saúde, com ênfase na gestão de risco e na redução de danos durante o atendimento ao paciente",
+   "criar de um modelo centralizado de gestão dos prontuários eletrônicos, com a obrigatoriedade de seu uso em todos os hospitais públicos, com foco apenas em registros clínicos",
+   "adotar protocolos clínicos para tratamento de doenças infecciosas, sem considerar a gestão de riscos e a segurança no processo assistencial"
+  ],
+  "gab": 1,
+  "tema": "seguranca",
+  "sub": "Metas internacionais e PNSP",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "RDC ANVISA 36/2013, arts. 7º e 8º",
+  "coment": "A RDC 36/2013 obriga os serviços de saúde a constituir o Núcleo de Segurança do Paciente e a elaborar o Plano de Segurança do Paciente. Entre as competências do núcleo (art. 7º) está desenvolver, implantar e acompanhar programas de capacitação em segurança do paciente e qualidade, e o plano (art. 8º) organiza a gestão de risco, os protocolos e a notificação de eventos adversos. Educação permanente com foco em gestão de risco é, portanto, exigência da norma. Regulação de leitos e prontuário eletrônico não são objeto da resolução.",
+  "porAlt": [
+   "Errada: regulação de leitos não é tema da RDC 36/2013, que trata de segurança do paciente.",
+   "Correta: a RDC 36/2013 exige capacitação da equipe em segurança do paciente e gestão de risco.",
+   "Errada: a resolução não cria modelo centralizado nem obriga o prontuário eletrônico.",
+   "Errada: a norma exige justamente gestão de risco e segurança no processo assistencial."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Selecon Hemominas 2025 - Analista de Hematologia e Hemoterapia - Fisioterapeuta",
+   "n": 18,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Política Nacional de Humanização (PNH), instituída pelo Ministério da Saúde, tem como um dos seus objetivos centrais a promoção de uma assistência de saúde mais acolhedora, resolutiva e centrada no usuário, no contexto do Sistema Único de Saúde (SUS). Em consonância com os indicadores de saúde, que são ferramentas essenciais para monitorar a efetividade e a qualidade das ações em saúde, a PNH orienta práticas que não se limitam à avaliação de resultados clínicos, mas também incorporam aspectos subjetivos da experiência do paciente. Nesse contexto, a inter-relação entre a PNH e os indicadores de saúde é:",
+  "alts": [
+   "a PNH se concentra exclusivamente na adequação dos processos internos de gestão das unidades de saúde, e os indicadores de saúde são utilizados apenas para medir a quantidade de atendimentos realizados, sem considerar a qualidade do acolhimento ou a experiência do paciente",
+   "a PNH busca a redução de custos no SUS, utilizando indicadores de saúde apenas para medir a quantidade de recursos financeiros empregados, sem avaliar a experiência do paciente ou a qualidade do atendimento nas unidades de saúde",
+   "a PNH prioriza o controle financeiro dos serviços de saúde, com o uso dos indicadores de saúde limitados à eficiência no uso de medicamentos e à quantidade de recursos empregados nas unidades de saúde, desconsiderando aspectos relativos ao cuidado integral do paciente",
+   "a PNH tem como foco a promoção de uma gestão participativa e acolhedora, utilizando os indicadores de saúde para monitorar não só a eficiência dos serviços prestados, mas também a satisfação e o bem-estar dos usuários, promovendo a qualidade do atendimento humanizado"
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Política Nacional de Humanização, HumanizaSUS (MS, 2013)",
+  "coment": "A Política Nacional de Humanização, de 2003, tem como princípios a transversalidade, a indissociabilidade entre atenção e gestão e o protagonismo e a autonomia dos sujeitos, e como diretrizes o acolhimento, a gestão participativa e cogestão, a ambiência, a clínica ampliada, a valorização do trabalhador e a defesa dos direitos dos usuários. Indicadores, nessa lógica, medem também acolhimento, satisfação e experiência do usuário, e não só produção ou custo. As distratoras reduzem a PNH a controle financeiro ou de processos.",
+  "porAlt": [
+   "Errada: a PNH não se limita a processos internos, e seus indicadores incluem o acolhimento e a experiência do usuário.",
+   "Errada: reduzir custos não é o objetivo da PNH, que valoriza a qualidade do cuidado e a experiência do usuário.",
+   "Errada: a PNH não prioriza o controle financeiro nem desconsidera o cuidado integral.",
+   "Correta: gestão participativa e acolhedora, com indicadores que incluem satisfação e bem-estar dos usuários."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Selecon Hemominas 2025 - Analista de Hematologia e Hemoterapia - Fisioterapeuta",
+   "n": 19,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Resolução CNS nº 553/2017, que estabelece a Carta dos Direitos e Deveres da Pessoa Usuária da Saúde, trata da importância do reconhecimento e da proteção dos direitos dos usuários do Sistema Único de Saúde, e da conscientização sobre os deveres que acompanham o uso dos serviços. Essa resolução visa a garantir a qualidade da assistência, a participação ativa do usuário no processo de cuidado e a promoção de uma saúde pública inclusiva e digna. Com base nos direitos e nos deveres do usuário da saúde, é correto afirmar que:",
+  "alts": [
+   "a Resolução CNS nº 553/2017 enfatiza unicamente os direitos dos usuários em relação ao atendimento médico, sem abordar aspectos relacionados à informação, ao acolhimento e à participação ativa do paciente no processo de cuidado",
+   "a resolução trata dos direitos dos usuários exclusivamente em relação ao acesso aos serviços de saúde de média e de alta complexidade, não abordando questões relativas ao respeito à privacidade e à humanização dos cuidados",
+   "a Resolução CNS nº 553/2017 assegura que os usuários têm direito ao respeito, à dignidade, ao acolhimento adequado, à informação clara sobre os serviços de saúde e ao direito de participação ativa nas decisões sobre seu tratamento, sem esquecer dos seus deveres no uso responsável dos serviços",
+   "a resolução foca apenas nos deveres dos usuários de respeitar os profissionais de saúde e manter um bom relacionamento com a equipe de saúde, sem mencionar os direitos relacionados ao acesso a serviços universais, igualitários e de qualidade"
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução CNS 553/2017 (Carta dos Direitos e Deveres da Pessoa Usuária da Saúde)",
+  "coment": "A Resolução CNS 553/2017 aprova a Carta dos Direitos e Deveres da Pessoa Usuária da Saúde. Ela garante acesso ordenado e em tempo hábil, tratamento adequado, atendimento humanizado, acolhedor e sem discriminação, informação clara sobre o estado de saúde e os serviços, privacidade e participação nas decisões sobre o próprio cuidado, inclusive o consentimento ou a recusa. Traz também deveres, como respeitar profissionais, usuários e normas do serviço. As distratoras cortam um dos lados da carta.",
+  "porAlt": [
+   "Errada: a carta trata expressamente de informação, acolhimento e participação do usuário no cuidado.",
+   "Errada: os direitos valem em todos os níveis de atenção e incluem privacidade e atendimento humanizado.",
+   "Correta: respeito, dignidade, acolhimento, informação clara e participação nas decisões, junto com os deveres.",
+   "Errada: a carta não trata só de deveres; a maior parte dela garante direitos de acesso e qualidade."
+  ],
+  "fonte": {
+   "banca": "Selecon",
+   "ano": 2025,
+   "prova": "Selecon Hemominas 2025 - Analista de Hematologia e Hemoterapia - Fisioterapeuta",
+   "n": 20,
+   "parte": "politicas"
+  }
+ }
+]

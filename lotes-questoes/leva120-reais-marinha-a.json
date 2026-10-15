@@ -1,0 +1,3074 @@
+[
+ {
+  "q": "Segundo Machado (2008), analise as afirmativas abaixo em relação às fases da tosse com os fatores que podem comprometer cada uma delas e assinale a opção correta.\nI - Fase nervosa - depressão do sistema nervoso central e doenças que inibem a placa motora.\nII - Fase inspiratória - redução da complacência e da tração elástica pulmonar.\nIII - Fase compressiva - paralisia de cordas vocais e redução do fluxo aéreo.\nIV - Fase explosiva - redução do fluxo aéreo e instabilidade de vias aéreas.",
+  "alts": [
+   "Apenas as afirmativas I e IV são verdadeiras.",
+   "Apenas as afirmativas II e III são verdadeiras.",
+   "Apenas as afirmativas III e IV são verdadeiras.",
+   "Apenas as afirmativas I e III são verdadeiras.",
+   "Apenas as afirmativas I e II são verdadeiras."
+  ],
+  "gab": 0,
+  "tema": "respiratoria",
+  "sub": "Higiene brônquica e reexpansão pulmonar",
+  "cenario": "enf",
+  "comp": "base",
+  "nivel": "r2",
+  "base": "Machado MGR. Bases da Fisioterapia Respiratória: terapia intensiva e reabilitação, 2008 (fases da tosse)",
+  "coment": "A tosse tem fase irritativa (nervosa), inspiratória, compressiva e expulsiva. A fase nervosa depende do arco reflexo e falha com depressão do SNC e doenças da placa motora (I certa). A explosiva depende de fluxo expiratório alto e de vias aéreas estáveis, e falha com redução de fluxo e colapso dinâmico (IV certa). A inspiratória falha por fraqueza dos inspiratórios, dor ou restrição, não pela tração elástica, que pesa na expulsão (II errada). A compressiva depende do fechamento da glote: paralisia de cordas vocais cabe, mas redução do fluxo aéreo é problema da fase explosiva (III errada).",
+  "porAlt": [
+   "Correta: I e IV associam cada fase ao fator que de fato a compromete (arco reflexo e fluxo expiratório).",
+   "A II erra o fator da fase inspiratória e a III junta redução de fluxo, que é da fase explosiva.",
+   "A III mistura paralisia de cordas vocais com redução de fluxo, que pertence à fase explosiva.",
+   "A I está certa, mas a III atribui à fase compressiva a redução do fluxo aéreo.",
+   "A I está certa, mas a II atribui à fase inspiratória fatores de recolhimento elástico."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 2,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a opção correta a respeito da Síndrome do Funículo Posterior.",
+  "alts": [
+   "É também conhecida como Síndrome de Brown-Séquard.",
+   "Apresenta hiper-reflexia miotática e espasticidade dos esfíncteres.",
+   "Provoca arreflexia e hipotonia muscular.",
+   "Provoca anestesia térmica e dolorosa contralateral.",
+   "Os reflexos sexuais estão alterados."
+  ],
+  "gab": 2,
+  "tema": "neuro",
+  "sub": "Traumatismo cranioencefálico e lesão medular",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r2",
+  "base": "Machado ABM, Haertel LM. Neuroanatomia funcional, 3ª ed., 2014 (síndromes medulares; funículo posterior)",
+  "coment": "O funículo posterior (fascículos grácil e cuneiforme) leva propriocepção consciente, tato epicrítico e vibração. Sua lesão, como na tabes dorsalis, interrompe também a via aferente do arco reflexo miotático, o que gera arreflexia e hipotonia, além de ataxia sensitiva que piora com olhos fechados (Romberg positivo). Hiper-reflexia e espasticidade são sinais de lesão do trato corticoespinal, e a perda termoalgésica contralateral é do trato espinotalâmico, como na hemissecção medular (Brown-Séquard).",
+  "porAlt": [
+   "Brown-Séquard é a hemissecção da medula, quadro diferente da lesão isolada do funículo posterior.",
+   "Hiper-reflexia e espasticidade indicam lesão do trato corticoespinal, não do funículo posterior.",
+   "Correta: a perda da aferência proprioceptiva interrompe o arco reflexo e causa arreflexia e hipotonia.",
+   "Anestesia térmica e dolorosa contralateral decorre de lesão do trato espinotalâmico.",
+   "A síndrome do funículo posterior não tem a alteração dos reflexos sexuais como característica."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 3,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação à avaliação e classificação de pacientes que sofreram traumatismo raquimedular (TRM), é correto afirmar que:",
+  "alts": [
+   "a tetraplegia refere-se à deficiência ou perda da função motora e/ou sensorial devido ao dano dos segmentos cervicais e torácicos altos da medula espinhal.",
+   "o choque medular ocorre 30 a 60 minutos após o trauma medular e dura até quatro semanas.",
+   "é definida como lesão completa a ausência total de função sensorial e/ou motora nos segmentos sacrais abaixo de S1 com consequente ausência da sensação anal profunda.",
+   "na avaliação sensitiva com uso do formulário ASIA, a sensibilidade ao toque na articulação acromioclavicular é referente ao dermátomo de T2.",
+   "a lesão no nível medular de C7 inclui a função preservada dos músculos extensores do cotovelo."
+  ],
+  "gab": 4,
+  "tema": "neuro",
+  "sub": "Traumatismo cranioencefálico e lesão medular",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "ASIA/ISCoS. International Standards for Neurological Classification of Spinal Cord Injury (ISNCSCI), revisão 2019",
+  "coment": "Pelo ISNCSCI, o músculo-chave de C7 é o tríceps braquial (extensor do cotovelo). Se o nível neurológico é C7, esse músculo tem força de pelo menos grau 3, então a extensão do cotovelo está preservada. Tetraplegia é a perda por lesão dos segmentos cervicais, não torácicos. Lesão completa é a ausência de função sensitiva e motora nos segmentos sacrais mais baixos (S4-S5), incluindo a pressão anal profunda. O ponto sensitivo-chave na articulação acromioclavicular é de C4; T2 fica no ápice da axila.",
+  "porAlt": [
+   "Tetraplegia se restringe aos segmentos cervicais; lesão torácica gera paraplegia.",
+   "O choque medular começa logo após o trauma, não 30 a 60 minutos depois, e sua duração é variável.",
+   "A lesão completa é definida pela ausência de função sensitiva e motora em S4-S5, não abaixo de S1.",
+   "A articulação acromioclavicular é o ponto sensitivo-chave de C4, não de T2.",
+   "Correta: o tríceps é o músculo-chave de C7 e está funcional quando esse é o nível neurológico."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 4,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Dutton (2006), em relação às técnicas de terapia manual e suas indicações e contraindicações, é correto afirmar que:",
+  "alts": [
+   "estão contraindicadas em condições não irritáveis, demonstradas pela dor provocada pelo movimento e que desaparecem muito rápido.",
+   "estão indicadas na fase inicial de casos de artrite séptica de joelho, para ganho de amplitude de movimento.",
+   "as técnicas de energia muscular exigem a participação ativa do paciente e são consideradas técnicas de mobilização que utilizam inibição e facilitação muscular.",
+   "o Conceito Maitland relaciona os achados a comportamentos dos sintomas do paciente de dor ou rigidez e tem forte ênfase no uso de movimento ativos.",
+   "o Conceito de Mackenzie tem forte ênfase no uso de movimentos passivos e utiliza graus de movimento que variam de I-V."
+  ],
+  "gab": 2,
+  "tema": "recursos",
+  "sub": "Terapia manual e massoterapia",
+  "cenario": "amb",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Dutton M. Fisioterapia ortopédica: exame, avaliação e intervenção, 2006 (técnicas de terapia manual)",
+  "coment": "As técnicas de energia muscular usam a contração voluntária do paciente, em direção e intensidade definidas, contra uma resistência do terapeuta. Elas se valem de inibição autogênica e recíproca e de facilitação para ganhar mobilidade, por isso exigem participação ativa. No conceito Maitland, a ênfase é em movimentos passivos oscilatórios graduados de I a IV (V é manipulação), ligados ao comportamento da dor e da rigidez. O método McKenzie enfatiza movimentos ativos repetidos e posições sustentadas. Artrite séptica é contraindicação à mobilização.",
+  "porAlt": [
+   "Condições não irritáveis, com dor que cede rápido, toleram bem a terapia manual; não são contraindicação.",
+   "Artrite séptica em fase inicial contraindica mobilização articular; o foco é tratar a infecção.",
+   "Correta: energia muscular depende da contração ativa do paciente e usa inibição e facilitação.",
+   "Maitland relaciona achados à dor e à rigidez, mas a ênfase está nos movimentos passivos.",
+   "McKenzie enfatiza movimentos ativos repetidos; graus I a V pertencem ao conceito Maitland."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 5,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Sarmento (2011), na monitorização ventilatória, sobre a constante de tempo (ct), é correto afirmar que:",
+  "alts": [
+   "corresponde ao tempo necessário para que cada unidade alveolar consiga esvaziar 30% de seu volume expiratório total ou inspirá-lo.",
+   "corresponde ao tempo necessário para que ocorra o equilíbrio de pressões nas vias aéreas e nos pulmões.",
+   "são demandadas duas constantes de tempo para que a mudança de pressão e o volume se completem de forma adequada.",
+   "é dada pelo produto da complacência pela pressão de platô.",
+   "o tempo inspiratório depende da constante de tempo, que se relaciona indiretamente com a complacência pulmonar."
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Ajuste e mecânica do sistema respiratório",
+  "cenario": "uti",
+  "comp": "base",
+  "nivel": "r2",
+  "base": "Sarmento GJV (2011), conforme citado no enunciado (monitorização ventilatória; constante de tempo)",
+  "coment": "A constante de tempo é o produto da resistência pela complacência (R x C) e expressa o tempo para que a pressão alveolar entre em equilíbrio com a das vias aéreas. Em uma constante de tempo a unidade alveolar enche ou esvazia cerca de 63% do volume; em três, cerca de 95%, e por isso se fala em três a cinco constantes para completar a troca de volume. Como depende diretamente da complacência, pulmões mais complacentes (enfisema) ou com mais resistência precisam de tempos expiratórios maiores.",
+  "porAlt": [
+   "Em uma constante de tempo a unidade alveolar troca cerca de 63% do volume, não 30%.",
+   "Correta: a constante de tempo é o tempo para o equilíbrio de pressões entre vias aéreas e alvéolos.",
+   "Duas constantes não bastam; são necessárias cerca de três a cinco para completar a mudança de volume.",
+   "A constante de tempo é o produto da resistência pela complacência, não pela pressão de platô.",
+   "A relação da constante de tempo com a complacência é direta, não indireta."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 6,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No paciente com a forma severa de pneumonia por COVID-19 que evolui para intubação orotraqueal, após instituição da ventilação mecânica invasiva, recomenda-se:",
+  "alts": [
+   "a posição prona em pacientes com PaO2/FiO2 <200mmHg, devendo ser mantida por 10 horas em caso de resposta satisfatória.",
+   "manobra de recrutamento alveolar como terapia de primeira escolha.",
+   "tolerância à hipercapnia permissiva; em pacientes com disfunção do ventrículo esquerdo é adequado manter PaCO2 <60mmHg.",
+   "fazer mini-titulação de PEEP mantendo driving pressure <15cmH2O.",
+   "uso de filtro HME na extremidade distal no ramo expiratório."
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "SDRA e ventilação protetora",
+  "cenario": "uti",
+  "comp": "cond",
+  "nivel": "r2",
+  "base": "Recomendações Brasileiras de Ventilação Mecânica (AMIB/SBPT) 2013; Fan E et al., diretriz ATS/ESICM/SCCM de SDRA, 2017",
+  "coment": "Na COVID-19 grave em VM, valeram as regras da SDRA: volume corrente de 4 a 8 mL/kg de peso predito, platô até 30 cmH2O e driving pressure abaixo de 15 cmH2O, com a PEEP ajustada em pequenos passos olhando a driving pressure. A posição prona é indicada com PaO2/FiO2 abaixo de 150 mmHg e por longos períodos (16 h ou mais no estudo PROSEVA; diretriz de 2017: mais de 12 h por dia), não 10 h com P/F abaixo de 200. Manobra de recrutamento não é primeira escolha, e a hipercapnia permissiva é limitada na disfunção do ventrículo direito, não do esquerdo.",
+  "porAlt": [
+   "A prona é indicada com P/F abaixo de 150 mmHg e mantida por 16 h ou mais, não 10 h.",
+   "Manobra de recrutamento é terapia de resgate, sem papel de primeira escolha.",
+   "A cautela com hipercapnia permissiva se aplica à disfunção do ventrículo direito e à hipertensão intracraniana.",
+   "Correta: titulação fina de PEEP com driving pressure abaixo de 15 cmH2O é ventilação protetora.",
+   "No ramo expiratório recomenda-se filtro HEPA; o HME, quando usado, fica junto ao Y do circuito."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 7,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Dutton (2006), em relação ao músculo piriforme é correto afirmar que:",
+  "alts": [
+   "atua em mais de 60° de flexão de quadril.",
+   "é inervado pelo nervo obturatório.",
+   "tem sua origem nos dois terços superiores da fossa ilíaca.",
+   "em sua síndrome, tem o teste de Ober positivo.",
+   "insere-se na borda superior do trocânter maior do fêmur."
+  ],
+  "gab": 4,
+  "tema": "bases",
+  "sub": "Anatomia funcional",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "Dutton M. Fisioterapia ortopédica: exame, avaliação e intervenção, 2006 (músculo piriforme)",
+  "coment": "O piriforme se origina na face anterior do sacro e se insere na borda superior do trocânter maior. É inervado pelo nervo para o piriforme (S1-S2). Abaixo de cerca de 60 graus de flexão do quadril é rotador lateral; acima disso inverte a ação e passa a abdutor e rotador medial, base do teste FAIR na síndrome do piriforme. O teste de Ober avalia encurtamento do tensor da fáscia lata e do trato iliotibial. A origem nos dois terços superiores da fossa ilíaca é do ilíaco.",
+  "porAlt": [
+   "Abaixo de 60 graus de flexão o piriforme roda lateralmente; acima disso sua ação se inverte.",
+   "O piriforme recebe o nervo para o piriforme (S1-S2), não o obturatório.",
+   "A fossa ilíaca é origem do músculo ilíaco; o piriforme nasce na face anterior do sacro.",
+   "Ober avalia o trato iliotibial e o tensor da fáscia lata, não a síndrome do piriforme.",
+   "Correta: o piriforme se insere na borda superior do trocânter maior do fêmur."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 8,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O cerebelo é o órgão do sistema nervoso responsável pela coordenação dos movimentos e pode ser dividido em três partes. Assinale a opção que apresenta a classificação filogenética e seu correspondente anatômico.",
+  "alts": [
+   "Arquicerebelo corresponde ao lobo flóculo-nodular.",
+   "Neocerebelo corresponde ao lobo anterior.",
+   "Paleocerebelo corresponde ao lobo central.",
+   "Justacerebelo corresponde ao lobo central.",
+   "Vestibulocerebelo corresponde ao lobo posterior."
+  ],
+  "gab": 0,
+  "tema": "bases",
+  "sub": "Anatomia funcional",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "Machado ABM, Haertel LM. Neuroanatomia funcional, 3ª ed., 2014 (divisão filogenética do cerebelo)",
+  "coment": "Pela filogenia, o cerebelo tem três partes. O arquicerebelo corresponde ao lobo flóculo-nodular, ligado aos núcleos vestibulares (vestibulocerebelo), e cuida do equilíbrio. O paleocerebelo corresponde ao lobo anterior, com pirâmide e úvula (espinocerebelo), e regula o tônus e a postura. O neocerebelo corresponde à maior parte do lobo posterior (cerebrocerebelo) e coordena movimentos finos e planejados. Não existe \"justacerebelo\" nem \"lobo central\" nessa classificação.",
+  "porAlt": [
+   "Correta: o arquicerebelo é o lobo flóculo-nodular, a parte vestibular do cerebelo.",
+   "O neocerebelo corresponde ao lobo posterior; o lobo anterior é paleocerebelo.",
+   "O paleocerebelo corresponde ao lobo anterior; não existe lobo central nessa divisão.",
+   "Justacerebelo não faz parte da classificação filogenética do cerebelo.",
+   "O vestibulocerebelo é o lobo flóculo-nodular, não o lobo posterior."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 9,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Cook e Woollacott (2010), em relação ao Sistema Vestibular e ao tratamento das vestibulopatias é correto afirmar que:",
+  "alts": [
+   "o sistema vestibular fornece informação sensorial sobre os movimentos dos membros e da cabeça em relação à gravidade.",
+   "a manobra de Dix-Hallpike é utilizada para testar a vertigem posicional paroxística benigna (VPPB) de canal semicircular horizontal.",
+   "ao contrário do tratamento de vertigem posicional, a tontura associada com a perda assimétrica vestibular é tratada com exercícios de habituação.",
+   "o exame da função vestibular inclui avaliação de acuidade visual, do controle postural, e do equilíbrio.",
+   "os nistagmos lineares evidenciam que há otocônias livres nos canais semicirculares anterior e posterior."
+  ],
+  "gab": 2,
+  "tema": "neuro",
+  "sub": "Reabilitação vestibular",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "r2",
+  "base": "Shumway-Cook A, Woollacott MH. Controle motor: teoria e aplicações práticas, 3ª ed., 2010; Bhattacharyya N et al., diretriz de VPPB (AAO-HNS), 2017",
+  "coment": "A VPPB é tratada com manobras de reposicionamento dos otólitos (Epley para o canal posterior). Já a tontura da perda vestibular assimétrica, como após neurite, melhora com exercícios de habituação, que repetem o movimento provocador até reduzir a resposta, ao lado de exercícios de adaptação do reflexo vestíbulo-ocular. O sistema vestibular informa a posição e o movimento da cabeça em relação à gravidade, não dos membros. O Dix-Hallpike testa os canais posterior e anterior; o canal horizontal é testado pelo roll test. A alternativa D descreve acuidade visual sem dizer dinâmica, que é o teste vestibular.",
+  "porAlt": [
+   "O sistema vestibular informa movimento da cabeça em relação à gravidade; membros são propriocepção.",
+   "O Dix-Hallpike testa o canal posterior; o canal horizontal se testa com o roll test em supino.",
+   "Correta: a tontura da perda vestibular assimétrica se trata com exercícios de habituação.",
+   "O teste vestibular é a acuidade visual dinâmica; a acuidade estática não mede o reflexo vestíbulo-ocular.",
+   "O tipo de nistagmo depende do canal: no posterior é torsional e para cima, não linear."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 10,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a opção que apresenta uma estratégia para correção da assincronia de ciclagem tardia, de acordo com Souza (2019).",
+  "alts": [
+   "Em VCV, diminuir o fluxo inspiratório.",
+   "Em PCV, reduzir o tempo inspiratório.",
+   "Em PSV, diminuir o tempo de subida (rise time).",
+   "Minimizar a hiperinsulflação e titular PEEP.",
+   "Ajuste/ correção de problemas de sensibilidade."
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Ajuste e mecânica do sistema respiratório",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Souza LC (2019), conforme citado no enunciado (assincronias); Recomendações Brasileiras de Ventilação Mecânica (AMIB/SBPT) 2013",
+  "coment": "Na ciclagem tardia, o ventilador mantém a inspiração depois que o esforço neural do paciente terminou, e ele passa a expirar contra a máquina. A correção é encurtar a inspiração mecânica: em PCV, reduzir o tempo inspiratório; em PSV, aumentar o critério de ciclagem (percentual do pico de fluxo); em VCV, aumentar o fluxo ou reduzir o volume. Reduzir o fluxo em VCV alonga a inspiração e piora o problema. Rise time mexe na pressurização inicial, e ajuste de sensibilidade e da PEEP corrige assincronia de disparo.",
+  "porAlt": [
+   "Diminuir o fluxo em VCV prolonga o tempo inspiratório e agrava a ciclagem tardia.",
+   "Correta: em PCV, reduzir o tempo inspiratório faz o ventilador ciclar junto com o fim do esforço neural.",
+   "O rise time ajusta a velocidade de pressurização; não corrige o momento da ciclagem.",
+   "Reduzir hiperinsuflação e titular PEEP corrige disparo ineficaz, não ciclagem tardia.",
+   "Ajuste de sensibilidade trata assincronias de disparo, não de ciclagem."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 11,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Hebert (2009), em relação ao dano no nervo periférico, é correto afirmar que:",
+  "alts": [
+   "na neurotmese há bloqueio reversível da condução resultante de isquemia ou desmielinização.",
+   "um exemplo de neuropraxia é a compressão do nervo ulnar dentro do túnel carpiano.",
+   "na axonotmese há lesão completa do nervo.",
+   "quando não há lesão do endoneuro, pode ocorrer regeneração axonal.",
+   "a lesão do plexo braquial tipo Erb Duchene é a paralisia nos níveis C7 a T1."
+  ],
+  "gab": 3,
+  "tema": "neuro",
+  "sub": "Neuropatias periféricas",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "Hebert S et al. Ortopedia e traumatologia: princípios e prática, 4ª ed., 2009 (classificação de Seddon)",
+  "coment": "Na classificação de Seddon, a neuropraxia é bloqueio reversível da condução por isquemia ou desmielinização focal, sem lesão axonal. Na axonotmese o axônio se rompe, mas os envoltórios, sobretudo o endoneuro, ficam íntegros e guiam a regeneração, que tende a ser espontânea. Na neurotmese o nervo é seccionado por inteiro e a recuperação exige reparo cirúrgico. O túnel do carpo comprime o mediano, e a paralisia de Erb-Duchenne é de C5-C6; C8-T1 é a de Klumpke.",
+  "porAlt": [
+   "Bloqueio reversível por isquemia ou desmielinização define neuropraxia, não neurotmese.",
+   "O nervo comprimido no túnel do carpo é o mediano; o ulnar passa pelo canal de Guyon.",
+   "Na axonotmese os envoltórios ficam preservados; lesão completa do nervo é neurotmese.",
+   "Correta: com o endoneuro íntegro o axônio tem guia para regenerar, como na axonotmese.",
+   "Erb-Duchenne é lesão do tronco superior (C5-C6); C8-T1 corresponde a Klumpke."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 12,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Hebert (2009), em relação às rupturas musculares em atletas, pode-se dizer que:",
+  "alts": [
+   "existem dois tipos, as predisponentes e as rupturas por erros de mecanismos.",
+   "o edema é facilmente palpado mesmo nas lesões profundas.",
+   "a maioria das lesões ocorre na musculatura agonista do movimento executado.",
+   "na reabilitação, deve-se iniciar com alongamento passivo na segunda semana.",
+   "no arrancamento da espinha ilíaca anterossuperior pelo reto femoral indica-se cirurgia."
+  ],
+  "gab": 0,
+  "tema": "orto",
+  "sub": "Lesões esportivas",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "r2",
+  "base": "Hebert S et al. Ortopedia e traumatologia: princípios e prática, 4ª ed., 2009 (lesões musculares no esporte)",
+  "coment": "Hebert divide as rupturas musculares do atleta em dois tipos: as ligadas a fatores predisponentes (fadiga, desequilíbrio, encurtamento, aquecimento ruim) e as causadas por erro de mecanismo do gesto. A maioria ocorre na musculatura antagonista, que trabalha de forma excêntrica para frear o movimento, como os isquiotibiais no sprint. Em lesões profundas, o hematoma e o edema não são palpáveis com facilidade. O arrancamento apofisário do reto femoral ocorre na espinha ilíaca anteroinferior e em geral é tratado sem cirurgia.",
+  "porAlt": [
+   "Correta: Hebert separa as rupturas em predisponentes e por erro de mecanismo.",
+   "Em lesões profundas o edema e o hematoma são difíceis de palpar.",
+   "A maioria das rupturas atinge o antagonista, que freia o movimento em contração excêntrica.",
+   "O alongamento passivo não inaugura a reabilitação na segunda semana; a progressão respeita a dor e a cicatrização.",
+   "O reto femoral se origina na espinha ilíaca anteroinferior, e o arrancamento costuma ter tratamento conservador."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 13,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a opção que apresenta o modo ventilatório no qual o fisioterapeuta regula a porcentagem de assistência ventilatória, adaptando a necessidade do paciente, segundo Souza (2019).",
+  "alts": [
+   "automode ®.",
+   "VAPSV.",
+   "PRVC.",
+   "PAV.",
+   "VAF."
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Modos ventilatórios",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Souza LC (2019), conforme citado no enunciado (modos ventilatórios avançados)",
+  "coment": "Na ventilação assistida proporcional (PAV), o ventilador mede o fluxo e o volume gerados pelo paciente e entrega pressão proporcional ao esforço. O operador regula a porcentagem de assistência, ou seja, quanto do trabalho respiratório a máquina assume, e o suporte acompanha a demanda a cada ciclo. PRVC é modo controlado a volume com pressão regulada; VAPSV é pressão de suporte com volume garantido; automode alterna entre modo controlado e espontâneo; VAF é ventilação de alta frequência.",
+  "porAlt": [
+   "O automode alterna modo controlado e espontâneo conforme o esforço, sem percentual de assistência.",
+   "VAPSV combina pressão de suporte com volume mínimo garantido, sem percentual de assistência.",
+   "PRVC ajusta a pressão para atingir um volume-alvo; não se regula porcentagem de assistência.",
+   "Correta: na PAV o operador define a porcentagem do trabalho respiratório assumida pelo ventilador.",
+   "Ventilação de alta frequência usa volumes pequenos em frequências altas; não é ajuste proporcional."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 14,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Souza (2019), em relação ao tempo de exposição, em horas, a concentrações elevadas de oxigênio e suas respostas fisiológicas, no intervalo de 0 a 12 horas, é correto afirmar que ocorre:",
+  "alts": [
+   "diminuição do shunt.",
+   "hipertensão pulmonar.",
+   "relação V/Q baixa.",
+   "aumento mucociliar.",
+   "traqueobronquite."
+  ],
+  "gab": 4,
+  "tema": "respiratoria",
+  "sub": "Oxigenoterapia",
+  "cenario": "uti",
+  "comp": "base",
+  "nivel": "r2",
+  "base": "Souza LC (2019), conforme citado no enunciado (toxicidade do oxigênio)",
+  "coment": "A toxicidade do oxigênio progride com o tempo de exposição a frações altas. Nas primeiras 12 horas predominam traqueobronquite, com tosse e dor retroesternal, e queda do transporte mucociliar. Com exposição mais longa surgem lesão alveolar com edema, atelectasias de absorção e aumento do shunt, e por fim fibrose e hipertensão pulmonar. O oxigênio em excesso não aumenta o transporte mucociliar e tende a aumentar o shunt por atelectasia de absorção.",
+  "porAlt": [
+   "O oxigênio em alta fração tende a aumentar o shunt, por atelectasia de absorção.",
+   "Hipertensão pulmonar é efeito tardio de exposição prolongada, não das primeiras 12 horas.",
+   "Alteração da relação V/Q por atelectasia surge com exposição mais longa, não como resposta inicial.",
+   "O oxigênio em alta concentração reduz o transporte mucociliar, não o aumenta.",
+   "Correta: traqueobronquite é a resposta típica das primeiras 12 horas de hiperóxia."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 15,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Johnston (2018), são objetivos da ventilação não invasiva na insuficiência ventilatória crônica, EXCETO:",
+  "alts": [
+   "a diminuição do trabalho muscular respiratório.",
+   "a redução da sensibilidade do centro respiratório ao dióxido de carbono.",
+   "a prevenção de atelectasias.",
+   "a manutenção de permeabilidade de vias aéreas.",
+   "a redução da auto-PEEP."
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Ventilação não invasiva e alto fluxo",
+  "cenario": "enf",
+  "comp": "cond",
+  "nivel": "r2",
+  "base": "Johnston (2018), conforme citado no enunciado; Recomendações Brasileiras de Ventilação Mecânica (AMIB/SBPT) 2013 (VNI)",
+  "coment": "Na insuficiência ventilatória crônica, a VNI descansa a musculatura respiratória, reduz o trabalho respiratório, ajuda a manter a via aérea pérvia durante o sono, previne atelectasias e, na DPOC, contrabalança a auto-PEEP. Um dos mecanismos propostos é justamente restaurar a sensibilidade do centro respiratório ao CO2, que está embotada pela hipercapnia crônica. Reduzir essa sensibilidade seria o contrário do objetivo.",
+  "porAlt": [
+   "Diminuir o trabalho muscular respiratório é objetivo central da VNI.",
+   "Correta: a VNI busca recuperar a sensibilidade ao CO2, não reduzi-la; esta é a exceção.",
+   "A pressão positiva mantém volumes pulmonares e previne atelectasias.",
+   "A pressão positiva mantém a via aérea superior aberta, sobretudo durante o sono.",
+   "A EPAP contrabalança a auto-PEEP e reduz a carga inspiratória na DPOC."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 16,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Umphred (2009), pacientes com hemiplegia resultante de um AVC têm deficiências que podem ser classificadas em primárias, secundárias e compostas. Marque a opção correta que relaciona a definição da classificação das deficiências às alterações no movimento funcional.",
+  "alts": [
+   "Deficiências secundárias envolvem sistemas do corpo mais do que o sistema neurológico / Tempo inadequado de disparo.",
+   "Deficiências primárias são as descobertas físicas que estão associadas à lesão específica do cérebro / Mudanças no alinhamento e mobilidade.",
+   "Deficiências compostas são os efeitos combinados das deficiências primárias e secundárias / Mudança no comprimento do tecido muscular e dor.",
+   "Deficiências primárias são as descobertas físicas que estão associadas à lesão específica do cérebro / Iniciação inadequada do movimento.",
+   "Deficiências secundárias envolvem mais o Sistema Nervoso Periférico / Produção de força alterada."
+  ],
+  "gab": 3,
+  "tema": "neuro",
+  "sub": "Acidente vascular cerebral",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Umphred DA. Reabilitação neurológica (2009), conforme citado no enunciado (deficiências primárias, secundárias e compostas no AVC)",
+  "coment": "Umphred chama de deficiências primárias as alterações físicas causadas diretamente pela lesão encefálica, como fraqueza, alteração de tônus e iniciação, tempo e graduação inadequados do movimento. As secundárias se instalam em outros sistemas como consequência, como mudança no alinhamento, perda de mobilidade, encurtamento muscular e dor. As compostas resultam da soma das duas. A opção certa precisa casar a definição com um exemplo da mesma categoria, e só a D faz isso.",
+  "porAlt": [
+   "A definição de secundária está certa, mas tempo inadequado de disparo é deficiência primária.",
+   "A definição de primária está certa, mas alinhamento e mobilidade alterados são deficiências secundárias.",
+   "Encurtamento muscular e dor são deficiências secundárias, não exemplos de composta.",
+   "Correta: a deficiência primária vem da lesão encefálica, e a iniciação inadequada do movimento é exemplo dela.",
+   "As secundárias afetam outros sistemas do corpo, não especificamente o nervoso periférico."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 17,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Machado (2008), sobre a avaliação ultrassonográfica do diafragma, marque a opção INCORRETA.",
+  "alts": [
+   "O grau de excursão diafragmática pode variar de acordo com a idade, índice de massa corpórea e circunferência abdominal do indivíduo.",
+   "A visualização da hemicúpula direita costuma ser mais fácil devido à presença do fígado.",
+   "O diafragma possui uma menor visibilidade em seu comprimento e espessura na zona de aposição.",
+   "A cúpula diafragmática permanece com um tamanho e forma relativamente constantes durante a respiração.",
+   "O ultrassom tem sido utilizado em estudo dos efeitos de recursos e técnicas em fisioterapia respiratória sobre o diafragma."
+  ],
+  "gab": 2,
+  "tema": "avaliacao",
+  "sub": "Exames complementares",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Machado MGR. Bases da Fisioterapia Respiratória: terapia intensiva e reabilitação, 2008 (ultrassonografia do diafragma)",
+  "coment": "A questão pede a incorreta. A espessura do diafragma e sua variação na inspiração (fração de espessamento) são medidas justamente na zona de aposição, na linha axilar média entre o 8º e o 10º espaço intercostal, onde o músculo aparece bem entre pleura e peritônio. A excursão é avaliada na cúpula, com janela hepática à direita mais fácil que a esplênica à esquerda. A excursão varia com idade, IMC e circunferência abdominal, e a cúpula conserva a forma enquanto desce como um pistão.",
+  "porAlt": [
+   "A excursão diafragmática de fato varia com idade, índice de massa corporal e circunferência abdominal.",
+   "O fígado serve de janela acústica e facilita ver a hemicúpula direita.",
+   "Correta: a afirmativa é falsa, pois a zona de aposição é o melhor local para ver e medir a espessura.",
+   "A cúpula mantém forma e tamanho relativamente constantes e desce como um pistão na inspiração.",
+   "O ultrassom tem sido usado para medir o efeito de técnicas de fisioterapia sobre o diafragma."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 18,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Existem diferenças anatômicas importantes entre o sistema respiratório de um recém-nascido (RN) e de um adulto. Sendo assim, assinale a opção correta no que se refere à anatomia do RN, segundo Effgen (2007).",
+  "alts": [
+   "A laringe é mais baixa.",
+   "A complacência do gradil costal é menor.",
+   "O leito capilar tem maior distância da parede alveolar.",
+   "Há um alinhamento mais vertical do gradil costal.",
+   "Tem resistência diminuída nas vias aéreas devido ao fluxo de ar."
+  ],
+  "gab": 2,
+  "tema": "pediatria",
+  "sub": "Fisioterapia respiratória pediátrica",
+  "cenario": "uti",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "Effgen SK. Fisioterapia pediátrica: atendendo às necessidades das crianças, 2007 (sistema respiratório do recém-nascido)",
+  "coment": "No recém-nascido, os alvéolos são poucos e imaturos, com septos espessos, e o leito capilar fica mais distante da parede alveolar, o que reduz a eficiência da troca. A laringe é alta (cerca de C3-C4), as costelas são horizontalizadas, a caixa torácica é cartilaginosa e muito complacente, e as vias aéreas de pequeno calibre têm resistência maior. Esses traços explicam a facilidade de fadiga e de tiragem no RN.",
+  "porAlt": [
+   "A laringe do RN é mais alta que a do adulto, em torno de C3-C4.",
+   "A caixa torácica do RN é cartilaginosa e mais complacente, não menos.",
+   "Correta: no RN o leito capilar está mais distante da parede alveolar.",
+   "As costelas do RN são horizontalizadas; o alinhamento oblíquo surge com o crescimento.",
+   "O pequeno calibre das vias aéreas aumenta a resistência no RN."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 19,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a opção que apresenta uma doença genética comum encontrada nos pacientes pediátricos, de etiologia autossômica recessiva, que causa degeneração do corno anterior da medula e paralisia flácida, afetando principalmente a musculatura proximal.",
+  "alts": [
+   "Atrofia Muscular Espinhal.",
+   "Fibrose Cística.",
+   "Síndrome de Edwards.",
+   "Síndrome de Cri-du-chat.",
+   "Distrofia Muscular de Duchenne."
+  ],
+  "gab": 0,
+  "tema": "pediatria",
+  "sub": "Neuropediatria e síndromes genéticas",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "Effgen SK. Fisioterapia pediátrica: atendendo às necessidades das crianças, 2007 (doenças neuromusculares)",
+  "coment": "A atrofia muscular espinhal é doença autossômica recessiva ligada ao gene SMN1 (cromossomo 5q). Há degeneração dos motoneurônios do corno anterior da medula, com paralisia flácida, hipotonia, arreflexia e fraqueza de predomínio proximal. A distrofia de Duchenne também tem fraqueza proximal, mas é miopatia ligada ao X. Fibrose cística é recessiva, mas acomete pulmão e pâncreas. Edwards (trissomia do 18) e cri-du-chat (deleção 5p) são cromossomopatias.",
+  "porAlt": [
+   "Correta: a AME é autossômica recessiva e degenera os motoneurônios do corno anterior.",
+   "A fibrose cística é recessiva, mas afeta glândulas exócrinas, pulmão e pâncreas.",
+   "Síndrome de Edwards é trissomia do cromossomo 18, sem degeneração do corno anterior.",
+   "Cri-du-chat decorre de deleção no braço curto do cromossomo 5, sem lesão do corno anterior.",
+   "Duchenne é miopatia recessiva ligada ao X, não doença do motoneurônio."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 20,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Coloque F (falso) ou V (verdadeiro) nas afirmativas abaixo, segundo Dutton (2006), em relação ao processo de cicatrização de lesões de tecidos moles nos estágios que se iniciam logo após a ocorrência da lesão e podem durar meses, assinalando a seguir a opção correta.\n() No estágio de inflamação e coagulação, a mediação das inflamações é feita por neutrófilos e monócitos.\n() O crescimento capilar, a formação de tecido granulado e a proliferação de fibroblastos são características da fase de remodelamento.\n() A fase subaguda é caracterizada pelo estágio migratório e proliferativo.\n() Na fase de remodelamento, os neutrófilos são responsáveis pela síntese, deposição e remodelamento da matriz celular.\n() A matriz da lesão funciona como uma cola para prender as bordas, possuindo alta resistência à tensão.\n() O tecido conjuntivo de lesões em fase de cicatrização é composto principalmente de colágeno tipo I e II.",
+  "alts": [
+   "(F) (V) (F) (F) (F) (F)",
+   "(F) (F) (F) (V) (F) (V)",
+   "(V) (F) (V) (F) (F) (F)",
+   "(V) (V) (F) (V) (F) (V)",
+   "(V) (F) (V) (V) (F) (F)"
+  ],
+  "gab": 2,
+  "tema": "orto",
+  "sub": "Lesões esportivas",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r2",
+  "base": "Dutton M. Fisioterapia ortopédica: exame, avaliação e intervenção, 2006 (cicatrização de tecidos moles)",
+  "coment": "A cicatrização de tecidos moles passa por inflamação e coagulação, fase migratória e proliferativa (subaguda) e remodelamento. Na inflamação, neutrófilos e monócitos (que viram macrófagos) medeiam a resposta (V). Crescimento capilar, tecido de granulação e proliferação de fibroblastos marcam a fase proliferativa, não o remodelamento (F). A fase subaguda corresponde ao estágio migratório e proliferativo (V). Quem sintetiza e remodela a matriz são os fibroblastos (F). A matriz inicial de fibrina cola as bordas, mas tem pouca resistência à tensão (F). O colágeno da cicatriz é dos tipos III e I, não I e II (F).",
+  "porAlt": [
+   "A primeira e a terceira afirmativas são verdadeiras, e esta opção marca ambas como falsas.",
+   "Neutrófilos não sintetizam matriz, e o colágeno da cicatrização é dos tipos III e I.",
+   "Correta: V, F, V, F, F, F; só a mediação inflamatória e a fase subaguda migratória estão certas.",
+   "Granulação é da fase proliferativa e a síntese de matriz cabe aos fibroblastos, não aos neutrófilos.",
+   "A quarta afirmativa é falsa: a síntese de matriz no remodelamento é feita pelos fibroblastos."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 21,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Souza (2019), a monitorização pulmonar por meio da tomografia por impedância elétrica (TIE) tem se mostrado uma tecnologia não invasiva para diagnóstico e guia de individualização do tratamento de pacientes em estado crítico. Com relação à TIE, assinale a opção correta.",
+  "alts": [
+   "Para o mapeamento da perfusão pulmonar, a TIE necessita de uma longa pausa respiratória.",
+   "O pletismograma da TIE é um sinal gráfico oriundo da impedância elétrica.",
+   "Os tecidos com alta concentração de eletrólitos ou um grande número de células aumentam a impedância.",
+   "O acúmulo de gordura e de ar atuam como resistência elétrica e diminuem a impedância.",
+   "O mapa de ventilação é um padrão de monitorização em que são computadas as regiões de interesse em números absolutos."
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Ajuste e mecânica do sistema respiratório",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Souza LC (2019), conforme citado no enunciado (tomografia por impedância elétrica)",
+  "coment": "A TIE aplica correntes de baixa intensidade por eletrodos ao redor do tórax e reconstrói imagens a partir da variação da impedância. O pletismograma é a curva dessa impedância global ao longo do tempo, que acompanha o volume corrente. Ar e gordura conduzem mal e aumentam a impedância; tecidos ricos em eletrólitos, sangue e líquido conduzem bem e a reduzem. A perfusão é mapeada com bolus de solução salina hipertônica durante pausa respiratória curta, de poucos segundos. Os mapas de ventilação são relativos, em percentual da ventilação por região.",
+  "porAlt": [
+   "O mapeamento da perfusão usa bolus salino com pausa curta, de poucos segundos.",
+   "Correta: o pletismograma da TIE é a curva gerada pela variação da impedância elétrica.",
+   "Tecidos ricos em eletrólitos e células conduzem bem a corrente e reduzem a impedância.",
+   "Gordura e ar conduzem mal a corrente e por isso aumentam a impedância, não a diminuem.",
+   "O mapa de ventilação mostra a distribuição relativa por região, não números absolutos."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 22,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "São ferramentas de exame funcional utilizadas para testar força, espasticidade e equilíbrio, respectivamente:",
+  "alts": [
+   "Teste Muscular Manual, Índice de Katz e Barthel.",
+   "Escala de Ashworth modificada, Romberg e Borg.",
+   "Dinamometria, OASIS e Levantar da Cadeira Cronometrado.",
+   "Dinamometria, Escala de Ashworth e Berg.",
+   "Teste Muscular Manual, Barthel e Klein-Bell."
+  ],
+  "gab": 3,
+  "tema": "avaliacao",
+  "sub": "Escalas e testes funcionais",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Bohannon RW, Smith MB. Phys Ther 1987;67(2):206-207 (Ashworth modificada); Berg KO et al. Can J Public Health 1992;83 Suppl 2:S7-11 (Escala de Berg)",
+  "coment": "A dinamometria mede força de forma objetiva (dinamômetro manual ou isocinético). A Escala de Ashworth, em especial a modificada de Bohannon e Smith (1987), gradua a resistência ao estiramento passivo, ou seja, a espasticidade. A Escala de Equilíbrio de Berg avalia o equilíbrio em 14 tarefas funcionais. Katz, Barthel e Klein-Bell medem independência em atividades de vida diária; Romberg é teste clínico de propriocepção e Borg é escala de percepção de esforço.",
+  "porAlt": [
+   "Katz e Barthel avaliam independência em atividades de vida diária, não espasticidade nem equilíbrio.",
+   "Ashworth mede espasticidade, Romberg testa propriocepção e Borg mede esforço percebido, fora da ordem pedida.",
+   "OASIS é instrumento de avaliação domiciliar, não de espasticidade.",
+   "Correta: dinamometria mede força, Ashworth mede espasticidade e Berg mede equilíbrio.",
+   "Barthel e Klein-Bell avaliam atividades de vida diária, não espasticidade nem equilíbrio."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 23,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Qual tipo de arritmia cardíaca faz com que o débito cardíaco se aproxime de zero e representa uma verdadeira emergência clínica?",
+  "alts": [
+   "Taquicardia ventricular.",
+   "Contrações ventriculares prematuras.",
+   "Bloqueio cardíaco de primeiro grau.",
+   "Bloqueio cardíaco de segundo grau.",
+   "Fibrilação ventricular."
+  ],
+  "gab": 4,
+  "tema": "cardio",
+  "sub": "Fisiologia cardiovascular e eletrocardiograma",
+  "cenario": "uti",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "American Heart Association. Diretrizes de RCP e ACE, 2025 (ritmos de parada cardíaca)",
+  "coment": "Na fibrilação ventricular a atividade elétrica é caótica e não há contração organizada, então o débito cardíaco cai praticamente a zero. É ritmo de parada cardíaca, chocável, e exige RCP e desfibrilação imediata pelas diretrizes da AHA. A taquicardia ventricular pode ter pulso e só vira parada quando perde o pulso. Extrassístoles ventriculares e bloqueios de primeiro e segundo grau em geral mantêm débito.",
+  "porAlt": [
+   "A taquicardia ventricular pode cursar com pulso e débito; só a forma sem pulso é parada.",
+   "Contrações ventriculares prematuras isoladas mantêm débito cardíaco.",
+   "O bloqueio de primeiro grau só alonga o intervalo PR e não reduz o débito de forma relevante.",
+   "O bloqueio de segundo grau falha alguns batimentos, mas mantém débito cardíaco.",
+   "Correta: na fibrilação ventricular não há contração efetiva e o débito se aproxima de zero."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 24,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Umphred (2009), com relação às alterações de tônus muscular em uma criança neuropata, é correto afirmar que:",
+  "alts": [
+   "a atetose costuma aparecer ao iniciar as posturas antigravitacionais.",
+   "a rigidez é uma forma de hipertonia que é velocidade-dependente.",
+   "a flacidez é um tipo de hipotonia.",
+   "o treino de força pode aumentar a espasticidade.",
+   "na escala modificada de Ashworth, o grau 0 refere-se a músculo hipotônico."
+  ],
+  "gab": 0,
+  "tema": "pediatria",
+  "sub": "Paralisia cerebral",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Umphred DA. Reabilitação neurológica (2009), conforme citado no enunciado (tônus na criança com lesão neurológica); Bohannon RW, Smith MB. Phys Ther 1987;67(2):206-207",
+  "coment": "Na criança com lesão do SNC, a atetose costuma aparecer quando ela começa a assumir posturas contra a gravidade, porque a flutuação de tônus atrapalha a estabilidade proximal. A espasticidade é a hipertonia dependente da velocidade; a rigidez independe da velocidade. Treino de força não aumenta a espasticidade e é indicado na paralisia cerebral. Na Ashworth modificada, grau 0 significa ausência de aumento do tônus, não hipotonia. A opção C é discutível: vários textos tratam flacidez como ausência de tônus, distinta da hipotonia (tônus reduzido), e a banca seguiu essa leitura.",
+  "porAlt": [
+   "Correta: a atetose se manifesta quando a criança passa a sustentar posturas antigravitacionais.",
+   "Hipertonia dependente da velocidade é espasticidade; a rigidez independe da velocidade.",
+   "Para a banca, flacidez é ausência de tônus e não um tipo de hipotonia; ponto discutível.",
+   "Fortalecimento não aumenta a espasticidade e é recomendado na paralisia cerebral.",
+   "Na Ashworth modificada o grau 0 indica tônus sem aumento, não hipotonia."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 25,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Hebert (2009), a osteonecrose da cabeça do femoral é a condição final que pode ser originada por diversos fatores e mecanismos. São causas dessa patologia, EXCETO:",
+  "alts": [
+   "a corticoterapia.",
+   "a anemia falciforme.",
+   "o alcoolismo.",
+   "o disbarismo.",
+   "o impacto femoroacetabular."
+  ],
+  "gab": 4,
+  "tema": "orto",
+  "sub": "Membro inferior",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "Hebert S et al. Ortopedia e traumatologia: princípios e prática, 4ª ed., 2009 (osteonecrose da cabeça femoral)",
+  "coment": "A osteonecrose da cabeça femoral resulta de interrupção da circulação óssea. As causas clássicas não traumáticas são corticoterapia, alcoolismo, anemia falciforme e outras hemoglobinopatias, disbarismo (doença descompressiva dos mergulhadores), doença de Gaucher e lúpus; entre as traumáticas estão a fratura do colo e a luxação. O impacto femoroacetabular é conflito mecânico entre colo e acetábulo, que lesa lábio e cartilagem, mas não interrompe a irrigação da cabeça.",
+  "porAlt": [
+   "Corticoterapia é a causa não traumática mais comum de osteonecrose da cabeça femoral.",
+   "Anemia falciforme provoca oclusão vascular e osteonecrose.",
+   "Alcoolismo é causa clássica de osteonecrose não traumática.",
+   "Disbarismo forma bolhas de nitrogênio que ocluem vasos ósseos e causa osteonecrose.",
+   "Correta: o impacto femoroacetabular é conflito mecânico e não figura entre as causas de osteonecrose."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 26,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação às desordens têmporomandibulares (DTMs), segundo Okeson (2013), é correto afirmar:",
+  "alts": [
+   "o paciente com DTM tem aumento da tonicidade dos músculos elevadores, criando um aumento da pressão interarticular, que é agravada pela hiperatividade do músculo pterigóideo lateral.",
+   "quando algumas desordens de desarranjo de disco progridem, as superfícies ósseas articulares podem sofrer alterações, porém não é comum desordens inflamatórias da articulação.",
+   "o tratamento ortodôntico é uma opção de tratamento, porém devem-se usar preferencialmente placas oclusais que não afetam a função mastigatória.",
+   "o trauma pode causar e contribuir para a desordem de desarranjo discal, a inflamatória, de hipomobilidade mandibular e de músculo mastigatório.",
+   "para controlar a condição oclusal de forma definitiva, usa-se uma placa oclusal que altera a posição mandibular e o padrão de contato dos dentes, fornecendo estabilidade ortopédica."
+  ],
+  "gab": 3,
+  "tema": "orto",
+  "sub": "Dor crônica",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r3",
+  "base": "Okeson JP. Tratamento das desordens temporomandibulares e oclusão, 7ª ed., 2013",
+  "coment": "Okeson aponta o trauma (macro ou microtrauma) como fator que pode causar ou contribuir para as quatro grandes categorias de DTM articulares e musculares: desarranjo do disco, desordens inflamatórias, hipomobilidade mandibular e desordens dos músculos mastigatórios. As desordens inflamatórias são comuns, inclusive como evolução do desarranjo discal. Placa oclusal é terapia reversível; mudar de forma definitiva a oclusão exige tratamento oclusal irreversível, indicado só em casos selecionados.",
+  "porAlt": [
+   "A frase reduz a DTM a um mecanismo muscular único, enquanto Okeson descreve etiologia multifatorial.",
+   "Desordens inflamatórias da ATM são comuns e acompanham a progressão do desarranjo discal.",
+   "Placa oclusal é recurso reversível; não substitui nem condiciona o tratamento ortodôntico.",
+   "Correta: o trauma contribui para desarranjo discal, inflamação, hipomobilidade e desordem muscular.",
+   "Placa oclusal é reversível; o controle definitivo da oclusão exige terapia oclusal permanente."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 27,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Cook e Woollacott (2010), em relação ao controle postural e o envelhecimento, é INCORRETO afirmar que:",
+  "alts": [
+   "um idoso parado sobre uma plataforma de espuma e de olhos fechados tem redução do equilíbrio devido à pertubação da aferência vestibular e perda da aferência visual.",
+   "força e resistência muscular diminuem com a idade sendo que a resistência é mais bem preservada com a idade comparando-se com a força muscular.",
+   "os processos degenerativos dentro do otólito do sistema vestibular podem produzir vertigem de posição e desequilíbrio durante a marcha.",
+   "a flexibilidade da articulação do tornozelo diminui cerca de 50% nas mulheres e 35% nos homens entre as idades de 55 e 85 anos.",
+   "observa-se aumento no limiar de sensação vibratória no hálux, um dos exemplos de perda somatossensorial em idosos."
+  ],
+  "gab": 0,
+  "tema": "idoso",
+  "sub": "Quedas e fragilidade",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r2",
+  "base": "Shumway-Cook A, Woollacott MH. Controle motor: teoria e aplicações práticas, 3ª ed., 2010 (postura e envelhecimento)",
+  "coment": "A questão pede a incorreta. Na espuma com olhos fechados (condição 5 do teste de organização sensorial), a espuma perturba a informação somatossensorial e os olhos fechados retiram a visão, de modo que o idoso depende quase só do sistema vestibular. A perturbação é somatossensorial, não vestibular. As demais são descritas por Shumway-Cook: a resistência muscular se preserva mais que a força, a degeneração dos otólitos gera vertigem posicional e desequilíbrio, a flexibilidade do tornozelo cai muito entre 55 e 85 anos e o limiar vibratório no hálux aumenta.",
+  "porAlt": [
+   "Correta: é falsa, pois a espuma perturba a aferência somatossensorial e a vestibular é a que sobra.",
+   "A resistência muscular é mais preservada com a idade do que a força.",
+   "A degeneração otolítica pode causar vertigem posicional e desequilíbrio na marcha.",
+   "Shumway-Cook descreve essa perda de flexibilidade do tornozelo entre 55 e 85 anos.",
+   "O aumento do limiar vibratório no hálux é exemplo clássico de perda somatossensorial no idoso."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 28,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Qual dermátomo pode estar afetado se o paciente apresenta parestesia no hálux?",
+  "alts": [
+   "L2",
+   "L3",
+   "L4",
+   "L5",
+   "S1"
+  ],
+  "gab": 3,
+  "tema": "avaliacao",
+  "sub": "Anamnese e exame físico",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "ASIA/ISCoS. International Standards for Neurological Classification of Spinal Cord Injury (ISNCSCI), revisão 2019 (dermátomos); Magee DJ. Avaliação musculoesquelética, 5ª ed., 2010",
+  "coment": "O dermátomo L5 cobre a face anterolateral da perna, o dorso do pé e o hálux, por isso parestesia no hálux sugere radiculopatia de L5, típica de hérnia discal L4-L5. L4 cobre a face medial da perna e o maléolo medial; S1 cobre a borda lateral do pé, o calcanhar e o quinto dedo. L2 e L3 inervam a coxa. Alguns mapas atribuem a borda medial do hálux a L4, mas a correlação clássica de hálux é L5.",
+  "porAlt": [
+   "L2 corresponde à face anterior e proximal da coxa.",
+   "L3 corresponde à face anteromedial da coxa e ao joelho.",
+   "L4 corresponde à face medial da perna e ao maléolo medial.",
+   "Correta: o hálux e o dorso do pé pertencem ao dermátomo L5.",
+   "S1 corresponde à borda lateral do pé, ao calcanhar e ao quinto dedo."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 29,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Hamill e Knutzen (2016), analisando o movimento de um arremessador, na fase de liberação do arremesso, com a mão acima da cabeça, é correto afirmar que:",
+  "alts": [
+   "os movimentos no plano sagital são visualizados pela lateral.",
+   "os movimentos no plano frontal são a flexão e extensão.",
+   "a análise do plano transverso se dá visualizando o arremessador por trás.",
+   "o arremesso é um exemplo de movimento angular.",
+   "no plano sagital observa-se ambos quadris fletidos durante o movimento."
+  ],
+  "gab": 0,
+  "tema": "bases",
+  "sub": "Cinesiologia e biomecânica",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "Hamill J, Knutzen KM, Derrick TR. Bases biomecânicas do movimento humano, 4ª ed., 2016 (planos de movimento)",
+  "coment": "Para analisar um movimento, o observador se posiciona perpendicular ao plano. Os movimentos do plano sagital (flexão e extensão) são vistos de lado; os do plano frontal (abdução, adução, flexão lateral), de frente ou de trás; e os do plano transverso (rotações), de cima. O arremesso combina deslocamento linear do corpo com rotações articulares, o que Hamill chama de movimento geral, e não movimento angular puro.",
+  "porAlt": [
+   "Correta: o plano sagital é observado com o avaliador ao lado do arremessador.",
+   "Flexão e extensão ocorrem no plano sagital; no frontal ocorrem abdução e adução.",
+   "Visto por trás se analisa o plano frontal; o transverso é visto de cima.",
+   "O arremesso combina componentes linear e angular, ou seja, é movimento geral.",
+   "A frase não descreve a fase de liberação, em que os quadris não ficam ambos fletidos."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 30,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Hebert (2009), uma forma comum de escoliose que pode não ser muito progressiva e permanecer inferior aos 20° de Cobb, cuja maioria, porém, progride em média 1° por mês até o final do crescimento, com tendência à estabilização após a maturidade é a escoliose:",
+  "alts": [
+   "idiopática infantil.",
+   "idiopática do adolescente.",
+   "postural.",
+   "congênita.",
+   "neuromuscular."
+  ],
+  "gab": 1,
+  "tema": "orto",
+  "sub": "Coluna vertebral",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r2",
+  "base": "Hebert S et al. Ortopedia e traumatologia: princípios e prática, 4ª ed., 2009 (escoliose idiopática)",
+  "coment": "A escoliose idiopática do adolescente surge a partir dos 10 anos, é a forma mais comum e muitas vezes não passa de 20 graus de Cobb. As curvas que progridem fazem isso no estirão de crescimento, em média cerca de 1 grau por mês, e tendem a estabilizar após a maturidade esquelética, o que orienta o acompanhamento pelo sinal de Risser. A infantil aparece antes dos 3 anos; a postural não é estrutural; a congênita decorre de malformação vertebral; a neuromuscular acompanha doenças como paralisia cerebral e distrofias.",
+  "porAlt": [
+   "A idiopática infantil surge antes dos 3 anos e é rara, ao contrário da descrita.",
+   "Correta: a idiopática do adolescente é a mais comum e progride no estirão, estabilizando após a maturidade.",
+   "A escoliose postural não é estrutural e não progride em graus de Cobb.",
+   "A congênita decorre de malformação vertebral e tem evolução ligada ao tipo de defeito.",
+   "A neuromuscular depende da doença de base e costuma progredir mesmo após a maturidade."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a opção correta em relação às alterações nos volumes e capacidades pulmonares na progressão da asma aguda grave em crianças.",
+  "alts": [
+   "Aumento de resistência de vias aéreas, aumento da capacidade inspiratória, aumento do volume de reserva inspiratório e diminuição da capacidade residual funcional.",
+   "Aumento da resistência de vias aéreas, redução da capacidade inspiratória, redução do volume de reserva inspiratório e diminuição da capacidade residual funcional.",
+   "Redução de resistência de vias aéreas, aumento da capacidade inspiratória, redução do volume de reserva inspiratório e diminuição da capacidade residual funcional.",
+   "Aumento de resistência de vias aéreas, redução da capacidade inspiratória, redução do volume de reserva inspiratório e aumento da capacidade residual funcional.",
+   "Redução de resistência de vias aéreas, redução da capacidade inspiratória, redução do volume de reserva inspiratório e diminuição da capacidade residual funcional."
+  ],
+  "gab": 3,
+  "tema": "pediatria",
+  "sub": "Fisioterapia respiratória pediátrica",
+  "cenario": "uti",
+  "comp": "base",
+  "nivel": "r2",
+  "base": "Global Initiative for Asthma (GINA) 2026; West JB. Fisiologia respiratória: princípios básicos, 9ª ed., 2013",
+  "coment": "Na asma aguda grave, o broncoespasmo, o edema e o muco aumentam a resistência das vias aéreas. A expiração fica lenta e incompleta, há aprisionamento aéreo e hiperinsuflação dinâmica, e a capacidade residual funcional aumenta. Com o pulmão operando perto da capacidade pulmonar total, sobram menos volume de reserva inspiratório e menos capacidade inspiratória, e o trabalho respiratório cresce. Toda opção que diminui a CRF ou reduz a resistência está errada.",
+  "porAlt": [
+   "Na asma grave a capacidade inspiratória cai e a CRF aumenta por aprisionamento aéreo.",
+   "A resistência aumenta, mas a CRF aumenta com a hiperinsuflação, em vez de diminuir.",
+   "Na crise a resistência das vias aéreas aumenta, não diminui.",
+   "Correta: resistência maior, capacidade inspiratória e reserva inspiratória menores, CRF aumentada.",
+   "A resistência aumenta na crise e a CRF sobe com o aprisionamento aéreo."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Cook e Woollacott (2010), a respeito do controle postural, quais são os músculos ativados tonicamente durante o controle do ortostatismo imóvel?",
+  "alts": [
+   "Grande dorsal, sóleo, gastrocnêmio, glúteo médio e máximo, tensor da fáscia lata e iliopsoas.",
+   "Eretor espinal torácico, tríceps sural, tibial anterior, glúteo médio, tensor da fáscia lata e iliopsoas.",
+   "Grande dorsal, sóleo, gastrocnêmio, glúteo médio e máximo e quadríceps.",
+   "Eretor espinal torácico, tríceps sural, glúteo médio, quadríceps, tensor da fáscia lata e tibial anterior.",
+   "Eretor espinal torácico, sóleo, gastrocnêmio, isquiotibiais, glúteo médio e máximo e tibial anterior."
+  ],
+  "gab": 1,
+  "tema": "bases",
+  "sub": "Postura e equilíbrio",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r2",
+  "base": "Shumway-Cook A, Woollacott MH. Controle motor: teoria e aplicações práticas, 3ª ed., 2010 (postura ortostática)",
+  "coment": "No ortostatismo imóvel, a linha de gravidade passa anterior ao tornozelo e quase sobre o quadril e o joelho, então poucos músculos ficam ativos. Shumway-Cook lista a atividade tônica de sóleo e gastrocnêmio (tríceps sural), tibial anterior quando o corpo oscila para trás, glúteo médio e tensor da fáscia lata no controle lateral, iliopsoas evitando a hiperextensão do quadril e eretores da espinha torácica. Glúteo máximo, quadríceps, isquiotibiais e grande dorsal não precisam de atividade tônica na postura quieta.",
+  "porAlt": [
+   "Grande dorsal e glúteo máximo não são ativados tonicamente na postura quieta.",
+   "Correta: eretor torácico, tríceps sural, tibial anterior, glúteo médio, TFL e iliopsoas são os tônicos.",
+   "Grande dorsal, glúteo máximo e quadríceps não fazem parte da atividade tônica no ortostatismo.",
+   "O quadríceps fica praticamente inativo porque a linha de gravidade passa à frente do joelho.",
+   "Isquiotibiais e glúteo máximo não precisam de atividade tônica na postura imóvel."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Johnston (2018), as cardiopatias congênitas podem ser classificadas segundo a presença de cianose e a quantificação do fluxo sanguíneo pulmonar. Assim, assinale a opção que apresenta a cardiopatia acianogênica.",
+  "alts": [
+   "Tetralogia de Fallot.",
+   "Atresia pulmonar com septo íntegro.",
+   "Coarctação da aorta.",
+   "Atresia tricúspide.",
+   "Transposição das grandes artérias."
+  ],
+  "gab": 2,
+  "tema": "pediatria",
+  "sub": "UTI neonatal e prematuridade",
+  "cenario": "uti",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "Johnston (2018), conforme citado no enunciado (cardiopatias congênitas)",
+  "coment": "As cardiopatias congênitas se dividem em acianogênicas (shunt esquerda-direita ou obstrução sem mistura de sangue venoso, como CIA, CIV, PCA, estenose aórtica e coarctação da aorta) e cianogênicas (mistura ou shunt direita-esquerda). A coarctação é estreitamento da aorta, geralmente perto do canal arterial, e cursa com hipertensão em membros superiores e pulsos femorais fracos, sem cianose. Fallot, atresia pulmonar, atresia tricúspide e transposição das grandes artérias são cianogênicas.",
+  "porAlt": [
+   "A tetralogia de Fallot é a cardiopatia cianogênica mais comum.",
+   "Atresia pulmonar com septo íntegro é cianogênica, dependente do canal arterial.",
+   "Correta: a coarctação da aorta é obstrução sem mistura de sangue, portanto acianogênica.",
+   "Atresia tricúspide é cianogênica, com mistura obrigatória no nível atrial.",
+   "Transposição das grandes artérias é cianogênica, com circulações em paralelo."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a opção que completa corretamente as lacunas da sentença abaixo.\nNo contexto da COVID-19, em relação ao cateter nasal de alto fluxo (CNAF), sugere-se o uso do índice ________ para avaliar o risco de falha quando da implementação do dispositivo. Tal índice é definido como ________. O valor ________ medido com 2 horas, 6 horas ou 12 horas após o início dessa terapia está associado a menor risco de intubação. Já valores ________ estão associados a elevado índice de intubação.",
+  "alts": [
+   "ROX / (SpO2/FiO2)/ FR / ≥ 4,8 / < 2,85",
+   "HACOR / (PaO2/FiO2)/FR / ≤105 / >2,85",
+   "ROX / (PaO2/FiO2)/100 / ≤4,8 / ≥2,85",
+   "HACOR / (SpO2/FiO2)/100 / ≥4,8 / ≤2,85",
+   "IRRS / FR/VT / >100 / <4,8"
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Ventilação não invasiva e alto fluxo",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Roca O et al. Am J Respir Crit Care Med 2019;199(11):1368-1376 (índice ROX)",
+  "coment": "O índice ROX é a razão SpO2/FiO2 dividida pela frequência respiratória. No estudo de validação de Roca (2019), ROX de 4,88 ou mais às 2, 6 ou 12 horas de cateter nasal de alto fluxo associou-se a menor risco de intubação; valores abaixo de 2,85, 3,47 e 3,85 nesses tempos indicaram alto risco de falha. O HACOR (frequência cardíaca, acidose, consciência, oxigenação e frequência respiratória) prediz falha de VNI, e o IRRS (FR/VT) é índice de desmame.",
+  "porAlt": [
+   "Correta: ROX = (SpO2/FiO2)/FR; 4,8 ou mais indica menor risco e menos de 2,85, risco alto.",
+   "O HACOR prediz falha de VNI e não é calculado por (PaO2/FiO2)/FR.",
+   "O ROX usa SpO2 e frequência respiratória, e valores altos indicam menor risco.",
+   "O HACOR não é calculado por (SpO2/FiO2)/100; o índice da descrição é o ROX.",
+   "O IRRS (FR/VT) avalia desmame da ventilação mecânica, não o alto fluxo."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Sarmento (2011), são indicações da ventilação de alta frequência (VAF), EXCETO:",
+  "alts": [
+   "falha na ventilação convencional no tratamento da síndrome do desconforto respiratório.",
+   "tratamento primário dos recém-nascidos pré-termo com hérnia diafragmática.",
+   "hipertensão pulmonar com uso de óxido nítrico.",
+   "síndrome do escape de ar em casos de enfisema intersticial e fístula broncopleural.",
+   "displasia broncopulmonar tardia com hipoxemia basal."
+  ],
+  "gab": 4,
+  "tema": "pediatria",
+  "sub": "Ventilação neonatal e pediátrica",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r3",
+  "base": "Sarmento GJV (2011), conforme citado no enunciado (ventilação de alta frequência)",
+  "coment": "A ventilação de alta frequência oscilatória usa volumes menores que o espaço morto em frequências altas, com pressão média estável, e protege o pulmão do volutrauma. Suas indicações neonatais incluem falha da ventilação convencional na síndrome do desconforto respiratório, escape de ar (enfisema intersticial e fístula broncopleural), hipertensão pulmonar com óxido nítrico e hérnia diafragmática congênita. A displasia broncopulmonar tardia tem constantes de tempo longas e heterogêneas e não é indicação.",
+  "porAlt": [
+   "Falha da ventilação convencional na síndrome do desconforto respiratório é indicação clássica.",
+   "Hérnia diafragmática congênita é indicação, inclusive como estratégia primária em alguns serviços.",
+   "A VAF melhora a entrega de óxido nítrico na hipertensão pulmonar e é indicada.",
+   "Escape de ar, enfisema intersticial e fístula broncopleural são indicações típicas.",
+   "Correta: a displasia broncopulmonar tardia, com constantes de tempo longas, não é indicação."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Hamill e Knutzen (2016), em relação às características do tecido ósseo e do osso, é correto afirmar que:",
+  "alts": [
+   "os cinco tipos de forças que aplicam cargas a um osso são: compressão, tensão, cisalhamento, curvamento e torção.",
+   "o osso é composto de uma matriz de sais orgânicos e elastina.",
+   "os osteoblastos são células que destroem o osso e convertem os sais de cálcio em uma forma solúvel que pode ser facilmente transferida para o sangue.",
+   "a aplicação de cargas estáticas é melhor para a formação do tecido ósseo do que das cargas dinâmicas.",
+   "os minerais cálcio e fosfato constituem aproximadamente 90% do tecido ósseo de um adulto jovem."
+  ],
+  "gab": 0,
+  "tema": "bases",
+  "sub": "Cinesiologia e biomecânica",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "Hamill J, Knutzen KM, Derrick TR. Bases biomecânicas do movimento humano, 4ª ed., 2016 (tecido ósseo)",
+  "coment": "Hamill descreve cinco tipos de carga sobre o osso: compressão, tensão, cisalhamento, curvamento (flexão) e torção, além das combinações. O osso tem matriz de colágeno com sais minerais inorgânicos (cálcio e fosfato), que somam cerca de 60% a 70% do tecido, e não 90%. Osteoclastos reabsorvem o osso; osteoblastos o formam. Pela lei de Wolff, cargas dinâmicas e variadas estimulam mais a formação óssea que cargas estáticas.",
+  "porAlt": [
+   "Correta: compressão, tensão, cisalhamento, curvamento e torção são as cinco cargas sobre o osso.",
+   "A matriz óssea tem colágeno e sais inorgânicos, não sais orgânicos e elastina.",
+   "Quem reabsorve osso são os osteoclastos; os osteoblastos formam tecido ósseo.",
+   "Cargas dinâmicas estimulam mais a formação óssea que cargas estáticas.",
+   "Cálcio e fosfato respondem por cerca de 60% a 70% do osso, não 90%."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a opção que completa corretamente as lacunas da sentença abaixo.\nA bexiga é um músculo liso ________ com controle ________. A bexiga normal possui um sistema de ________ pressão que aceita a urina sem um aumento concomitante de sua pressão interna. Isso ocorre por estimulação ________ dos receptores beta-adrenérgicos na parede da bexiga.",
+  "alts": [
+   "involuntário/ voluntário/ alta/ simpática.",
+   "involuntário/ voluntário/ baixa/ simpática.",
+   "voluntário/ involuntário/ alta/ parassimpática.",
+   "involuntário/ voluntário/ baixa/ parassimpática.",
+   "voluntário/ voluntário/ alta/ simpática."
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Assoalho pélvico e incontinência",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r2",
+  "base": "Guyton AC, Hall JE. Tratado de fisiologia médica, 13ª ed., 2017 (micção); Moreno AL. Fisioterapia em uroginecologia, 2ª ed., 2009",
+  "coment": "O detrusor é músculo liso, portanto involuntário, mas a micção tem controle voluntário pelo córtex e pelo esfíncter externo. Na fase de enchimento a bexiga funciona como sistema de baixa pressão: acomoda volume sem subir a pressão interna. Essa complacência depende da estimulação simpática (nervo hipogástrico, T10-L2) dos receptores beta-adrenérgicos do detrusor, que o relaxam, enquanto os alfa contraem o colo vesical. O parassimpático (S2-S4) contrai o detrusor no esvaziamento.",
+  "porAlt": [
+   "A bexiga normal é sistema de baixa pressão no enchimento, não de alta.",
+   "Correta: músculo liso involuntário, controle voluntário, baixa pressão e relaxamento simpático beta.",
+   "O detrusor é liso e involuntário, e o parassimpático contrai a bexiga, não a relaxa.",
+   "O relaxamento beta-adrenérgico é simpático; o parassimpático contrai o detrusor.",
+   "O detrusor não é músculo voluntário e a bexiga normal mantém baixa pressão."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre o tratamento da incontinência urinária de esforço, é correto afirmar que:",
+  "alts": [
+   "a estimulação elétrica do assoalho pélvico é um tratamento pouco recomendado para incontinência.",
+   "o biofeedback é considerado um tratamento invasivo e não conservador.",
+   "promover o tratamento com cones vaginais é indicado para mulheres que já sofreram algum tipo de trauma sexual.",
+   "um paciente com deficiência cognitiva não necessita de uma abordagem de tratamento diferente.",
+   "exercícios baseados nos conceitos de Heller e Tanzberger incluem a conscientização e a coordenação dos músculos do assoalho pélvico."
+  ],
+  "gab": 4,
+  "tema": "mulher",
+  "sub": "Assoalho pélvico e incontinência",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "r2",
+  "base": "Bø K, Berghmans B, Mørkved S, Van Kampen M. Evidence-based physical therapy for the pelvic floor, 2ª ed., 2015",
+  "coment": "O treino dos músculos do assoalho pélvico é a primeira linha na incontinência urinária de esforço. Propostas como a de Heller e Tanzberger começam pela conscientização e pela coordenação desses músculos, com percepção corporal, antes do fortalecimento. A eletroestimulação é recurso reconhecido, sobretudo para quem não consegue contrair. O biofeedback é conservador e não invasivo. Cones vaginais exigem cautela em mulheres com trauma sexual, e pacientes com déficit cognitivo pedem abordagem adaptada.",
+  "porAlt": [
+   "A eletroestimulação do assoalho pélvico é recurso reconhecido, útil quando a paciente não contrai.",
+   "O biofeedback é método conservador e não invasivo de treino.",
+   "Cones vaginais exigem cautela, e não indicação, em mulheres com histórico de trauma sexual.",
+   "Déficit cognitivo pede adaptação do tratamento, com orientação a cuidadores e treino vesical.",
+   "Correta: Heller e Tanzberger trabalham conscientização e coordenação do assoalho pélvico."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre a capnografia, segundo Carvalho (2018), coloque verdadeiro (V) ou falso (F) nas afirmativas abaixo e assinale a opção correta.\n() O final da fase III da onda no gráfico de capnografia indica a medida do dióxido de carbono corrente final.\n() Considera-se a capnografia como um indicador integrativo das funções respiratórias, cardiovascular e metabólico-celular.\n() O sistema mainstream mede o dióxido de carbono através de uma amostra exalada por um sensor localizado na porção lateral e pode ser usado em paciente intubados e com respiração espontânea.\n() A capnografia é um método invasivo de monitoração da pressão parcial de dióxido de carbono.",
+  "alts": [
+   "(V) (V) (F) (F)",
+   "(V) (F) (F) (F)",
+   "(F) (V) (V) (F)",
+   "(F) (F) (V) (F)",
+   "(V) (F) (F) (V)"
+  ],
+  "gab": 0,
+  "tema": "avaliacao",
+  "sub": "Exames complementares",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Carvalho (2018), conforme citado no enunciado (capnografia)",
+  "coment": "Na capnografia, a fase III é o platô alveolar, e o valor no fim dela é o CO2 expirado final (EtCO2) (V). O EtCO2 depende da produção metabólica, do transporte pelo débito cardíaco e da eliminação pulmonar, por isso é indicador integrado das três funções (V). No sistema mainstream o sensor fica na própria via aérea, entre o tubo e o Y; o que aspira amostra por linha lateral é o sidestream, que também serve a pacientes sem via aérea artificial (F). A capnografia é método não invasivo (F).",
+  "porAlt": [
+   "Correta: V, V, F, F; a terceira descreve o sidestream e a quarta erra ao chamar o método de invasivo.",
+   "A segunda é verdadeira: o EtCO2 integra metabolismo, circulação e ventilação.",
+   "A primeira é verdadeira, e a terceira confunde mainstream com sidestream.",
+   "A primeira e a segunda são verdadeiras, e esta opção marca ambas como falsas.",
+   "A capnografia é não invasiva, e o EtCO2 é indicador integrativo."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "No paciente em ventilação mecânica com DPOC (Doença Pulmonar Obstrutiva Crônica), são comumente vistos esforços respiratórios ineficientes, gerando disparo ineficaz. Dessa forma a PEEP intrínseca pode ocorrer pelo uso de parâmetros não apropriados do ventilador mecânico. Assinale a opção que apresenta as estratégias terapêuticas que diminuem esses esforços ineficientes, melhorando assim essa assincronia de disparo, segundo Souza (2019).",
+  "alts": [
+   "Solicitar aumento do uso de fármacos depressores do sistema neural.",
+   "Aplicação de PEEP extrínseca que ultrapasse a PEEP instrínseca.",
+   "Aumento do tempo expiratório e diminuição da resistência das vias aéreas.",
+   "Diminuição do tempo expiratório e diminuição da PEEP extrínseca.",
+   "Diminuição do volume corrente e aumento do tempo inspiratório."
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Ajuste e mecânica do sistema respiratório",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Recomendações Brasileiras de Ventilação Mecânica (AMIB/SBPT) 2013 (VM na DPOC); Souza LC (2019), conforme citado no enunciado",
+  "coment": "Na DPOC, a expiração lenta e incompleta gera PEEP intrínseca. Para disparar, o paciente precisa primeiro vencer a PEEPi, e muitos esforços não chegam a disparar o ventilador. A conduta é reduzir a hiperinsuflação: aumentar o tempo expiratório (menor frequência, menor volume, fluxo inspiratório maior, Ti menor) e reduzir a resistência com broncodilatador e aspiração. A PEEP extrínseca ajuda quando fica abaixo da PEEPi, em torno de 80% dela; acima disso soma-se à hiperinsuflação. Sedação mais profunda mascara a assincronia em vez de corrigi-la.",
+  "porAlt": [
+   "Aprofundar a sedação esconde o esforço do paciente, mas não corrige a causa do disparo ineficaz.",
+   "A PEEP externa deve ficar abaixo da PEEPi; acima dela aumenta a hiperinsuflação.",
+   "Correta: mais tempo expiratório e menos resistência reduzem a PEEPi e o disparo ineficaz.",
+   "Reduzir o tempo expiratório aumenta o aprisionamento aéreo e a PEEPi.",
+   "Aumentar o tempo inspiratório encurta a expiração e piora a hiperinsuflação."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Hebert (2009), em crianças com defeito do fechamento do tubo neural, tipo mielomeningocele, observa-se que:",
+  "alts": [
+   "a obesidade é o principal fator que atrasa a aquisição da marcha.",
+   "o paciente com lesão no nível torácico pode deambular com goteiras suropodálicas e muletas canadenses.",
+   "na avaliação do paciente com lesão a nível sacral, em supino, observa-se postura de abandono com abdução de quadris, rotação externa e pés equinos.",
+   "os pacientes com lesão a nível sacral não possuem alterações sensoriais e por isso há menos chance de úlceras de pressão.",
+   "alguns desses pacientes podem apresentar prejuízos cognitivos além dos prejuízos motores."
+  ],
+  "gab": 4,
+  "tema": "pediatria",
+  "sub": "Neuropediatria e síndromes genéticas",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hebert S et al. Ortopedia e traumatologia: princípios e prática, 4ª ed., 2009 (mielomeningocele)",
+  "coment": "Na mielomeningocele, a hidrocefalia associada à malformação de Chiari II e suas derivações podem causar prejuízo cognitivo e de aprendizagem, além do déficit motor e sensitivo. O principal fator para a marcha é o nível neurológico da lesão. Lesões torácicas exigem órteses longas (como a de reciprocação) e cadeira de rodas, não goteiras suropodálicas. A postura de abandono, com abdução e rotação externa dos quadris, é típica das lesões altas. Nas lesões sacrais há déficit sensitivo nos pés, com risco de úlcera.",
+  "porAlt": [
+   "O nível neurológico da lesão é o principal determinante da marcha; a obesidade é fator agravante.",
+   "Lesões torácicas exigem órteses longas com controle de quadril; goteiras suropodálicas não bastam.",
+   "A postura de abandono é típica de lesões altas, torácicas, não sacrais.",
+   "Lesões sacrais têm déficit sensitivo nos pés e alto risco de úlcera de pressão.",
+   "Correta: a hidrocefalia e o Chiari II podem trazer prejuízo cognitivo além do motor."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O sistema de controle da ventilação é composto por receptores ativados por estímulos químicos e físicos que são integrados e interpretados pelo centro respiratório. Assim, assinale a opção que apresenta a função do reflexo de Hering-Breuer.",
+  "alts": [
+   "Iniciação da respiração, mantendo sequências tanto inspiratórias quanto expiratórias.",
+   "Coordenação da contração da musculatura acessória, potencializando a inspiração.",
+   "Proteção, evitando danos mecânicos que poderiam ser causados pela insuflação excessiva.",
+   "Alteração do ritmo e amplitude do processo ventilatório.",
+   "Regulação das informações associadas às concentrações de O2 e PCO2 ao pH."
+  ],
+  "gab": 2,
+  "tema": "respiratoria",
+  "sub": "Fisiologia e mecânica respiratória",
+  "cenario": "enf",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "West JB. Fisiologia respiratória: princípios básicos, 9ª ed., 2013 (controle da ventilação)",
+  "coment": "O reflexo de insuflação de Hering-Breuer nasce em receptores de estiramento de adaptação lenta no músculo liso das vias aéreas. Quando o pulmão se distende, os impulsos seguem pelo vago e inibem a inspiração, encurtando-a e aumentando a frequência. Em adultos ele só atua com volumes correntes grandes, funcionando como proteção contra a hiperinsuflação. O ritmo básico é gerado no tronco encefálico, e a resposta a O2, CO2 e pH cabe aos quimiorreceptores.",
+  "porAlt": [
+   "O ritmo respiratório é gerado pelos centros do tronco encefálico, não pelo reflexo de Hering-Breuer.",
+   "A recruta da musculatura acessória depende do comando central, não desse reflexo.",
+   "Correta: o reflexo inibe a inspiração quando o pulmão se distende e protege contra a hiperinsuflação.",
+   "O reflexo apenas encurta a inspiração; não define ritmo e amplitude de modo geral.",
+   "A resposta a O2, CO2 e pH cabe aos quimiorreceptores centrais e periféricos."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O complexo do ombro é formado por um conjunto de quatro articulações mecanicamente inter-relacionadas e que fornecem uma vasta amplitude de movimento para o membro superior, aumentando assim a capacidade de alcançar e manipular objetos. Em relação à cinemática dessas articulações, segundo Neumann (2018), coloque V (verdadeiro) ou F (falso) nas afirmativas abaixo, assinalando a seguir a opção correta.\n() A cinemática da articulação esternoclavicular envolve os movimentos de elevação, depressão, protração e retração, não ocorrendo movimentos de rotação.\n() Os movimentos da articulação acromioclavicular são descritos pelo movimento da escápula em relação à extremidade lateral da clavícula, havendo movimentos primários (chamados de rotação para cima e para baixo) e movimentos secundários (chamados de movimentos de ajuste rotacional).\n() Na articulação escapulotorácica, ocorrem quatro movimentos como resultado da cooperação entre as articulações esternoclavicular e acromioclavicular, sendo eles: elevação, depressão, protração e retração.\n() A articulação glenoumeral roda nos três planos, portanto apresenta três graus de liberdade, sendo capaz de realizar os seguintes movimentos: flexão, extensão, abdução, adução, rotação interna, rotação externa, abdução horizontal e adução horizontal.",
+  "alts": [
+   "(V) (V) (F) (F)",
+   "(F) (V) (F) (V)",
+   "(V) (F) (F) (V)",
+   "(V) (V) (F) (V)",
+   "(F) (F) (V) (V)"
+  ],
+  "gab": 1,
+  "tema": "bases",
+  "sub": "Cinesiologia e biomecânica",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r2",
+  "base": "Neumann DA. Cinesiologia do aparelho musculoesquelético: fundamentos para reabilitação, 3ª ed., 2018 (complexo do ombro)",
+  "coment": "Pela cinemática de Neumann, a esternoclavicular tem elevação e depressão, protração e retração e também rotação axial (posterior) da clavícula (1ª falsa). A acromioclavicular tem rotação para cima e para baixo como movimentos primários e ajustes rotacionais (inclinação e rotação) como secundários (2ª verdadeira). A escapulotorácica tem elevação e depressão, protração e retração e rotação para cima e para baixo, além dos ajustes, então não são só quatro (3ª falsa). A glenoumeral tem três graus de liberdade com os movimentos citados (4ª verdadeira).",
+  "porAlt": [
+   "A primeira é falsa, porque a esternoclavicular tem rotação axial da clavícula.",
+   "Correta: F, V, F, V; a esternoclavicular roda e a escapulotorácica também tem rotação para cima e para baixo.",
+   "A primeira é falsa e a segunda é verdadeira, ao contrário do que esta opção marca.",
+   "A primeira afirmativa é falsa, pois a clavícula roda posteriormente na esternoclavicular.",
+   "A segunda é verdadeira e a terceira é falsa, ao contrário do que esta opção marca."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Oxigenação por Membrana Extracorpórea (ECMO) é um recurso disponível no tratamento de paciente com hipoxemia refratária difícil de ser corrigida pela ventilação pulmonar, como nos casos de COVID-19. A respeito da ECMO assinale a opção correta.",
+  "alts": [
+   "O suporte veno-arterial (V/A) é indicação primária exclusiva para remoção de CO2.",
+   "O suporte artério-venoso (A/V) é indicação primária para falência circulatória.",
+   "O suporte veno-venoso (V/V) é indicação primária para falência pulmonar aguda.",
+   "Está contraindicada para pacientes com Covid-19 em ventilação mecânica invasiva por tempo menor que 7 dias.",
+   "A manutenção por 24 horas da PaO2/FiO2 < 150 mmHg e a complacência estática < 20 mL/cmH2O têm sido utilizadas como critérios para indicação precoce da ECMO."
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "SDRA e ventilação protetora",
+  "cenario": "uti",
+  "comp": "cond",
+  "nivel": "r2",
+  "base": "Badulak J et al. ECMO for COVID-19: updated 2021 guidelines from the ELSO, ASAIO J 2021; Combes A et al. N Engl J Med 2018;378:1965-1975 (EOLIA)",
+  "coment": "A ECMO veno-venosa drena e devolve sangue ao sistema venoso e substitui a troca gasosa pulmonar, por isso é a modalidade para falência respiratória aguda grave, como na COVID-19 com hipoxemia refratária. A veno-arterial dá também suporte circulatório e é a escolha no choque cardiogênico. A artério-venosa, sem bomba, serve basicamente à remoção de CO2. Os critérios de indicação usados no EOLIA são bem mais graves que P/F abaixo de 150 (P/F abaixo de 50 por mais de 3 horas ou abaixo de 80 por mais de 6 horas), e VM por poucos dias não contraindica.",
+  "porAlt": [
+   "A veno-arterial é indicada no choque cardiogênico; remoção isolada de CO2 usa sistemas mais simples.",
+   "A artério-venosa sem bomba serve à remoção de CO2, não à falência circulatória.",
+   "Correta: a ECMO veno-venosa é a modalidade para falência pulmonar aguda.",
+   "VM por menos de 7 dias não contraindica ECMO; é a ventilação prolongada que pesa contra.",
+   "Os critérios de indicação usam hipoxemia bem mais grave que P/F abaixo de 150 por 24 horas."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação à Classificação Internacional de Funcionamento, Incapacidade e Saúde (CIF) é correto dizer que:",
+  "alts": [
+   "a parte 1 refere-se ao funcionamento e deficiências.",
+   "a parte 2 refere-se aos fatores ambientais e de barreira.",
+   "os componentes são funções, estruturas corporais, atividades e participação.",
+   "o construto são fatores ambientais e fatores pessoais.",
+   "o termo desempenho e capacidade são utilizados para quantificar o comportamento do indivíduo."
+  ],
+  "gab": 2,
+  "tema": "aps",
+  "sub": "CIF e funcionalidade",
+  "cenario": "aps",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Organização Mundial da Saúde. Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF), 2001",
+  "coment": "A CIF tem duas partes. A parte 1, Funcionalidade e Incapacidade, tem os componentes funções e estruturas do corpo e atividades e participação. A parte 2, Fatores Contextuais, tem fatores ambientais e pessoais. Os construtos são as mudanças nas funções e estruturas, a capacidade e o desempenho, e os facilitadores e barreiras. Desempenho e capacidade são qualificadores de atividades e participação e descrevem o que a pessoa faz no ambiente real e o que consegue fazer em ambiente padronizado.",
+  "porAlt": [
+   "A parte 1 da CIF se chama Funcionalidade e Incapacidade, não funcionamento e deficiências.",
+   "A parte 2 trata de fatores contextuais, ambientais e pessoais, não de fatores de barreira.",
+   "Correta: funções e estruturas do corpo e atividades e participação são os componentes da parte 1.",
+   "Fatores ambientais e pessoais são componentes da parte 2, não construtos.",
+   "Desempenho e capacidade qualificam atividades e participação; não medem comportamento."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Quais as sequelas esperadas num paciente de 18 anos, que, após acidente automobilístico, sofreu traumatismo craniano com lesão cerebelar?",
+  "alts": [
+   "Problemas em adaptar sua marcha, devido à hipertonia que impede a coordenação de múltiplas articulações.",
+   "Problemas na marcha, como base alargada, passos irregulares, desvios laterais, queda plantar.",
+   "Marcha atáxica, com coordenação intersegmentar deficiente e índices anormais de movimento entre o tornozelo e o joelho.",
+   "Marcha mais lenta, comprimento do passo e da passada reduzidos e durações menores da passada.",
+   "Flutuações tônicas em musculaturas distais, que atrapalham as atividades de vida diária."
+  ],
+  "gab": 2,
+  "tema": "neuro",
+  "sub": "Traumatismo cranioencefálico e lesão medular",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Shumway-Cook A, Woollacott MH. Controle motor: teoria e aplicações práticas, 3ª ed., 2010 (marcha em lesões cerebelares)",
+  "coment": "A lesão cerebelar não causa fraqueza nem espasticidade; prejudica a coordenação. A marcha fica atáxica, com base alargada, passos irregulares, oscilação de tronco e coordenação intersegmentar pobre, com relações anormais entre tornozelo, joelho e quadril. Hipertonia que impede a coordenação sugere lesão do trato corticoespinal; queda plantar indica fraqueza de dorsiflexores; flutuação distal de tônus lembra atetose.",
+  "porAlt": [
+   "A lesão cerebelar não gera hipertonia; o problema é de coordenação.",
+   "Base alargada e passos irregulares cabem, mas queda plantar é sinal de fraqueza, não de cerebelo.",
+   "Correta: a marcha atáxica com coordenação intersegmentar deficiente é a sequela cerebelar.",
+   "Marcha lenta com passos curtos lembra parkinsonismo ou envelhecimento, não lesão cerebelar.",
+   "Flutuação de tônus distal é típica de lesão dos núcleos da base, como na atetose."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Marque a opção correta em relação aos efeitos da imobilização sobre a resistência do tecido conjuntivo e do osso, segundo Neumann (2018).",
+  "alts": [
+   "A redução da força mecânica dos tecidos, resultante da diminuição das forças da condição imobilizada do segmento, é uma resposta anormal.",
+   "A colocação de uma parte do corpo em um gesso não é o bastante para reduzir o nível de força imposto sobre o sistema musculoesquelético, diferente do confinamento de um indivíduo em uma cama.",
+   "Três meses após o término da imobilização e de um programa de exercício pós-imobilização, os ligamentos afetados voltam a apresentar a força de tração equivalente à de ligamentos nunca sujeitos à imobilização.",
+   "Os ligamentos e os ossos apresentam perda de massa, volume e força após a imobilização, enquanto a cartilagem articular não desenvolve essas alterações.",
+   "A manutenção da força tecidual máxima ao redor das articulações requer um uso criterioso da imobilização, um rápido retorno à sustentação de carga e uma intervenção precoce no processo de reabilitação."
+  ],
+  "gab": 4,
+  "tema": "bases",
+  "sub": "Cinesiologia e biomecânica",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r2",
+  "base": "Neumann DA. Cinesiologia do aparelho musculoesquelético: fundamentos para reabilitação, 3ª ed., 2018 (imobilização e tecidos)",
+  "coment": "Para Neumann, a perda de força mecânica de ligamentos, cartilagem e osso durante a imobilização é resposta normal à redução das cargas. Basta gessar um segmento para cair a carga sobre ele. A recuperação da força dos ligamentos é lenta e leva muitos meses, mais que três, e a cartilagem também se degrada sem carga e movimento. Por isso, preservar a força tecidual exige imobilização criteriosa, retorno rápido à descarga de peso e reabilitação precoce.",
+  "porAlt": [
+   "A perda de força na imobilização é resposta fisiológica normal à redução de carga.",
+   "Gessar um segmento já reduz o bastante a carga sobre ele, como o leito faz no corpo todo.",
+   "Três meses não bastam; a força dos ligamentos leva muitos meses para se recuperar.",
+   "A cartilagem também se degrada com imobilização, perdendo espessura e rigidez.",
+   "Correta: imobilização criteriosa, carga precoce e reabilitação precoce preservam a força dos tecidos."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a opção que completa corretamente as lacunas da sentença abaixo.\nO teste de ________ é feito com o paciente em supino, sendo o mesmo orientado a segurar um joelho flexionado sobre o peito e manter o outro membro estendido sobre a maca. Esse teste avalia o encurtamento do músculo ________, que está inserido ________.",
+  "alts": [
+   "Thomas/ iliopsoas/ no trocanter menor",
+   "Ely/ quadríceps/ na borda superior da patela",
+   "Patrick/ reto femoral/ no tendão quadricipital",
+   "Laguerre/ adutor curto/ na sínfise púbica",
+   "Ober/ TFL/ no trato iliotibial"
+  ],
+  "gab": 0,
+  "tema": "avaliacao",
+  "sub": "Testes ortopédicos especiais",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Magee DJ. Avaliação musculoesquelética, 5ª ed., 2010 (teste de Thomas)",
+  "coment": "No teste de Thomas, com o paciente em supino, ele abraça um joelho junto ao peito para retificar a lordose lombar e manter a pelve estável. Se a coxa do membro estendido se eleva da maca, há encurtamento dos flexores do quadril, em especial do iliopsoas, que se insere no trocânter menor do fêmur. O teste de Ely é feito em prono e avalia o reto femoral; o de Patrick (FABER) avalia quadril e sacroilíaca; o de Ober, em decúbito lateral, avalia o trato iliotibial.",
+  "porAlt": [
+   "Correta: Thomas avalia o encurtamento do iliopsoas, inserido no trocânter menor.",
+   "O teste de Ely é feito em prono e avalia o reto femoral.",
+   "Patrick (FABER) avalia quadril e sacroilíaca, com flexão, abdução e rotação lateral.",
+   "O adutor curto se insere na linha pectínea e no lábio medial da linha áspera, não na sínfise púbica.",
+   "Ober é feito em decúbito lateral para o tensor da fáscia lata e o trato iliotibial."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Kisner e Colby (2015), em relação ao trabalho de parto e às pacientes obstétricas, é correto afirmar que:",
+  "alts": [
+   "no estágio 2 do trabalho de parto, ocorre o esvaecimento completo e início da dilatação e o bebê está pronto para ser expelido.",
+   "na fase de descida, o feto terá as seguintes mudanças de posição: encaixe, descida, flexão, rotação interna, extensão e rotação externa.",
+   "o centro de gravidade da gestante desvia-se para frente e para baixo, causando uma retificação da lordose cervical.",
+   "o volume sanguíneo aumenta progressivamente de 10 a 15% ao longo da gestação e retorna ao normal cerca de 6 a 8 semanas após o parto.",
+   "em caso de dor lombar sacroilíaca, não está indicado o uso de estabilização externa como cintas ou coletes."
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Gestação e puerpério",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r2",
+  "base": "Kisner C, Colby LA. Exercícios terapêuticos: fundamentos e técnicas (2015), conforme citado no enunciado (gestação e trabalho de parto)",
+  "coment": "Kisner e Colby descrevem os movimentos cardinais do feto no parto: encaixe, descida, flexão, rotação interna, extensão, rotação externa e expulsão. No estágio 1 ocorrem o apagamento e a dilatação do colo; no estágio 2 a dilatação está completa e o bebê é expelido. O centro de gravidade se desloca para frente e para cima, com aumento da lordose lombar. O volume sanguíneo sobe cerca de 35% a 50%, bem mais que 10% a 15%. Cintas sacroilíacas ajudam na dor sacroilíaca.",
+  "porAlt": [
+   "Apagamento e início da dilatação ocorrem no estágio 1, não no estágio 2.",
+   "Correta: encaixe, descida, flexão, rotação interna, extensão e rotação externa são os movimentos cardinais.",
+   "O centro de gravidade desloca-se para frente e aumenta a lordose lombar, não retifica a cervical.",
+   "O volume sanguíneo aumenta cerca de 35% a 50% na gestação, não 10% a 15%.",
+   "Cintas e órteses de estabilização sacroilíaca são indicadas na dor lombar sacroilíaca."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2021,
+   "prova": "Marinha CP-CSM 2021 Fisioterapia",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Sarmento (2007), histologicamente, a lesão pulmonar na Síndrome do Desconforto Respiratório Agudo (SDRA) é caracterizada pelo dano alveolar difuso, e o padrão das lesões envolve três estágios distintos. Assim, assinale a opção correta com relação à fase proliferativa.",
+  "alts": [
+   "A lesão dos pneumócitos tipo I forma a membrana hialina.",
+   "A lesão dos pneumócitos tipo II diminui a produção do surfactante.",
+   "Os neutrófilos lesam a vasculatura endotelial e o epitélio alveolar.",
+   "Os alvéolos afetados são preenchidos com exsudato rico em proteínas.",
+   "Em adição ao dano alveolar, ocorre também a redução da fibrinólise."
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "SDRA e ventilação protetora",
+  "cenario": "uti",
+  "comp": "base",
+  "nivel": "r2",
+  "base": "Sarmento GJV (2007), conforme citado no enunciado (histopatologia da SDRA)",
+  "coment": "O dano alveolar difuso da SDRA evolui em três fases. Na exsudativa (primeira semana), neutrófilos lesam endotélio e epitélio, a lesão dos pneumócitos I forma membranas hialinas e a dos pneumócitos II reduz o surfactante. Na proliferativa (cerca de 7 a 21 dias), os alvéolos seguem ocupados por exsudato rico em proteínas que se organiza, com proliferação de pneumócitos II e fibroblastos. Na fibrótica há deposição de colágeno. O gabarito é discutível porque o exsudato proteico também é marca da fase exsudativa, mas as demais opções descrevem só eventos iniciais.",
+  "porAlt": [
+   "Membranas hialinas por lesão dos pneumócitos I são marca da fase exsudativa.",
+   "A queda do surfactante por lesão dos pneumócitos II pertence à fase exsudativa inicial.",
+   "A lesão endotelial e epitelial por neutrófilos é o evento inicial da fase exsudativa.",
+   "Correta: na fase proliferativa os alvéolos seguem preenchidos por exsudato proteico em organização.",
+   "A alteração da fibrinólise acompanha a fase exsudativa, não define a proliferativa."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 1,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo a Associação Brasileira de Fisioterapia Cardiorrespiratória e Fisioterapia em Terapia Intensiva (ASSOBRAFIR) (2020), no processo de desmame da ventilação mecânica invasiva, de pacientes com COVID-19, deve ser considerada, além de outras condições, a capacidade de proteção de vias aéreas, podendo ser utilizada a medida do pico de fluxo expiratório, após a solicitação de tosse pelo paciente conectado ao ventilador mecânico. Diante do exposto, assinale a opção que apresenta o valor do pico de fluxo expiratório relacionado ao sucesso no desmame recomendado pela referida entidade.",
+  "alts": [
+   ">35L/min",
+   ">40L/min",
+   ">45L/min",
+   ">50L/min",
+   ">60L/min"
+  ],
+  "gab": 4,
+  "tema": "uti",
+  "sub": "Desmame e extubação",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "ASSOBRAFIR. Recomendações para desmame da ventilação mecânica em pacientes com COVID-19, 2020, conforme citado no enunciado",
+  "coment": "No desmame, a proteção da via aérea depende de tosse eficaz. A ASSOBRAFIR (2020), no documento para pacientes com COVID-19, adotou o pico de fluxo expiratório na tosse acima de 60 L/min, medido com o paciente conectado ao ventilador após comando de tosse, como valor associado a sucesso. Valores menores indicam tosse fraca e risco de falha de extubação por retenção de secreção. O valor é o mesmo usado na literatura geral de extubação.",
+  "porAlt": [
+   "35 L/min está abaixo do ponto de corte e indica tosse ineficaz.",
+   "40 L/min está abaixo do ponto de corte adotado pela ASSOBRAFIR.",
+   "45 L/min não é o valor de referência do documento.",
+   "50 L/min ainda está abaixo dos 60 L/min recomendados.",
+   "Correta: pico de fluxo de tosse acima de 60 L/min associa-se a sucesso no desmame."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 2,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Souza (2019), com relação às alterações no diagnóstico funcional de Distúrbio Ventilatório Restritivo (DVR), considerando Capacidade Vital Forçada (CVF), Volume Expiratório Forçado no Primeiro Segundo (VEF1), Volume Expiratório Forçado no Primeiro Segundo/ Capacidade Vital Forçada (VEF1/CVF), Tempo Expiratório Forçado (TEF25% a 75%), Fluxo Expiratório Forçado (FEF25% a 75%), e Fluxo Expiratório Forçado 25% a 75%/ Capacidade Vital Forçada (FEF25% a 75%/CVF), assinale a opção correta.",
+  "alts": [
+   "CVF normal; VEF1 normal; VEF1/CVF normal; TEF25% a 75% normal; e FEF25% a 75%/CVF diminuído.",
+   "CVF normal; VEF1 diminuído; VEF1/CVF diminuído; TEF25% a 75% diminuído; e FEF25% a 75%/CVF normal.",
+   "CVF diminuída; VEF1 normal; VEF1/CVF normal; TEF25% a 75% normal; e FEF25% a 75%/CVF diminuído.",
+   "CVF diminuída; VEF1 diminuído; VEF1/CVF diminuído; TEF25% a 75% normal; e FEF25% a 75%/CVF normal.",
+   "CVF diminuída; VEF1 diminuído; VEF1/CVF normal; TEF25% a 75% normal; e FEF25% a 75%/CVF normal."
+  ],
+  "gab": 4,
+  "tema": "respiratoria",
+  "sub": "Espirometria e função pulmonar",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Pereira CAC. Diretrizes para testes de função pulmonar, J Pneumol 2002;28(Supl 3) (SBPT)",
+  "coment": "No distúrbio ventilatório restritivo os volumes pulmonares caem por igual: CVF e VEF1 diminuem de forma proporcional e a razão VEF1/CVF fica normal ou elevada. Como os fluxos acompanham o volume menor, o FEF25-75% pode cair em valor absoluto, mas o FEF25-75%/CVF e o tempo expiratório forçado médio ficam normais. Na obstrução a razão VEF1/CVF é que cai. A confirmação da restrição depende da capacidade pulmonar total.",
+  "porAlt": [
+   "Com CVF normal não há restrição; a queda isolada de FEF/CVF sugere obstrução de pequenas vias.",
+   "CVF normal com VEF1/CVF reduzido caracteriza distúrbio obstrutivo.",
+   "Na restrição o VEF1 cai junto com a CVF, e a relação FEF/CVF fica normal.",
+   "VEF1/CVF reduzido indica componente obstrutivo, não restrição pura.",
+   "Correta: CVF e VEF1 reduzidos com VEF1/CVF, TEF e FEF/CVF normais é o padrão restritivo."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 3,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Souza (2019), a alcalose metabólica, em geral, ocorre em uma de duas circunstâncias, quando há excesso de bases ou quando:",
+  "alts": [
+   "há excesso de produção de ácidos fixos, não voláteis, como o ácido láctico.",
+   "há perda de ácidos fixos, como pode ocorrer na estenose pilórica.",
+   "os ácidos fixos não podem ser eliminados devido à insuficiência renal.",
+   "há perda excessiva de bases, como na obstrução intestinal alta.",
+   "há aumento dos íons de hidrogênio livres."
+  ],
+  "gab": 1,
+  "tema": "respiratoria",
+  "sub": "Gasometria arterial",
+  "cenario": "uti",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "Souza LC (2019), conforme citado no enunciado (distúrbios ácido-base)",
+  "coment": "A alcalose metabólica ocorre por ganho de bases (bicarbonato) ou por perda de ácidos fixos, como a perda de HCl gástrico nos vômitos da estenose pilórica ou na drenagem gástrica. O bicarbonato sobe e o pH aumenta. Excesso de produção de ácidos fixos (lactato), retenção de ácidos na insuficiência renal, perda de bases (diarreia) e aumento de H+ livres geram acidose.",
+  "porAlt": [
+   "Excesso de ácido lático produz acidose metabólica.",
+   "Correta: perda de ácido fixo, como o HCl gástrico na estenose pilórica, gera alcalose metabólica.",
+   "Retenção de ácidos fixos na insuficiência renal produz acidose metabólica.",
+   "Perda excessiva de bases causa acidose metabólica.",
+   "Aumento de H+ livres reduz o pH e define acidose."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 4,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Cipriano (2012), como é denominado o teste realizado com o paciente em supino, no qual o examinador realiza a dorsiflexão do pé e aperta a panturrilha do paciente, podendo gerar dor profunda na parte posterior da perna ou na panturrilha, indicando, assim, tromboflebite?",
+  "alts": [
+   "Sinal de Hoffman.",
+   "Teste de Buerger.",
+   "Sinal de Homan.",
+   "Teste de Copeland.",
+   "Teste de Allen."
+  ],
+  "gab": 2,
+  "tema": "cardio",
+  "sub": "Doença vascular periférica e linfedema",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Cipriano JJ. Manual fotográfico de testes ortopédicos e neurológicos, 5ª ed., 2012",
+  "coment": "O sinal de Homans é a dor na panturrilha à dorsiflexão passiva do pé, com compressão da panturrilha, em supino, sugerindo tromboflebite profunda. Tem sensibilidade e especificidade baixas; hoje a suspeita de TVP se estratifica pelo escore de Wells e se confirma com D-dímero e ultrassom com Doppler. Hoffmann é reflexo patológico dos dedos da mão; Buerger avalia insuficiência arterial pela palidez à elevação; Copeland é variante de teste do tendão de Aquiles; Allen avalia as artérias radial e ulnar.",
+  "porAlt": [
+   "Hoffmann é reflexo de flexão dos dedos da mão, sinal de lesão do neurônio motor superior.",
+   "Buerger avalia insuficiência arterial pela palidez do membro elevado e rubor ao pendê-lo.",
+   "Correta: dor na panturrilha à dorsiflexão passiva caracteriza o sinal de Homans.",
+   "Copeland avalia ruptura do tendão de Aquiles, não tromboflebite.",
+   "Allen avalia a perviedade das artérias radial e ulnar da mão."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 5,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O ambiente aquático é cada vez mais utilizado para treinamento, intervenção e prática de atividade física. Esse ambiente apresenta características específicas que podem facilitar ou dificultar a execução dos movimentos. Diante do exposto, coloque V (verdadeiro) ou F (falso) nas afirmativas abaixo, assinalando a seguir a opção correta.\n() O empuxo é uma força que tem a mesma direção da força peso (produto da massa de um corpo pela ação da gravidade), mas em sentido contrário.\n() Um corpo imerso com densidade igual ou menor que a densidade da água irá afundar.\n() A força empuxo que atua em um corpo ocorre porque a pressão da água é menor na base do que no ápice desse corpo.\n() As forças de propulsão atuam na mesma direção e sentido do movimento, facilitando-o.\n() As forças de arrasto atuam na mesma direção do movimento, mas em sentido contrário, o que proporciona resistência ao movimento.",
+  "alts": [
+   "(V) (F) (F) (V) (V)",
+   "(V) (V) (F) (V) (V)",
+   "(V) (F) (V) (F) (V)",
+   "(F) (V) (V) (F) (F)",
+   "(V) (F) (V) (F) (F)"
+  ],
+  "gab": 0,
+  "tema": "recursos",
+  "sub": "Hidroterapia",
+  "cenario": "amb",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Ruoti RG, Morris DM, Cole AJ. Reabilitação aquática, 2000 (princípios físicos da água)",
+  "coment": "Pelo princípio de Arquimedes, o empuxo tem a mesma direção do peso e sentido contrário (V). Corpo com densidade menor que a da água flutua; só afunda se for mais denso (F). O empuxo existe porque a pressão hidrostática aumenta com a profundidade, sendo maior na base do corpo do que no ápice (F). Forças de propulsão agem na direção e no sentido do movimento e o facilitam (V). O arrasto age na mesma direção e em sentido contrário ao movimento e gera resistência (V).",
+  "porAlt": [
+   "Correta: V, F, F, V, V; o corpo menos denso flutua e a pressão é maior na base do corpo.",
+   "A segunda é falsa: corpo menos denso que a água flutua.",
+   "A terceira é falsa e a quarta é verdadeira, ao contrário do que esta opção marca.",
+   "A primeira é verdadeira, e a segunda e a terceira são falsas.",
+   "A pressão é maior na base, e a propulsão e o arrasto estão descritos corretamente."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 6,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Kisner e Colby (2016), em relação a dosagem e velocidade de aplicação das técnicas oscilatórias suaves, assinale a opção que apresenta o grau no qual são feitas oscilações rítmicas de grande amplitude até o limite da mobilidade disponível, forçando a resistência do tecido.",
+  "alts": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V"
+  ],
+  "gab": 2,
+  "tema": "recursos",
+  "sub": "Terapia manual e massoterapia",
+  "cenario": "amb",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Kisner C, Colby LA. Exercícios terapêuticos: fundamentos e técnicas, 6ª ed., 2016 (graus de mobilização oscilatória)",
+  "coment": "Na graduação de Maitland adotada por Kisner e Colby, o grau I é oscilação de pequena amplitude no início da amplitude; o grau II é de grande amplitude dentro da amplitude, sem chegar ao limite; o grau III é de grande amplitude até o limite disponível, entrando na resistência tecidual; o grau IV é de pequena amplitude no limite; o grau V é a manipulação (thrust). Graus I e II tratam dor; III e IV ganham mobilidade.",
+  "porAlt": [
+   "O grau I é de pequena amplitude no início da amplitude, para dor.",
+   "O grau II é de grande amplitude, mas não chega ao limite nem à resistência tecidual.",
+   "Correta: grau III é oscilação de grande amplitude até o limite, forçando a resistência tecidual.",
+   "O grau IV é de pequena amplitude no limite da mobilidade.",
+   "O grau V é manipulação de alta velocidade, não oscilação."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 7,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Machado (2007), assinale a opção correta quanto à monitorização de pacientes neurológicos e neurocirúrgicos.",
+  "alts": [
+   "A pressão de perfusão cerebral é definida pela diferença entre a pressão intracraniana e a pressão arterial média.",
+   "Quando a pressão intracraniana se eleva é necessário manter a pressão arterial média < 90mmHg.",
+   "O fluxo sanguíneo cerebral é inversamente proporcional à pressão de perfusão cerebral.",
+   "O decréscimo no fluxo sanguíneo cerebral afetará o processo de autorregulação, seu maior mecanismo protetor.",
+   "O processo de vasoconstricção e vasodilatação reduzirá e aumentará a resistência cerebrovascular, respectivamente."
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Paciente neurocrítico",
+  "cenario": "uti",
+  "comp": "base",
+  "nivel": "r2",
+  "base": "Brain Trauma Foundation. Guidelines for the management of severe traumatic brain injury, 4ª ed., 2016; Machado (2007), conforme citado no enunciado",
+  "coment": "A pressão de perfusão cerebral é a PAM menos a PIC, e o fluxo sanguíneo cerebral é proporcional à PPC e inversamente proporcional à resistência cerebrovascular. A autorregulação, principal mecanismo protetor, mantém o fluxo constante com vasoconstrição (que aumenta a resistência) e vasodilatação (que a reduz); quedas do fluxo e lesões a comprometem. Com PIC elevada, a PAM precisa ser sustentada para manter a PPC; a diretriz da Brain Trauma Foundation de 2016 mira PPC entre 60 e 70 mmHg.",
+  "porAlt": [
+   "A PPC é a PAM menos a PIC; a opção inverte a ordem.",
+   "Com PIC alta a PAM deve ser sustentada para manter a perfusão, não limitada abaixo de 90 mmHg.",
+   "O fluxo sanguíneo cerebral é diretamente proporcional à pressão de perfusão.",
+   "Correta: a queda do fluxo cerebral compromete a autorregulação, principal mecanismo protetor.",
+   "A vasoconstrição aumenta a resistência cerebrovascular e a vasodilatação a reduz; a opção inverte."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 8,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com o modelo conceitual descrito por West em 1964, a perfusão pulmonar divide-se em três zonas funcionais: PA (pressão alveolar), Pa (pressão arterial) e Pv (pressão venosa). Assim, assinale a opção correta.",
+  "alts": [
+   "Zona I: PA > Pa < Pv; Zona II: Pa > PA > Pv; Zona III: Pa > Pv < PA.",
+   "Zona I: PA > Pa < Pv; Zona II: Pa > PA > Pv; Zona III: Pa < Pv > PA.",
+   "Zona I: PA < Pa > Pv; Zona II: Pa < PA > Pv; Zona III: Pa > Pv > PA.",
+   "Zona I: PA > Pa > Pv; Zona II: Pa > PA > Pv; Zona III: Pa > Pv > PA.",
+   "Zona I: PA > Pa > Pv; Zona II: Pa < PA < Pv; Zona III: Pa > Pv > PA."
+  ],
+  "gab": 3,
+  "tema": "respiratoria",
+  "sub": "Fisiologia e mecânica respiratória",
+  "cenario": "enf",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "West JB. Fisiologia respiratória: princípios básicos, 9ª ed., 2013 (zonas de West)",
+  "coment": "No modelo de West, a perfusão depende da relação entre pressão alveolar (PA), arterial (Pa) e venosa (Pv). Na zona I, no ápice, PA > Pa > Pv: os capilares colabam e não há fluxo (espaço morto). Na zona II, Pa > PA > Pv: o fluxo depende da diferença entre Pa e PA. Na zona III, na base, Pa > Pv > PA: o fluxo depende da diferença arteriovenosa. A zona I não ocorre em condições normais, mas surge com hipovolemia ou pressão positiva alta.",
+  "porAlt": [
+   "A zona I tem PA > Pa > Pv e a zona III tem Pa > Pv > PA; a opção erra as duas.",
+   "Na zona III a Pa é maior que a Pv, e ambas superam a pressão alveolar.",
+   "Na zona I a pressão alveolar supera a arterial, e na zona II Pa é maior que PA.",
+   "Correta: zona I PA > Pa > Pv; zona II Pa > PA > Pv; zona III Pa > Pv > PA.",
+   "Na zona II a Pa é maior que a PA, que é maior que a Pv; a opção inverte."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 9,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O fuso muscular e o órgão tendinoso de golgi são receptores periféricos que desempenham papel importante no controle motor. Desse modo, assinale a opção que apresenta a função de cada um, respectivamente.",
+  "alts": [
+   "Comprimento muscular e mudança de tensão.",
+   "Amplitude de movimento e mudança de tensão.",
+   "Posicionamento articular e comprimento muscular.",
+   "Posicionamento articular e amplitude de movimento.",
+   "Mudança de tensão e amplitude de movimento."
+  ],
+  "gab": 0,
+  "tema": "bases",
+  "sub": "Controle e aprendizagem motora",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "Shumway-Cook A, Woollacott MH. Controle motor: teoria e aplicações práticas, 3ª ed., 2010 (receptores musculares)",
+  "coment": "O fuso muscular fica em paralelo às fibras extrafusais e detecta o comprimento do músculo e a velocidade de sua mudança, base do reflexo de estiramento. O órgão tendinoso de Golgi fica em série, na junção miotendínea, e detecta a tensão gerada pela contração, com papel na inibição autogênica. Posição articular e amplitude de movimento dependem de vários receptores, incluindo os articulares e cutâneos.",
+  "porAlt": [
+   "Correta: o fuso informa o comprimento muscular e o órgão de Golgi, a mudança de tensão.",
+   "O fuso detecta comprimento e velocidade, não amplitude de movimento.",
+   "O fuso não é o sensor principal de posição articular, e o Golgi não mede comprimento.",
+   "Nenhum dos dois é o sensor de posição articular ou de amplitude de movimento.",
+   "A ordem está trocada: tensão é função do Golgi, e o fuso não mede amplitude."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 10,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Magee (2010), assinale a opção que corresponde à articulação de Lisfranc.",
+  "alts": [
+   "Talocalcaneonavicular.",
+   "Cuboideonavicular.",
+   "Intermetatarsais.",
+   "Tarsometatarsais.",
+   "Metatarsofalângeanas."
+  ],
+  "gab": 3,
+  "tema": "bases",
+  "sub": "Anatomia funcional",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "Magee DJ. Avaliação musculoesquelética, 5ª ed., 2010 (pé e tornozelo)",
+  "coment": "A articulação de Lisfranc é o conjunto das articulações tarsometatarsais, entre cuneiformes e cuboide e as bases dos metatarsos, sustentado pelo ligamento de Lisfranc (do cuneiforme medial à base do segundo metatarso). A articulação de Chopart é a mediotársica (talonavicular e calcaneocuboidea). Lesões de Lisfranc em entorses e traumas de alta energia passam despercebidas com frequência.",
+  "porAlt": [
+   "A talocalcaneonavicular faz parte do retropé e do complexo subtalar, não de Lisfranc.",
+   "A cuboideonavicular é articulação do mediopé, separada de Lisfranc.",
+   "As intermetatarsais unem as bases dos metatarsos entre si, não ao tarso.",
+   "Correta: Lisfranc corresponde às articulações tarsometatarsais.",
+   "As metatarsofalângicas ficam no antepé, distais a Lisfranc."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 11,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre o músculo esquelético humano e suas características citadas por Dutton (2010), analise as afirmativas a seguir:\nI- Extensibilidade, elasticidade, irritabilidade e capacidade de desenvolver tensão são propriedades biomecânicas do músculo esquelético.\nII- Os músculos sinergistas podem trabalhar como estabilizadores ou neutralizadores durante a produção de movimento pelos agonistas.\nIII- A insuficiência passiva muscular ocorre quando o músculo é incapaz de encurtar no nível necessário para produzir a amplitude de movimento total em todas as articulações que ele passa de maneira simultânea.\nIV- A contração econcêntrica combina contrações concêntricas controladas e contrações excêntricas simultâneas do mesmo músculo sobre duas articulações distintas.\nAssinale a opção correta.",
+  "alts": [
+   "Apenas as afirmativas I, II e III são verdadeiras.",
+   "Apenas as afirmativas II, III e IV são verdadeiras.",
+   "Apenas as afirmativas I e II são verdadeiras.",
+   "Apenas as afirmativas III e IV são verdadeiras.",
+   "Apenas as afirmativas I, II e IV são verdadeiras."
+  ],
+  "gab": 4,
+  "tema": "bases",
+  "sub": "Fisiologia muscular e do exercício",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r2",
+  "base": "Dutton M. Fisioterapia ortopédica: exame, avaliação e intervenção, 2ª ed., 2010 (músculo esquelético)",
+  "coment": "Dutton lista extensibilidade, elasticidade, irritabilidade e capacidade de gerar tensão como propriedades do músculo esquelético (I verdadeira). Sinergistas podem estabilizar segmentos ou neutralizar ações indesejadas do agonista (II verdadeira). A III descreve insuficiência ativa, quando o músculo biarticular não consegue encurtar o bastante em todas as articulações; a passiva ocorre quando ele não alonga o bastante (III falsa). A contração \"econcêntrica\" combina concêntrica em uma articulação e excêntrica em outra no mesmo músculo biarticular (IV verdadeira).",
+  "porAlt": [
+   "A III é falsa: incapacidade de encurtar define insuficiência ativa, não passiva.",
+   "A I é verdadeira e a III é falsa, ao contrário do que esta opção marca.",
+   "A IV também é verdadeira, então I e II não esgotam as corretas.",
+   "A III é falsa, e a I e a II são verdadeiras.",
+   "Correta: I, II e IV estão certas; a III descreve insuficiência ativa."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 12,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Wilkins et al. (2009), pacientes adultos submetidos à via aérea artificial, em uso de ventilação mecânica invasiva, durante o tratamento de insuficiência respiratória devem ser considerados aptos para a extubação quando tiverem atingido os seguintes critérios tradicionais de desmame, EXCETO:",
+  "alts": [
+   "término bem-sucedido de tentativa de respiração espontânea de 30 a 120 minutos.",
+   "pressão inspiratória negativa máxima > 30 cmH2O.",
+   "um índice de respiração rápida e superficial > 105.",
+   "frequência respiratória < 35/minuto durante a respiração espontânea.",
+   "capacidade vital > 10 mL/Kg de peso corporal ideal."
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Desmame e extubação",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Wilkins RL, Stoller JK, Kacmarek RM. Egan: fundamentos da terapia respiratória, 9ª ed., 2009; Recomendações Brasileiras de Ventilação Mecânica (AMIB/SBPT) 2013",
+  "coment": "O índice de respiração rápida e superficial (frequência respiratória dividida pelo volume corrente em litros) prediz sucesso quando é menor que 105; acima disso indica respiração rápida e superficial e alto risco de falha. Os demais são critérios tradicionais: teste de respiração espontânea bem-sucedido de 30 a 120 minutos, pressão inspiratória máxima mais negativa que 30 cmH2O, frequência abaixo de 35/min e capacidade vital acima de 10 mL/kg.",
+  "porAlt": [
+   "Tolerar teste de respiração espontânea de 30 a 120 minutos é o principal critério de prontidão.",
+   "Pressão inspiratória máxima mais negativa que 30 cmH2O indica força suficiente.",
+   "Correta: IRRS acima de 105 prediz falha; o critério é ficar abaixo de 105.",
+   "Frequência abaixo de 35/min na respiração espontânea é critério tradicional.",
+   "Capacidade vital acima de 10 mL/kg de peso ideal é critério tradicional."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 13,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Hebert (2017), os nervos periféricos são muito vulneráveis à compressão, que pode ocorrer em sítios específicos do seu trajeto. Assim, qual o diagnóstico dado à compressão do nervo radial ao nível do arco aponeurótico na borda proximal do músculo supinador (arcada de Frohse)?",
+  "alts": [
+   "Síndrome do desfiladeiro torácico.",
+   "Síndrome do túnel cubital.",
+   "Síndrome do nervo interósseo posterior.",
+   "Síndrome do túnel do carpo.",
+   "Síndrome do canal de Guyon."
+  ],
+  "gab": 2,
+  "tema": "neuro",
+  "sub": "Neuropatias periféricas",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Hebert S et al. Ortopedia e traumatologia: princípios e prática, 5ª ed., 2017 (síndromes compressivas)",
+  "coment": "O ramo profundo do radial passa sob a arcada de Frohse, borda proximal fibrosa do supinador, e continua como nervo interósseo posterior. A compressão ali dá a síndrome do interósseo posterior: fraqueza da extensão dos dedos e do polegar, sem déficit sensitivo, com extensão do punho preservada e desvio radial. O desfiladeiro torácico envolve o plexo braquial; o túnel cubital e o canal de Guyon, o ulnar; o túnel do carpo, o mediano.",
+  "porAlt": [
+   "O desfiladeiro torácico comprime o plexo braquial e os vasos subclávios.",
+   "O túnel cubital é o sítio de compressão do nervo ulnar no cotovelo.",
+   "Correta: a arcada de Frohse comprime o nervo interósseo posterior, ramo do radial.",
+   "O túnel do carpo comprime o nervo mediano no punho.",
+   "O canal de Guyon comprime o nervo ulnar no punho."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 14,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Souza (2019), a manovacuometria possibilita a avaliação indireta das forças inspiratória e expiratória dos músculos respiratórios, por meio de quantificação não invasiva da variação da pressão produzida pelo esforço máximo dos músculos respiratórios. Assinale a opção que apresenta o volume e a capacidade pulmonares preconizados para a realização dos testes das pressões inspiratória e expiratória máximas, respectivamente.",
+  "alts": [
+   "No nível do volume de reserva inspiratório e no nível da capacidade vital.",
+   "No nível do volume residual e no nível da capacidade vital forçada.",
+   "No nível do volume residual e no nível da capacidade pulmonar total.",
+   "No nível do volume corrente e no nível da capacidade vital forçada.",
+   "No nível do volume corrente e no nível da capacidade pulmonar total."
+  ],
+  "gab": 2,
+  "tema": "respiratoria",
+  "sub": "Espirometria e função pulmonar",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Laveneziana P et al. ERS statement on respiratory muscle testing at rest and during exercise, Eur Respir J 2019;53:1801214",
+  "coment": "Na manovacuometria, a pressão inspiratória máxima é medida a partir do volume residual, após expiração máxima, quando os inspiratórios estão mais alongados e em melhor relação comprimento-tensão. A pressão expiratória máxima é medida a partir da capacidade pulmonar total, após inspiração máxima, o que favorece os expiratórios e soma o recolhimento elástico. Medir no volume corrente ou na CRF subestima as pressões máximas.",
+  "porAlt": [
+   "O volume de reserva inspiratório não é o ponto de partida padronizado para nenhuma das duas.",
+   "A PImax parte do volume residual, mas a PEmax parte da capacidade pulmonar total.",
+   "Correta: PImax a partir do volume residual e PEmax a partir da capacidade pulmonar total.",
+   "Medir a partir do volume corrente subestima a força inspiratória máxima.",
+   "A PImax deve partir do volume residual, não do volume corrente."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 15,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Hebert (2017), como é denominada a alteração no quadril da criança, de causa desconhecida, autolimitada e definida como uma necrose avascular do núcleo secundário de ossificação da epífise proximal do fêmur durante o desenvolvimento que ocorre dos 2 aos 16 anos de vida?",
+  "alts": [
+   "Sinovite transitória do quadril.",
+   "Artrite infecciosa.",
+   "Displasia epifisária.",
+   "Doença de Legg- Calvé-Perthes.",
+   "Deficiência congênita do fêmur."
+  ],
+  "gab": 3,
+  "tema": "orto",
+  "sub": "Membro inferior",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Hebert S et al. Ortopedia e traumatologia: princípios e prática, 5ª ed., 2017 (doença de Legg-Calvé-Perthes)",
+  "coment": "A doença de Legg-Calvé-Perthes é necrose avascular idiopática do núcleo de ossificação da epífise femoral proximal na criança, autolimitada, com fases de necrose, fragmentação, reossificação e remodelação. Predomina em meninos e se apresenta com claudicação e dor referida ao joelho. A sinovite transitória é inflamação autolimitada sem necrose; a artrite séptica é infecção aguda; a displasia epifisária é distúrbio genético do crescimento.",
+  "porAlt": [
+   "A sinovite transitória é inflamação autolimitada sem necrose epifisária.",
+   "A artrite infecciosa é infecção aguda, de causa conhecida e tratamento urgente.",
+   "Displasia epifisária é doença genética do desenvolvimento epifisário, não necrose idiopática.",
+   "Correta: necrose avascular idiopática e autolimitada da epífise femoral define Legg-Calvé-Perthes.",
+   "A deficiência congênita do fêmur é malformação presente ao nascer."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 16,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo a Associação Brasileira de Fisioterapia Cardiorrespiratória e Fisioterapia em Terapia Intensiva (ASSOBRAFIR) (2020), assinale a opção que apresenta uma contraindicação relativa para realização da posição prona no tratamento da insuficiência respiratória aguda secundária à COVID-19.",
+  "alts": [
+   "Arritmias graves agudas.",
+   "Fraturas vertebrais instáveis.",
+   "Esternotomia recente.",
+   "Pressão intra-abdominal >20mmHg.",
+   "Pressão intracraniana significativamente aumentada."
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "SDRA e ventilação protetora",
+  "cenario": "uti",
+  "comp": "cond",
+  "nivel": "r2",
+  "base": "ASSOBRAFIR. Recomendações sobre posição prona na insuficiência respiratória aguda por COVID-19, 2020, conforme citado no enunciado",
+  "coment": "No documento da ASSOBRAFIR (2020), pressão intra-abdominal acima de 20 mmHg aparece como contraindicação relativa à prona, pois exige preparo e monitorização, mas pode ser contornada. Fraturas vertebrais instáveis e hipertensão intracraniana importante são contraindicações absolutas. Outras listas classificam diferente arritmias graves e esternotomia recente, por isso a questão depende do documento citado e o gabarito segue a ASSOBRAFIR.",
+  "porAlt": [
+   "No documento citado, arritmia grave aguda não é a contraindicação classificada como relativa.",
+   "Fratura vertebral instável é contraindicação absoluta à posição prona.",
+   "No documento citado, a esternotomia recente não é a contraindicação classificada como relativa.",
+   "Correta: pressão intra-abdominal acima de 20 mmHg é contraindicação relativa.",
+   "Hipertensão intracraniana importante é contraindicação absoluta à prona."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 17,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Wilkins et al. (2009), assinale a opção correta sobre a Síndrome de Lambert-Eaton.",
+  "alts": [
+   "A fraqueza desproporcional dos grupos musculares distais é usualmente um sintoma.",
+   "Está associada ao carcinoma pulmonar de células grandes.",
+   "É caracterizada pela potencialização da força muscular com estímulos repetidos.",
+   "Pode levar à fraqueza muscular e insuficiência somática.",
+   "A idade média de apresentação é de aproximadamente 30 anos."
+  ],
+  "gab": 2,
+  "tema": "neuro",
+  "sub": "Esclerose múltipla e doenças neuromusculares",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r2",
+  "base": "Wilkins RL, Stoller JK, Kacmarek RM. Egan: fundamentos da terapia respiratória, 9ª ed., 2009 (doenças neuromusculares)",
+  "coment": "Na síndrome de Lambert-Eaton, anticorpos contra canais de cálcio voltagem-dependentes pré-sinápticos reduzem a liberação de acetilcolina. Contrações ou estímulos repetidos acumulam cálcio e aumentam a liberação, por isso a força melhora com o esforço repetido (facilitação), ao contrário da miastenia. A fraqueza é proximal, sobretudo em membros inferiores, e há disautonomia. Cerca de metade dos casos se associa a carcinoma pulmonar de pequenas células, e predomina em adultos mais velhos.",
+  "porAlt": [
+   "A fraqueza da Lambert-Eaton é proximal, sobretudo em cinturas e membros inferiores.",
+   "A associação é com carcinoma de pequenas células, não de células grandes.",
+   "Correta: a força melhora com estímulos repetidos (facilitação pós-tetânica).",
+   "A doença causa fraqueza muscular e disautonomia; insuficiência somática não é termo clínico usado.",
+   "A Lambert-Eaton predomina em adultos mais velhos, não por volta dos 30 anos."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 18,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Gusmão (2017), a condição que implica dor em queimação, usualmente na mão ou no pé, determinada por lesão parcial de um nervo, associada à hipersensibilidade cutânea e à hiperatividade simpática (hipotermia, rubor e sudorese) na área parcialmente desnervada, refere-se à definição de qual quadro doloroso em neurologia?",
+  "alts": [
+   "Meralgia Parestésica.",
+   "Neuralgia Geniculada.",
+   "Distrofia Simpática Reflexa.",
+   "Dor no coto do membro amputado.",
+   "Causalgia."
+  ],
+  "gab": 4,
+  "tema": "neuro",
+  "sub": "Neuropatias periféricas",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Harden RN et al. Critérios diagnósticos de Budapeste para síndrome de dor regional complexa (IASP), Pain 2010;150(2):268-274; Gusmão (2017), conforme citado no enunciado",
+  "coment": "Causalgia é a dor em queimação após lesão parcial de um nervo, geralmente na mão ou no pé, com alodinia, hiperestesia e sinais autonômicos (alteração de temperatura, cor e sudorese). Hoje é chamada de síndrome de dor regional complexa tipo II, com lesão nervosa identificável. A distrofia simpática reflexa corresponde ao tipo I, sem lesão nervosa definida. Meralgia parestésica é compressão do cutâneo femoral lateral; neuralgia geniculada envolve o nervo intermédio.",
+  "porAlt": [
+   "A meralgia parestésica é compressão do nervo cutâneo femoral lateral na coxa.",
+   "A neuralgia geniculada é dor paroxística no ouvido ligada ao nervo intermédio.",
+   "A distrofia simpática reflexa (SDRC tipo I) ocorre sem lesão nervosa identificável.",
+   "Dor no coto é dor localizada no membro residual, ligada ao neuroma ou à prótese.",
+   "Correta: causalgia é a dor em queimação após lesão parcial de nervo, hoje SDRC tipo II."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 19,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Lippert (2013), existem 12 pares de nervos cranianos que são funcionalmente classificados como: sensitivos, motores ou mistos. Com base nessa classificação, assinale a opção correta.",
+  "alts": [
+   "Nervo craniano IV (sensitivo); nervo craniano V (motor); nervo craniano IX (misto).",
+   "Nervo craniano IV (motor); nervo craniano V (sensitivo); nervo craniano IX (misto).",
+   "Nervo craniano IV (sensitivo); nervo craniano V (sensitivo); nervo craniano IX (motor).",
+   "Nervo craniano IV (motor); nervo craniano V (misto); nervo craniano IX (misto).",
+   "Nervo craniano IV (misto); nervo craniano V (misto); nervo craniano IX (sensitivo)."
+  ],
+  "gab": 3,
+  "tema": "bases",
+  "sub": "Anatomia funcional",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "Lippert LS. Cinesiologia clínica e anatomia, 5ª ed., 2013 (nervos cranianos)",
+  "coment": "Os nervos cranianos I, II e VIII são sensitivos; III, IV, VI, XI e XII são motores; V, VII, IX e X são mistos. O troclear (IV) inerva só o oblíquo superior. O trigêmeo (V) leva a sensibilidade da face e inerva os músculos da mastigação. O glossofaríngeo (IX) tem sensibilidade e gustação do terço posterior da língua e inerva o estilofaríngeo.",
+  "porAlt": [
+   "O troclear é motor e o trigêmeo é misto; a opção erra os dois.",
+   "O trigêmeo é misto, pois também inerva os músculos da mastigação.",
+   "O troclear é motor, o trigêmeo é misto e o glossofaríngeo é misto.",
+   "Correta: IV motor, V misto e IX misto.",
+   "O troclear é só motor e o glossofaríngeo é misto, não sensitivo."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 20,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando o processo de cicatrização que ocorre com o tendão após ser lesionado, bem como suas fases mencionadas por Dutton (2010), assinale a opção que apresenta a fase em que ocorre a chegada de macrófagos, fagocitose dos tecidos necróticos e secreção de múltiplos tipos de fatores de crescimento que induzem à neovascularização e à formação de tecido de granulação.",
+  "alts": [
+   "Fase proliferativa.",
+   "Fase hemorrágica.",
+   "Fase inflamatória.",
+   "Fase de remodelando e maturação.",
+   "Fase de modelagem."
+  ],
+  "gab": 2,
+  "tema": "orto",
+  "sub": "Lesões esportivas",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r2",
+  "base": "Dutton M. Fisioterapia ortopédica: exame, avaliação e intervenção, 2ª ed., 2010 (cicatrização do tendão)",
+  "coment": "Dutton divide a cicatrização do tendão em inflamação, proliferação e remodelamento. Na fase inflamatória, nos primeiros dias, chegam neutrófilos e depois macrófagos, que fagocitam o tecido necrótico e secretam fatores de crescimento. Esses fatores disparam a neovascularização e o início do tecido de granulação. Na proliferativa predominam fibroblastos e síntese de colágeno tipo III; no remodelamento o colágeno se organiza e passa a tipo I.",
+  "porAlt": [
+   "Na fase proliferativa predominam fibroblastos e a síntese de colágeno tipo III.",
+   "Fase hemorrágica não é etapa descrita por Dutton na cicatrização do tendão.",
+   "Correta: macrófagos, fagocitose e fatores de crescimento caracterizam a fase inflamatória.",
+   "No remodelamento o colágeno se organiza, sem chegada de macrófagos.",
+   "A modelagem integra o remodelamento tardio, quando as fibras se alinham à carga."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 21,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Gusmão (2017), os núcleos da base constituem parte fundamental do sistema extrapiramidal e desempenham um importante papel no controle da postura e do movimento. Sobre esses núcleos é correto afirmar que:",
+  "alts": [
+   "a lesão da substância negra suprime o controle dopaminérgico da via nigroestriada, liberando a atividade inibidora do neostriado, o que se manifesta pela síndrome hipertônico-hipocinética.",
+   "a lesão do neoestriado suprime o controle inibidor que esta estrutura exerce sobre o globo pálido, determinando síndromes hipotônica-hipercinéticas, como a distonia.",
+   "a lesão do núcleo subtalâmico de Luys determina os distúrbios motores como: hemitaxia, tremor e movimentos coreicos.",
+   "na atetose, observam-se movimentos abruptos, rápidos e de grande amplitude.",
+   "o núcleo subtalâmico regula o tônus através da formação reticular, inibindo os reflexos medulares."
+  ],
+  "gab": 0,
+  "tema": "neuro",
+  "sub": "Doença de Parkinson e distúrbios do movimento",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r2",
+  "base": "Machado ABM, Haertel LM. Neuroanatomia funcional, 3ª ed., 2014 (núcleos da base); Gusmão (2017), conforme citado no enunciado",
+  "coment": "A lesão da substância negra retira a dopamina da via nigroestriatal e libera a atividade inibidora do circuito estriado-palidal, o que gera a síndrome hipertônico-hipocinética do parkinsonismo (rigidez, bradicinesia). A lesão do neoestriado gera síndromes hipotônico-hipercinéticas como a coreia; a distonia não é hipotônica. A lesão do núcleo subtalâmico de Luys causa hemibalismo contralateral. A atetose tem movimentos lentos, contorcidos e distais.",
+  "porAlt": [
+   "Correta: a perda dopaminérgica nigroestriatal produz a síndrome hipertônico-hipocinética.",
+   "A lesão do neoestriado causa coreia; a distonia não é síndrome hipotônica.",
+   "A lesão do núcleo subtalâmico causa hemibalismo, não hemiataxia e tremor.",
+   "Na atetose os movimentos são lentos e serpenteantes; rápidos e amplos descrevem o balismo.",
+   "O núcleo subtalâmico integra o circuito dos núcleos da base e não inibe reflexos medulares pela formação reticular."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 22,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Cipriano (2012), a Escala de Wexler é utilizada para testar o arco-reflexo por meio da avaliação do reflexo superficial associado a uma raiz nervosa em particular. Na referida escala esses arcos são pontuados. Diante do exposto, assinale a opção que corresponde à pontuação +1.",
+  "alts": [
+   "Hiper-reflexia.",
+   "Arreflexia.",
+   "Hiporreflexia.",
+   "Hiper-reflexia com clono transitório.",
+   "Hiper-reflexia com clono duradouro."
+  ],
+  "gab": 2,
+  "tema": "neuro",
+  "sub": "Avaliação neurológica e escalas",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Cipriano JJ. Manual fotográfico de testes ortopédicos e neurológicos, 5ª ed., 2012 (escala de Wexler)",
+  "coment": "A escala de Wexler gradua os reflexos: 0 arreflexia, +1 hiporreflexia, +2 normal, +3 hiper-reflexia, +4 hiper-reflexia com clono transitório e +5 hiper-reflexia com clono sustentado. Apesar do enunciado falar em reflexo superficial, a escala é usada para os reflexos tendinosos profundos (miotáticos), testados por raiz: bicipital C5, braquiorradial C6, tricipital C7, patelar L4 e aquileu S1.",
+  "porAlt": [
+   "Hiper-reflexia corresponde a +3 na escala de Wexler.",
+   "Arreflexia corresponde ao grau 0.",
+   "Correta: +1 corresponde à hiporreflexia.",
+   "Hiper-reflexia com clono transitório corresponde a +4.",
+   "Hiper-reflexia com clono sustentado corresponde a +5."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 23,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação às diretrizes de tratamento e recuperação de uma lesão nervosa descrita por Kisner e Colby (2016), é correto afirmar que:",
+  "alts": [
+   "em geral é observada em 2 fases: a fase aguda, logo após a lesão ou cirurgia; e a fase de recuperação, quando ocorre a reinervação.",
+   "a reeducação motora deve ser iniciada imediatamente após a lesão ou procedimento cirúrgico, a fim de estimular a reinervação.",
+   "a reeducação sensorial discriminativa pode ser feita por meio de tarefas com o objetivo de retreino para identificação de estímulos pelo cérebro.",
+   "a dessensibilização da região afetada deve ser realizada desde o início da fase aguda.",
+   "a educação do paciente em proteger e cuidar da área envolvida deve ser iniciada na fase final do tratamento e deverá seguir pelo restante da vida do paciente."
+  ],
+  "gab": 2,
+  "tema": "neuro",
+  "sub": "Neuropatias periféricas",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "r2",
+  "base": "Kisner C, Colby LA. Exercícios terapêuticos: fundamentos e técnicas, 6ª ed., 2016 (lesão de nervo periférico)",
+  "coment": "Kisner e Colby descrevem a recuperação da lesão nervosa em três fases: aguda, de recuperação (reinervação) e crônica. Na reeducação sensorial discriminativa o paciente treina identificar texturas, formas e objetos, primeiro olhando e depois de olhos fechados, para o cérebro reinterpretar os estímulos. A reeducação motora começa quando há sinais de reinervação; a dessensibilização entra quando surge hipersensibilidade na recuperação; a educação para proteger a área insensível começa logo no início.",
+  "porAlt": [
+   "A recuperação é descrita em três fases: aguda, de recuperação e crônica.",
+   "A reeducação motora começa quando há sinais de reinervação, não logo após a lesão.",
+   "Correta: a reeducação sensorial discriminativa treina o cérebro a identificar estímulos.",
+   "A dessensibilização é usada na fase de recuperação, quando surge hipersensibilidade.",
+   "A educação para proteger a área insensível começa desde a fase aguda."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 24,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Rebelatto (2007), a definição operacional de capacidade funcional diz respeito ao grau de preservação da capacidade de realizar atividades de vida diária (AVDs) e ao grau de capacidade de desempenhar atividades instrumentais da vida diária (AIVDs). Assinale a opção que apresenta as escalas utilizadas para avaliar a capacidade funcional do idoso.",
+  "alts": [
+   "Barthel/ Lawton",
+   "Barthel/ Bleck",
+   "Lawton/ Ashworth",
+   "Ashworth/ Barthel",
+   "Lawton/ Bleck"
+  ],
+  "gab": 0,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação funcional",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Mahoney FI, Barthel DW. Md State Med J 1965;14:61-65; Lawton MP, Brody EM. Gerontologist 1969;9(3):179-186",
+  "coment": "A capacidade funcional do idoso se mede em dois níveis. O Índice de Barthel (1965) avalia as atividades básicas de vida diária, como alimentar-se, banhar-se, vestir-se, transferir-se e controlar esfíncteres. A Escala de Lawton e Brody (1969) avalia as atividades instrumentais, como usar telefone, fazer compras, preparar refeições, cuidar da medicação e das finanças. Ashworth mede espasticidade e Bleck é prognóstico de marcha na paralisia cerebral.",
+  "porAlt": [
+   "Correta: Barthel avalia atividades básicas e Lawton avalia as instrumentais.",
+   "Bleck estima prognóstico de marcha na paralisia cerebral, não capacidade funcional do idoso.",
+   "Ashworth mede espasticidade, não atividades de vida diária.",
+   "Ashworth é escala de tônus, não de capacidade funcional.",
+   "Bleck é critério prognóstico de marcha na paralisia cerebral."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 25,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Cohen (2011), sobre o impacto femoroacetabular, é correto afirmar que:",
+  "alts": [
+   "deve-se evitar movimentos de hiperextensão e adução do quadril.",
+   "é mais comum em idosos como consequência da degeneração articular.",
+   "ocorre em posições de flexão e rotação interna do quadril que geram impacto, podendo produzir lesão condrolabial.",
+   "dificilmente provoca lesão no lábio acetabular.",
+   "a ênfase do tratamento fisioterapêutico deve ser dada principalmente no fortalecimento e alongamento dos músculos posteriores da coxa."
+  ],
+  "gab": 2,
+  "tema": "orto",
+  "sub": "Membro inferior",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "r2",
+  "base": "Griffin DR et al. Warwick Agreement on femoroacetabular impingement syndrome, Br J Sports Med 2016;50(19):1169-1176; Cohen (2011), conforme citado no enunciado",
+  "coment": "O impacto femoroacetabular é contato anormal entre o colo femoral e a borda do acetábulo por alteração morfológica (came, pincer ou mista). O conflito aparece em flexão, adução e rotação interna do quadril, base do teste FADIR, e lesa o lábio e a cartilagem adjacente (lesão condrolabial). Acomete sobretudo adultos jovens e ativos. A fisioterapia evita as posições de impacto e prioriza controle motor, estabilizadores do quadril (glúteos) e do tronco.",
+  "porAlt": [
+   "As posições a evitar são flexão profunda, adução e rotação interna, não hiperextensão.",
+   "O impacto é mais comum em adultos jovens e ativos, não em idosos.",
+   "Correta: flexão com rotação interna provoca o impacto e pode lesar lábio e cartilagem.",
+   "A lesão do lábio acetabular é consequência frequente do impacto.",
+   "A ênfase é em estabilizadores do quadril e controle motor, não nos posteriores da coxa."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 27,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Rebelatto (2007), o envelhecimento também promove alterações no sistema cardiorrespiratório, que vão desde alterações nos vasos, no músculo cardíaco, nas válvulas cardíacas, bem como na caixa torácica e no próprio pulmão. Desse modo, assinale a opção que corresponde ao aspecto estrutural da aorta senil.",
+  "alts": [
+   "Aumento das fibras elásticas.",
+   "Diminuição das fibras colágenas.",
+   "Diminuição na deposição de sais de cálcio.",
+   "Aumento do diâmetro interno.",
+   "Diminuição do diâmetro interno."
+  ],
+  "gab": 3,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação funcional",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "Rebelatto JR, Morelli JGS. Fisioterapia geriátrica: a prática da assistência ao idoso, 2ª ed., 2007",
+  "coment": "Com o envelhecimento, a aorta perde e fragmenta fibras elásticas, acumula colágeno e depósitos de cálcio e se torna mais rígida, alongada e dilatada, com aumento do diâmetro interno. A rigidez aumenta a velocidade da onda de pulso e a pressão sistólica, e eleva a pós-carga do ventrículo esquerdo. As alternativas que falam em mais elastina, menos colágeno, menos cálcio ou diâmetro menor descrevem o contrário.",
+  "porAlt": [
+   "A aorta senil perde e fragmenta fibras elásticas, não as aumenta.",
+   "Há aumento, e não redução, do colágeno na parede da aorta.",
+   "A deposição de sais de cálcio aumenta com a idade.",
+   "Correta: a aorta senil fica dilatada, com aumento do diâmetro interno.",
+   "O diâmetro interno da aorta aumenta com o envelhecimento, não diminui."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 28,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Umphred (2009), qual das síndromes abaixo é caracterizada pela perda ipsilateral da função motora e do sentido posicional, além de perda contralateral da sensibilidade dolorosa muitos níveis abaixo da lesão?",
+  "alts": [
+   "Síndrome Cordonal Posterior.",
+   "Síndrome da Cauda Equina.",
+   "Síndrome da Artéria Espinal Anterior.",
+   "Síndrome de Brown-Sequard.",
+   "Síndrome Centromedular."
+  ],
+  "gab": 3,
+  "tema": "neuro",
+  "sub": "Traumatismo cranioencefálico e lesão medular",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Umphred DA. Reabilitação neurológica (2009), conforme citado no enunciado (síndromes medulares incompletas)",
+  "coment": "Na síndrome de Brown-Séquard, a hemissecção da medula lesa de um lado o trato corticoespinal e o funículo posterior, que já cruzaram ou ainda vão cruzar acima, e o trato espinotalâmico, que cruza logo acima da entrada. Por isso há perda motora e proprioceptiva ipsilateral e perda de dor e temperatura contralateral, alguns níveis abaixo da lesão. Tem o melhor prognóstico funcional entre as síndromes incompletas.",
+  "porAlt": [
+   "A síndrome cordonal posterior tira propriocepção bilateral e preserva motricidade e dor.",
+   "A cauda equina dá lesão de neurônio motor inferior com arreflexia e alteração esfincteriana.",
+   "A síndrome da artéria espinal anterior tira motricidade e dor bilaterais e preserva propriocepção.",
+   "Correta: perda motora e proprioceptiva ipsilateral com perda da dor contralateral é Brown-Séquard.",
+   "A centromedular afeta mais os membros superiores que os inferiores."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 29,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Kisner e Colby (2016), existem múltiplos fatores a serem considerados durante o desenvolvimento de um programa de intervenção para pacientes com comprometimento do equilíbrio. Em relação a esses fatores assinale a opção correta.",
+  "alts": [
+   "A elaboração dos procedimentos deve levar em conta o déficit de equilíbrio dinâmico e arco de movimento dos pacientes.",
+   "Os déficits cognitivos apresentados pelos pacientes não têm impacto na elaboração do programa de treinamento de equilíbrio.",
+   "Deve-se progredir as atividades de equilíbrio do paciente trabalhando em superfície macia, estreitando a base de apoio ou movendo os braços.",
+   "Progredir as atividades de equilíbrio através do fechamento dos olhos não representa uma boa estratégia, uma vez que o paciente estará sujeito a quedas.",
+   "Uma das formas de treinar o controle antecipatório do equilíbrio é fornecer resistência por meio de pesos de mão ou resistência elástica, com o paciente em bipedestação."
+  ],
+  "gab": 2,
+  "tema": "recursos",
+  "sub": "Cinesioterapia e exercício terapêutico",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "r2",
+  "base": "Kisner C, Colby LA. Exercícios terapêuticos: fundamentos e técnicas, 6ª ed., 2016 (treino de equilíbrio)",
+  "coment": "Kisner e Colby progridem o treino de equilíbrio tornando a tarefa mais difícil aos poucos: superfície macia ou instável, base de apoio mais estreita, movimentos de braços e cabeça, olhos fechados e dupla tarefa. O programa considera os déficits específicos, incluindo os cognitivos, e fechar os olhos é estratégia válida com segurança. Resistência aplicada com pesos ou elástico treina o controle reativo; o antecipatório se treina com tarefas voluntárias como alcançar, pegar e lançar objetos.",
+  "porAlt": [
+   "O programa considera todos os déficits que interferem no equilíbrio, não só o dinâmico e a amplitude.",
+   "Déficits cognitivos interferem no treino de equilíbrio e precisam ser considerados.",
+   "Correta: superfície macia, base estreita e movimento de braços são formas de progredir o treino.",
+   "Fechar os olhos é progressão válida, feita com proteção contra quedas.",
+   "Resistência externa treina o controle reativo; o antecipatório se treina com tarefas voluntárias."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 30,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Rebelatto (2007), em relação às mudanças anatômicas e fisiológicas no sistema respiratório determinadas pelo envelhecimento, assinale a opção correta.",
+  "alts": [
+   "Aumento da pressão de recuo elástico pulmonar.",
+   "Parênquima pulmonar mais complacente.",
+   "Pequena redução do espaço aéreo.",
+   "Ligeiro aumento do número absoluto de alvéolos.",
+   "Ligeira diminuição da capacidade residual funcional."
+  ],
+  "gab": 1,
+  "tema": "idoso",
+  "sub": "Envelhecimento e avaliação funcional",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "Rebelatto JR, Morelli JGS. Fisioterapia geriátrica: a prática da assistência ao idoso, 2ª ed., 2007",
+  "coment": "Com a idade, o parênquima pulmonar perde fibras elásticas e o recolhimento elástico cai, então o pulmão fica mais complacente. Os ductos alveolares se dilatam e o espaço aéreo aumenta, enquanto a superfície alveolar diminui. Volume residual e capacidade residual funcional aumentam, e a caixa torácica fica mais rígida. Essas mudanças favorecem fechamento precoce de vias aéreas e pior relação ventilação-perfusão.",
+  "porAlt": [
+   "A pressão de recolhimento elástico diminui com o envelhecimento.",
+   "Correta: o parênquima perde elasticidade e fica mais complacente.",
+   "O espaço aéreo aumenta, pela dilatação de ductos e alvéolos.",
+   "O número e a superfície dos alvéolos não aumentam; a área de troca diminui.",
+   "A capacidade residual funcional aumenta com a idade."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Wilkins et al. (2009), em relação às características da distrofia miotônica, assinale a opção correta.",
+  "alts": [
+   "É a forma mais comum de distrofia muscular em crianças.",
+   "Apresenta relaxamento muscular retardado.",
+   "O defeito genético está localizado no cromossomo 15.",
+   "É uma doença autossômica recessiva.",
+   "Apresenta fraqueza muscular regressiva."
+  ],
+  "gab": 1,
+  "tema": "neuro",
+  "sub": "Esclerose múltipla e doenças neuromusculares",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "Wilkins RL, Stoller JK, Kacmarek RM. Egan: fundamentos da terapia respiratória, 9ª ed., 2009 (doenças neuromusculares)",
+  "coment": "A distrofia miotônica tipo 1 é autossômica dominante, causada por expansão de trinucleotídeo CTG no gene DMPK, no cromossomo 19. É a distrofia muscular mais comum do adulto e tem miotonia, ou seja, relaxamento muscular retardado após contração (dificuldade em soltar a mão após apertar). A fraqueza é progressiva, distal e facial, com acometimento cardíaco, de catarata e endócrino. A distrofia mais comum em crianças é a de Duchenne.",
+  "porAlt": [
+   "A forma mais comum em crianças é a distrofia de Duchenne; a miotônica é a mais comum no adulto.",
+   "Correta: a miotonia, relaxamento muscular retardado, é a marca da doença.",
+   "O defeito da distrofia miotônica tipo 1 está no cromossomo 19.",
+   "A herança é autossômica dominante.",
+   "A fraqueza é progressiva, não regressiva."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A maior parte dos músculos que controlam o complexo do ombro recebe sua inervação motora de duas regiões do plexo braquial. De acordo com Neumann (2018), assinale a opção que apresenta a inervação que supre o músculo serrátil anterior.",
+  "alts": [
+   "Peitoral lateral.",
+   "Toracodorsal.",
+   "Dorsal da escápula.",
+   "Torácico longo.",
+   "Subescapular inferior."
+  ],
+  "gab": 3,
+  "tema": "bases",
+  "sub": "Anatomia funcional",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "Neumann DA. Cinesiologia do aparelho musculoesquelético: fundamentos para reabilitação, 3ª ed., 2018 (inervação do ombro)",
+  "coment": "O serrátil anterior é inervado pelo nervo torácico longo (C5-C7), que nasce das raízes do plexo braquial e desce na parede lateral do tórax. A lesão desse nervo causa escápula alada medial e prejuízo da elevação do braço. O peitoral lateral inerva o peitoral maior; o toracodorsal, o latíssimo do dorso; o dorsal da escápula, os romboides e o levantador da escápula; o subescapular inferior, o redondo maior e parte do subescapular.",
+  "porAlt": [
+   "O nervo peitoral lateral inerva o peitoral maior.",
+   "O toracodorsal inerva o latíssimo do dorso.",
+   "O dorsal da escápula inerva os romboides e o levantador da escápula.",
+   "Correta: o torácico longo (C5-C7) inerva o serrátil anterior.",
+   "O subescapular inferior inerva o redondo maior e a parte inferior do subescapular."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação ao tratamento fisioterapêutico da artrite reumatoide (AR), assinale a opção correta, de acordo com Kisner e Colby (2016).",
+  "alts": [
+   "As técnicas de alongamento são aplicadas mesmo que haja edema nas articulações, uma vez que o edema articular na AR é permanente.",
+   "Em caso de dor e edema, devem sempre ser utilizados exercícios de amplitude de movimento passiva.",
+   "No período inflamatório da AR, podem ser utilizadas técnicas suaves de mobilidade articular como separação e oscilação grau I e II para inibir dor e minimizar a estagnação de líquido.",
+   "Exercícios de condicionamento cardiopulmonar como bicicleta e corrida/caminhada devem ser evitados, pois podem gerar sobrecarga e impacto articular.",
+   "Na fase crônica da AR, alongamentos e técnicas articulares vigorosas podem ser aplicadas para contrapor as contraturas e aderências."
+  ],
+  "gab": 2,
+  "tema": "orto",
+  "sub": "Doenças reumáticas",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "r2",
+  "base": "Kisner C, Colby LA. Exercícios terapêuticos: fundamentos e técnicas, 6ª ed., 2016 (artrite reumatoide)",
+  "coment": "No período inflamatório da artrite reumatoide, a articulação com edema e cápsula distendida não tolera estresse. Kisner e Colby indicam técnicas suaves, como separação e oscilações de grau I e II, para aliviar a dor e mover o líquido, além de exercício ativo leve. Alongamento vigoroso nesse período lesa cápsula e ligamentos já frágeis. Mesmo na fase crônica, os tecidos seguem frágeis e o alongamento é cuidadoso. Condicionamento aeróbico de baixo impacto é recomendado.",
+  "porAlt": [
+   "Alongar articulação edemaciada lesa cápsula e ligamentos; o edema não é permanente na AR.",
+   "Exercício ativo ou ativo-assistido é preferível; passivo não é regra em toda dor e edema.",
+   "Correta: separação e oscilações de grau I e II aliviam dor e mobilizam o líquido articular.",
+   "Condicionamento aeróbico de baixo impacto, como bicicleta e caminhada, é indicado.",
+   "Mesmo na fase crônica os tecidos seguem frágeis e não toleram técnicas vigorosas."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a opção que completa corretamente as lacunas da sentença abaixo:\n“A Lei de ________ descreve a difusão através dos tecidos. Ela afirma que a taxa de transferência de um gás através de uma lâmina de tecido é proporcional à área tecidual e a diferença entre a pressão parcial do gás dos dois lados e inversamente proporcional à espessura tecidual. Além disso, a taxa de transferência é diretamente proporcional à constante de difusão, que por sua vez depende das propriedades do tecido e do gás em particular. A constante é diretamente proporcional à solubilidade do gás e inversamente proporcional à raiz quadrada do seu peso molecular. Isso significa que o CO2 difunde-se cerca de ________ vezes mais que o O2 através dos tecidos, porque possui maior solubilidade, mas um peso molecular não muito diferente.” (West, 2013).",
+  "alts": [
+   "Laplace/30",
+   "Fick/20",
+   "Henry/15",
+   "Poiseuille/30",
+   "Laplace/20"
+  ],
+  "gab": 1,
+  "tema": "respiratoria",
+  "sub": "Fisiologia e mecânica respiratória",
+  "cenario": "enf",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "West JB. Fisiologia respiratória: princípios básicos, 9ª ed., 2013 (difusão)",
+  "coment": "A lei de Fick diz que a transferência de gás por uma lâmina de tecido é proporcional à área e à diferença de pressão parcial e inversamente proporcional à espessura. A constante de difusão é proporcional à solubilidade e inversamente proporcional à raiz quadrada do peso molecular. O CO2 é bem mais solúvel que o O2 e tem peso molecular parecido, por isso se difunde cerca de 20 vezes mais rápido. Laplace relaciona pressão, tensão e raio; Henry, a solubilidade; Poiseuille, o fluxo e o raio do tubo.",
+  "porAlt": [
+   "Laplace relaciona tensão superficial e raio dos alvéolos, não difusão.",
+   "Correta: lei de Fick, com o CO2 difundindo-se cerca de 20 vezes mais que o O2.",
+   "Henry trata da dissolução do gás no líquido, e o fator não é 15.",
+   "Poiseuille descreve fluxo em tubos, e o fator não é 30.",
+   "Laplace não descreve difusão através dos tecidos."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a avaliação do paciente traumato-ortopédico, torna-se importante a realização de testes especiais. Assim, assinale a opção que apresenta o teste utilizado na identificação da instabilidade anterior do ombro.",
+  "alts": [
+   "Teste de Leffert.",
+   "Teste de Hawkins- Kennedy.",
+   "Teste de Bunnel - Littler.",
+   "Sinal de Kaplan.",
+   "Teste de Watson."
+  ],
+  "gab": 0,
+  "tema": "avaliacao",
+  "sub": "Testes ortopédicos especiais",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Magee DJ. Avaliação musculoesquelética, 5ª ed., 2010 (testes para instabilidade do ombro)",
+  "coment": "Magee inclui o teste de Leffert entre os testes de instabilidade anterior do ombro, em que o examinador observa a translação anterior da cabeça umeral com o paciente sentado. Hawkins-Kennedy é teste de impacto subacromial; Bunnel-Littler avalia retração dos músculos intrínsecos da mão; o sinal de Kaplan se relaciona à epicondilite lateral; o teste de Watson avalia instabilidade do escafoide.",
+  "porAlt": [
+   "Correta: Leffert é teste de instabilidade anterior do ombro.",
+   "Hawkins-Kennedy avalia impacto subacromial, não instabilidade.",
+   "Bunnel-Littler avalia retração dos intrínsecos da mão.",
+   "O sinal de Kaplan é usado na epicondilite lateral.",
+   "Watson avalia instabilidade escafossemilunar no punho."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo West (2013), quantos segundos um eritrócito gasta na rede capilar pulmonar, provavelmente, atravessando dois ou três alvéolos, que é praticamente suficiente para se atingir o completo equilíbrio entre o oxigênio e o dióxido de carbono entre gás alveolar e o sangue capilar em repouso?",
+  "alts": [
+   "0,25",
+   "0,35",
+   "0,50",
+   "0,55",
+   "0,75"
+  ],
+  "gab": 4,
+  "tema": "respiratoria",
+  "sub": "Fisiologia e mecânica respiratória",
+  "cenario": "enf",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "West JB. Fisiologia respiratória: princípios básicos, 9ª ed., 2013 (transferência de oxigênio no capilar pulmonar)",
+  "coment": "Em repouso, a hemácia passa cerca de 0,75 segundo no capilar pulmonar, atravessando dois ou três alvéolos. Nas condições normais, a PO2 do sangue praticamente alcança a do gás alveolar em cerca de um terço desse tempo, em torno de 0,25 s, o que dá grande reserva de difusão. No exercício o tempo de trânsito encurta, e em doença com barreira espessada o equilíbrio pode não se completar.",
+  "porAlt": [
+   "0,25 s é o tempo em que o equilíbrio de O2 quase se completa, não o tempo de trânsito.",
+   "0,35 s não corresponde ao tempo de trânsito descrito por West.",
+   "0,50 s não corresponde ao tempo de trânsito em repouso.",
+   "0,55 s não corresponde ao valor de referência.",
+   "Correta: a hemácia passa cerca de 0,75 s no capilar pulmonar em repouso."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Hamill e Knutzen (2016), quanto aos músculos e suas inervações, assinale a opção INCORRETA.",
+  "alts": [
+   "músculo gastrocnêmio: nervo tibial; músculo tibial anterior: nervo fibular profundo; músculo tensor da fascia lata: nervo glúteo superior.",
+   "músculo grácil: nervo obturatório anterior; músculo pectíneo: nervo obturatório anterior; músculo glúteo máximo: nervo glúteo superior.",
+   "músculo glúteo médio: nervo glúteo superior; músculo psoas: nervo femoral; músculo semitendíneo: parte tibial do nervo isquiático.",
+   "músculo supinador: nervo interósseo posterior; músculo braquial: nervo musculocutâneo; músculo flexor ulnar do carpo: nervo ulnar.",
+   "músculo pronador redondo: nervo mediano; músculo pronador quadrado: nervo interósseo anterior; músculo bíceps braquial: nervo músculocutâneo."
+  ],
+  "gab": 1,
+  "tema": "bases",
+  "sub": "Anatomia funcional",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r2",
+  "base": "Hamill J, Knutzen KM, Derrick TR. Bases biomecânicas do movimento humano, 4ª ed., 2016; Moore KL, Dalley AF, Agur AMR. Anatomia orientada para a clínica, 7ª ed., 2014",
+  "coment": "A questão pede a incorreta. O glúteo máximo é inervado pelo nervo glúteo inferior, não pelo superior, e o pectíneo recebe em regra o nervo femoral (às vezes também o obturatório). As demais estão de acordo com a tabela de Hamill: gastrocnêmio pelo tibial, tibial anterior pelo fibular profundo, TFL e glúteo médio pelo glúteo superior, supinador pelo interósseo posterior, braquial e bíceps pelo musculocutâneo e pronador quadrado pelo interósseo anterior. A C é discutível porque o psoas recebe ramos diretos do plexo lombar (L1-L3).",
+  "porAlt": [
+   "Gastrocnêmio pelo tibial, tibial anterior pelo fibular profundo e TFL pelo glúteo superior estão certos.",
+   "Correta: está errada, pois o glúteo máximo é inervado pelo glúteo inferior.",
+   "Glúteo médio pelo glúteo superior e semitendíneo pela porção tibial do isquiático estão certos.",
+   "Supinador pelo interósseo posterior, braquial pelo musculocutâneo e flexor ulnar pelo ulnar estão certos.",
+   "Pronador redondo pelo mediano, pronador quadrado pelo interósseo anterior e bíceps pelo musculocutâneo estão certos."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Rebelatto (2007), a reabilitação cardiovascular é classicamente dividida em fases. Como é denominada a fase que se constitui no período de convalescência, em ambiente domiciliar, até que as condições clínicas permitam a realização do teste ergométrico em protocolos habituais, que ocorre entre a sexta e oitava semana?",
+  "alts": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V"
+  ],
+  "gab": 1,
+  "tema": "cardio",
+  "sub": "Reabilitação cardiovascular",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "r1",
+  "base": "Rebelatto JR, Morelli JGS. Fisioterapia geriátrica, 2ª ed., 2007; Carvalho T et al. Diretriz Brasileira de Reabilitação Cardiovascular 2020, Arq Bras Cardiol 2020;114(5):943-987",
+  "coment": "Na divisão clássica citada por Rebelatto, a fase I é hospitalar; a fase II é a convalescença após a alta, até que o paciente possa fazer teste ergométrico em protocolo habitual, entre a sexta e a oitava semana; as fases III e IV são de treinamento e manutenção. A Diretriz Brasileira de 2020 trata a fase pós-alta como programa supervisionado e incentiva iniciar o exercício ambulatorial cedo, de modo que a fase II hoje não se resume a convalescença domiciliar.",
+  "porAlt": [
+   "A fase I é a internação hospitalar, antes da alta.",
+   "Correta: a fase II é a convalescença pós-alta até o teste ergométrico, entre a 6ª e a 8ª semana.",
+   "A fase III começa após o teste ergométrico, com treinamento supervisionado.",
+   "A fase IV é a de manutenção, de longo prazo.",
+   "A classificação clássica não tem fase V."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Wilkins (2009), correlacione a localização anatômica com a sua respectiva doença e assinale a opção correta.\nLOCALIZAÇÃO ANATÔMICA\nI- Junção neuromuscular.\nII- Nervos periféricos.\nIII- Células do corno anterior (neurônios motores inferiores).\nIV- Neurônios do córtex e neurônios motores superiores.\nDOENÇA\n() Acidente vascular encefálico.\n() Mistenia grave.\n() Esclerose múltipla.\n() Esclerose lateral amiotrófica.\n() Mielite transversa.\n() Síndrome de Guillain-Barré.",
+  "alts": [
+   "(III) (-) (II) (-) (I) (IV)",
+   "(IV) (I) (-) (III) (-) (II)",
+   "(IV) (II) (III) (-) (-) (I)",
+   "(III) (I) (-) (IV) (-) (II)",
+   "(IV) (I) (-) (-) (III) (II)"
+  ],
+  "gab": 1,
+  "tema": "neuro",
+  "sub": "Esclerose múltipla e doenças neuromusculares",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "Wilkins RL, Stoller JK, Kacmarek RM. Egan: fundamentos da terapia respiratória, 9ª ed., 2009 (doenças neuromusculares por localização)",
+  "coment": "Pela tabela de Wilkins, o AVE atinge neurônios do córtex e motores superiores (IV). A miastenia grave é doença da junção neuromuscular (I). A ELA, embora afete também o neurônio motor superior, aparece ligada às células do corno anterior (III). A síndrome de Guillain-Barré é polirradiculoneuropatia dos nervos periféricos (II). Esclerose múltipla (desmielinização do SNC) e mielite transversa (inflamação da medula) não entram em nenhuma das quatro categorias e ficam sem número.",
+  "porAlt": [
+   "O AVE é de córtex (IV), não de corno anterior, e a mielite não é de junção neuromuscular.",
+   "Correta: AVE IV, miastenia I, esclerose múltipla sem par, ELA III, mielite sem par e Guillain-Barré II.",
+   "Miastenia é de junção neuromuscular (I) e Guillain-Barré é de nervo periférico (II).",
+   "O AVE é de neurônio motor superior (IV) e a ELA é de corno anterior (III).",
+   "A ELA é associada ao corno anterior (III), e a mielite transversa fica sem correspondência."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Neumann (2018), assinale a opção INCORRETA em relação à cinesiologia da marcha.",
+  "alts": [
+   "A fase de apoio é composta por 4 (quatro) períodos: resposta à carga, apoio médio, apoio terminal e pré-balanço.",
+   "Os músculos sóleo e gastrocnêmio são ativos durante a maior parte da fase de apoio da marcha.",
+   "A maior parte da flexão do joelho ocorrida durante o pré-balanço e na fase de balanço é realizada pelos isquiotibiais e por uma pequena ativação do gastrocnêmio.",
+   "A principal função dos abdutores do quadril é controlar a queda da pelve contralateral, ou seja, do lado do membro que se encontra na fase de balanço.",
+   "Os rotadores externos em conjunto com os rotadores internos do quadril controlam o alinhamento do quadril no plano horizontal."
+  ],
+  "gab": 2,
+  "tema": "bases",
+  "sub": "Análise da marcha",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r2",
+  "base": "Neumann DA. Cinesiologia do aparelho musculoesquelético: fundamentos para reabilitação, 3ª ed., 2018 (cinesiologia da marcha)",
+  "coment": "A questão pede a incorreta. Segundo Neumann, a flexão do joelho no pré-balanço e no início do balanço é em boa parte passiva: decorre da flexão do quadril e da quantidade de movimento do membro, com pouca participação muscular. Os isquiotibiais atuam sobretudo no fim do balanço, desacelerando a perna. As demais estão corretas: o apoio tem resposta à carga, apoio médio, apoio terminal e pré-balanço; sóleo e gastrocnêmio atuam em boa parte do apoio; os abdutores controlam a queda da pelve contralateral; os rotadores controlam o plano horizontal.",
+  "porAlt": [
+   "O apoio tem de fato quatro períodos: resposta à carga, apoio médio, apoio terminal e pré-balanço.",
+   "Sóleo e gastrocnêmio são ativos durante a maior parte da fase de apoio.",
+   "Correta: está errada, pois essa flexão do joelho é em boa parte passiva.",
+   "Os abdutores do quadril do membro de apoio impedem a queda da pelve do lado em balanço.",
+   "Rotadores externos e internos controlam juntos o alinhamento do quadril no plano horizontal."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo a Associação Brasileira de Fisioterapia Cardiorrespiratória e Fisioterapia em Terapia Intensiva (ASSOBRAFIR) (2021), a escala do estado funcional Pós-COVID-19 (PCFS) abrange toda a extensão dos desfechos funcionais, por estar focada nas limitações de tarefas/atividades diárias em casa ou no trabalho/escola, assim como mudanças no estilo de vida. Diante do exposto, assinale a opção que apresenta o grau da escala PCFS, no qual as tarefas/atividades diárias em casa ou no trabalho foram modificadas estruturalmente (reduzidas) devido aos sintomas, dor, depressão ou ansiedade.",
+  "alts": [
+   "0",
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "gab": 3,
+  "tema": "avaliacao",
+  "sub": "Escalas e testes funcionais",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Klok FA et al. The Post-COVID-19 Functional Status scale, Eur Respir J 2020;56(1):2001494",
+  "coment": "A escala PCFS vai de 0 a 4. Grau 0: sem limitação funcional. Grau 1: limitações desprezíveis, com sintomas, mas sem limitar atividades. Grau 2: limitações leves, com necessidade ocasional de evitar ou reduzir atividades. Grau 3: limitações moderadas, com tarefas em casa ou no trabalho modificadas estruturalmente (reduzidas) por sintomas, dor, depressão ou ansiedade. Grau 4: limitações graves, com necessidade de ajuda nas atividades de vida diária.",
+  "porAlt": [
+   "Grau 0 significa ausência de limitação funcional.",
+   "Grau 1 tem sintomas, mas sem limitação das atividades.",
+   "Grau 2 tem limitação leve, com redução ocasional das atividades.",
+   "Correta: grau 3 corresponde a atividades modificadas estruturalmente (reduzidas).",
+   "Grau 4 indica limitação grave, com necessidade de ajuda nas atividades diárias."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação à fisiologia respiratória, assinale a opção que apresenta os fatores que ocasionam o desvio para a direita da curva de dissociação do oxigênio.",
+  "alts": [
+   "↑ temperatura; ↑ PCO2; ↓ H+; e ↑ 2,3-difosfoglicerato",
+   "↓ temperatura; ↑ PCO2; ↑ H+; e ↓ 2,3-difosfoglicerato",
+   "↑ temperatura; ↓ PCO2; ↓ H+; e ↓ 2,3-difosfoglicerato",
+   "↓ temperatura; ↓ PCO2; ↑ H+; e ↑ 2,3-difosfoglicerato",
+   "↑ temperatura; ↑ PCO2; ↑ H+; e ↑ 2,3-difosfoglicerato"
+  ],
+  "gab": 4,
+  "tema": "respiratoria",
+  "sub": "Fisiologia e mecânica respiratória",
+  "cenario": "uti",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "West JB. Fisiologia respiratória: princípios básicos, 9ª ed., 2013 (curva de dissociação da oxi-hemoglobina)",
+  "coment": "A curva de dissociação da oxi-hemoglobina se desloca para a direita quando a afinidade da hemoglobina pelo O2 cai, o que facilita a entrega aos tecidos. Isso ocorre com aumento de temperatura, de PCO2, de H+ (queda do pH, efeito Bohr) e de 2,3-DPG, condições típicas do músculo em exercício. O desvio para a esquerda acontece com o contrário de cada um desses fatores.",
+  "porAlt": [
+   "O aumento de H+ é que desvia a curva para a direita; queda de H+ desvia para a esquerda.",
+   "Queda de temperatura e de 2,3-DPG desviam a curva para a esquerda.",
+   "Todos os fatores desta opção desviam a curva para a esquerda.",
+   "Queda de temperatura e de PCO2 desviam a curva para a esquerda.",
+   "Correta: aumento de temperatura, PCO2, H+ e 2,3-DPG desvia a curva para a direita."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Dentre os principais reflexos arcaicos para avaliação do desenvolvimento motor normal, existe um que é encontrado no prematuro a partir do sexto mês. Tal reflexo está sempre presente no recém-nascido normal, desaparece em média no fim do terceiro mês e consiste na resposta de abrir os braços, esticar os dedos e pernas em resposta a um som intenso ou qualquer estímulo repentino e forte. Sendo classificada como uma reação de equilíbrio arcaica. Assinale a opção que apresenta o reflexo descrito acima.",
+  "alts": [
+   "Reação de paraquedas.",
+   "Reflexo de Moro.",
+   "Reflexo de Landau.",
+   "Reflexo de Galant.",
+   "Reflexo Glabelar."
+  ],
+  "gab": 1,
+  "tema": "pediatria",
+  "sub": "Desenvolvimento motor típico",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Effgen SK. Fisioterapia pediátrica: atendendo às necessidades das crianças, 2007 (reflexos primitivos)",
+  "coment": "O reflexo de Moro é desencadeado por estímulo súbito, como som forte ou queda brusca da cabeça. O bebê abre e estende os braços, abre as mãos e estende as pernas, e depois aduz os braços como num abraço. Está presente ao nascimento e some nos primeiros meses (a maioria das fontes situa entre 3 e 6 meses); persistência ou assimetria sugerem lesão neurológica ou do plexo braquial. A reação de paraquedas surge por volta dos 6 a 9 meses e persiste por toda a vida.",
+  "porAlt": [
+   "A reação de paraquedas surge no segundo semestre e permanece por toda a vida.",
+   "Correta: abrir braços e dedos e estender as pernas após estímulo súbito é o reflexo de Moro.",
+   "Landau é a extensão de cabeça, tronco e quadris com a criança suspensa em prono.",
+   "Galant é a inclinação do tronco ao estímulo paravertebral.",
+   "O reflexo glabelar é o piscar à percussão da glabela."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Hebert (2017), sobre a biomecânica patelo femoral é correto afirmar que:",
+  "alts": [
+   "devido à vantagem mecânica fornecida pela patela, a força desenvolvida no ligamento da patela é maior do que a do quadríceps durante o movimento de extensão final do joelho.",
+   "para ângulos inferiores a 30° de flexão do joelho, mesmo com potente contração do quadríceps, há produção de força de compressão extrema na articulação patelo femoral.",
+   "o grupo muscular da “pata de ganso” e o bíceps femoral não influenciam no deslocamento patelar.",
+   "em 20° de flexão do joelho, o polo superior da patela se articula com os côndilos femorais.",
+   "a faceta excedente da patela articula-se com o côndilo femoral medial entre 90 e 110° de flexão, ponto em que o tendão do quadríceps também está em contato com o sulco."
+  ],
+  "gab": 0,
+  "tema": "orto",
+  "sub": "Membro inferior",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r2",
+  "base": "Hebert S et al. Ortopedia e traumatologia: princípios e prática, 5ª ed., 2017 (biomecânica patelofemoral)",
+  "coment": "A patela aumenta o braço de alavanca do quadríceps. Perto da extensão completa, a razão entre a força no ligamento da patela e a força no tendão do quadríceps é maior que 1, e ela cai abaixo de 1 em flexões maiores. A compressão patelofemoral é baixa abaixo de 30 graus de flexão e cresce com a flexão. Com 20 graus é o polo inferior da patela que contata a tróclea, e a faceta excedente (odd facet) só contata o côndilo medial em flexão profunda. Pata de ganso e bíceps femoral influenciam o trajeto patelar pela rotação da tíbia.",
+  "porAlt": [
+   "Correta: perto da extensão final a força no ligamento da patela supera a do quadríceps.",
+   "Abaixo de 30 graus de flexão a compressão patelofemoral é baixa, não extrema.",
+   "Pata de ganso e bíceps femoral influenciam o trajeto patelar pela rotação tibial.",
+   "Com 20 graus de flexão é o polo inferior da patela que se articula com a tróclea.",
+   "A faceta excedente só contata o côndilo medial em flexão profunda, próxima da máxima."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Segundo Wilkins et al. (2009), a dispneia deve ser monitorada durante o desmame da ventilação mecânica e pode ser quantificada com a Escala de Borg Modificada. Com base na escala citada acima, assinale a opção que apresenta a pontuação relacionada ao grau de esforço intenso.",
+  "alts": [
+   "2",
+   "5",
+   "6",
+   "9",
+   "10"
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Desmame e extubação",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Borg GA. Psychophysical bases of perceived exertion, Med Sci Sports Exerc 1982;14(5):377-381; Wilkins RL et al. Egan: fundamentos da terapia respiratória, 9ª ed., 2009",
+  "coment": "A escala de Borg modificada (CR10) vai de 0 a 10. Os pontos de referência são 0 nenhuma dispneia, 0,5 muito, muito leve, 1 muito leve, 2 leve, 3 moderada, 4 um pouco intensa, 5 intensa (forte), 7 muito intensa e 10 máxima. Na tabela usada por Wilkins, o grau 5 corresponde ao esforço intenso. No desmame, o aumento da dispneia acompanha a fadiga e ajuda a decidir pela interrupção do teste.",
+  "porAlt": [
+   "O grau 2 corresponde a dispneia leve.",
+   "Correta: na escala de Borg modificada o grau 5 corresponde a esforço intenso.",
+   "O grau 6 fica entre intensa e muito intensa, sem rótulo próprio.",
+   "O grau 9 corresponde a esforço muito, muito intenso, próximo do máximo.",
+   "O grau 10 corresponde ao esforço máximo."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com Wilkins et al. (2009), são fatores que diminuem a capacidade de difusão pulmonar para o monóxido de carbono (DLCO), EXCETO:",
+  "alts": [
+   "policitemia.",
+   "embolismo pulmonar.",
+   "fibrose pulmonar difusa.",
+   "enfisema pulmonar.",
+   "carboxi-hemoglobina."
+  ],
+  "gab": 0,
+  "tema": "respiratoria",
+  "sub": "Espirometria e função pulmonar",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Graham BL et al. ERS/ATS standards for single-breath carbon monoxide uptake in the lung, Eur Respir J 2017;49(1):1600016",
+  "coment": "A DLCO depende da área e da espessura da membrana, do volume de sangue capilar e da hemoglobina disponível. Diminui no enfisema (perda de área), na fibrose (espessamento), na embolia pulmonar (menos sangue capilar), na anemia e com carboxi-hemoglobina, que ocupa sítios de ligação e cria contrapressão de CO. A policitemia aumenta a DLCO, porque há mais hemoglobina para captar o CO, assim como a hemorragia alveolar e o exercício.",
+  "porAlt": [
+   "Correta: a policitemia aumenta a DLCO, portanto é a exceção.",
+   "A embolia pulmonar reduz o volume de sangue capilar e a DLCO.",
+   "A fibrose espessa a membrana alveolocapilar e reduz a DLCO.",
+   "O enfisema destrói área de troca e reduz a DLCO.",
+   "A carboxi-hemoglobina reduz a captação de CO e diminui a DLCO."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "De acordo com West (2013), qual é o estímulo mais relevante no controle da ventilação em repouso?",
+  "alts": [
+   "PCO2 nos quimioceptores periféricos.",
+   "PO2 nos quimioceptores centrais.",
+   "pH do líquido cerebroespinhal nos quimioceptores centrais.",
+   "pH nos quimioceptores periféricos.",
+   "PO2 nos quimioceptores periféricos."
+  ],
+  "gab": 2,
+  "tema": "respiratoria",
+  "sub": "Fisiologia e mecânica respiratória",
+  "cenario": "enf",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "West JB. Fisiologia respiratória: princípios básicos, 9ª ed., 2013 (controle da ventilação)",
+  "coment": "Para West, o fator mais importante no controle da ventilação em repouso é a PCO2 arterial, que age pelos quimiorreceptores centrais do bulbo. O CO2 atravessa a barreira hematoencefálica e baixa o pH do líquido cerebroespinhal, pobre em tampões, e é esse H+ que estimula os receptores centrais. Os quimiorreceptores centrais não respondem à hipóxia. Os periféricos, carotídeos e aórticos, respondem à queda da PO2 e também à PCO2 e ao pH, mas respondem por parcela menor do estímulo em repouso.",
+  "porAlt": [
+   "Os quimiorreceptores periféricos respondem à PCO2, mas não são o principal estímulo em repouso.",
+   "Os quimiorreceptores centrais não respondem à PO2.",
+   "Correta: o pH do líquor nos quimiorreceptores centrais, reflexo da PCO2, é o estímulo principal.",
+   "O pH age nos periféricos, mas eles respondem por parcela menor do controle em repouso.",
+   "A hipóxia estimula os periféricos sobretudo quando a PO2 cai muito, não em repouso normal."
+  ],
+  "fonte": {
+   "banca": "Marinha do Brasil",
+   "ano": 2022,
+   "prova": "Marinha CP-CSM 2022 Fisioterapia",
+   "n": 50,
+   "parte": "especificas"
+  }
+ }
+]

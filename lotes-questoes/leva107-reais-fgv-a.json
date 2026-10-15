@@ -1,0 +1,2306 @@
+[
+ {
+  "q": "Em 2024, o Governo Federal anunciou a reestruturação dos hospitais federais do Rio de Janeiro com a transferência da gestão do Hospital do Andaraí para a Prefeitura Municipal do Rio de Janeiro.\nEssa ação, se efetivada, colocará em prática o seguinte princípio do Sistema Único de Saúde (SUS):",
+  "alts": [
+   "regionalização.",
+   "hierarquização.",
+   "universalidade.",
+   "descentralização.",
+   "desconcentração."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, art. 7º, IX",
+  "coment": "Passar a gestão de um hospital federal para o município é municipalização, a forma concreta da descentralização político-administrativa da Lei 8.080/1990, art. 7º, IX: direção única em cada esfera de governo, com ênfase na descentralização dos serviços para os municípios. Desconcentração seria redistribuir funções dentro do mesmo ente, sem transferir o comando para outra esfera. Regionalização e hierarquização organizam a rede por território e por complexidade; universalidade é o acesso de todos.",
+  "porAlt": [
+   "Regionalização organiza a rede por território e região de saúde, não transfere gestão entre esferas.",
+   "Hierarquização ordena os serviços em níveis de complexidade crescente; não é o caso descrito.",
+   "Universalidade é o acesso de todos às ações e serviços, sem relação com a mudança de gestor.",
+   "Correta: a União passa a gestão ao município, o que materializa a descentralização com ênfase na municipalização.",
+   "Desconcentração redistribui funções dentro do mesmo ente; aqui o comando muda de esfera de governo."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os requisitos de Boas Práticas de Funcionamento para os Serviços de Saúde estabelecem algumas disposições acerca da Proteção à Saúde do Trabalhador.\nA esse respeito, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) O Serviço de Saúde deve garantir que os trabalhadores com agravos agudos à saúde ou com lesões nos membros superiores só iniciem suas atividades após a avaliação médica.\n( ) É responsabilidade do Serviço de Saúde garantir mecanismos de prevenção dos riscos de acidentes de trabalho, incluindo o fornecimento de Equipamentos de Proteção Individual – EPI.\n( ) Os trabalhadores com possibilidade de exposição a agentes biológicos, físicos ou químicos precisam usar vestimentas para o trabalho que devem ser obrigatoriamente fornecidas pelo Serviço de Saúde, não sendo recomendado o uso de vestimentas do próprio trabalhador.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – V – F.",
+   "F – V – V.",
+   "V – F – V.",
+   "F – F – V.",
+   "V – V – V."
+  ],
+  "gab": 0,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador e ergonomia",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 63/2011 (Boas Práticas de Funcionamento dos Serviços de Saúde), seção de proteção à saúde do trabalhador",
+  "coment": "A RDC 63/2011 determina que trabalhadores com agravos agudos ou lesões nos membros superiores só iniciem as atividades após avaliação médica (V) e que o serviço garanta mecanismos de prevenção de acidentes de trabalho, incluindo EPI em número suficiente e compatível com as atividades (V). Quanto às vestimentas, a norma exige roupas e calçados compatíveis com o risco, mas admite que sejam do próprio trabalhador ou fornecidas pelo serviço. A terceira afirmativa erra ao torná-las obrigatoriamente fornecidas e ao desaconselhar as próprias (F).",
+  "porAlt": [
+   "Correta: as duas primeiras reproduzem a RDC 63/2011; a terceira é falsa porque a norma aceita vestimenta própria do trabalhador.",
+   "A primeira afirmativa é verdadeira: a RDC exige avaliação médica antes do retorno com agravo agudo ou lesão de membro superior.",
+   "A segunda é verdadeira (EPI é dever do serviço) e a terceira é falsa, ao contrário do que esta opção marca.",
+   "Marca como falsas as duas primeiras, que reproduzem a norma, e como verdadeira a terceira, que a distorce.",
+   "A terceira afirmativa é falsa: a RDC admite vestimentas próprias ou fornecidas pelo serviço de saúde."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A Terceira Diretriz da Carta dos Direitos e Deveres da Pessoa Usuária da Saúde diz que toda pessoa tem direito ao atendimento inclusivo, humanizado e acolhedor, realizado por profissionais qualificados, em ambiente limpo, confortável e acessível.\nEsse direito se materializa quando o Serviço de Saúde é capaz de garantir ao paciente",
+  "alts": [
+   "o sigilo e a confidencialidade de todas as informações pessoais, mesmo após a morte, salvo nos casos de risco à saúde pública.",
+   "um atendimento ágil, com estratégias para evitar o agravamento, com tecnologia apropriada, por equipe multiprofissional capacitada e com condições adequadas de atendimento.",
+   "o pleno conhecimento de todo e qualquer exame de saúde admissional, periódico, de retorno ao trabalho, de mudança de função ou demissional realizados e seus resultados.",
+   "o recebimento de visitas, quando internado, de outros profissionais de saúde que não pertençam àquela unidade hospitalar, sendo facultado a esses profissionais o acesso ao prontuário.",
+   "o acesso ao conteúdo do seu prontuário ou de pessoa por ele autorizada e a garantia de envio e fornecimento de cópia, em caso de encaminhamento a outro serviço ou mudança de domicílio."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Resolução CNS 553/2017 (Carta dos Direitos e Deveres da Pessoa Usuária da Saúde), terceira diretriz, inciso IX",
+  "coment": "A Resolução CNS 553/2017 atualizou a Carta da Portaria 1.820/2009. A terceira diretriz garante atendimento inclusivo, humanizado e acolhedor e inclui, no inciso IX, o recebimento de visita, quando internado, de outros profissionais de saúde de fora da unidade, com acesso facultado ao prontuário. O atendimento ágil por equipe multiprofissional está na segunda diretriz (inciso I). Sigilo após a morte, acesso e cópia do prontuário e conhecimento dos exames ocupacionais estão na quarta diretriz, que trata do respeito a valores, cultura e direitos.",
+  "porAlt": [
+   "Sigilo e confidencialidade mesmo após a morte estão na quarta diretriz (inciso II), não na terceira.",
+   "Atendimento ágil com tecnologia apropriada e equipe multiprofissional é o inciso I da segunda diretriz.",
+   "O conhecimento dos exames admissional, periódico e demissional está na quarta diretriz (inciso VI).",
+   "Correta: é o inciso IX da terceira diretriz, que concretiza o atendimento humanizado e acolhedor.",
+   "Acesso ao prontuário e envio de cópia estão na quarta diretriz (inciso III), não na terceira."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Com base na resolução que institui ações para a segurança do paciente em Serviços de Saúde, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Uma das estratégias de gestão de risco que deve ser estabelecida pelo Plano de Segurança do Paciente visa estimular a participação do paciente e dos familiares na assistência prestada.\n( ) A gestão de risco é definida como o conjunto de valores, atitudes, competências e comportamentos que determinam o comprometimento com a gestão da saúde e da segurança.\n( ) A notificação dos eventos adversos deve ser realizada mensalmente pelo Núcleo de Segurança do Paciente, e os eventos que evoluírem para óbito devem ser notificados em até 72 horas a partir do ocorrido.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "F – V – V.",
+   "V – V – F.",
+   "V – F – F.",
+   "F – F – V.",
+   "V – F – V."
+  ],
+  "gab": 4,
+  "tema": "seguranca",
+  "sub": "Notificação de incidentes",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 36/2013 (ações para a segurança do paciente), arts. 3º, 8º e 10",
+  "coment": "Na RDC 36/2013, o Plano de Segurança do Paciente (art. 8º) deve estabelecer estratégias de gestão de risco, entre elas estimular a participação do paciente e dos familiares na assistência (V). O conjunto de valores, atitudes, competências e comportamentos que determinam o comprometimento com a gestão da saúde e da segurança é a definição de cultura da segurança, não de gestão de risco (art. 3º) (F). Pelo art. 10, o NSP notifica os eventos adversos mensalmente, até o 15º dia útil do mês seguinte, e os que evoluem para óbito em até 72 horas (V).",
+  "porAlt": [
+   "A primeira afirmativa é verdadeira e a segunda é falsa, ao contrário do que esta opção marca.",
+   "A segunda é falsa (define cultura da segurança) e a terceira é verdadeira (art. 10 da RDC 36/2013).",
+   "A terceira afirmativa é verdadeira: notificação mensal pelo NSP e óbito em até 72 horas.",
+   "A participação do paciente e da família é estratégia prevista no Plano de Segurança, logo a primeira é verdadeira.",
+   "Correta: V, F, V; a segunda troca a definição de gestão de risco pela de cultura da segurança."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As Práticas Integrativas e Complementares em Saúde (PICS) são abordagens terapêuticas que têm como objetivo prevenir agravos à saúde, promover e recuperar a saúde, enfatizando a escuta acolhedora, a construção de laços terapêuticos e a conexão entre o ser humano, o meio ambiente e a sociedade.\nNesse sentido, assinale a opção que indica uma das Práticas Integrativas oferecidas pelo do Sistema Único de Saúde (SUS).",
+  "alts": [
+   "Pilates.",
+   "Shiatsu.",
+   "Acupuntura.",
+   "Terapia Ocupacional.",
+   "Reeducação Postural Global."
+  ],
+  "gab": 2,
+  "tema": "aps",
+  "sub": "Promoção da saúde e prevenção",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 971/2006 (PNPIC), ampliada pelas Portarias GM/MS 849/2017 e 702/2018",
+  "coment": "A PNPIC (Portaria 971/2006) incluiu no SUS a medicina tradicional chinesa e acupuntura, a homeopatia, as plantas medicinais e a fitoterapia, o termalismo social e a medicina antroposófica. As Portarias 849/2017 e 702/2018 ampliaram a oferta para 29 práticas, entre elas osteopatia, quiropraxia, reflexoterapia, reiki, yoga e shantala. Pilates, RPG e shiatsu não constam da lista oficial; terapia ocupacional é uma profissão de saúde, não uma prática integrativa.",
+  "porAlt": [
+   "Pilates é método de exercício usado na reabilitação, mas não integra a lista de PICS do SUS.",
+   "Shiatsu não consta entre as 29 práticas reconhecidas pelas portarias da PNPIC.",
+   "Correta: a acupuntura, dentro da medicina tradicional chinesa, está na PNPIC desde a Portaria 971/2006.",
+   "Terapia ocupacional é profissão regulamentada, não prática integrativa e complementar.",
+   "Reeducação Postural Global é método fisioterapêutico, fora da lista oficial de PICS."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Avaliação postural é um processo avaliativo que engloba a análise estática e a dinâmica.\nDurante a inspeção dinâmica no movimento de flexão, o avaliador deve observar o movimento normal da região lombar, que deverá",
+  "alts": [
+   "apresentar gibosidade.",
+   "manter-se reta ou em ligeira flexão.",
+   "ter uma amplitude de aproximadamente 30 graus.",
+   "apresentar a maior parte da amplitude da coluna.",
+   "ficar perpendicular ao solo ao final do movimento."
+  ],
+  "gab": 1,
+  "tema": "avaliacao",
+  "sub": "Anamnese e exame físico",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Magee DJ. Orthopedic Physical Assessment, 6ª ed., 2014",
+  "coment": "Na inspeção dinâmica da flexão anterior do tronco, a lordose lombar normal se desfaz: a região lombar retifica ou chega a uma leve flexão (Magee). Lordose que persiste na flexão sugere rigidez ou espasmo dos extensores. A gibosidade é sinal de escoliose estrutural no teste de Adams, não movimento normal. Grande parte da inclinação para a frente vem do quadril pelo ritmo lombopélvico, por isso a lombar não concentra a maior parte da amplitude nem precisa ficar perpendicular ao solo.",
+  "porAlt": [
+   "Gibosidade na flexão indica rotação vertebral de escoliose estrutural, não é achado normal.",
+   "Correta: na flexão normal a curva lombar se desfaz, ficando reta ou em leve flexão.",
+   "Não se usa um valor fixo de 30 graus como critério de normalidade na inspeção da flexão lombar.",
+   "A flexão anterior combina coluna e quadril; a lombar não responde pela maior parte do movimento.",
+   "Ficar perpendicular ao solo não é critério de normalidade do segmento lombar na flexão."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Ao avaliar o movimento ativo é importante que o fisioterapeuta identifique a qualidade e o grau de amplitude. Para tal, é necessário conhecer as amplitudes fisiológicas normais dos principais movimentos dos membros.\nRelacione os movimentos, listados a seguir, aos seus respectivos graus de amplitudes.\n1. Rotação interna de ombro\n2. Extensão de ombro\n3. Flexão de quadril\n4. Flexão de joelho\n( ) 0 - 80\n( ) 0 - 100\n( ) 0 - 150\n( ) 0 - 40\nAssinale a opção que indica a relação correta, segundo a ordem apresentada.",
+  "alts": [
+   "1, 2, 3 e 4.",
+   "1, 3, 4 e 2.",
+   "4, 2, 3 e 1.",
+   "2, 3, 4 e 1.",
+   "1, 4, 3 e 1."
+  ],
+  "gab": 1,
+  "tema": "avaliacao",
+  "sub": "Provas de função muscular e goniometria",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Norkin CC, White DJ. Measurement of Joint Motion: A Guide to Goniometry, 5ª ed., 2016",
+  "coment": "Os valores de referência variam entre as fontes (AAOS, Norkin, Marques) e a questão traz números arredondados, mas a ordem dos arcos resolve. A extensão do ombro é o menor deles (0 a 40), a rotação interna do ombro vem em seguida (0 a 80), a flexão do quadril é maior (0 a 100 no enunciado) e a flexão do joelho é a mais ampla (0 a 150). A sequência fica 1, 3, 4 e 2. A opção E repete o item 1 e não fecha a correspondência.",
+  "porAlt": [
+   "Daria 100 graus de extensão do ombro e 40 de flexão do joelho, arcos incompatíveis com a anatomia.",
+   "Correta: rotação interna do ombro 0 a 80, flexão do quadril 0 a 100, flexão do joelho 0 a 150 e extensão do ombro 0 a 40.",
+   "Atribui 150 graus à flexão do quadril e 40 à rotação interna, invertendo os arcos.",
+   "Atribui 80 graus à extensão do ombro e só 40 à rotação interna, o que não corresponde às referências.",
+   "Repete o item 1 e deixa a extensão do ombro sem par, por isso não é uma relação válida."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre os sinais clínicos que podem estar presentes na avaliação da espasticidade, analise os itens a seguir e assinale (V) para os sinais que podem caracterizar espasticidade e (F) para os que não podem.\n( ) sinal de Babinski\n( ) hiporreflexia profunda\n( ) clônus\n( ) hipermobilidade articular\nOs itens são, respectivamente,",
+  "alts": [
+   "F – V – V – F.",
+   "V – V – F – F.",
+   "V – F – V – F.",
+   "V – V – V – F.",
+   "V – F – V – V."
+  ],
+  "gab": 2,
+  "tema": "neuro",
+  "sub": "Avaliação neurológica e escalas",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "O'Sullivan SB, Schmitz TJ, Fulk GD. Physical Rehabilitation, 7ª ed., 2019",
+  "coment": "A espasticidade faz parte da síndrome do neurônio motor superior: aumento do tônus dependente da velocidade do estiramento, com hiper-reflexia profunda, clônus e sinal de Babinski (resposta plantar em extensão). Hiporreflexia profunda e hipermobilidade articular acompanham a hipotonia da lesão do neurônio motor inferior, da lesão cerebelar ou da fase de choque, e não caracterizam espasticidade. A sequência é V, F, V, F.",
+  "porAlt": [
+   "O sinal de Babinski é típico de lesão do neurônio motor superior, logo o primeiro item é verdadeiro.",
+   "Hiporreflexia profunda não acompanha a espasticidade; nela os reflexos estão exaltados.",
+   "Correta: Babinski e clônus caracterizam espasticidade; hiporreflexia e hipermobilidade não.",
+   "Marca a hiporreflexia como sinal de espasticidade, quando o achado esperado é hiper-reflexia.",
+   "Hipermobilidade articular é achado de hipotonia, não de espasticidade."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A fraqueza muscular adquirida é uma fraqueza muscular generalizada desenvolvida por pacientes críticos durante o período da internação na UTI, que mesmo após a alta da UTI pode perdurar.\nO Score Medical Research Council (MRC) é um método simples, de fácil aplicabilidade à beira-leito. Na aplicação do teste de MRC, o fisioterapeuta deverá testar a força muscular de alguns movimentos dos 4 membros.\nSobre esses movimentos, analise os itens a seguir e assinale (V) para os que são testados e (F) para os que não são.\n( ) Adução do ombro\n( ) Flexão do punho\n( ) Flexão do quadril\n( ) Extensão do joelho\nOs itens são, na ordem apresentada, respectivamente,",
+  "alts": [
+   "V – V – V – V.",
+   "V – V – F – F.",
+   "V – V – V – F.",
+   "F – F – F – F.",
+   "F – F – V – V."
+  ],
+  "gab": 4,
+  "tema": "uti",
+  "sub": "Mobilização precoce e fraqueza adquirida",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "De Jonghe B et al. Paresis acquired in the intensive care unit. JAMA 2002;288(22):2859-2867 (escore MRC)",
+  "coment": "O escore MRC soma a força, de 0 a 5, de seis movimentos testados nos dois lados: abdução do ombro, flexão do cotovelo, extensão do punho, flexão do quadril, extensão do joelho e dorsiflexão do tornozelo, total de 0 a 60. Escore abaixo de 48 caracteriza fraqueza muscular adquirida na UTI (De Jonghe, 2002). Adução do ombro e flexão do punho não entram no teste; flexão do quadril e extensão do joelho entram. A sequência é F, F, V, V.",
+  "porAlt": [
+   "Adução do ombro e flexão do punho não fazem parte dos seis movimentos do MRC.",
+   "Inverte o teste: marca como testados os dois movimentos que ficam fora e exclui os que entram.",
+   "Flexão do punho não é testada; no punho o MRC avalia a extensão.",
+   "Flexão do quadril e extensão do joelho são testadas no MRC, então não podem ser falsas.",
+   "Correta: o MRC usa abdução do ombro e extensão do punho, além de flexão do quadril e extensão do joelho."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em prontuário de determinado paciente internado em UTI foi encontrada uma avaliação que utilizou uma escala, na qual constava o seguinte ESCORE:\n+4 Combativo, violento, agressivo.\n+3 Muito agitado, com risco de perda de dispositivos invasivos.\n+2 Agitado, ansioso, mas sem agressividade\n+1 Inquieto e ansioso.\n0 Alerta e calmo.\n- 1 Torporoso, desperta ao estímulo verbal e mantém contato ocular por mais de 10 segundos.\n- 2 Sedado leve, acorda ao estímulo verbal e mantém contato ocular por menos de 10 segundos.\n-3 Sedado moderadamente. Paciente realiza abertura ocular ao estímulo verbal, mas não interage com o examinador.\n-4 Sedado profundamente, sem resposta ao estímulo verbal. Só desperta com estímulos táteis.\n-5 Coma. Sem resposta ao estímulo verbal ou exame físico.\nAssinale a opção que indica a escala em que esse escore é usado.",
+  "alts": [
+   "Asia.",
+   "Rass.",
+   "Glasgow.",
+   "Ramsey.",
+   "Ashworth."
+  ],
+  "gab": 1,
+  "tema": "avaliacao",
+  "sub": "Escalas e testes funcionais",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Sessler CN et al. The Richmond Agitation-Sedation Scale. Am J Respir Crit Care Med 2002;166(10):1338-1344",
+  "coment": "A escala de +4 (combativo) a -5 (sem resposta), com zero para alerta e calmo, é a RASS (Sessler, 2002). Ela separa a agitação dos níveis de sedação e usa o tempo de contato ocular ao estímulo verbal (mais ou menos de 10 segundos) para distinguir -1 de -2. Ramsay também mede sedação, mas tem seis níveis de 1 a 6, sem valores negativos. Glasgow mede nível de consciência de 3 a 15, Ashworth gradua espasticidade e ASIA classifica a lesão medular.",
+  "porAlt": [
+   "A escala ASIA classifica lesão medular por níveis motor e sensitivo, de A a E.",
+   "Correta: escores de +4 a -5 com zero em alerta e calmo definem a RASS.",
+   "Glasgow vai de 3 a 15 e avalia abertura ocular, resposta verbal e motora.",
+   "Ramsay tem seis níveis numerados de 1 a 6, sem escores positivos e negativos.",
+   "Ashworth gradua a resistência ao estiramento passivo na espasticidade."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Tens é um recurso fisioterapêutico não farmacológico, de custo acessível, seguro, não invasivo e de fácil manuseio para o controle da dor. A analgesia é obtida por mecanismos fisiológicos, que são explicados pela Teoria das Comportas.\nSobre o que ocorre na Teoria das Comportas, analise as afirmativas a seguir.\nI. Aumenta a concentração de beta endorfinas na corrente sanguínea e líquido cefalorraquidiano. Aumenta a liberação de neurotransmissor GABA.\nII. Estimula estruturas nas vias descendentes que inibem a dor. Ativam receptores u-opioides na região rostral ventromedial do bulbo e no corno dorsal da medula espinhal. Promove liberação de serotonina.\nIII. Ativação das fibras aferentes A-beta de grande diâmetro: fecham portão de dor, bloqueio de impulsos de dor pelas fibras A-delta e C (pequeno diâmetro).\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas."
+  ],
+  "gab": 2,
+  "tema": "recursos",
+  "sub": "Eletroterapia",
+  "cenario": "amb",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Melzack R, Wall PD. Pain mechanisms: a new theory. Science 1965;150(3699):971-979; Sluka KA, Walsh D. J Pain 2003;4(3):109-121",
+  "coment": "Na teoria das comportas (Melzack e Wall, 1965), a ativação das fibras aferentes A-beta, de grande diâmetro, excita interneurônios inibitórios da substância gelatinosa no corno dorsal e fecha o portão para os impulsos nociceptivos das fibras A-delta e C. É o mecanismo atribuído à TENS convencional de alta frequência. As afirmativas I e II descrevem outros mecanismos: liberação de opioides endógenos e ativação das vias descendentes inibitórias do bulbo rostral ventromedial, associados sobretudo à TENS de baixa frequência (Sluka e Walsh, 2003).",
+  "porAlt": [
+   "A liberação de opioides endógenos é outro mecanismo da TENS, não a teoria das comportas.",
+   "Inibição descendente com receptores opioides e serotonina é mecanismo central distinto das comportas.",
+   "Correta: as fibras A-beta fecham o portão medular para a dor conduzida por A-delta e C.",
+   "I e II tratam de mecanismos opioides e descendentes, não da teoria das comportas.",
+   "II descreve inibição descendente, que não é o mecanismo da teoria das comportas."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A crioterapia é uma técnica amplamente usada na Fisioterapia devendo o fisioterapeuta dominar os efeitos fisiológicos, as indicações e as contraindicações desse recurso.\nAssinale a opção que indica uma contraindicação da crioterapia.",
+  "alts": [
+   "Bursite.",
+   "Artrose.",
+   "Edema.",
+   "Crioglobulinemia.",
+   "Espasmo muscular."
+  ],
+  "gab": 3,
+  "tema": "recursos",
+  "sub": "Termoterapia e crioterapia",
+  "cenario": "amb",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Cameron MH. Physical Agents in Rehabilitation, 5ª ed., 2017",
+  "coment": "A crioglobulinemia é contraindicação clássica do frio: as proteínas anormais precipitam em baixa temperatura e podem causar isquemia e necrose. Também contraindicam a crioterapia a hipersensibilidade ao frio (urticária), a doença de Raynaud, a hemoglobinúria paroxística ao frio e a aplicação sobre área com circulação comprometida. Bursite, dor da artrose, edema e espasmo muscular estão entre as indicações, porque o frio reduz dor, metabolismo, inflamação e espasmo.",
+  "porAlt": [
+   "Bursite é indicação da crioterapia, que reduz dor e processo inflamatório.",
+   "A dor da artrose pode ser tratada com frio; artrose não contraindica o recurso.",
+   "O edema agudo é indicação clássica do frio, associado a compressão e elevação.",
+   "Correta: na crioglobulinemia o frio precipita proteínas e pode causar isquemia.",
+   "O frio reduz o espasmo muscular, que é indicação e não contraindicação."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Relacione o tipo de marcha patológica, listadas a seguir, às suas características.\n1. Marcha de Trendelenburg\n2. Marcha equina\n3. Marcha atáxica\n4. Marcha do quadríceps\n( ) na fase inicial do apoio médio, há o toque da parte anterior do pé para iniciar o ciclo e flexão plantar prematura, consequência de contraturas miotáticas excessivas do tríceps sural, da contração dinâmica excessiva dos flexores plantares do tornozelo ou a combinação dos dois fatores.\n( ) Pode aparentar marcha normal quando em superfícies niveladas, mas, dificuldade ao caminhar em superfícies duras ou inclinadas e em escadas, não consegue correr. O movimento à frente é propagado pela circundução das pernas.\n( ) Perda da estabilização normal da pelve apresentando inclinação lateral excessiva, na qual o tronco é impulsionado lateralmente na tentativa de manter o CG sobre a perna de apoio.\n( ) Ampla, inconstante e cambaleante, com oscilação irregular, não conseguindo caminhar com um pé à frente do outro ou em linha reta, com balanço brusco.\nAssinale a opção que indica a relação correta, segundo a ordem apresentada.",
+  "alts": [
+   "1, 2, 4 e 3.",
+   "2, 4, 1 e 3.",
+   "3, 2, 1 e 4.",
+   "2, 3, 4 e 1.",
+   "4, 2, 3 e 1."
+  ],
+  "gab": 1,
+  "tema": "bases",
+  "sub": "Análise da marcha",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Perry J, Burnfield JM. Gait Analysis: Normal and Pathological Function, 2ª ed., 2010",
+  "coment": "O toque inicial com o antepé e a flexão plantar prematura por contratura ou hiperatividade do tríceps sural descrevem a marcha equina (2). A queda da estabilização pélvica com o tronco lançado sobre o membro de apoio é a marcha de Trendelenburg, por fraqueza do glúteo médio (1). A marcha ampla, cambaleante, sem conseguir andar em linha reta, é a atáxica (3). Sobra a marcha do quadríceps (4) para o segundo item: dificuldade em rampas e escadas e incapacidade de correr. A ordem é 2, 4, 1 e 3.",
+  "porAlt": [
+   "Coloca Trendelenburg no primeiro item, que descreve o apoio com antepé da marcha equina.",
+   "Correta: equina, quadríceps, Trendelenburg e atáxica, na ordem dos itens.",
+   "A marcha atáxica não começa o apoio com o antepé por contratura do tríceps sural.",
+   "Troca a atáxica e a do quadríceps e põe Trendelenburg no último item, que é a atáxica.",
+   "A marcha do quadríceps não descreve o toque com antepé por contratura do tríceps sural."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na reabilitação pós-cirúrgica para liberação do túnel do carpo, a recuperação ocorre em fases.\nSobre as técnicas indicadas para o paciente na primeira fase - 0 a 3 semanas, analise os itens a seguir.\n( ) Extensão do punho no topo da mesa.\n( ) Mobilizações da articulação rádio-ulnar distal e distrações escafoides.\n( ) O alongamento passivo na abdução do polegar e na extensão do punho.\n( ) Flexão, extensão e oposição do polegar.\nOs itens são, na ordem apresentada, respectivamente,",
+  "alts": [
+   "V – V – V – V.",
+   "F – F – F – F.",
+   "F – V – V – F.",
+   "F – V – F – V.",
+   "V – F – F – V."
+  ],
+  "gab": 4,
+  "tema": "orto",
+  "sub": "Membro superior",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "r2",
+  "base": "Kisner C, Colby LA, Borstad J. Therapeutic Exercise: Foundations and Techniques, 7ª ed., 2018",
+  "coment": "Na fase inicial após a liberação do túnel do carpo, até cerca de 3 semanas, o foco é proteger a incisão, controlar o edema e manter a mobilidade com exercícios ativos: extensão do punho apoiado na mesa, deslizamento de tendões e movimentos do polegar (flexão, extensão e oposição). Mobilizações articulares, como as da radioulnar distal e as distrações do escafoide, e o alongamento passivo da abdução do polegar e da extensão do punho ficam para as fases seguintes, depois da cicatrização inicial. A sequência é V, F, F, V.",
+  "porAlt": [
+   "Mobilização articular e alongamento passivo não fazem parte da fase de 0 a 3 semanas.",
+   "A extensão ativa do punho na mesa e os movimentos do polegar já são feitos na primeira fase.",
+   "Inverte o protocolo: marca as técnicas tardias como iniciais e exclui os exercícios ativos precoces.",
+   "A extensão do punho na mesa é exercício da primeira fase, e a mobilização articular não é.",
+   "Correta: exercícios ativos de punho e polegar na primeira fase; mobilização e alongamento passivo depois."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um dos objetivos fisioterapêuticos no tratamento de pacientes amputados transtibial está relacionado aos cuidados com o coto.\nSobre as técnicas que são aplicadas objetivando cuidados com a circunferência do coto, analise os itens a seguir e assinale (V) para o verdadeiro e (F) para o falso.\n( ) Bandagem convencional.\n( ) Fisioterapia descongestiva.\n( ) Exercícios isométricos.\n( ) Exercícios aeróbicos.\nOs itens são, respectivamente,",
+  "alts": [
+   "V – V – V – V.",
+   "V – V – F – F.",
+   "V – F – F – F.",
+   "V – V – V – F.",
+   "F – F – F – F."
+  ],
+  "gab": 3,
+  "tema": "orto",
+  "sub": "Amputação e protetização",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "r2",
+  "base": "Ministério da Saúde. Diretrizes de Atenção à Pessoa Amputada, 2013",
+  "coment": "Controlar a circunferência do coto significa reduzir o edema e moldar o membro residual para a protetização. Para isso servem o enfaixamento compressivo, com pressão maior na porção distal, as técnicas de fisioterapia descongestiva (drenagem linfática) e as contrações isométricas da musculatura do coto, que acionam a bomba muscular e favorecem o retorno venoso e linfático. O exercício aeróbico melhora o condicionamento geral para a marcha com prótese, mas não é técnica dirigida à circunferência do coto. A sequência é V, V, V, F.",
+  "porAlt": [
+   "O exercício aeróbico não é técnica específica para modelar ou reduzir a circunferência do coto.",
+   "Exclui os isométricos, que ajudam a reduzir o edema do coto pela bomba muscular.",
+   "Considera só a bandagem, deixando de fora a drenagem e os isométricos, também usados.",
+   "Correta: bandagem, fisioterapia descongestiva e isométricos atuam sobre o volume do coto.",
+   "A bandagem compressiva é a técnica clássica de modelagem do coto, então não pode ser falsa."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As amputações clássicas de membros inferiores podem ser divididas em trans-ósseas e as desarticulações.\nA desarticulação de Lisfranc corresponde à amputação no nível de",
+  "alts": [
+   "interfalangianas.",
+   "metatarso-falangianas.",
+   "tarso-metatarsianas.",
+   "trans-tarsal.",
+   "de tornozelo."
+  ],
+  "gab": 2,
+  "tema": "orto",
+  "sub": "Amputação e protetização",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Diretrizes de Atenção à Pessoa Amputada, 2013",
+  "coment": "A desarticulação de Lisfranc separa o tarso dos metatarsos, na articulação tarsometatarsiana. A de Chopart é mais proximal, na articulação mediotársica (talonavicular e calcaneocuboide), e corresponde ao nível transtarsal. A amputação de Syme é no nível do tornozelo. Desarticulações metatarsofalangianas e interfalangianas são amputações de dedos.",
+  "porAlt": [
+   "Amputação interfalangiana é de dedo, bem distal ao nível de Lisfranc.",
+   "Metatarsofalangiana é a desarticulação dos dedos, distal à de Lisfranc.",
+   "Correta: Lisfranc é a desarticulação tarsometatarsiana.",
+   "O nível transtarsal (mediotársico) corresponde à desarticulação de Chopart.",
+   "No tornozelo fica a amputação de Syme, não a de Lisfranc."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Mobilização Passiva Contínua (MPC) é o movimento passivo, contínuo e lento feito por um dispositivo mecânico. Pesquisas básicas e os estudos clínicos mostraram a efetividade da MPC em muitas áreas.\nSobre os efeitos da MPC, analise os itens a seguir e assinale (V) para o verdadeiro e (F) para o falso.\n( ) Prevenção do desenvolvimento de aderências e contraturas.\n( ) Efeito estimulante na cicatrização de tendões e ligamentos.\n( ) Favorecimento da cicatrização de incisões sobre a articulação em movimento.\n( ) Aumento da lubrificação do líquido sinovial da articulação.\nOs itens são, respectivamente,",
+  "alts": [
+   "V – V – V – V.",
+   "F – F – F – F.",
+   "F – V – F – V.",
+   "V – F – V – F.",
+   "V – F – V – V."
+  ],
+  "gab": 0,
+  "tema": "recursos",
+  "sub": "Cinesioterapia e exercício terapêutico",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Kisner C, Colby LA, Borstad J. Therapeutic Exercise: Foundations and Techniques, 7ª ed., 2018",
+  "coment": "Kisner e Colby listam entre os benefícios da mobilização passiva contínua a prevenção de aderências e contraturas, o efeito estimulante na cicatrização de tendões e ligamentos, a melhor cicatrização de incisões sobre a articulação em movimento e o aumento da lubrificação pelo líquido sinovial. Somam-se o ganho mais rápido de amplitude e a redução da dor no pós-operatório. Os quatro itens são verdadeiros.",
+  "porAlt": [
+   "Correta: os quatro efeitos constam entre os benefícios descritos para a MPC.",
+   "Nega todos os efeitos, embora a MPC previna contraturas e favoreça a cicatrização.",
+   "A prevenção de aderências e a cicatrização das incisões também são efeitos da MPC.",
+   "O estímulo à cicatrização de tendões e ligamentos e a lubrificação sinovial também são benefícios.",
+   "Exclui o efeito na cicatrização de tendões e ligamentos, que está entre os benefícios."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na aplicação de técnicas de alongamento há uma relação inversa entre intensidade e duração, assim como entre intensidade e frequência.\nPara conseguir uma deformação elástica mais significativa e mudanças plásticas a longo prazo nos tecidos moles, assinale a opção que indica a forma mais segura de alongar.",
+  "alts": [
+   "breve e intenso.",
+   "de inibição recíproca.",
+   "de três ciclos de 30 segundos e 1 minuto.",
+   "de longa duração e baixa carga (baixa intensidade).",
+   "com várias repetições, com duração de 15 a 30 segundos."
+  ],
+  "gab": 3,
+  "tema": "recursos",
+  "sub": "Cinesioterapia e exercício terapêutico",
+  "cenario": "amb",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Kisner C, Colby LA, Borstad J. Therapeutic Exercise: Foundations and Techniques, 7ª ed., 2018",
+  "coment": "Como intensidade e duração do alongamento variam em sentido inverso, a forma mais segura de obter deformação elástica relevante e mudança plástica duradoura é o alongamento de baixa carga e longa duração (Kisner e Colby). Ele é mais tolerado e causa menos dor e microlesão que o estiramento breve e intenso, que produz sobretudo deformação elástica e maior risco tecidual. Inibição recíproca é recurso neuromuscular para relaxar o músculo, não uma combinação de carga e tempo.",
+  "porAlt": [
+   "O alongamento breve e intenso gera mais dor e risco de lesão e pouca mudança plástica.",
+   "Inibição recíproca é técnica de facilitação neuromuscular, não um parâmetro de carga e duração.",
+   "Ciclos curtos não configuram a combinação de baixa carga e longa duração descrita pela referência.",
+   "Correta: baixa intensidade com longa duração é a forma mais segura de obter mudança plástica.",
+   "Repetições de 15 a 30 segundos descrevem o alongamento estático usual, não o de longa duração."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 48,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os testes físicos para pessoas saudáveis, para pacientes e para pessoas acima de 35 anos, são distintos, mas independentemente do tipo de teste, o nível de desempenho baseia-se no(a)",
+  "alts": [
+   "frequência cardíaca.",
+   "resultado da pressão arterial.",
+   "no nível da pressão diastólica.",
+   "monitoramento eletrocardiográfico (ECG).",
+   "captação submáxima e máxima de oxigênio (VO2max)."
+  ],
+  "gab": 4,
+  "tema": "cardio",
+  "sub": "Teste de esforço e prescrição de exercício",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Kisner C, Colby LA, Borstad J. Therapeutic Exercise, 7ª ed., 2018; ACSM's Guidelines for Exercise Testing and Prescription, 11ª ed., 2021",
+  "coment": "Seja qual for o teste (para saudáveis, para pacientes ou para maiores de 35 anos), o nível de desempenho aeróbio se expressa pela captação de oxigênio, medida no esforço máximo (VO2max) ou estimada a partir de cargas submáximas. Frequência cardíaca, pressão arterial e eletrocardiograma são variáveis de monitorização e critérios de segurança e de interrupção do teste, mas não definem por si a aptidão.",
+  "porAlt": [
+   "A frequência cardíaca é monitorada e usada para estimar o VO2, mas não é a medida do desempenho.",
+   "A pressão arterial é critério de segurança do teste, não o parâmetro de aptidão aeróbia.",
+   "A pressão diastólica é monitorada por segurança e não expressa o nível de desempenho.",
+   "O ECG detecta isquemia e arritmias durante o teste, sem medir a capacidade aeróbia.",
+   "Correta: a aptidão aeróbia é expressa pela captação de oxigênio submáxima ou máxima."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os déficits de equilíbrio podem ser causados por comprometimentos musculoesquelético e/ou neuromuscular. Após avaliação minuciosa, as intervenções cinesioterapêuticas para tratar déficits de equilíbrio estático deverão priorizar",
+  "alts": [
+   "o percurso de obstáculos.",
+   "as superfícies de suporte móveis.",
+   "a incorporação de cargas externas.",
+   "as atividades de transição e locomotoras.",
+   "a não variação das superfícies de suporte."
+  ],
+  "gab": 2,
+  "tema": "bases",
+  "sub": "Postura e equilíbrio",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "r2",
+  "base": "Kisner C, Colby LA, Borstad J. Therapeutic Exercise: Foundations and Techniques, 7ª ed., 2018",
+  "coment": "No treino de equilíbrio estático o paciente mantém uma postura sobre base fixa, e a dificuldade aumenta ao reduzir a base de suporte, trocar a superfície firme por uma macia, retirar a visão e acrescentar cargas externas ou movimentos sobrepostos (Kisner e Colby). Superfícies móveis, atividades de transição, locomoção e percurso de obstáculos pertencem ao treino de equilíbrio dinâmico. Variar a superfície faz parte da progressão, por isso a opção que pede não variar está errada.",
+  "porAlt": [
+   "Percurso de obstáculos é treino de equilíbrio dinâmico e funcional, não estático.",
+   "Superfícies de suporte móveis caracterizam o treino de equilíbrio dinâmico.",
+   "Correta: acrescentar carga externa mantendo a postura progride o controle estático.",
+   "Transições e locomoção trabalham o equilíbrio dinâmico.",
+   "A variação da superfície (firme para macia) é recurso de progressão do equilíbrio estático."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A espondilolistese é o deslizamento anterior de uma vértebra sobre aquela diretamente abaixo, graduada de acordo com a quantidade de movimento da vértebra superior em relação à que está logo abaixo.\nPara esses casos, assinale a opção que indica a abordagem mais adequada.",
+  "alts": [
+   "Técnicas de Thrust.",
+   "Manipulação grau IV e V.",
+   "Alongar os flexores de quadril.",
+   "Alongar os extensores de quadril.",
+   "Estimular a máxima flexão de tronco."
+  ],
+  "gab": 2,
+  "tema": "orto",
+  "sub": "Coluna vertebral",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "r2",
+  "base": "Kisner C, Colby LA, Borstad J. Therapeutic Exercise: Foundations and Techniques, 7ª ed., 2018",
+  "coment": "Na espondilolistese a vértebra desliza para a frente, e a anteversão pélvica com hiperlordose aumenta o cisalhamento anterior no segmento instável. Flexores do quadril encurtados, sobretudo o iliopsoas, puxam a lombar para a lordose; alongá-los, junto com a estabilização do tronco, reduz essa carga. Thrust e manipulação em graus altos estão contraindicados no segmento instável. Alongar os extensores do quadril não corrige a anteversão, e forçar a flexão máxima do tronco sobrecarrega o segmento.",
+  "porAlt": [
+   "Técnicas de thrust no segmento que desliza são contraindicadas pela instabilidade.",
+   "Manipulação de grau alto aumenta o risco no segmento instável e não é indicada.",
+   "Correta: alongar os flexores do quadril reduz a anteversão e o cisalhamento anterior lombar.",
+   "Os extensores do quadril ajudam a controlar a pelve; alongá-los não corrige a anteversão.",
+   "Flexão máxima do tronco sobrecarrega o segmento; o objetivo é a estabilização, não o extremo de movimento."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 53,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Equipamentos para pessoas com disfunções do SNC podem ser considerados como suportes para permitir alinhamento e estabilização, sem impedir o desenvolvimento motor.\nEm um paciente hemiplégico, as tipoias são utilizadas para",
+  "alts": [
+   "reverter uma subluxação.",
+   "evitar estiramento capsular.",
+   "apoiar paciente na posição supina.",
+   "estimular os movimentos do ombro afetado sem dor.",
+   "compensar a perda de controle tronco/ membros."
+  ],
+  "gab": 1,
+  "tema": "neuro",
+  "sub": "Acidente vascular cerebral",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "O'Sullivan SB, Schmitz TJ, Fulk GD. Physical Rehabilitation, 7ª ed., 2019",
+  "coment": "No hemiplégico com membro superior flácido, o peso do braço traciona a cápsula e os ligamentos do ombro. A tipoia sustenta o membro e evita esse estiramento capsular, sobretudo em transferências e na marcha. Ela não reverte uma subluxação já instalada, não é recurso de posicionamento em supino e não estimula o movimento: usada o tempo todo, favorece o padrão flexor e o desuso. O controle de tronco se treina, não se compensa com tipoia.",
+  "porAlt": [
+   "A tipoia não reduz a subluxação já instalada; serve para sustentar o membro.",
+   "Correta: a tipoia sustenta o braço e evita o estiramento da cápsula pelo peso do membro.",
+   "Em supino o membro é posicionado com apoios e travesseiros, não com tipoia.",
+   "A tipoia imobiliza o membro e não estimula o movimento ativo do ombro.",
+   "A perda de controle do tronco se trata com treino motor, não com tipoia."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As Percussões Torácicas Manuais (PTM) ou tapotagem, auxiliam na remoção de muco por ação mecânica. No recém-nascido lactente, a técnica de PTM é limitada devido à(ao)",
+  "alts": [
+   "viscosidade em base pulmonar.",
+   "alta complacência da caixa torácica.",
+   "baixa complacência da caixa torácica.",
+   "deslocamento de secreção limitado a faringe.",
+   "deslocamento de secreção limitado às narinas."
+  ],
+  "gab": 1,
+  "tema": "pediatria",
+  "sub": "Fisioterapia respiratória pediátrica",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Postiaux G. Fisioterapia Respiratória Pediátrica, 2ª ed., 2004",
+  "coment": "No recém-nascido e no lactente, as costelas são cartilaginosas e horizontalizadas e a caixa torácica é muito complacente. Ela absorve a energia das percussões manuais, que pouco se transmite às vias aéreas, e a técnica ainda pode causar desconforto, queda da saturação e lesão, sobretudo no prematuro. Por isso Postiaux limita o uso da tapotagem nessa faixa etária e prefere técnicas baseadas em variação de fluxo expiratório.",
+  "porAlt": [
+   "A limitação da técnica não se deve à viscosidade do muco na base pulmonar.",
+   "Correta: a caixa torácica muito complacente dissipa a energia da percussão.",
+   "A caixa torácica do lactente é muito complacente, não pouco complacente.",
+   "A percussão atua sobre vias aéreas intratorácicas; a faringe não define o limite da técnica.",
+   "O deslocamento de secreção para as narinas não explica a limitação da tapotagem."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A tosse é um mecanismo de defesa que visa eliminar o muco da árvore traqueobronquica proximal. Na criança pequena pode ser realizada a tosse provocada (TP).\nPara aplicação dessa técnica, posiciona-se a criança em",
+  "alts": [
+   "decúbito lateral.",
+   "elevado a 90 graus.",
+   "posição de Trendelemburg.",
+   "decúbito ventral, elevado a 45 graus.",
+   "decúbito dorsal ou elevado a 30 graus."
+  ],
+  "gab": 4,
+  "tema": "pediatria",
+  "sub": "Fisioterapia respiratória pediátrica",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Postiaux G. Fisioterapia Respiratória Pediátrica, 2ª ed., 2004",
+  "coment": "A tosse provocada é usada na criança pequena que não tosse sob comando: o fisioterapeuta aplica uma breve pressão com o polegar sobre a traqueia, na fúrcula esternal, ao fim da inspiração ou início da expiração, para desencadear o reflexo. A criança fica em decúbito dorsal ou com a cabeceira elevada a cerca de 30 graus, com a cabeça alinhada, posição que expõe a fúrcula e permite observar a resposta. Costuma vir depois das técnicas que levam a secreção às vias proximais.",
+  "porAlt": [
+   "O decúbito lateral dificulta o acesso à fúrcula e não é a posição descrita para a técnica.",
+   "A posição sentada a 90 graus não é a posição de referência da tosse provocada.",
+   "Trendelenburg é posição de drenagem postural, não da tosse provocada.",
+   "O decúbito ventral impede o acesso à traqueia na fúrcula esternal.",
+   "Correta: decúbito dorsal ou cabeceira a 30 graus expõe a fúrcula para o estímulo traqueal."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os princípios da Reabilitação Baseada em Comunidade (RBC) estão baseados nos princípios da Convenção Sobre os Direitos das Pessoas com Deficiência e foram acrescidos de outros. Eles devem ser usados como guias em todos os aspectos do trabalho em RBC.\nSobre os princípios que norteiam a RBC, analise os itens a seguir e assinale (V) para o verdadeiro e (F) para o falso.\n( ) A não discriminação.\n( ) A plena e efetiva participação e inclusão na sociedade.\n( ) A igualdade de oportunidades de acordo com gênero.\n( ) A acessibilidade.\nOs itens são, respectivamente,",
+  "alts": [
+   "V – V – V – V.",
+   "V – V – F – V.",
+   "V – V – V – F.",
+   "V – V – F – F.",
+   "V – F – F – F."
+  ],
+  "gab": 1,
+  "tema": "aps",
+  "sub": "Atenção domiciliar e reabilitação na comunidade",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "OMS. Reabilitação Baseada na Comunidade: Diretrizes de RBC, 2010; Convenção sobre os Direitos das Pessoas com Deficiência (Decreto 6.949/2009), art. 3º",
+  "coment": "As Diretrizes de RBC da OMS (2010) adotam os princípios do art. 3º da Convenção sobre os Direitos das Pessoas com Deficiência: respeito à dignidade e à autonomia, não discriminação, plena e efetiva participação e inclusão, respeito pela diferença, igualdade de oportunidades, acessibilidade, igualdade entre homens e mulheres e respeito às capacidades da criança. A RBC acrescenta autodefesa e sustentabilidade. Igualdade de oportunidades e igualdade de gênero são princípios distintos; condicionar a primeira ao gênero distorce o texto. A sequência é V, V, F, V.",
+  "porAlt": [
+   "A igualdade de oportunidades não é definida de acordo com o gênero, logo o terceiro item é falso.",
+   "Correta: não discriminação, participação e inclusão e acessibilidade são princípios; o terceiro item distorce a igualdade de oportunidades.",
+   "A acessibilidade é princípio expresso da Convenção e da RBC, não pode ser falsa.",
+   "A acessibilidade consta entre os princípios, então o quarto item é verdadeiro.",
+   "A plena participação e inclusão e a acessibilidade são princípios da RBC."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Considerando a normatização sobre “relacionamento com a equipe” do Código de Ética e Deontologia da Fisioterapia, avalie as afirmativas a seguir e assinale (V) para a verdadeira ou (F) para a falsa.\n( ) O fisioterapeuta deve colaborar com seus conhecimentos em equipes multiprofissionais e interdisciplinares constituídas em programas e políticas de saúde apenas no âmbito público.\n( ) O cliente/paciente/usuário passa aos cuidados do fisioterapeuta quando é solicitado a este cooperar em diagnósticos ou orientar em tratamento.\n( ) O fisioterapeuta deve indicar serviços especializados de colega, especificando as condutas a serem realizadas para dar continuidade ao seu tratamento, quando o cliente/paciente/usuário sob sua assistência o necessitar.\n( ) O fisioterapeuta que recebe um cliente/paciente/usuário de um colega por motivo de impedimento eventual deste, ao final de tal impedimento deve reencaminhar o cliente/paciente/usuário ao colega.",
+  "alts": [
+   "V – F – F – V.",
+   "F – F – V – V.",
+   "F – F – F – V.",
+   "V – V – F – V.",
+   "V – V – F – F."
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Código de Ética e Deontologia da Fisioterapia",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFFITO 424/2013 (Código de Ética e Deontologia da Fisioterapia), arts. 16, 22, 23 e 24",
+  "coment": "No capítulo do relacionamento com a equipe, o art. 16 manda colaborar com equipes multiprofissionais e interdisciplinares, sem restringir ao âmbito público (F). Pelo art. 22, quem é solicitado a cooperar em diagnóstico ou orientar tratamento considera o paciente ainda sob os cuidados do solicitante (F). O art. 23 diz que, ao indicar serviço de colega, o fisioterapeuta não indica a conduta a ser adotada (F). O art. 24 manda devolver ao colega o paciente recebido por impedimento eventual, quando este cessar (V).",
+  "porAlt": [
+   "O Código não limita a colaboração ao âmbito público, e o paciente segue com quem solicitou a cooperação.",
+   "O terceiro item é falso: ao encaminhar a colega, não se especificam as condutas a adotar.",
+   "Correta: só o reencaminhamento ao colega após o impedimento eventual está de acordo com o Código.",
+   "Os dois primeiros itens contrariam os arts. 16 e 22 do Código.",
+   "Os dois primeiros são falsos e o quarto é verdadeiro, ao contrário do que esta opção marca."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Sobre as responsabilidades fundamentais, previstas no Capítulo II do Código de Ética e Deontologia da Fisioterapia, analise as afirmativas a seguir.\nI. Para o exercício profissional da Fisioterapia é obrigatória a inscrição no Conselho Regional da circunscrição em que atuar.\nII. O fisioterapeuta deve zelar para que o prontuário do cliente/paciente/usuário permaneça fora do alcance de estranhos à equipe de saúde da instituição.\nIII. O fisioterapeuta deve avaliar sua capacidade técnica e somente aceitar atribuição ou assumir encargo quando se sentir capaz de desempenho seguro.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Código de Ética e Deontologia da Fisioterapia",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFFITO 424/2013 (Código de Ética e Deontologia da Fisioterapia), arts. 3º, 5º e 13",
+  "coment": "O Capítulo II (responsabilidades fundamentais) traz a obrigatoriedade de inscrição no Conselho Regional da circunscrição em que se atua (art. 3º) e o dever de avaliar a própria capacidade técnica, aceitando encargo só quando capaz de desempenho seguro para o paciente (art. 5º). O dever de manter o prontuário fora do alcance de estranhos à equipe de saúde existe, mas está no art. 13, do Capítulo III, sobre o relacionamento com o cliente/paciente/usuário. Por isso a afirmativa II é falsa no recorte pedido.",
+  "porAlt": [
+   "A afirmativa III também está no Capítulo II (art. 5º), e esta opção a deixa de fora.",
+   "O dever sobre o prontuário está no Capítulo III (art. 13), não entre as responsabilidades fundamentais.",
+   "Correta: inscrição no CREFITO (art. 3º) e capacidade técnica (art. 5º) estão no Capítulo II.",
+   "A inscrição no Conselho Regional (art. 3º) é responsabilidade fundamental e foi excluída.",
+   "Inclui a afirmativa II, cujo conteúdo pertence ao Capítulo III do Código."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2025,
+   "prova": "Prefeitura de Canaã dos Carajás 2025 Fisioterapeuta",
+   "n": 60,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A respeito dos termos que compõem a expressão Sistema Único de Saúde (SUS), analise as afirmativas a seguir.\nI. O termo sistema indica o somatório das ações assistenciais direcionadas a segmentos populacionais específicos, classificados com base em critérios nosológicos.\nII. O termo único refere-se à universalização do acesso a todas as ações e cuidados da rede assistencial pública e privada contratada e ao comando único em cada esfera de governo.\nIII. O termo saúde é entendido como resultante e condicionante de condições de vida, trabalho e acesso a bens e serviços e, portanto, como componente da cidadania e não apenas como ausência de doença.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "II, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. ABC do SUS: doutrinas e princípios, 1990; Lei 8.080/1990, art. 3º",
+  "coment": "O termo sistema designa o conjunto de unidades, serviços e ações dos três níveis de governo e do setor privado contratado que interagem para um fim comum, e não a soma de ações para grupos definidos por critérios nosológicos, que lembra o modelo fragmentado anterior (I falsa). Único remete à mesma doutrina e organização em todo o país, com acesso universal e comando único em cada esfera (II verdadeira). Saúde é resultante e condicionante das condições de vida, trabalho e acesso a bens e serviços, como diz o art. 3º da Lei 8.080/1990 (III verdadeira).",
+  "porAlt": [
+   "A afirmativa I é falsa: sistema não é soma de ações para segmentos definidos por critério nosológico.",
+   "A afirmativa III também está correta e foi deixada de fora.",
+   "Inclui a afirmativa I, que descreve o modelo fragmentado e não o conceito de sistema do SUS.",
+   "Correta: único (acesso universal e comando único) e saúde como condicionante de vida e cidadania.",
+   "A afirmativa I é falsa, por isso não podem estar todas corretas."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta",
+   "n": 21,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "O Sistema Único de Saúde (SUS) pauta-se em um conjunto de princípios e diretrizes organizativas, traduzidas corretamente em ações voltadas para",
+  "alts": [
+   "o fomento da participação popular direta, mediante a criação de Comissões Intergestores Tripartites e de Secretarias Municipais de Saúde.",
+   "a promoção da integralidade, para superar a situação de desigualdade na assistência à saúde da população e investir mais onde a carência é maior.",
+   "a centralização da prestação dos serviços no nível estadual, de modo a assegurar maior qualidade e garantir o controle e a fiscalização por parte dos cidadãos.",
+   "a obrigatoriedade do atendimento público de qualquer cidadão, com o estabelecimento da cobrança progressiva em dinheiro com base em faixas de renda socioeconômicas.",
+   "a organização dos serviços em níveis crescentes de complexidade, circunscritos a uma determinada área geográfica e planejados a partir de critérios epidemiológicos."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, arts. 7º e 8º",
+  "coment": "A regionalização e a hierarquização (Lei 8.080/1990, art. 7º, IX, b, e art. 8º) organizam os serviços em níveis de complexidade crescente, numa área geográfica delimitada e com base em critérios epidemiológicos. As demais trocam os conceitos: investir mais onde a carência é maior é equidade, não integralidade; as comissões intergestores são instâncias de pactuação entre gestores, não de participação popular; o SUS é descentralizado, com ênfase nos municípios; e o atendimento é gratuito, sem cobrança por faixa de renda.",
+  "porAlt": [
+   "Comissões intergestores pactuam entre gestores; a participação popular se dá por conselhos e conferências.",
+   "Reduzir desigualdades investindo mais onde a carência é maior define a equidade, não a integralidade.",
+   "O SUS é descentralizado com ênfase na municipalização, não centralizado no nível estadual.",
+   "O atendimento no SUS é gratuito; não há cobrança progressiva por renda.",
+   "Correta: é a regionalização com hierarquização em níveis crescentes de complexidade."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta",
+   "n": 22,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Em relação ao modo como os entes federados devem se articular para formular, implementar e avaliar a política de saúde, considerando a Lei nº 8.080/90, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) É atribuição específica dos Municípios definir, coordenar e executar os programas de vigilância epidemiológica e sanitária.\n( ) É uma prerrogativa comum a Estados e Municípios participar do controle dos agravos ao meio ambiente.\n( ) Cabe à União, com recursos próprios, financiar o Subsistema de Atenção à Saúde Indígena.\nAs afirmativas são, na ordem apresentada, respectivamente,",
+  "alts": [
+   "V – V – F.",
+   "V – F – V.",
+   "F – V – V.",
+   "F – V – F.",
+   "V – V – V."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, arts. 16, 17, 18 e 19-C",
+  "coment": "Na Lei 8.080/1990, definir e coordenar os sistemas de vigilância epidemiológica e sanitária é competência da direção nacional (art. 16); aos Estados cabe coordenar e executar em caráter complementar (art. 17) e aos Municípios, executar os serviços (art. 18). Por isso a primeira é falsa. Estados e Municípios participam do controle dos agravos ao meio ambiente com repercussão na saúde (arts. 17 e 18), e o art. 19-C diz que cabe à União, com recursos próprios, financiar o Subsistema de Atenção à Saúde Indígena. Sequência F, V, V.",
+  "porAlt": [
+   "A primeira é falsa: aos Municípios cabe executar, não definir e coordenar, a vigilância.",
+   "A segunda é verdadeira e a terceira também; esta opção inverte a segunda e erra a primeira.",
+   "Correta: F, V, V, conforme os arts. 16 a 18 e o art. 19-C da Lei 8.080/1990.",
+   "A terceira é verdadeira: o art. 19-C atribui à União o financiamento do subsistema indígena.",
+   "A primeira afirmativa é falsa, por isso não podem ser todas verdadeiras."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta",
+   "n": 23,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "O usuário do SUS possui o direito de decidir se seus familiares e acompanhantes deverão ser informados sobre seu estado de saúde, bem como tem o direito de ter acesso à anestesia em todas as situações em que for indicada. Essas garantias constam na Carta dos Direitos dos Usuários do SUS e materializam um dos princípios básicos de cidadania que assegura ao brasileiro o ingresso digno nos sistemas de saúde, seja ele público ou privado.\nA esse respeito, assinale a opção que indica o princípio básico de cidadania que fundamenta os direitos do usuário do SUS citados no trecho.",
+  "alts": [
+   "O acesso ordenado e organizado aos sistemas de saúde.",
+   "O tratamento adequado e efetivo para seu problema.",
+   "O atendimento que respeite a pessoa, os valores e os direitos do cidadão.",
+   "O atendimento humanizado, acolhedor e livre de qualquer discriminação.",
+   "O comprometimento dos gestores de saúde para que os princípios de cidadania do usuário do SUS sejam cumpridos."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 675/2006 (Carta dos Direitos dos Usuários da Saúde); Resolução CNS 553/2017, segunda diretriz",
+  "coment": "A Carta de 2006 (Portaria 675/2006) se organizava em seis princípios básicos de cidadania. O segundo assegura tratamento adequado e efetivo para o problema de saúde e lista o direito de decidir se familiares e acompanhantes serão informados e o acesso à anestesia sempre que indicada. A versão vigente, a Resolução CNS 553/2017, que atualizou a Portaria 1.820/2009, mantém os dois direitos na segunda diretriz: atendimento integral, com procedimentos adequados e em tempo hábil para resolver o problema.",
+  "porAlt": [
+   "O primeiro princípio trata do acesso ordenado e organizado, não dos direitos citados.",
+   "Correta: os dois direitos estão no princípio do tratamento adequado e efetivo para o problema.",
+   "O respeito à pessoa, valores e direitos era outro princípio, voltado a sigilo, privacidade e prontuário.",
+   "O atendimento humanizado e livre de discriminação era o terceiro princípio, sobre identificação e acolhimento.",
+   "O comprometimento dos gestores é o princípio que garante o cumprimento dos demais, não estes direitos."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta",
+   "n": 24,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A respeito da estrutura e funcionamento das instituições e suas relações com a gestão dos serviços de saúde, assinale a afirmativa que caracteriza corretamente um dos órgãos gestores do SUS.",
+  "alts": [
+   "O Conselho Nacional de Secretários de Saúde (Conass) representa os Estados e o Distrito Federal na Comissão Intergestores Tripartite (CIT) para tratar dos principais temas de saúde.",
+   "A Comissão Intergestores Tripartite (CIT) atua como espaço estratégico de reivindicação, formulação, controle e avaliação da execução das políticas públicas de saúde.",
+   "A Secretária Estadual da Saúde (SES) formula, normatiza, coordena e fiscaliza o Sistema Único de Saúde, em articulação com o Conselho Nacional de Saúde, além de coordenar as ações de atendimento de alta complexidade.",
+   "As Comissões de Saúde são fóruns públicos que se reúnem de quatro em quatro anos, para avaliar e propor diretrizes para a formulação da política de saúde, com a participação de segmentos sociais representativos do SUS",
+   "A Comissão Intergestores Bipartite (CIB) é um órgão deliberativo, constituído por um foro de negociação e pactuação entre gestores federais, estaduais e municipais, quanto aos aspectos operacionais do SUS."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, arts. 14-A e 14-B (incluídos pela Lei 12.466/2011); Lei 8.142/1990, art. 1º",
+  "coment": "O Conass representa os Estados e o Distrito Federal, e o Conasems os Municípios, nas comissões intergestores (Lei 8.080/1990, art. 14-B). A CIT é foro de negociação e pactuação entre gestores das três esferas, e a CIB reúne só Estado e Municípios, sem a União (art. 14-A). Formular, normatizar e coordenar o SUS em âmbito nacional é papel do Ministério da Saúde. A instância que se reúne a cada quatro anos é a Conferência de Saúde (Lei 8.142/1990, art. 1º).",
+  "porAlt": [
+   "Correta: o Conass é a entidade representativa dos Estados e do DF na CIT.",
+   "A CIT é instância de pactuação entre gestores, não espaço de reivindicação e controle social.",
+   "Formular e coordenar o SUS nacionalmente cabe ao Ministério da Saúde, não à Secretaria Estadual.",
+   "Quem se reúne a cada quatro anos é a Conferência de Saúde, não uma comissão.",
+   "A CIB é bipartite, entre Estado e Municípios; não inclui gestores federais."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta",
+   "n": 25,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Os Conselhos de Saúde são o principal canal de participação popular nas decisões da Administração Pública que envolvem o Sistema Único de Saúde (SUS) e, por isso, devem representar a diversidade social e cultural da sociedade. Por meio dos conselhos, a população pode colaborar de forma participativa do planejamento e da fiscalização das políticas públicas na área da saúde.\nhttps://www.saude.mg.gov.br/ (Adaptado)\nConsiderando o trecho, assinale a opção que caracteriza corretamente o Conselho de Saúde.",
+  "alts": [
+   "É um órgão colegiado e paritário do SUS, presente em cada esfera de governo, constituído em situações emergenciais.",
+   "Os conselheiros são representantes do Ministério da Saúde, do Conselho Nacional de Secretários de Saúde e do Conselho Nacional de Secretarias Municipais de Saúde.",
+   "É uma instância deliberativa que analisa e aprova o plano de saúde e analisa e aprova o relatório de gestão.",
+   "Os conselheiros são indicados pelos respectivos gestores executivos da Saúde dos municípios, dos estados e do governo federal.",
+   "É uma instância submetida às secretarias de saúde dos municípios, dos estados e do governo federal."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.142/1990, art. 1º, § 2º; Resolução CNS 453/2012",
+  "coment": "Pela Lei 8.142/1990, o Conselho de Saúde tem caráter permanente e deliberativo, é colegiado e composto por governo, prestadores, profissionais e usuários, e atua na formulação de estratégias e no controle da execução da política, inclusive nos aspectos econômicos e financeiros. Cabe a ele analisar e aprovar o plano de saúde e o relatório de gestão. A Resolução CNS 453/2012 garante paridade dos usuários e escolha dos conselheiros pelas próprias entidades, sem indicação do gestor e sem subordinação às secretarias.",
+  "porAlt": [
+   "O conselho é permanente, não constituído apenas em situações emergenciais.",
+   "Essa composição descreve a Comissão Intergestores Tripartite, não o Conselho de Saúde.",
+   "Correta: o conselho delibera sobre o plano de saúde e aprova o relatório de gestão.",
+   "Os conselheiros são escolhidos por suas entidades e segmentos, não indicados pelo gestor.",
+   "O conselho é instância autônoma de controle social, não subordinada às secretarias."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta",
+   "n": 26,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "As afirmativas a seguir indicam corretamente políticas que enfatizam a promoção da equidade em saúde no âmbito do Sistema Único de Saúde, à exceção de uma. Assinale-a.",
+  "alts": [
+   "Programa Nacional de Imunizações.",
+   "Política Nacional de Saúde Integral da População Negra.",
+   "Ações e Diretrizes em Saúde para a População em Situação de Rua.",
+   "Política Nacional de Saúde Integral das Populações do Campo e da Floresta.",
+   "Política Nacional de Saúde Integral de Lésbicas, Gays, Bissexuais, Travestis e Transexuais."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portarias GM/MS 992/2009 (População Negra), 2.836/2011 (LGBT) e 2.866/2011 (Campo e Floresta); Lei 6.259/1975 (PNI)",
+  "coment": "As políticas de promoção da equidade dirigem ações a grupos expostos a desigualdades e discriminação: a Política Nacional de Saúde Integral da População Negra (Portaria 992/2009), a de LGBT (Portaria 2.836/2011), a das Populações do Campo e da Floresta (Portaria 2.866/2011) e as ações para a População em Situação de Rua. O Programa Nacional de Imunizações, criado pela Lei 6.259/1975, é política universal de vigilância e vacinação, sem recorte de equidade.",
+  "porAlt": [
+   "Correta: o PNI é programa universal de vacinação, não política de promoção da equidade.",
+   "A política da população negra é marco das políticas de equidade do SUS.",
+   "As ações para a população em situação de rua integram as estratégias de equidade.",
+   "A política das populações do campo e da floresta é política de equidade.",
+   "A política de saúde integral LGBT é política de promoção da equidade."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta",
+   "n": 27,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Política Nacional de Humanização (PNH) está pautada em uma série de diretrizes que expressam métodos adotados para promover a inclusão em saúde. Sobre uma dessas diretrizes, leia a descrição a seguir.\nProcesso constitutivo das práticas de produção e promoção de saúde que implica responsabilização do trabalhador/equipe pelo usuário, desde a sua chegada até a sua saída. Ouvindo sua queixa, considerando suas preocupações e angústias, fazendo uso de uma escuta qualificada que possibilite analisar a demanda e garantir atenção integral, resolutiva e responsável.\nhttps://www.gov.br/saude/pt-br (Adaptado)\nAssinale a opção que indica a diretriz da PNH descrita no trecho acima.",
+  "alts": [
+   "Vínculo.",
+   "Co-gestão.",
+   "Participação.",
+   "Acolhimento.",
+   "Atendimento."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Política Nacional de Humanização (HumanizaSUS), 2003; cartilha PNH, 2013",
+  "coment": "O trecho define o acolhimento, diretriz da PNH: responsabilização da equipe pelo usuário da chegada à saída, com escuta qualificada da queixa, das preocupações e angústias, para avaliar a demanda e garantir atenção integral, resolutiva e responsável. As outras diretrizes da PNH são gestão participativa e cogestão, ambiência, clínica ampliada e compartilhada, valorização do trabalhador e defesa dos direitos dos usuários. Vínculo é efeito esperado do acolhimento, e atendimento não é diretriz da política.",
+  "porAlt": [
+   "O vínculo resulta de uma relação contínua de confiança, mas não é a diretriz descrita.",
+   "Cogestão trata da inclusão de trabalhadores e usuários na gestão, não da escuta do usuário.",
+   "Participação não é o nome da diretriz que define escuta qualificada e responsabilização.",
+   "Correta: escuta qualificada e responsabilização da chegada à saída definem o acolhimento.",
+   "Atendimento não é diretriz da PNH; o conceito descrito é o acolhimento."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta",
+   "n": 28,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Considerando os requisitos de boas práticas de funcionamento para os serviços de saúde, detalhados na Resolução de Diretoria Colegiada RDC 63/2011, assinale a opção que indica o(s) serviço(s) de saúde que, segundo o seu tipo de atividade, documentação e registro, deve(m) se manter disponível(eis).",
+  "alts": [
+   "O projeto básico de arquitetura, com aprovação pelo Corpo de Bombeiros da Polícia Militar.",
+   "O controle de saúde ocupacional e o controle de qualidade da água.",
+   "Os contratos de serviços terceirizados e a certificação de qualidade em transparência pública.",
+   "A manutenção dos equipamentos e das condições adequadas para a comercialização de produtos químicos.",
+   "O gerenciamento de resíduos de serviços de saúde e o relatório de impacto ambiental."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária e ambiental",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 63/2011 (Boas Práticas de Funcionamento dos Serviços de Saúde), dispositivo sobre documentação e registro",
+  "coment": "A RDC 63/2011 manda o serviço de saúde manter disponíveis, segundo o tipo de atividade, documentação e registro do projeto básico de arquitetura aprovado pela vigilância sanitária, do controle de saúde ocupacional, da educação permanente, do gerenciamento de resíduos, das normas e rotinas, da manutenção da edificação e dos equipamentos, do controle de qualidade da água, do controle de vetores e pragas e dos contratos terceirizados. Só a alternativa B reúne dois itens dessa lista sem acréscimo estranho à norma.",
+  "porAlt": [
+   "O projeto básico de arquitetura deve ser aprovado pela vigilância sanitária, não pelo Corpo de Bombeiros.",
+   "Correta: controle de saúde ocupacional e controle de qualidade da água estão na lista da RDC 63/2011.",
+   "Certificação de qualidade em transparência pública não é registro exigido pela norma.",
+   "Comercialização de produtos químicos não faz parte do registro exigido do serviço de saúde.",
+   "O gerenciamento de resíduos consta, mas relatório de impacto ambiental não é exigência da RDC 63."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta",
+   "n": 29,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "O teste muscular manual requer o posicionamento adequado para que o fisioterapeuta possa aplicar pressão ou resistência de uma maneira que permita a resposta ideal do paciente.\nPara um teste de força máxima de um grupo rotador medial, com uma menor fixação escapular, o paciente deve ser posicionado, preferencialmente, em",
+  "alts": [
+   "decúbito dorsal.",
+   "decúbito ventral.",
+   "decúbito lateral.",
+   "sentado.",
+   "em pé contra a parede."
+  ],
+  "gab": 0,
+  "tema": "avaliacao",
+  "sub": "Provas de função muscular e goniometria",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Kendall FP et al. Muscles: Testing and Function with Posture and Pain, 5ª ed., 2005",
+  "coment": "No teste dos rotadores mediais do ombro, o decúbito dorsal coloca o peso do tronco sobre a escápula, que fica estabilizada contra a maca. Assim o examinador precisa de pouca fixação escapular e pode aplicar resistência máxima no antebraço, com o ombro abduzido a 90 graus e o cotovelo fletido. Em decúbito ventral a escápula fica livre e exige fixação manual maior; sentado, em pé ou em decúbito lateral a estabilização é pior para um teste de força máxima.",
+  "porAlt": [
+   "Correta: em decúbito dorsal o tronco estabiliza a escápula e reduz a necessidade de fixação.",
+   "Em decúbito ventral a escápula fica livre e exige mais fixação do examinador.",
+   "O decúbito lateral não estabiliza bem a escápula para o teste de rotação medial.",
+   "Sentado, a escápula fica sem apoio e exige fixação manual maior.",
+   "Em pé contra a parede não há estabilização adequada para um teste de força máxima."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A dispneia é um sintoma clínico associado a pior prognóstico, à perda da função pulmonar e maior incapacidade ao longo do tempo.\nA avaliação da dispneia deve ser feita por meio",
+  "alts": [
+   "do índice de Barthel.",
+   "do índice de Katz.",
+   "do Time Up and Go Test (TUG).",
+   "da escala de Tinetti.",
+   "da escala de Borg."
+  ],
+  "gab": 4,
+  "tema": "avaliacao",
+  "sub": "Escalas e testes funcionais",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Borg GA. Psychophysical bases of perceived exertion. Med Sci Sports Exerc 1982;14(5):377-381",
+  "coment": "A escala de Borg, sobretudo a versão modificada de 0 a 10 (CR10), quantifica a intensidade da dispneia e do esforço percebido, em repouso e durante testes e treinos. As demais medem outras coisas: Barthel e Katz avaliam independência nas atividades de vida diária, e o Timed Up and Go e a escala de Tinetti avaliam mobilidade, equilíbrio e risco de quedas. A mMRC, outra escala de dispneia, não está entre as opções.",
+  "porAlt": [
+   "O índice de Barthel mede independência nas atividades básicas de vida diária.",
+   "O índice de Katz avalia atividades básicas de vida diária, não dispneia.",
+   "O TUG avalia mobilidade funcional e risco de quedas.",
+   "A escala de Tinetti avalia equilíbrio e marcha.",
+   "Correta: a escala de Borg quantifica a intensidade da dispneia percebida."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A amplitude de movimento (ADM) é uma técnica básica usada nos programas de intervenção terapêutica. A ADM passiva é o movimento de um segmento dentro da ADM livre, produzido inteiramente por uma força externa.\nAssinale a opção que indica metas específicas das técnicas de ADM.",
+  "alts": [
+   "Reverter a denervação muscular.",
+   "Aumentar a elasticidade mecânica do músculo.",
+   "Manter a mobilidade da articulação e do tecido conjuntivo.",
+   "Prevenir a atrofia muscular.",
+   "Aumentar a resistência à fadiga."
+  ],
+  "gab": 2,
+  "tema": "recursos",
+  "sub": "Cinesioterapia e exercício terapêutico",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Kisner C, Colby LA, Borstad J. Therapeutic Exercise: Foundations and Techniques, 7ª ed., 2018",
+  "coment": "As técnicas de amplitude de movimento visam manter a mobilidade da articulação e do tecido conjuntivo, reduzir a formação de contraturas, manter a elasticidade mecânica do músculo, ajudar a circulação e a nutrição da cartilagem e diminuir a dor. Kisner e Colby lembram as limitações da ADM passiva: ela não previne a atrofia, não aumenta força nem resistência à fadiga e não reverte denervação. A elasticidade é mantida, não aumentada.",
+  "porAlt": [
+   "A ADM não reverte denervação; não há contração ativa nem reinervação induzida.",
+   "A meta é manter a elasticidade mecânica do músculo, não aumentá-la.",
+   "Correta: manter a mobilidade da articulação e do tecido conjuntivo é meta central da ADM.",
+   "A ADM passiva não previne a atrofia, porque não há contração muscular voluntária.",
+   "Resistência à fadiga exige treino ativo com carga, não ADM."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O Plenário do Conselho Federal de Fisioterapia (COFFITO) deliberou, em 2009, pela adoção da Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF) na atenção e cuidado fisioterapêutico.\nAssinale a opção que indica os componentes da Parte 1 da CIF, relacionados à funcionalidade e à incapacidade.",
+  "alts": [
+   "Estruturas corporais e influências externas na funcionalidade.",
+   "Estruturas corporais e influências internas na funcionalidade.",
+   "Funções corporais e influências internas na incapacidade.",
+   "Funções e estruturas corporais e atividades e participação.",
+   "Fatores pessoais e fatores ambientais."
+  ],
+  "gab": 3,
+  "tema": "aps",
+  "sub": "CIF e funcionalidade",
+  "cenario": "ger",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "OMS. Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF), 2001; Resolução COFFITO 370/2009",
+  "coment": "A CIF (OMS, 2001) tem duas partes. A Parte 1, funcionalidade e incapacidade, reúne os componentes funções e estruturas do corpo e atividades e participação. A Parte 2 trata dos fatores contextuais: fatores ambientais e fatores pessoais. O COFFITO adotou a CIF na prática fisioterapêutica em 2009, pela Resolução 370/2009. A classificação não usa a expressão influências internas ou externas como componente.",
+  "porAlt": [
+   "Influências externas na funcionalidade não é componente da Parte 1 da CIF.",
+   "A CIF não tem componente chamado influências internas na funcionalidade.",
+   "Influências internas na incapacidade não é componente da classificação.",
+   "Correta: a Parte 1 reúne funções e estruturas do corpo e atividades e participação.",
+   "Fatores pessoais e ambientais formam a Parte 2, os fatores contextuais."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na avaliação cinético-funcional de pacientes com dor no quadril, caso o paciente apresente fraqueza dos músculos abdutores do quadril durante a marcha, é verificada a presença do",
+  "alts": [
+   "teste de Lasegue.",
+   "teste de Slump.",
+   "sinal de Trendelenburg compensado.",
+   "fator de hiperabdução.",
+   "teste de Cozen."
+  ],
+  "gab": 2,
+  "tema": "avaliacao",
+  "sub": "Testes ortopédicos especiais",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Magee DJ. Orthopedic Physical Assessment, 6ª ed., 2014",
+  "coment": "A fraqueza dos abdutores do quadril, principalmente do glúteo médio, impede a estabilização da pelve no apoio unipodal. No sinal de Trendelenburg a pelve cai do lado oposto ao apoio; na forma compensada o paciente inclina o tronco sobre o membro de apoio para levar o centro de gravidade para perto do quadril fraco e reduzir a demanda dos abdutores. Lasègue e Slump testam tensão neural, e o teste de Cozen investiga epicondilite lateral.",
+  "porAlt": [
+   "O teste de Lasègue avalia tensão da raiz do nervo isquiático, não abdutores.",
+   "O Slump é teste neurodinâmico do neuroeixo, não de força dos abdutores do quadril.",
+   "Correta: o tronco inclinado sobre o apoio compensa a fraqueza do glúteo médio na marcha.",
+   "Fator de hiperabdução não é teste ou sinal de fraqueza dos abdutores do quadril.",
+   "O teste de Cozen investiga epicondilite lateral do cotovelo."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As muletas canadenses são utilizadas para aumentar a base de sustentação e para melhorar a estabilidade lateral do corpo e também são indicadas para alivio completo ou parcial da sustentação de peso sobre um membro inferior.\nAssinale a opção que indica a primeira etapa para realizar a mudança da posição sentado para em pé.",
+  "alts": [
+   "O paciente deve segurar as duas muletas com a mão contralateral do membro inferior acometido.",
+   "O paciente deve segurar as duas muletas com a mão do mesmo lado do membro inferior acometido.",
+   "O paciente deve segurar as muletas, uma em cada mão.",
+   "O paciente deve segurar somente uma muleta com a mão contralateral do membro inferior acometido.",
+   "O paciente deve segurar somente uma muleta com a mão do mesmo lado do membro inferior acometido."
+  ],
+  "gab": 1,
+  "tema": "recursos",
+  "sub": "Órteses, próteses e tecnologia assistiva",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "O'Sullivan SB, Schmitz TJ, Fulk GD. Physical Rehabilitation, 7ª ed., 2019",
+  "coment": "Para passar de sentado para em pé com muletas, o paciente desliza para a borda da cadeira, segura as duas muletas juntas na mão do mesmo lado do membro inferior acometido e usa a outra mão para empurrar o apoio de braço da cadeira. Fica em pé apoiado no membro sadio e só então distribui uma muleta para cada mão. Segurar uma muleta em cada mão desde o início tira o apoio na cadeira e reduz a estabilidade.",
+  "porAlt": [
+   "As muletas ficam do lado acometido; a mão do lado sadio empurra a cadeira.",
+   "Correta: as duas muletas na mão do lado acometido e a outra mão apoiada na cadeira.",
+   "Uma muleta em cada mão já no início impede o apoio na cadeira para levantar.",
+   "O primeiro passo usa as duas muletas juntas, não uma só, e do lado acometido.",
+   "O primeiro passo pede as duas muletas juntas, não somente uma."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A ventilação não invasiva por pressão positiva (VNI) é amplamente utilizada em unidades de Terapia Intensiva, unidades de Pronto Socorro e em domicílio.\nAssinale a opção que mostra uma contraindicação do uso da VNI.",
+  "alts": [
+   "O edema pulmonar cardiogênico.",
+   "O risco de broncoaspiração.",
+   "A asma grave.",
+   "A falência diafragmática.",
+   "As deformidades da caixa torácica."
+  ],
+  "gab": 1,
+  "tema": "uti",
+  "sub": "Ventilação não invasiva e alto fluxo",
+  "cenario": "uti",
+  "comp": "cond",
+  "nivel": "r1",
+  "base": "Recomendações Brasileiras de Ventilação Mecânica 2013 (AMIB/SBPT), J Bras Pneumol 2014;40(4):327-363",
+  "coment": "As Recomendações Brasileiras de VM 2013 contraindicam a VNI quando o paciente não protege a via aérea ou tem alto risco de broncoaspiração, como em rebaixamento de consciência sem hipercapnia, vômitos ou hemorragia digestiva alta. Também contraindicam instabilidade hemodinâmica grave, trauma ou cirurgia de face, obstrução de via aérea superior e pneumotórax não drenado. Edema pulmonar cardiogênico é indicação de CPAP ou de dois níveis de pressão. A falência ventilatória neuromuscular e as deformidades torácicas costumam ser tratadas com VNI.",
+  "porAlt": [
+   "O edema pulmonar cardiogênico é indicação clássica de VNI, com nível alto de evidência.",
+   "Correta: o risco de broncoaspiração contraindica a VNI pela falta de proteção da via aérea.",
+   "Na asma grave a VNI pode ser tentada com monitorização; não é contraindicação absoluta.",
+   "A fraqueza diafragmática de causa neuromuscular é situação em que a VNI costuma ser usada.",
+   "Deformidades da caixa torácica, como a cifoescoliose, são indicação de VNI na hipoventilação."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A osteoartrite do quadril provoca, como sintomas clínicos, dor, rigidez articular matinal, crepitação óssea, fraqueza muscular e redução do arco de movimento.\nPara a realização do diagnóstico cinético-funcional devem ser utilizados testes de desempenho, facilmente realizados na clínica diária, como o",
+  "alts": [
+   "teste de caminhada de 6 minutos.",
+   "teste de caminhada rápida de 6 metros.",
+   "teste de sentar e levantar da cadeira por 30 segundos.",
+   "teste neurodinâmico.",
+   "índice de incapacidade Oswestry."
+  ],
+  "gab": 2,
+  "tema": "orto",
+  "sub": "Membro inferior",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Dobson F et al. OARSI recommended performance-based tests to assess physical function in hip or knee osteoarthritis. Osteoarthritis Cartilage 2013;21(8):1042-1052",
+  "coment": "A OARSI (Dobson, 2013) recomenda como conjunto mínimo de testes de desempenho na osteoartrite de quadril e joelho o sentar e levantar da cadeira em 30 segundos, a caminhada rápida de 40 metros e um teste de escada. O de 30 segundos só exige cadeira e cronômetro e é o mais simples de aplicar no dia a dia. O teste de caminhada de 6 minutos aparece apenas como teste adicional e exige corredor longo. Oswestry é questionário de incapacidade lombar e teste neurodinâmico avalia tensão neural.",
+  "porAlt": [
+   "O TC6 é só teste adicional para a OARSI e exige corredor longo, menos prático na rotina.",
+   "A caminhada rápida do conjunto da OARSI é de 40 metros, não de 6 metros.",
+   "Correta: o sentar e levantar em 30 segundos é teste central da OARSI e simples de aplicar.",
+   "Teste neurodinâmico avalia tensão neural, não o desempenho funcional na osteoartrite.",
+   "O índice de Oswestry é questionário de incapacidade por dor lombar, não teste de desempenho."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A disreflexia autonômica é vista como uma emergência médica potencialmente fatal e pode se manifestar em qualquer paciente com lesão medular.\nO início é repentino e resulta de múltiplos estímulos nocivos abaixo do nível da lesão, levando a uma hiperatividade do sistema nervoso simpático.\nAssinale a opção que indica os sinais e sintomas clínicos que se apresentam na disreflexia autonômica.",
+  "alts": [
+   "A palidez cutânea e a diminuição da pressão arterial.",
+   "O rubor cutâneo e a diminuição da pressão arterial.",
+   "A diminuição da pressão arterial e a sudorese acima do nível da lesão.",
+   "O aumento da pressão arterial e a sudorese acima do nível da lesão.",
+   "O aumento da pressão arterial, febre e tosse."
+  ],
+  "gab": 3,
+  "tema": "neuro",
+  "sub": "Traumatismo cranioencefálico e lesão medular",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Consortium for Spinal Cord Medicine. Acute Management of Autonomic Dysreflexia, 2ª ed., 2001",
+  "coment": "Na disreflexia autonômica, que ocorre sobretudo em lesões em T6 ou acima, um estímulo abaixo do nível da lesão (bexiga distendida, intestino cheio, lesão de pele) gera descarga simpática sem controle supraespinal. Há vasoconstrição e elevação súbita da pressão arterial. A resposta reflexa acima da lesão produz rubor, sudorese, cefaleia e congestão nasal, muitas vezes com bradicardia; abaixo, palidez e piloereção. A conduta é sentar o paciente, afrouxar roupas e retirar o estímulo.",
+  "porAlt": [
+   "A pressão arterial sobe, não cai, e a palidez ocorre abaixo do nível da lesão.",
+   "Há rubor acima da lesão, mas a pressão arterial aumenta em vez de diminuir.",
+   "A sudorese acima da lesão ocorre, mas acompanhada de hipertensão, não de hipotensão.",
+   "Correta: hipertensão súbita com sudorese acima do nível da lesão caracteriza o quadro.",
+   "Febre e tosse não fazem parte do quadro típico de disreflexia autonômica."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A hipertensão pulmonar crônica resulta em dilatação ventricular e hipertrofia ventricular direita.\nA manifestação clínica da insuficiência ventricular direita é caracterizada",
+  "alts": [
+   "pela distensão venosa jugular.",
+   "pela dispneia e ortopneia.",
+   "por edema pulmonar.",
+   "por estertores pulmonares.",
+   "pela taquipneia."
+  ],
+  "gab": 0,
+  "tema": "cardio",
+  "sub": "Insuficiência cardíaca",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Diretriz Brasileira de Insuficiência Cardíaca Crônica e Aguda (SBC), Arq Bras Cardiol 2018;111(3):436-539",
+  "coment": "Na hipertensão pulmonar crônica o ventrículo direito dilata e hipertrofia até falhar. A insuficiência ventricular direita causa congestão sistêmica: distensão venosa jugular, refluxo hepatojugular, hepatomegalia, edema de membros inferiores e ascite. Dispneia, ortopneia, edema pulmonar e estertores refletem congestão pulmonar, típica da insuficiência ventricular esquerda. Taquipneia é achado inespecífico.",
+  "porAlt": [
+   "Correta: a turgência jugular reflete a congestão venosa sistêmica da falência do ventrículo direito.",
+   "Dispneia e ortopneia decorrem da congestão pulmonar da insuficiência esquerda.",
+   "Edema pulmonar é manifestação da insuficiência ventricular esquerda.",
+   "Estertores pulmonares indicam congestão pulmonar, típica da falência esquerda.",
+   "A taquipneia é inespecífica e não caracteriza a insuficiência ventricular direita."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O ortostatismo é um recurso que pode ser utilizado de maneira tanto ativa quanto passiva.\nA prancha ou mesa ortostática oferece a possibilidade de se obter a ortostase, gradualmente, para pacientes que estão incapacitados ou inseguros em assumir a posição vertical.\nAssinale a opção que mostra um benefício do ortostatismo.",
+  "alts": [
+   "Controla a função autonômica cardiovascular.",
+   "Reduz a pressão inspiratória máxima.",
+   "Não altera a frequência cardíaca.",
+   "Não altera a pressão arterial média em pacientes críticos.",
+   "Reduz a saturação de oxigênio."
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Mobilização precoce e fraqueza adquirida",
+  "cenario": "uti",
+  "comp": "cond",
+  "nivel": "r2",
+  "base": "Aquim EE et al. Diretrizes Brasileiras de Mobilização Precoce em Unidade de Terapia Intensiva. Rev Bras Ter Intensiva 2019;31(4):434-443",
+  "coment": "O ortostatismo, inclusive o passivo em prancha, recondiciona o controle autonômico cardiovascular e a tolerância à posição vertical, perdidos no repouso prolongado. Também melhora volumes pulmonares, ventilação e nível de alerta e oferece carga aos membros inferiores. Por mexer com o sistema cardiovascular, altera frequência cardíaca e pressão arterial, o que exige monitorização e progressão gradual da inclinação. Redução da pressão inspiratória máxima ou da saturação seria efeito adverso, não benefício.",
+  "porAlt": [
+   "Correta: o ortostatismo recondiciona o controle autonômico cardiovascular e a tolerância ortostática.",
+   "A posição vertical favorece a mecânica respiratória; reduzir a PImax não é benefício.",
+   "O ortostatismo altera a frequência cardíaca, e por isso exige monitorização.",
+   "A pressão arterial média muda no paciente crítico durante a verticalização e deve ser monitorada.",
+   "Queda da saturação seria efeito adverso e critério de interrupção, não benefício."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As complicações de cirurgia abdominal contribuem para o aumento na morbidade e mortalidade dos pacientes, no tempo de internação e no custo hospitalar. A deambulação precoce deve ser estimulada, assim como os exercícios ativos de membros superiores e inferiores.\nAssinale a opção que indica um benefício da mobilização precoce.",
+  "alts": [
+   "A redução do nível de consciência.",
+   "A diminuição dos volumes pulmonares.",
+   "A redução da relação ventilação/perfusão.",
+   "A diminuição do condicionamento cardiovascular.",
+   "A redução do risco de estase e de trombose venosa profunda."
+  ],
+  "gab": 4,
+  "tema": "respiratoria",
+  "sub": "Pré e pós-operatório",
+  "cenario": "enf",
+  "comp": "cond",
+  "nivel": "r1",
+  "base": "Gustafsson UO et al. Guidelines for Perioperative Care in Elective Colorectal Surgery: ERAS Society Recommendations 2018. World J Surg 2019;43(3):659-695",
+  "coment": "A mobilização precoce no pós-operatório de cirurgia abdominal, recomendada nos protocolos ERAS, ativa a bomba muscular da panturrilha e reduz a estase venosa e o risco de trombose venosa profunda. Também aumenta os volumes pulmonares e melhora a relação ventilação/perfusão, o que diminui atelectasia e pneumonia, preserva o condicionamento e reduz o tempo de internação. As outras opções descrevem efeitos do imobilismo.",
+  "porAlt": [
+   "A mobilização não reduz o nível de consciência; tende a melhorar o alerta.",
+   "A mobilização aumenta os volumes pulmonares; a diminuição é efeito do repouso.",
+   "A mobilização melhora a relação ventilação/perfusão em vez de reduzi-la.",
+   "A perda de condicionamento é consequência do imobilismo, não benefício da mobilização.",
+   "Correta: a contração muscular reduz a estase venosa e o risco de trombose venosa profunda."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A incontinência urinária é uma das principais disfunções do assoalho pélvico, sendo uma condição de saúde multifatorial.\nNas situações em que a mulher não consegue realizar a contração voluntário do assoalho pélvico, o uso de eletroestimulação é recomendado.\nEssa eletroestimulação deve ser realizada de forma transcutânea do nervo",
+  "alts": [
+   "ciático.",
+   "femoral.",
+   "fibular.",
+   "cutâneo.",
+   "tibial posterior."
+  ],
+  "gab": 4,
+  "tema": "mulher",
+  "sub": "Assoalho pélvico e incontinência",
+  "cenario": "amb",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "NICE NG123, 2019 (Urinary incontinence and pelvic organ prolapse in women: management)",
+  "coment": "A NICE NG123 (2019) não recomenda eletroestimulação de rotina, mas indica considerá-la quando a mulher não consegue contrair ativamente o assoalho pélvico, para ajudar a percepção e a adesão ao treino. Entre as opções, o único nervo usado por via transcutânea na incontinência é o tibial posterior: ele compartilha raízes sacrais (S2 e S3) com o centro da micção e permite a neuromodulação, mais estudada na urgência e na bexiga hiperativa. Isquiático, femoral, fibular e cutâneo não são alvo do tratamento.",
+  "porAlt": [
+   "O nervo isquiático não é alvo de eletroestimulação para incontinência urinária.",
+   "O nervo femoral não tem relação com o controle miccional sacral.",
+   "O nervo fibular não é usado na neuromodulação para incontinência.",
+   "Cutâneo não designa um nervo-alvo específico da neuromodulação miccional.",
+   "Correta: o tibial posterior é o nervo da neuromodulação transcutânea pelas raízes sacrais."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A respeito dos termos que compõem a expressão Sistema Único de Saúde (SUS), analise as afirmativas a seguir.\nI. O termo sistema indica o somatório das ações assistenciais direcionadas a segmentos populacionais específicos, classificados com base em critérios nosológicos.\nII. O termo único refere-se à universalização do acesso a todas as ações e cuidados da rede assistencial pública e privada contratada e ao comando único em cada esfera de governo.\nIII. O termo saúde é entendido como resultante e condicionante de condições de vida, trabalho e acesso a bens e serviços e, portanto, como componente da cidadania e não apenas como ausência de doença.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, apenas.",
+   "II, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. ABC do SUS: doutrinas e princípios, 1990; Lei 8.080/1990, art. 3º",
+  "coment": "O termo sistema designa o conjunto de unidades, serviços e ações dos três níveis de governo e do setor privado contratado que interagem para um fim comum, e não a soma de ações para grupos definidos por critérios nosológicos, que lembra o modelo fragmentado anterior (I falsa). Único remete à mesma doutrina e organização em todo o país, com acesso universal e comando único em cada esfera (II verdadeira). Saúde é resultante e condicionante das condições de vida, trabalho e acesso a bens e serviços, como diz o art. 3º da Lei 8.080/1990 (III verdadeira).",
+  "porAlt": [
+   "A afirmativa I é falsa: sistema não é soma de ações para segmentos definidos por critério nosológico.",
+   "A afirmativa III também está correta e foi deixada de fora.",
+   "Inclui a afirmativa I, que descreve o modelo fragmentado e não o conceito de sistema do SUS.",
+   "Correta: único (acesso universal e comando único) e saúde como condicionante de vida e cidadania.",
+   "A afirmativa I é falsa, por isso não podem estar todas corretas."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta - Respiratório",
+   "n": 21,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "O Sistema Único de Saúde (SUS) pauta-se em um conjunto de princípios e diretrizes organizativas, traduzidas corretamente em ações voltadas para",
+  "alts": [
+   "o fomento da participação popular direta, mediante a criação de Comissões Intergestores Tripartites e de Secretarias Municipais de Saúde.",
+   "a promoção da integralidade, para superar a situação de desigualdade na assistência à saúde da população e investir mais onde a carência é maior.",
+   "a centralização da prestação dos serviços no nível estadual, de modo a assegurar maior qualidade e garantir o controle e a fiscalização por parte dos cidadãos.",
+   "a obrigatoriedade do atendimento público de qualquer cidadão, com o estabelecimento da cobrança progressiva em dinheiro com base em faixas de renda socioeconômicas.",
+   "a organização dos serviços em níveis crescentes de complexidade, circunscritos a uma determinada área geográfica e planejados a partir de critérios epidemiológicos."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.080/1990, arts. 7º e 8º",
+  "coment": "A regionalização e a hierarquização (Lei 8.080/1990, art. 7º, IX, b, e art. 8º) organizam os serviços em níveis de complexidade crescente, numa área geográfica delimitada e com base em critérios epidemiológicos. As demais trocam os conceitos: investir mais onde a carência é maior é equidade, não integralidade; as comissões intergestores são instâncias de pactuação entre gestores, não de participação popular; o SUS é descentralizado, com ênfase nos municípios; e o atendimento é gratuito, sem cobrança por faixa de renda.",
+  "porAlt": [
+   "Comissões intergestores pactuam entre gestores; a participação popular se dá por conselhos e conferências.",
+   "Reduzir desigualdades investindo mais onde a carência é maior define a equidade, não a integralidade.",
+   "O SUS é descentralizado com ênfase na municipalização, não centralizado no nível estadual.",
+   "O atendimento no SUS é gratuito; não há cobrança progressiva por renda.",
+   "Correta: é a regionalização com hierarquização em níveis crescentes de complexidade."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta - Respiratório",
+   "n": 22,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Em relação ao modo como os entes federados devem se articular para formular, implementar e avaliar a política de saúde, considerando a Lei nº 8.080/90, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) É atribuição específica dos Municípios definir, coordenar e executar os programas de vigilância epidemiológica e sanitária.\n( ) É uma prerrogativa comum a Estados e Municípios participar do controle dos agravos ao meio ambiente.\n( ) Cabe à União, com recursos próprios, financiar o Subsistema de Atenção à Saúde Indígena.\nAs afirmativas são, na ordem apresentada, respectivamente,",
+  "alts": [
+   "V – V – F.",
+   "V – F – V.",
+   "F – V – V.",
+   "F – V – F.",
+   "V – V – V."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, arts. 16, 17, 18 e 19-C",
+  "coment": "Na Lei 8.080/1990, definir e coordenar os sistemas de vigilância epidemiológica e sanitária é competência da direção nacional (art. 16); aos Estados cabe coordenar e executar em caráter complementar (art. 17) e aos Municípios, executar os serviços (art. 18). Por isso a primeira é falsa. Estados e Municípios participam do controle dos agravos ao meio ambiente com repercussão na saúde (arts. 17 e 18), e o art. 19-C diz que cabe à União, com recursos próprios, financiar o Subsistema de Atenção à Saúde Indígena. Sequência F, V, V.",
+  "porAlt": [
+   "A primeira é falsa: aos Municípios cabe executar, não definir e coordenar, a vigilância.",
+   "A segunda é verdadeira e a terceira também; esta opção inverte a segunda e erra a primeira.",
+   "Correta: F, V, V, conforme os arts. 16 a 18 e o art. 19-C da Lei 8.080/1990.",
+   "A terceira é verdadeira: o art. 19-C atribui à União o financiamento do subsistema indígena.",
+   "A primeira afirmativa é falsa, por isso não podem ser todas verdadeiras."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta - Respiratório",
+   "n": 23,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "O usuário do SUS possui o direito de decidir se seus familiares e acompanhantes deverão ser informados sobre seu estado de saúde, bem como tem o direito de ter acesso à anestesia em todas as situações em que for indicada. Essas garantias constam na Carta dos Direitos dos Usuários do SUS e materializam um dos princípios básicos de cidadania que assegura ao brasileiro o ingresso digno nos sistemas de saúde, seja ele público ou privado.\nA esse respeito, assinale a opção que indica o princípio básico de cidadania que fundamenta os direitos do usuário do SUS citados no trecho.",
+  "alts": [
+   "O acesso ordenado e organizado aos sistemas de saúde.",
+   "O tratamento adequado e efetivo para seu problema.",
+   "O atendimento que respeite a pessoa, os valores e os direitos do cidadão.",
+   "O atendimento humanizado, acolhedor e livre de qualquer discriminação.",
+   "O comprometimento dos gestores de saúde para que os princípios de cidadania do usuário do SUS sejam cumpridos."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "enf",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 675/2006 (Carta dos Direitos dos Usuários da Saúde); Resolução CNS 553/2017, segunda diretriz",
+  "coment": "A Carta de 2006 (Portaria 675/2006) se organizava em seis princípios básicos de cidadania. O segundo assegura tratamento adequado e efetivo para o problema de saúde e lista o direito de decidir se familiares e acompanhantes serão informados e o acesso à anestesia sempre que indicada. A versão vigente, a Resolução CNS 553/2017, que atualizou a Portaria 1.820/2009, mantém os dois direitos na segunda diretriz: atendimento integral, com procedimentos adequados e em tempo hábil para resolver o problema.",
+  "porAlt": [
+   "O primeiro princípio trata do acesso ordenado e organizado, não dos direitos citados.",
+   "Correta: os dois direitos estão no princípio do tratamento adequado e efetivo para o problema.",
+   "O respeito à pessoa, valores e direitos era outro princípio, voltado a sigilo, privacidade e prontuário.",
+   "O atendimento humanizado e livre de discriminação era o terceiro princípio, sobre identificação e acolhimento.",
+   "O comprometimento dos gestores é o princípio que garante o cumprimento dos demais, não estes direitos."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta - Respiratório",
+   "n": 24,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A respeito da estrutura e funcionamento das instituições e suas relações com a gestão dos serviços de saúde, assinale a afirmativa que caracteriza corretamente um dos órgãos gestores do SUS.",
+  "alts": [
+   "O Conselho Nacional de Secretários de Saúde (Conass) representa os Estados e o Distrito Federal na Comissão Intergestores Tripartite (CIT) para tratar dos principais temas de saúde.",
+   "A Comissão Intergestores Tripartite (CIT) atua como espaço estratégico de reivindicação, formulação, controle e avaliação da execução das políticas públicas de saúde.",
+   "A Secretária Estadual da Saúde (SES) formula, normatiza, coordena e fiscaliza o Sistema Único de Saúde, em articulação com o Conselho Nacional de Saúde, além de coordenar as ações de atendimento de alta complexidade.",
+   "As Comissões de Saúde são fóruns públicos que se reúnem de quatro em quatro anos, para avaliar e propor diretrizes para a formulação da política de saúde, com a participação de segmentos sociais representativos do SUS",
+   "A Comissão Intergestores Bipartite (CIB) é um órgão deliberativo, constituído por um foro de negociação e pactuação entre gestores federais, estaduais e municipais, quanto aos aspectos operacionais do SUS."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Financiamento e gestão do SUS",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, arts. 14-A e 14-B (incluídos pela Lei 12.466/2011); Lei 8.142/1990, art. 1º",
+  "coment": "O Conass representa os Estados e o Distrito Federal, e o Conasems os Municípios, nas comissões intergestores (Lei 8.080/1990, art. 14-B). A CIT é foro de negociação e pactuação entre gestores das três esferas, e a CIB reúne só Estado e Municípios, sem a União (art. 14-A). Formular, normatizar e coordenar o SUS em âmbito nacional é papel do Ministério da Saúde. A instância que se reúne a cada quatro anos é a Conferência de Saúde (Lei 8.142/1990, art. 1º).",
+  "porAlt": [
+   "Correta: o Conass é a entidade representativa dos Estados e do DF na CIT.",
+   "A CIT é instância de pactuação entre gestores, não espaço de reivindicação e controle social.",
+   "Formular e coordenar o SUS nacionalmente cabe ao Ministério da Saúde, não à Secretaria Estadual.",
+   "Quem se reúne a cada quatro anos é a Conferência de Saúde, não uma comissão.",
+   "A CIB é bipartite, entre Estado e Municípios; não inclui gestores federais."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta - Respiratório",
+   "n": 25,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Os Conselhos de Saúde são o principal canal de participação popular nas decisões da Administração Pública que envolvem o Sistema Único de Saúde (SUS) e, por isso, devem representar a diversidade social e cultural da sociedade. Por meio dos conselhos, a população pode colaborar de forma participativa do planejamento e da fiscalização das políticas públicas na área da saúde.\nhttps://www.saude.mg.gov.br/ (Adaptado)\nConsiderando o trecho, assinale a opção que caracteriza corretamente o Conselho de Saúde.",
+  "alts": [
+   "É um órgão colegiado e paritário do SUS, presente em cada esfera de governo, constituído em situações emergenciais.",
+   "Os conselheiros são representantes do Ministério da Saúde, do Conselho Nacional de Secretários de Saúde e do Conselho Nacional de Secretarias Municipais de Saúde.",
+   "É uma instância deliberativa que analisa e aprova o plano de saúde e analisa e aprova o relatório de gestão.",
+   "Os conselheiros são indicados pelos respectivos gestores executivos da Saúde dos municípios, dos estados e do governo federal.",
+   "É uma instância submetida às secretarias de saúde dos municípios, dos estados e do governo federal."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.142/1990, art. 1º, § 2º; Resolução CNS 453/2012",
+  "coment": "Pela Lei 8.142/1990, o Conselho de Saúde tem caráter permanente e deliberativo, é colegiado e composto por governo, prestadores, profissionais e usuários, e atua na formulação de estratégias e no controle da execução da política, inclusive nos aspectos econômicos e financeiros. Cabe a ele analisar e aprovar o plano de saúde e o relatório de gestão. A Resolução CNS 453/2012 garante paridade dos usuários e escolha dos conselheiros pelas próprias entidades, sem indicação do gestor e sem subordinação às secretarias.",
+  "porAlt": [
+   "O conselho é permanente, não constituído apenas em situações emergenciais.",
+   "Essa composição descreve a Comissão Intergestores Tripartite, não o Conselho de Saúde.",
+   "Correta: o conselho delibera sobre o plano de saúde e aprova o relatório de gestão.",
+   "Os conselheiros são escolhidos por suas entidades e segmentos, não indicados pelo gestor.",
+   "O conselho é instância autônoma de controle social, não subordinada às secretarias."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta - Respiratório",
+   "n": 26,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "As afirmativas a seguir indicam corretamente políticas que enfatizam a promoção da equidade em saúde no âmbito do Sistema Único de Saúde, à exceção de uma. Assinale-a.",
+  "alts": [
+   "Programa Nacional de Imunizações.",
+   "Política Nacional de Saúde Integral da População Negra.",
+   "Ações e Diretrizes em Saúde para a População em Situação de Rua.",
+   "Política Nacional de Saúde Integral das Populações do Campo e da Floresta.",
+   "Política Nacional de Saúde Integral de Lésbicas, Gays, Bissexuais, Travestis e Transexuais."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portarias GM/MS 992/2009 (População Negra), 2.836/2011 (LGBT) e 2.866/2011 (Campo e Floresta); Lei 6.259/1975 (PNI)",
+  "coment": "As políticas de promoção da equidade dirigem ações a grupos expostos a desigualdades e discriminação: a Política Nacional de Saúde Integral da População Negra (Portaria 992/2009), a de LGBT (Portaria 2.836/2011), a das Populações do Campo e da Floresta (Portaria 2.866/2011) e as ações para a População em Situação de Rua. O Programa Nacional de Imunizações, criado pela Lei 6.259/1975, é política universal de vigilância e vacinação, sem recorte de equidade.",
+  "porAlt": [
+   "Correta: o PNI é programa universal de vacinação, não política de promoção da equidade.",
+   "A política da população negra é marco das políticas de equidade do SUS.",
+   "As ações para a população em situação de rua integram as estratégias de equidade.",
+   "A política das populações do campo e da floresta é política de equidade.",
+   "A política de saúde integral LGBT é política de promoção da equidade."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta - Respiratório",
+   "n": 27,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Política Nacional de Humanização (PNH) está pautada em uma série de diretrizes que expressam métodos adotados para promover a inclusão em saúde. Sobre uma dessas diretrizes, leia a descrição a seguir.\nProcesso constitutivo das práticas de produção e promoção de saúde que implica responsabilização do trabalhador/equipe pelo usuário, desde a sua chegada até a sua saída. Ouvindo sua queixa, considerando suas preocupações e angústias, fazendo uso de uma escuta qualificada que possibilite analisar a demanda e garantir atenção integral, resolutiva e responsável.\nhttps://www.gov.br/saude/pt-br (Adaptado)\nAssinale a opção que indica a diretriz da PNH descrita no trecho acima.",
+  "alts": [
+   "Vínculo.",
+   "Co-gestão.",
+   "Participação.",
+   "Acolhimento.",
+   "Atendimento."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Ministério da Saúde. Política Nacional de Humanização (HumanizaSUS), 2003; cartilha PNH, 2013",
+  "coment": "O trecho define o acolhimento, diretriz da PNH: responsabilização da equipe pelo usuário da chegada à saída, com escuta qualificada da queixa, das preocupações e angústias, para avaliar a demanda e garantir atenção integral, resolutiva e responsável. As outras diretrizes da PNH são gestão participativa e cogestão, ambiência, clínica ampliada e compartilhada, valorização do trabalhador e defesa dos direitos dos usuários. Vínculo é efeito esperado do acolhimento, e atendimento não é diretriz da política.",
+  "porAlt": [
+   "O vínculo resulta de uma relação contínua de confiança, mas não é a diretriz descrita.",
+   "Cogestão trata da inclusão de trabalhadores e usuários na gestão, não da escuta do usuário.",
+   "Participação não é o nome da diretriz que define escuta qualificada e responsabilização.",
+   "Correta: escuta qualificada e responsabilização da chegada à saída definem o acolhimento.",
+   "Atendimento não é diretriz da PNH; o conceito descrito é o acolhimento."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta - Respiratório",
+   "n": 28,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Considerando os requisitos de boas práticas de funcionamento para os serviços de saúde, detalhados na Resolução de Diretoria Colegiada RDC 63/2011, assinale a opção que indica o(s) serviço(s) de saúde que, segundo o seu tipo de atividade, documentação e registro, deve(m) se manter disponível(eis).",
+  "alts": [
+   "O projeto básico de arquitetura, com aprovação pelo Corpo de Bombeiros da Polícia Militar.",
+   "O controle de saúde ocupacional e o controle de qualidade da água.",
+   "Os contratos de serviços terceirizados e a certificação de qualidade em transparência pública.",
+   "A manutenção dos equipamentos e das condições adequadas para a comercialização de produtos químicos.",
+   "O gerenciamento de resíduos de serviços de saúde e o relatório de impacto ambiental."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Vigilância sanitária e ambiental",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "RDC ANVISA 63/2011 (Boas Práticas de Funcionamento dos Serviços de Saúde), dispositivo sobre documentação e registro",
+  "coment": "A RDC 63/2011 manda o serviço de saúde manter disponíveis, segundo o tipo de atividade, documentação e registro do projeto básico de arquitetura aprovado pela vigilância sanitária, do controle de saúde ocupacional, da educação permanente, do gerenciamento de resíduos, das normas e rotinas, da manutenção da edificação e dos equipamentos, do controle de qualidade da água, do controle de vetores e pragas e dos contratos terceirizados. Só a alternativa B reúne dois itens dessa lista sem acréscimo estranho à norma.",
+  "porAlt": [
+   "O projeto básico de arquitetura deve ser aprovado pela vigilância sanitária, não pelo Corpo de Bombeiros.",
+   "Correta: controle de saúde ocupacional e controle de qualidade da água estão na lista da RDC 63/2011.",
+   "Certificação de qualidade em transparência pública não é registro exigido pela norma.",
+   "Comercialização de produtos químicos não faz parte do registro exigido do serviço de saúde.",
+   "O gerenciamento de resíduos consta, mas relatório de impacto ambiental não é exigência da RDC 63."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta - Respiratório",
+   "n": 29,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A avaliação funcional dos músculos respiratórios pode ser representada pela medida das pressões respiratórias geradas durante o esforço máximo da inspiração (Pimax) e expiração (PEmax) contra a via aérea ocluída.\nA medida da PEmax é importante para o diagnóstico de distúrbios neuromusculares porque",
+  "alts": [
+   "possibilita a avalição da tosse eficaz.",
+   "sua redução pode diminuir o volume residual.",
+   "avalia a força diafragmática.",
+   "representa aumento da complacência das vias aéreas.",
+   "avalia os volumes e capacidades pulmonares."
+  ],
+  "gab": 0,
+  "tema": "respiratoria",
+  "sub": "Fisiologia e mecânica respiratória",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "ATS/ERS Statement on respiratory muscle testing. Am J Respir Crit Care Med 2002;166(4):518-624",
+  "coment": "A PEmax mede a força dos músculos expiratórios, abdominais e intercostais internos, que geram a pressão e o fluxo da fase expulsiva da tosse. Nas doenças neuromusculares, PEmax baixa indica tosse ineficaz e risco de retenção de secreções e infecções. A força do diafragma é avaliada pela PImax. Fraqueza expiratória tende a aumentar o volume residual, e volumes e capacidades se medem por espirometria ou pletismografia.",
+  "porAlt": [
+   "Correta: a PEmax reflete a força expiratória que sustenta uma tosse eficaz.",
+   "Fraqueza expiratória aumenta o volume residual, em vez de reduzi-lo.",
+   "A força do diafragma e dos inspiratórios é medida pela PImax.",
+   "A PEmax mede força muscular, não complacência das vias aéreas.",
+   "Volumes e capacidades se medem por espirometria ou pletismografia, não por pressões máximas."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta - Respiratório",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A técnica de expiração forçada (TEF) pode ser realizada em crianças com o auxílio de um pequeno tubo na boca (pode ser o tubo utilizado na medida do Peak Flow), porque facilita a manutenção da boca e da glote abertas.\nAcerca do uso da TEF em relação à tosse, assinale a afirmativa correta.",
+  "alts": [
+   "Exige mais esforço.",
+   "É tão efetiva quanto a tosse.",
+   "Aumenta a pressão transpulmonar.",
+   "É mais exaustiva.",
+   "Não utiliza os músculos abdominais."
+  ],
+  "gab": 1,
+  "tema": "respiratoria",
+  "sub": "Higiene brônquica e reexpansão pulmonar",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Pryor JA, Prasad SA. Physiotherapy for Respiratory and Cardiac Problems, 4ª ed., 2008",
+  "coment": "A técnica de expiração forçada combina uma ou duas expirações forçadas com a glote aberta (huff), de volumes médios a baixos, e pausas de respiração controlada. O ponto de igual pressão se desloca e mobiliza a secreção com menor compressão das vias aéreas que a tosse. Por isso a TEF é tão efetiva quanto a tosse para remover secreção, com menos esforço, menos fadiga e menor risco de broncoespasmo e colapso. Ela usa a musculatura abdominal e gera pressões pleurais menores que a tosse.",
+  "porAlt": [
+   "A TEF exige menos esforço que a tosse, não mais.",
+   "Correta: a TEF remove secreção com eficácia semelhante à da tosse e com menor esforço.",
+   "A TEF gera pressões menores que a tosse, sem o aumento descrito.",
+   "A técnica é menos exaustiva que tossir repetidamente.",
+   "A expiração forçada da TEF usa a contração da musculatura abdominal."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta - Respiratório",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Existem numerosos dispositivos de fisioterapia respiratória que auxiliam na desobstrução das vias aéreas.\nA utilização da pressão positiva expiratória ou EPAP auxilia na remoção de secreção por meio de",
+  "alts": [
+   "compressão dinâmica das vias aéreas.",
+   "diminuição do volume pulmonar.",
+   "aumento da resistência do sistema respiratório.",
+   "aumento da capacidade residual funcional.",
+   "redução da complacência pulmonar."
+  ],
+  "gab": 3,
+  "tema": "respiratoria",
+  "sub": "Higiene brônquica e reexpansão pulmonar",
+  "cenario": "enf",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Pryor JA, Prasad SA. Physiotherapy for Respiratory and Cardiac Problems, 4ª ed., 2008",
+  "coment": "A pressão positiva expiratória mantém as vias aéreas abertas durante a expiração e aumenta a capacidade residual funcional. Com isso favorece a ventilação colateral e a chegada de ar atrás das secreções, que são deslocadas para as vias mais centrais. Também reduz o colapso dinâmico das vias aéreas instáveis. O efeito decorre do aumento do volume pulmonar, e não de redução de volume, de queda da complacência ou de aumento da resistência do sistema.",
+  "porAlt": [
+   "A PEP evita a compressão dinâmica das vias aéreas, não depende dela.",
+   "A PEP aumenta o volume pulmonar expiratório, não o diminui.",
+   "A resistência no bocal é só o meio de gerar pressão; o mecanismo é o aumento de volume.",
+   "Correta: o aumento da capacidade residual funcional leva ar para trás das secreções.",
+   "A PEP não atua reduzindo a complacência pulmonar."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta - Respiratório",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na avaliação fisioterapêutica de adultos e crianças que necessitam de cuidados respiratórios, a ausculta pulmonar é um procedimento indispensável.\nEm uma ausculta pulmonar, a presença de roncos reflete",
+  "alts": [
+   "o estreitamento de vias aéreas superiores.",
+   "a redução da resistência respiratória.",
+   "o deslocamento das paredes dos alvéolos.",
+   "secreções presentes em bronquíolos respiratórios.",
+   "secreções presentes em brônquios de grosso calibre."
+  ],
+  "gab": 4,
+  "tema": "avaliacao",
+  "sub": "Anamnese e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Bohadana A, Izbicki G, Kraman SS. Fundamentals of lung auscultation. N Engl J Med 2014;370(8):744-751",
+  "coment": "Roncos são ruídos contínuos de baixa frequência produzidos pela passagem do ar por secreções em brônquios de grosso calibre e costumam mudar ou sumir após a tosse. Sibilos, agudos, indicam estreitamento de vias aéreas menores, e o estridor indica obstrução de via aérea superior. Estertores finos, descontínuos, vêm da abertura de pequenas vias aéreas e alvéolos e aparecem em bronquíolos e regiões distais.",
+  "porAlt": [
+   "O estreitamento da via aérea superior produz estridor, não roncos.",
+   "Roncos indicam aumento, não redução, da resistência por secreção.",
+   "A abertura de pequenas vias e alvéolos gera estertores finos, não roncos.",
+   "Secreção em vias distais produz estertores, não roncos de baixa frequência.",
+   "Correta: roncos refletem secreção em brônquios de grosso calibre."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta - Respiratório",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A oximetria de pulso é um método não invasivo, amplamente utilizado em crianças e adultos, para monitorar o percentual de saturação arterial da hemoglobina pelo oxigênio.\nEm relação à oximetria, assinale a afirmativa correta.",
+  "alts": [
+   "Reflete a oxigenação dos tecidos.",
+   "Mostra que a correlação entre PaO2 e SatO2 é constante.",
+   "Não tem correlação com a curva de dissociação do oxigênio.",
+   "Reflete trocas na ventilação.",
+   "Pode ser alterada por redução da perfusão periférica."
+  ],
+  "gab": 4,
+  "tema": "respiratoria",
+  "sub": "Oxigenoterapia",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "O'Driscoll BR et al. BTS guideline for oxygen use in adults in healthcare and emergency settings. Thorax 2017;72(Suppl 1):ii1-ii90",
+  "coment": "O oxímetro estima a saturação arterial da hemoglobina pela absorção de luz no sangue pulsátil. Baixa perfusão periférica (choque, frio, vasoconstrição), movimento, esmalte e dis-hemoglobinas alteram ou impedem a leitura. A SpO2 não informa a oxigenação tecidual nem a ventilação: pode estar normal com hipercapnia, sobretudo com oxigênio suplementar. A relação com a PaO2 segue a curva de dissociação, sigmoide e deslocável por pH, temperatura e PaCO2, não uma correlação constante.",
+  "porAlt": [
+   "A SpO2 mede saturação arterial, não a oferta e o uso de oxigênio pelos tecidos.",
+   "A relação entre PaO2 e saturação segue uma curva sigmoide, não é constante.",
+   "A saturação obedece à curva de dissociação da hemoglobina.",
+   "A oximetria não avalia ventilação; hipercapnia pode coexistir com SpO2 normal.",
+   "Correta: a redução da perfusão periférica prejudica ou falseia a leitura."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta - Respiratório",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na espirometria, quanto aos volumes e à capacidade de um paciente com padrão restritivo, verifica-se que",
+  "alts": [
+   "a relação percentual do VEF1/CVF está aumentada.",
+   "a relação percentual do VEF1/CVF está reduzida.",
+   "a capacidade vital forçada está aumentada.",
+   "a capacidade vital forçada está normal.",
+   "o tempo expiratório não se modificou."
+  ],
+  "gab": 0,
+  "tema": "respiratoria",
+  "sub": "Espirometria e função pulmonar",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Stanojevic S et al. ERS/ATS technical standard on interpretive strategies for routine lung function tests. Eur Respir J 2022;60(1):2101499",
+  "coment": "No padrão restritivo, CVF e VEF1 caem de modo proporcional, ou a CVF cai mais, e a relação VEF1/CVF fica normal ou aumentada. Pela maior retração elástica, o tempo expiratório costuma ser curto. A espirometria só sugere restrição: a confirmação exige capacidade pulmonar total reduzida, medida por pletismografia ou diluição de gases (ERS/ATS 2022). Relação reduzida define obstrução.",
+  "porAlt": [
+   "Correta: com CVF reduzida e fluxos preservados, a relação VEF1/CVF fica normal ou aumentada.",
+   "A relação VEF1/CVF reduzida define o distúrbio obstrutivo.",
+   "Na restrição a capacidade vital forçada está reduzida, não aumentada.",
+   "A CVF normal não é compatível com o padrão restritivo espirométrico.",
+   "Na restrição o tempo expiratório tende a ser curto pela maior retração elástica."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta - Respiratório",
+   "n": 36,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Um paciente jovem, respirando em ar ambiente, apresenta uma gasometria arterial com os seguintes resultados: PaO2: 55mmHg; pH: 7,30; PaCO2: 60mmHg; e HCO3: 24mEq/L.\nAssinale a opção que indica o diagnóstico ácido-base e o estado da hipoxemia arterial desse paciente.",
+  "alts": [
+   "Acidose respiratória e hipoxemia arterial.",
+   "Acidose metabólica e hipoxemia.",
+   "Alcalose respiratória e oxigenação arterial normal.",
+   "Alcalose respiratória e oxigenação hipoxêmica.",
+   "pH normal e hipoxemia arterial."
+  ],
+  "gab": 0,
+  "tema": "respiratoria",
+  "sub": "Gasometria arterial",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "West JB, Luks AM. West's Respiratory Physiology: The Essentials, 10ª ed., 2016",
+  "coment": "pH 7,30 indica acidemia, e PaCO2 de 60 mmHg mostra que a causa é respiratória. Com HCO3 de 24 mEq/L ainda não houve compensação renal: na acidose respiratória aguda o bicarbonato sobe cerca de 1 mEq/L para cada 10 mmHg de PaCO2, o que daria uns 26 mEq/L. PaO2 de 55 mmHg em ar ambiente é hipoxemia. O gradiente alvéolo-arterial estimado fica perto de 20 mmHg, o que mostra que a hipoventilação explica a maior parte da hipoxemia.",
+  "porAlt": [
+   "Correta: pH baixo com PaCO2 alta e HCO3 normal define acidose respiratória, com PaO2 de 55 mmHg.",
+   "Na acidose metabólica o HCO3 estaria baixo; aqui ele é normal e a PaCO2 está alta.",
+   "O pH 7,30 é acidemia e a PaO2 de 55 mmHg indica hipoxemia.",
+   "Com pH 7,30 e PaCO2 de 60 mmHg não há alcalose respiratória.",
+   "O pH 7,30 está abaixo da faixa normal de 7,35 a 7,45."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta - Respiratório",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Assinale a opção que indica os procedimentos usados habitualmente para o tratamento da Síndrome da Aspiração de Mecônio.",
+  "alts": [
+   "Posição prona, recrutamento alveolar e PEEP alta.",
+   "Intubação e ventilação mecânica, surfactante e antibióticos.",
+   "BiPAP, oxigenoterapia de alto fluxo e corticoides.",
+   "Antibióticos, anti-inflamatórios e anti-hipertensivos.",
+   "Antivirais, broncoscopia e tosse mecanicamente assistida."
+  ],
+  "gab": 1,
+  "tema": "pediatria",
+  "sub": "UTI neonatal e prematuridade",
+  "cenario": "uti",
+  "comp": "cond",
+  "nivel": "r2",
+  "base": "Sociedade Brasileira de Pediatria. Reanimação do recém-nascido ≥34 semanas em sala de parto: diretrizes 2022",
+  "coment": "Na síndrome de aspiração de mecônio grave, o tratamento habitual inclui intubação e ventilação mecânica para a insuficiência respiratória, surfactante (o mecônio inativa o surfactante endógeno) e antibióticos, porque não se exclui de início infecção associada. Atualização: na sala de parto, a SBP 2022 não recomenda mais intubar de rotina o recém-nascido não vigoroso só para aspirar mecônio da traqueia; a prioridade é iniciar a ventilação com pressão positiva. PEEP alta e recrutamento aumentam o risco de escape de ar no pulmão com aprisionamento.",
+  "porAlt": [
+   "PEEP alta e recrutamento aumentam o risco de pneumotórax no pulmão com aprisionamento aéreo.",
+   "Correta: ventilação mecânica, surfactante e antibióticos são o tratamento habitual da forma grave.",
+   "Alto fluxo e corticoide não são o tratamento padrão da aspiração de mecônio grave.",
+   "Anti-inflamatórios e anti-hipertensivos sistêmicos não compõem o tratamento habitual.",
+   "Antivirais, broncoscopia e tosse assistida mecanicamente não se aplicam ao quadro."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta - Respiratório",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Quanto ao teste de respiração espontânea, realizado no processo de desmame de pacientes adultos, é correto afirmar que",
+  "alts": [
+   "o teste tem duração de 180 minutos.",
+   "pode ser realizado em peça “T”, ventilação com pressão de suporte ou em modo assisto-controlado disparado pelo paciente.",
+   "a frequência respiratória maior do que 35 rpm é indicativa de falha no teste.",
+   "pode ser realizado em pacientes com escore 7 na Escala de Coma de Glasgow.",
+   "se o paciente falhar no teste, nova tentativa deve ser realizada em 48h."
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Desmame e extubação",
+  "cenario": "uti",
+  "comp": "cond",
+  "nivel": "r1",
+  "base": "Recomendações Brasileiras de Ventilação Mecânica 2013 (AMIB/SBPT), J Bras Pneumol 2014;40(5):458-486",
+  "coment": "O teste de respiração espontânea dura de 30 a 120 minutos, em tubo T ou com pressão de suporte de 5 a 7 cmH2O, e não em modo assistido-controlado. Frequência respiratória acima de 35 ipm é critério de falha, ao lado de SpO2 abaixo de 90%, taquicardia, alterações importantes da pressão arterial, agitação e sudorese. O paciente precisa de nível de consciência adequado para proteger a via aérea, e Glasgow 7 indica coma. Após falha, nova tentativa em 24 horas, corrigidas as causas (Recomendações Brasileiras 2013).",
+  "porAlt": [
+   "O teste dura de 30 a 120 minutos; 180 minutos excede o tempo recomendado.",
+   "Modo assistido-controlado não é teste de respiração espontânea.",
+   "Correta: frequência respiratória acima de 35 ipm é critério de falha do teste.",
+   "Glasgow 7 indica rebaixamento importante e impede a proteção da via aérea.",
+   "Após falha, a nova tentativa é feita em 24 horas, não em 48 horas."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta - Respiratório",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação aos diferentes modos ventilatórios utilizados em pacientes adultos, assinale a afirmativa correta.",
+  "alts": [
+   "Os modos mandatórios são sempre disparados a tempo, diferente dos modos espontâneos, que são sempre disparados à pressão ou ao fluxo.",
+   "Na ventilação mandatória intermitente sincronizada quanto maior a frequência respiratória programada no ventilador, mais tempo o paciente terá para realizar os ciclos espontâneos.",
+   "Considerando o volume corrente inalterado no modo mandatório controlado a volume, quanto maior o fluxo inspiratório maior será o tempo inspiratório.",
+   "Caso o paciente apresente redução da complacência pulmonar, enquanto está sob ventilação mecânica em modo limitado à pressão e ciclado a tempo, haverá redução do volume corrente.",
+   "Um objetivo na ventilação assisto-controlada é que alguns ciclos sejam disparados pelo paciente e outros pelo ventilador, de acordo com a frequência respiratória programada no equipamento."
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Modos ventilatórios",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Recomendações Brasileiras de Ventilação Mecânica 2013 (AMIB/SBPT), J Bras Pneumol 2014;40(4):327-363",
+  "coment": "No modo limitado à pressão e ciclado a tempo (PCV), o volume corrente depende da pressão ajustada, do tempo inspiratório e da mecânica respiratória. Se a complacência cai, a mesma pressão gera menor volume corrente, o que exige monitorar o volume nesse modo. Ciclos mandatórios podem ser disparados pelo paciente; no SIMV, frequência maior deixa menos espaço para ciclos espontâneos; no VCV, fluxo maior encurta o tempo inspiratório.",
+  "porAlt": [
+   "Ciclos mandatórios podem ser disparados pelo paciente (assistidos), não sempre a tempo.",
+   "No SIMV, frequência programada maior reduz o espaço para ciclos espontâneos.",
+   "Com volume fixo, fluxo inspiratório maior encurta o tempo inspiratório.",
+   "Correta: em PCV, a queda da complacência reduz o volume corrente gerado pela mesma pressão.",
+   "No assistido-controlado o disparo pode ser do paciente ou do tempo, sem esse objetivo de alternância."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta - Respiratório",
+   "n": 41,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Apesar de não existir consenso sobre o tempo em que cada criança deva ser estimulada, são descritos comportamentos de retraimento e aproximação que auxiliam na abordagem de recém-nascidos.\nAssinale a opção que apresenta comportamentos de aproximação.",
+  "alts": [
+   "A sucção, os pés próximos e o bocejo.",
+   "A fixação visual em objeto, o reflexo de preensão e o franzimento da testa.",
+   "A extensão dos braços, a emissão de sons agradáveis e a mão na região da face ou boca.",
+   "O arqueamento do corpo, o bocejo e a sucção.",
+   "A mão na região da face ou boca, os pés próximos e o reflexo de preensão."
+  ],
+  "gab": 4,
+  "tema": "pediatria",
+  "sub": "UTI neonatal e prematuridade",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Als H. Toward a synactive theory of development. Infant Ment Health J 1982;3(4):229-243; Ministério da Saúde. Método Canguru: manual técnico, 3ª ed., 2017",
+  "coment": "Pela teoria síncrono-ativa de Als, o recém-nascido mostra sinais de autorregulação (aproximação) e de estresse (retraimento). São sinais de aproximação: mão na face ou na boca, sucção, preensão, pés juntos ou apoiados, postura em flexão e olhar atento. São sinais de retraimento: bocejo, espirro, soluço, arqueamento do tronco, extensão dos membros, abertura dos dedos, caretas e franzir a testa. Reconhecê-los orienta quando estimular e quando pausar o manuseio na UTI neonatal.",
+  "porAlt": [
+   "O bocejo é sinal de estresse e retraimento, não de aproximação.",
+   "Franzir a testa é sinal de estresse do recém-nascido.",
+   "A extensão dos braços é sinal de retraimento por desorganização motora.",
+   "Arqueamento do corpo e bocejo são sinais de estresse.",
+   "Correta: mão na face ou boca, pés juntos e preensão são sinais de autorregulação e aproximação."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta - Respiratório",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Acerca da oxigenoterapia, assinale a afirmativa correta.",
+  "alts": [
+   "Nos sistemas de oferta de oxigênio suplementar não há necessidade de umidificação, se o fluxo for inferior a 10Lpm.",
+   "Em recém nascidos pré-termo, a hipercapnia está associada à retinopatia da prematuridade.",
+   "Os valores de PaO2 acima do normal podem promover o aumento das espécies reativas de oxigênio, resultando em fibrose intersticial e remodelamento vascular pulmonar.",
+   "As máscaras com reservatório são consideradas como sistema de alto fluxo, por possibilitarem a oferta de maiores concentrações de oxigênio.",
+   "Uma PaO2 dentro dos valores de normalidade exclui o risco de hipóxia tecidual."
+  ],
+  "gab": 2,
+  "tema": "respiratoria",
+  "sub": "Oxigenoterapia",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "O'Driscoll BR et al. BTS guideline for oxygen use in adults in healthcare and emergency settings. Thorax 2017;72(Suppl 1):ii1-ii90",
+  "coment": "PaO2 acima do normal aumenta as espécies reativas de oxigênio, que lesam o epitélio alveolar e o endotélio e podem levar a fibrose intersticial e remodelamento vascular; por isso se oferta o mínimo necessário para o alvo de saturação (BTS 2017). Na retinopatia da prematuridade o fator é a hiperóxia, não a hipercapnia. Máscara com reservatório é sistema de baixo fluxo de alta concentração. PaO2 normal não exclui hipóxia tecidual, como na anemia ou no choque. Sobre umidificação, a BTS dispensa no baixo fluxo, mas nenhuma diretriz fixa o corte de 10 L/min.",
+  "porAlt": [
+   "Não há corte de 10 L/min em diretriz; a indicação de umidificar depende do sistema e do tempo de uso.",
+   "A retinopatia da prematuridade se associa à hiperóxia, não à hipercapnia.",
+   "Correta: a hiperóxia gera espécies reativas de oxigênio e pode causar lesão e fibrose pulmonar.",
+   "A máscara com reservatório é sistema de baixo fluxo, apesar da alta FiO2.",
+   "PaO2 normal não exclui hipóxia tecidual, como na anemia, no choque ou na intoxicação."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta - Respiratório",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O uso de Ventilação Não Invasiva é recomendado para evitar falha na extubação de pacientes adultos.\nSão condições de risco para falha na extubação:",
+  "alts": [
+   "Hipercapnia e APACHE < 10.",
+   "Idade > 65 anos e tempo de ventilação mecânica > 24h.",
+   "Pacientes obesos e insuficiência cardíaca congestiva.",
+   "Tosse ineficaz e pós-operatório de cirurgia abdominal.",
+   "Mais de uma comorbidade e Hb > 7g/dL."
+  ],
+  "gab": 2,
+  "tema": "uti",
+  "sub": "Desmame e extubação",
+  "cenario": "uti",
+  "comp": "cond",
+  "nivel": "r2",
+  "base": "Recomendações Brasileiras de Ventilação Mecânica 2013 (AMIB/SBPT), J Bras Pneumol 2014;40(5):458-486; Rochwerg B et al. ERS/ATS guidelines on NIV. Eur Respir J 2017;50(2):1602426",
+  "coment": "As Recomendações Brasileiras de VM 2013 e a diretriz ERS/ATS de 2017 indicam VNI preventiva logo após a extubação no paciente de alto risco. Esse grupo inclui hipercápnicos, cardiopatas com insuficiência cardíaca, idosos acima de 65 anos, pacientes com tosse ineficaz ou secreção abundante, mais de uma comorbidade e falhas prévias no teste de respiração espontânea; a obesidade também aparece como fator de risco. Em C os dois elementos são de risco. Nas demais, um dos elementos está errado.",
+  "porAlt": [
+   "A hipercapnia é fator de risco, mas APACHE baixo não; o risco se associa a escore alto.",
+   "Idade acima de 65 anos é fator de risco, mas 24 horas de VM não definem alto risco.",
+   "Correta: obesidade e insuficiência cardíaca congestiva são condições de risco para falha.",
+   "Tosse ineficaz é fator de risco, mas a cirurgia abdominal isolada não está entre os critérios.",
+   "Mais de uma comorbidade é fator de risco, mas Hb acima de 7 g/dL é valor aceitável."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta - Respiratório",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A aspiração endotraqueal é um procedimento realizado com o intuito de remover as secreções que se acumulam nas vias aéreas de pacientes sob ventilação mecânica.\nAssinale a opção que apresenta uma característica do sistema fechado de aspiração.",
+  "alts": [
+   "Maior despressurização do sistema durante o procedimento, em comparação com a aspiração aberta.",
+   "Redução do espaço morto.",
+   "Maior pressão negativa de sucção, durante o procedimento.",
+   "É indicada para pacientes que necessitam de PEEP alta.",
+   "Maior risco de barotrauma."
+  ],
+  "gab": 3,
+  "tema": "uti",
+  "sub": "Via aérea artificial e traqueostomia",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "AARC Clinical Practice Guidelines. Endotracheal suctioning of mechanically ventilated patients with artificial airways 2010. Respir Care 2010;55(6):758-764",
+  "coment": "O sistema fechado aspira sem desconectar o paciente do ventilador, o que preserva a PEEP e a oxigenação e reduz o desrecrutamento alveolar. Por isso a AARC (2010) o indica para pacientes com PEEP e FiO2 altas, como na SDRA, e também para reduzir a exposição da equipe. Ele causa menos despressurização que a aspiração aberta, usa a mesma faixa de pressão de sucção, não reduz o espaço morto e não aumenta o risco de barotrauma.",
+  "porAlt": [
+   "O sistema fechado causa menos despressurização que o aberto, não mais.",
+   "O sistema fechado não tem efeito de redução do espaço morto.",
+   "A pressão de sucção recomendada é a mesma nos dois sistemas.",
+   "Correta: sem desconexão, o sistema fechado preserva a PEEP e é indicado com PEEP alta.",
+   "O sistema fechado não aumenta o risco de barotrauma."
+  ],
+  "fonte": {
+   "banca": "FGV",
+   "ano": 2023,
+   "prova": "FHEMIG 2023 Fisioterapeuta - Respiratório",
+   "n": 45,
+   "parte": "especificas"
+  }
+ }
+]

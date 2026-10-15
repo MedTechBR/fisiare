@@ -1,0 +1,1282 @@
+[
+ {
+  "q": "O controle social democrático das políticas de saúde no Brasil se dá, sobretudo, no âmbito dos Conselhos de Saúde e das Conferências de Saúde.\nAssinale a opção correta no que diz respeito às características e atribuições desses espaços.",
+  "alts": [
+   "Os Conselhos de Saúde são organizados de maneira centralizada, respondendo diretamente às determinações do governo via Conselho Nacional de Saúde.",
+   "As Conferências de Saúde ocorrem com regularidade anual no nível nacional, abordando temas determinados em cada evento do ano anterior.",
+   "Os Conselhos de Saúde são órgãos colegiados e permanentes, responsáveis diretamente pela execução dos serviços de saúde no território nacional.",
+   "As Conferências de Saúde municipais e estaduais ocorrem como etapas prévias da Conferência Nacional, aprovando propostas a serem discutidas nesta.",
+   "Os Conselhos de Saúde estão distribuídos nos níveis federal, estadual e municipal, funcionando de maneira subordinada ao executivo de cada unidade administrativa."
+  ],
+  "gab": 3,
+  "tema": "sus",
+  "sub": "Lei 8.142/1990 e controle social",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Lei 8.142/1990, art. 1º, §§ 1º e 2º",
+  "coment": "A Lei 8.142/1990 cria duas instâncias colegiadas em cada esfera de governo. A Conferência de Saúde reúne-se a cada quatro anos para avaliar a situação de saúde e propor diretrizes; na prática, as etapas municipais e estaduais antecedem a nacional e aprovam propostas e delegados que serão levados a ela. O Conselho de Saúde tem caráter permanente e deliberativo, atua na formulação de estratégias e no controle da execução da política, inclusive nos aspectos econômicos e financeiros. Ele não executa serviços e não é subordinado ao governo, embora suas decisões sejam homologadas pelo chefe do Poder Executivo.",
+  "porAlt": [
+   "Errada: os conselhos existem em cada esfera de governo, de forma descentralizada, e não respondem a determinações do Conselho Nacional.",
+   "Errada: a Conferência de Saúde reúne-se a cada quatro anos, e não anualmente (Lei 8.142/1990, art. 1º, § 1º).",
+   "Errada: o conselho é colegiado e permanente, mas formula estratégias e controla a execução; não executa os serviços.",
+   "Correta: as conferências municipais e estaduais funcionam como etapas preparatórias e aprovam propostas que seguem para a Conferência Nacional.",
+   "Errada: os conselhos existem nas três esferas, mas têm caráter deliberativo e autonomia; a homologação pelo Executivo não os torna subordinados."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 16,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Com relação à construção histórica do Sistema Único de Saúde (SUS), avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) O SUS foi criado inicialmente durante o Governo Vargas, voltado, a princípio, apenas para o atendimento aos trabalhadores da economia formal e suas famílias.\n( ) A Constituição Federal de 1988 introduziu o fundamento da universalização do SUS e estabeleceu a integração dos serviços públicos de saúde em uma rede regionalizada e hierarquizada.\n( ) O projeto inicial do sistema previa a sua evolução para o Sistema Unificado e Descentralizado de Saúde (SUDS), cuja execução permanece em aberto e em progresso.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "F – V – F.",
+   "F – V – V.",
+   "V – F – F.",
+   "V – V – F.",
+   "F – F – V."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Constituição Federal de 1988, arts. 196 e 198; Lei 8.080/1990",
+  "coment": "O primeiro item é falso: na Era Vargas surgiram os Institutos de Aposentadorias e Pensões, que davam assistência só aos trabalhadores formais contribuintes; o SUS nasce com a Constituição de 1988 e é regulamentado pela Lei 8.080/1990. O segundo é verdadeiro: o art. 196 define a saúde como direito de todos e dever do Estado, com acesso universal e igualitário, e o art. 198 integra as ações e serviços públicos numa rede regionalizada e hierarquizada. O terceiro é falso: o SUDS, de 1987, foi uma etapa anterior ao SUS e não o seu destino. Sequência F, V, F.",
+  "porAlt": [
+   "Correta: só o item sobre a Constituição de 1988 é verdadeiro; o SUS não vem de Vargas e o SUDS o precedeu.",
+   "Errada: o terceiro item é falso, porque o SUDS (1987) foi transição para o SUS, e não sua evolução futura.",
+   "Errada: o primeiro item é falso, pois a era Vargas criou a previdência dos IAPs, não o SUS, e o segundo é verdadeiro.",
+   "Errada: o primeiro item é falso; a assistência restrita a trabalhadores formais era o modelo previdenciário, não o SUS.",
+   "Errada: o segundo item é verdadeiro (CF, arts. 196 e 198) e o terceiro é falso."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 17,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Leia o trecho a seguir a respeito da insurgência ocorrida no início do século XX durante a campanha de vacinação contra a varíola.\nA Revolta da Vacina permanece como exemplo quase único na história do país de movimento popular de êxito baseado na defesa do direito dos cidadãos de não serem arbitrariamente tratados pelo governo. Mesmo que a vitória não tenha sido traduzida em mudanças políticas imediatas além da interrupção da vacinação, ela certamente deixou entre os que dela participaram um sentimento profundo de orgulho e de autoestima, passo importante na formação da cidadania.\nCARVALHO, José Murilo de. Os bestializados. São Paulo: Companhia das Letras, 2019.\nSegundo o autor, essa situação é exemplar da tensão entre",
+  "alts": [
+   "ciência médica e ignorância popular diante das políticas de saúde.",
+   "práticas higienistas e liberdade individual na saúde pública.",
+   "passividade das camadas populares e medidas coercitivas do governo.",
+   "campanhas educativas e desinformação entre a população.",
+   "resistência das elites à vacinação e rápida adesão das classes populares."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Constituição Federal e o direito à saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Texto-base: CARVALHO, J. M. Os bestializados (Companhia das Letras, 2019); Revolta da Vacina, Rio de Janeiro, 1904",
+  "coment": "Em 1904, a lei que tornou obrigatória a vacinação contra a varíola, na reforma sanitária conduzida por Oswaldo Cruz, foi executada com invasão de casas e coerção. O autor lê a revolta como defesa do direito de não ser tratado arbitrariamente pelo governo, isto é, um choque entre o higienismo autoritário do Estado e a liberdade individual. Ele não a descreve como ignorância popular nem como passividade: o texto fala em movimento popular de êxito e em formação da cidadania. A lição para a saúde pública atual é que adesão se constrói com informação e diálogo.",
+  "porAlt": [
+   "Errada: o autor valoriza a reação popular como exercício de cidadania e não a reduz a ignorância diante da ciência.",
+   "Correta: a revolta opôs as práticas higienistas impostas pelo Estado à liberdade individual dos cidadãos.",
+   "Errada: o texto descreve uma população ativa, que reagiu e venceu, e não passiva diante das medidas.",
+   "Errada: o foco do trecho é a imposição arbitrária pelo governo, e não campanhas educativas e desinformação.",
+   "Errada: a revolta foi um movimento popular contra a obrigatoriedade, e não uma resistência das elites."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 18,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Sobre os determinantes sociais da saúde, analise o texto seguir.\nPodemos afirmar que na efetivação e desenvolvimento de si os indivíduos organizam e transformam grupos humanos nos mais diversos níveis e, de um modo ou de outro, a própria humanidade. Dessa forma, para os próprios indivíduos, que são concentrações vivas e pontos de interação da rede social, a transformação da sociedade resulta em novas condições de ser, novas condições de sua existência, inclusive psicofisiológica; portanto, de sua saúde.\nBRONZO, Carla; FLEURY-TEIXEIRA, Paulo. “Determinação social da saúde pública”. In: Determinação Social da Saúde e Reforma Sanitária. Rio de Janeiro: Cebes, 2010.\nAssinale a opção que identifica corretamente a ideia central do texto.",
+  "alts": [
+   "A melhoria na saúde do indivíduo ocorre como tradução fisiológica de mudanças de postura psicológica.",
+   "O indivíduo é subordinado às características de sua realidade social, o que inclui seus modos de vida e sua saúde.",
+   "A ciência médica substitui as mudanças sociais como principal fator para o aumento da qualidade de vida da população.",
+   "O funcionamento do organismo humano molda as regras de convivência, determinando os comportamentos coletivos.",
+   "A saúde faz parte dos efeitos do engajamento humano, o qual gera transformações históricas no âmbito da vida social."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Lei 8.080/1990 e Decreto 7.508/2011",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 8.080/1990, art. 3º (determinantes e condicionantes da saúde); texto-base de Bronzo e Fleury-Teixeira (Cebes, 2010)",
+  "coment": "O trecho trata da determinação social da saúde numa via de mão dupla: ao se desenvolverem, os indivíduos transformam os grupos humanos e a sociedade, e essa transformação cria novas condições de existência, inclusive psicofisiológicas, ou seja, de saúde. A ideia central é que a saúde resulta do engajamento humano que produz mudanças históricas na vida social. A Lei 8.080/1990, art. 3º, traduz essa visão ao afirmar que os níveis de saúde expressam a organização social e econômica do País, com determinantes como alimentação, moradia, trabalho, renda e educação.",
+  "porAlt": [
+   "Errada: o texto fala de transformação social, não de mudança de postura psicológica traduzida em fisiologia.",
+   "Errada: o indivíduo não é apenas subordinado à realidade social; ele também a transforma, e é isso que o texto enfatiza.",
+   "Errada: o trecho não menciona a ciência médica e coloca as mudanças sociais no centro da saúde.",
+   "Errada: o texto inverte essa relação, pois é a vida social que gera condições de saúde, e não o organismo que dita regras sociais.",
+   "Correta: a saúde aparece como efeito do engajamento humano, que produz transformações históricas na vida social."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 19,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A respeito da possibilidade do uso da arquitetura informacional da blockchain para a gestão em saúde, leia o trecho a seguir.\nUm estudo da Escola Politécnica da USP propôs uma arquitetura para rastrear medicamentos hospitalares utilizando blockchain. Com a ferramenta, apenas transações validadas por uma rede descentralizada seriam registradas, garantindo maior dinamismo e segurança ao processo. No mecanismo de consenso, as entidades que fariam a validação teriam acesso às informações quando uma mercadoria fosse enviada de um lugar a outro. Uma validação centralizada também tem condições de realizar essa tarefa, porém é passível de influência humana, ou seja, uma informação já realizada pode ser alterada.\nCONTERNO, Ivan. Tecnologia blockchain pode reduzir risco de roubos e fraudes na área da saúde. Jornal da USP, 29/05/2023. In: https://jornal.usp.br. Adaptado.\nCom base no trecho, é correto afirmar que a principal vantagem de utilizar o sistema blockchain para a gestão em saúde consiste",
+  "alts": [
+   "na criação de um sistema mais eficiente, no qual um órgão unificado pode validar e modificar informações conforme necessário.",
+   "na eliminação da influência humana no processo de validação, garantindo que todas as transações sejam verificadas autonomamente.",
+   "na descentralização do registro de transações, que reduz o risco de alterações indevidas e aumenta a integridade das informações.",
+   "na capacidade de modificar registros antigos para corrigir eventuais erros, tornando a rastreabilidade mais flexível e adaptável às necessidades regulatórias.",
+   "na substituição dos mecanismos tradicionais de rastreabilidade, eliminando a necessidade de auditoria por órgãos reguladores."
+  ],
+  "gab": 2,
+  "tema": "coletiva",
+  "sub": "Sistemas de informação em saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Texto-base: CONTERNO, I. Jornal da USP, 29/05/2023 (rastreabilidade de medicamentos por blockchain)",
+  "coment": "Questão de interpretação. O trecho destaca que, no blockchain, só se registram transações validadas por uma rede descentralizada, enquanto uma validação centralizada fica sujeita a interferência humana e permite alterar uma informação já registrada. A vantagem central é, portanto, a descentralização do registro, que dificulta alterações indevidas e preserva a integridade dos dados de rastreio de medicamentos. O texto não afirma que a influência humana desaparece por completo nem que a auditoria se torna dispensável; as entidades validadoras continuam participando do consenso.",
+  "porAlt": [
+   "Errada: um órgão unificado que valida e modifica registros é justamente o modelo centralizado que o texto aponta como vulnerável.",
+   "Errada: o texto não fala em eliminar a influência humana; a validação continua feita por entidades da rede, de forma distribuída.",
+   "Correta: a descentralização do registro reduz o risco de alteração indevida e aumenta a integridade das informações.",
+   "Errada: a imutabilidade dos registros é a característica valorizada; poder modificar registros antigos contraria o texto.",
+   "Errada: o texto não propõe eliminar a fiscalização por órgãos reguladores, apenas tornar o rastreio mais seguro."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 20,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A respeito dos limites entre ciência ética, leia o relato a seguir.\nEm 2018, o cientista chinês He Jiankui causou controvérsia na comunidade científica quando revelou ter editado o código genético de dois embriões saudáveis com o objetivo de torná-los imunes à transmissão do HIV contraído pelos pais. O resultado foi o nascimento de duas meninas gêmeas geneticamente modificadas com a técnica de CRISPR-cas9, uma ferramenta genética que corta a sequência do DNA e o reconfigura para obter a modificação desejada. A repercussão do experimento levou à demissão e à condenação a três anos de prisão na China.\nExperimento chinês confronta limites entre ética e ciência, 2019, In: https://www.ipea.gov.br/. Adaptado.\nConsiderando os princípios da bioética, assinale a afirmativa que identifica problemas éticos suscitados pelo experimento citado.",
+  "alts": [
+   "O desrespeito às normas comerciais, pois a alteração genética das bebês pode impactar o mercado de vacinas.",
+   "A inviabilidade econômica da técnica, que exige um alto investimento sem benefícios significativos.",
+   "Os riscos imprevisíveis de alterações genéticas em seres humanos, que vão produzir óvulos e espermatozoides com essa mutação.",
+   "A falha metodológica do estudo, que não seguiu protocolos científicos rigorosos para garantir a eficácia.",
+   "O comprometimento da viabilidade das futuras gerações, pois as edições genéticas causam instabilidade no DNA."
+  ],
+  "gab": 2,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Lei 11.105/2005 (Lei de Biossegurança), art. 6º, III; Resolução CNS 466/2012",
+  "coment": "O experimento editou embriões, ou seja, células da linhagem germinativa. A alteração passa a fazer parte das células reprodutivas das meninas e pode ser transmitida aos descendentes, com efeitos imprevisíveis e sem possibilidade de consentimento das gerações futuras. Isso fere os princípios da não maleficência e da precaução. No Brasil, a Lei 11.105/2005, art. 6º, III, proíbe a engenharia genética em célula germinal, zigoto e embrião humanos, e a Resolução CNS 466/2012 exige que a pesquisa com seres humanos pondere riscos e benefícios.",
+  "porAlt": [
+   "Errada: o problema ético não é comercial; a questão envolve riscos à pessoa e à descendência, e não ao mercado de vacinas.",
+   "Errada: o custo da técnica não é o centro do debate bioético, que gira em torno de riscos e consentimento.",
+   "Correta: a edição em embriões atinge a linhagem germinativa e pode passar a mutação, com riscos imprevisíveis, às gerações seguintes.",
+   "Errada: o dilema não se resume a falha metodológica; mesmo um estudo bem desenhado violaria limites éticos da edição germinativa.",
+   "Errada: o texto não sustenta que a edição cause instabilidade do DNA; a afirmação extrapola o que se sabe sobre a técnica."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 22,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Com relação à Atenção Primária à Saúde (APS), avalie as afirmativas a seguir.\nI. A APS tem o foco na diagnose e no tratamento das enfermidades, dada a dificuldade de ações preventivas na escala de sua atuação.\nII. A APS otimiza os atendimentos com equipes capazes de abordar as situações menos graves, evitando o encaminhamento a especialistas.\nIII. A APS é o foco principal das iniciativas voltadas para a educação em saúde, dado que é a porta de entrada preferencial no sistema de saúde.\nEstá correto o que se afirma em",
+  "alts": [
+   "I, II e III.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "III, apenas."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), Anexo, arts. 2º e 3º",
+  "coment": "Pela PNAB, a Atenção Básica é a principal porta de entrada e centro de comunicação da Rede de Atenção à Saúde, com ações de promoção, prevenção, diagnóstico, tratamento e reabilitação; por isso o item I é falso. A banca considerou falso também o item II: a diretriz de resolutividade pede que a APS resolva a maioria dos problemas e coordene o cuidado nos demais pontos da rede quando necessário, e não que evite encaminhar. O item III foi aceito porque, sendo porta de entrada preferencial e próxima do território, a APS concentra as ações de educação em saúde.",
+  "porAlt": [
+   "Errada: o item I é falso, pois a APS também faz promoção e prevenção, e o II distorce a coordenação do cuidado.",
+   "Errada: inclui o item I, que nega o papel preventivo da APS, e o II, que troca coordenação por evitar encaminhamento.",
+   "Errada: o item I é falso, porque prevenção e promoção são parte central da Atenção Básica.",
+   "Errada: o item II foi considerado incorreto, pois a APS coordena o encaminhamento quando necessário em vez de evitá-lo.",
+   "Correta: só o item III foi aceito; a APS é porta de entrada preferencial e foco das ações de educação em saúde."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 23,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Política Nacional de Humanização (PNH), ou HumanizaSUS, busca qualificar a saúde pública no Brasil com um foco na organização das dinâmicas de trabalho.\nA PNH comporta as características indicadas a seguir, à exceção de uma. Assinale-a.",
+  "alts": [
+   "A valorização dos gestores de saúde como parte essencial da implementação da humanização no SUS.",
+   "A autonomia do usuário no cuidado em saúde, garantindo participação ativa no próprio tratamento.",
+   "A transferência de responsabilidade para as famílias, atribuindo-lhes papel central na condução dos cuidados.",
+   "A articulação entre formação e serviços, promovendo uma educação permanente para profissionais da saúde.",
+   "A participação de profissionais e usuários nas ações de saúde junto a gestores, criando espaços de escuta e cogestão."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Política Nacional de Humanização",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Política Nacional de Humanização (HumanizaSUS), Ministério da Saúde, 2003",
+  "coment": "A PNH, lançada em 2003, tem como princípios a transversalidade, a indissociabilidade entre atenção e gestão e o protagonismo, a corresponsabilidade e a autonomia dos sujeitos. Suas diretrizes incluem acolhimento, gestão participativa e cogestão, clínica ampliada, valorização do trabalhador e defesa dos direitos dos usuários, e ela aposta na formação e na educação permanente articuladas aos serviços. Corresponsabilidade não é transferir o cuidado para a família: o serviço continua responsável, e usuário e família participam das decisões. Por isso a alternativa C é a exceção.",
+  "porAlt": [
+   "Errada como exceção: a PNH inclui os gestores, ao lado de trabalhadores e usuários, como sujeitos da humanização.",
+   "Errada como exceção: autonomia e protagonismo do usuário são princípios da PNH.",
+   "Correta: transferir a responsabilidade do cuidado às famílias não é diretriz da PNH, que fala em corresponsabilidade com o serviço.",
+   "Errada como exceção: a PNH articula formação e serviço e apoia a educação permanente dos trabalhadores.",
+   "Errada como exceção: participação de trabalhadores e usuários com gestores, com escuta e cogestão, é diretriz central da PNH."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 24,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Estratégia de Saúde da Família (ESF) é uma orientação fundamental do oferecimento de atenção básica à população.\nAssinale a afirmativa que apresenta corretamente uma característica da ESF.",
+  "alts": [
+   "Prioriza a prevenção de enfermidades entre indivíduos saudáveis, responsáveis pela sustentação material da família.",
+   "É operacionalizada por equipes multiprofissionais que atendem um número definido de pessoas em um território.",
+   "Executa um serviço assistencial centralizado em unidades de saúde de grande porte estrategicamente posicionadas.",
+   "É orientada ao atendimento de coletividades em vez de indivíduos devido à natureza social de sua atuação.",
+   "Opera com equipes itinerantes de assistência social, que diminuem a necessidade de atendimento médico."
+  ],
+  "gab": 1,
+  "tema": "sus",
+  "sub": "Política Nacional de Atenção Básica",
+  "cenario": "aps",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 2.436/2017 (PNAB), Anexo",
+  "coment": "A Estratégia Saúde da Família é a estratégia prioritária de expansão e consolidação da Atenção Básica na PNAB. Ela é operada por equipe multiprofissional (no mínimo médico, enfermeiro, auxiliar ou técnico de enfermagem e agentes comunitários de saúde), responsável por uma população adscrita num território definido, com vínculo e cuidado longitudinal. A PNAB recomenda de 2.000 a 3.500 pessoas por equipe, conforme a vulnerabilidade do território. O cuidado é individual, familiar e comunitário, prestado em unidades próximas da população, e não em grandes centros. O fisioterapeuta atua junto a essas equipes pela eMulti (Portaria GM/MS 635/2023).",
+  "porAlt": [
+   "Errada: a ESF atende toda a população adscrita, de todas as idades e condições, e não só os provedores saudáveis da família.",
+   "Correta: a ESF é operada por equipes multiprofissionais responsáveis por uma população adscrita num território definido.",
+   "Errada: a ESF é descentralizada e próxima do território, e não centralizada em unidades de grande porte.",
+   "Errada: a ESF cuida de indivíduos, famílias e comunidade, sem abandonar o atendimento individual.",
+   "Errada: as equipes da ESF são de saúde e fixas no território; a assistência social não substitui o atendimento clínico."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 25,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Política Nacional de Atenção Hospitalar (PNHOSP) define orientações para reestruturar a assistência hospitalar no SUS, com o objetivo de melhorar a qualidade dos cuidados e a eficiência na gestão.\nAs iniciativas listadas a seguir reorganizam e qualificam a atenção hospitalar de acordo com o disposto pela PNHOSP, à exceção de uma. Assinale-a.",
+  "alts": [
+   "A adoção de um sistema experimental de triagem por inteligência artificial para reduzir custos.",
+   "A adoção de protocolos clínicos para reduzir a variabilidade no padrão de tratamentos.",
+   "A instalação de um sistema de gestão de estoques para evitar desperdício de medicamentos.",
+   "A introdução da telemedicina nas unidades afastadas para permitir o acesso remoto a especialistas.",
+   "A mobilização de equipes multidisciplinares para fornecer acompanhamento contínuo aos pacientes."
+  ],
+  "gab": 0,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 3.390/2013 (PNHOSP), consolidada na Portaria de Consolidação 2/2017",
+  "coment": "A PNHOSP organiza o hospital como ponto da Rede de Atenção à Saúde, com diretrizes de gestão da clínica, uso de protocolos e diretrizes clínicas baseadas em evidência, cuidado por equipe multiprofissional com horizontalização e uso racional de recursos, inclusive de medicamentos e insumos. Telessaúde e regulação ampliam o acesso a especialistas para unidades distantes. Um sistema experimental de triagem por inteligência artificial com o objetivo de reduzir custos não consta da política: a classificação de risco deve usar protocolos validados e ser feita por profissional, com foco na necessidade clínica.",
+  "porAlt": [
+   "Correta: triagem experimental por inteligência artificial voltada a cortar custos não é diretriz da PNHOSP, que exige protocolos validados.",
+   "Errada como exceção: protocolos clínicos que reduzem a variabilidade do cuidado fazem parte da gestão da clínica na PNHOSP.",
+   "Errada como exceção: a gestão de estoques evita desperdício e se alinha ao uso racional de recursos previsto na política.",
+   "Errada como exceção: telessaúde amplia o acesso a especialistas e qualifica a atenção hospitalar em locais afastados.",
+   "Errada como exceção: equipes multiprofissionais com acompanhamento contínuo correspondem ao cuidado horizontal previsto."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 26,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Resolução CNS nº 553/2017 estabelece os direitos e deveres da pessoa usuária da saúde, a serem observados por paciente e equipe no dia a dia da prestação de serviços.\nAssinale a opção que indica uma violação de um direito ou de um dever exposto na resolução.",
+  "alts": [
+   "Uma paciente faz uma reclamação formal sobre o atendimento e tem seu pedido encaminhado para análise.",
+   "Um paciente idoso chega com mal-estar a uma unidade de saúde sem documentação, mas é prontamente atendido.",
+   "Uma paciente consegue agendar um exame para dali a seis meses devido a critérios de prioridade clínica.",
+   "Um paciente não emergencial se irrita com o tempo médio de espera e ameaça agressivamente formalizar uma reclamação.",
+   "Uma paciente solicita um exame realizado há pouco tempo e tem o pedido negado devido a protocolos de periodicidade."
+  ],
+  "gab": 3,
+  "tema": "etica",
+  "sub": "Bioética e direitos do paciente",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução CNS 553/2017 (Carta dos Direitos e Deveres da Pessoa Usuária da Saúde)",
+  "coment": "A Resolução CNS 553/2017 garante ao usuário acesso ordenado e organizado, atendimento sem discriminação mesmo sem documentos, prioridade por critério clínico e o direito de reclamar e ter a queixa analisada. Ela também traz deveres: a pessoa usuária deve adotar comportamento respeitoso e cordial com os demais usuários e com os trabalhadores do serviço. Ameaçar agressivamente a equipe por causa do tempo de espera viola esse dever. Reclamar é um direito; a forma agressiva é que configura a violação.",
+  "porAlt": [
+   "Errada: registrar reclamação e tê-la encaminhada para análise é exercício regular de um direito do usuário.",
+   "Errada: atender prontamente o idoso sem documentação cumpre a carta, que veda negar atendimento por falta de documento.",
+   "Errada: agendar conforme prioridade clínica é acesso ordenado e organizado, compatível com a resolução.",
+   "Correta: ameaçar agressivamente a equipe viola o dever de comportamento respeitoso e cordial previsto na carta.",
+   "Errada: negar exame repetido conforme protocolo de periodicidade é uso racional de recurso, e não violação de direito."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 27,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "As Redes de Atenção à Saúde (RAS) são estruturas organizacionais projetadas para superar a fragmentação dos serviços de saúde.\nSobre o tema, avalie os itens a seguir.\nI. Os serviços são organizados de maneira hierárquica, com funções definidas e de acordo com a complexidade dos casos.\nII. As RAS podem ser estruturadas de maneira temática, especializando-se no atendimento de um grupo populacional específico.\nIII. O paciente mantém um vínculo com a rede, estendendo seu tratamento ao longo do tempo, em vez de ser atendido de maneira pontual.\nEstá correto o que se afirma em",
+  "alts": [
+   "III, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 4,
+  "tema": "sus",
+  "sub": "Redes de Atenção à Saúde",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "Portaria GM/MS 4.279/2010 (RAS), consolidada na Portaria de Consolidação 3/2017; Constituição Federal de 1988, art. 198",
+  "coment": "A banca aceitou os três itens. As RAS organizam pontos de atenção de diferentes densidades tecnológicas, com funções definidas, podem ser temáticas (Rede Alyne, que substituiu a Rede Cegonha pela Portaria GM/MS 5.350/2024, urgência, psicossocial, pessoa com deficiência, crônicas) e garantem cuidado contínuo e longitudinal. O item I é o ponto sensível: a CF, art. 198, fala em rede regionalizada e hierarquizada, mas a Portaria 4.279/2010 descreve a RAS como poliárquica e horizontal, sem hierarquia de importância entre os pontos, que só diferem em densidade tecnológica.",
+  "porAlt": [
+   "Errada: os itens I e II também foram aceitos pela banca.",
+   "Errada: o item III é verdadeiro, pois a continuidade do cuidado é atributo essencial das RAS.",
+   "Errada: o item II é verdadeiro; as redes temáticas são a forma de implantação das RAS no SUS.",
+   "Errada para a banca: ela aceitou também o item I, apoiada na rede regionalizada e hierarquizada da CF, art. 198.",
+   "Correta: a banca aceitou os três itens; note que a Portaria 4.279/2010 prefere falar em rede poliárquica, por densidade tecnológica."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 28,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "A Norma Operacional Básica de Recursos Humanos estabelece que, para a atenção à saúde do trabalhador do SUS, devem ser obedecidos os mesmos princípios do Sistema Único de Saúde.\nA esse respeito, estabeleça a relação entre os princípios listados a seguir e as iniciativas que exemplificam sua aplicação.\n1. Universalidade\n2. Promoção da Saúde\n3. Integralidade da Atenção\n( ) Programas de incentivo para redução do tabagismo, com campanhas de conscientização sobre os danos do cigarro e medidas de apoio para os que desejam parar de fumar.\n( ) Inclusão de todos os profissionais da saúde, independentemente de sua forma de contratação, em campanhas nacionais de vacinação prioritária para reduzir riscos de exposição.\n( ) Inspeções conjuntas do SUS e do Ministério do Trabalho e Previdência (MTP) para avaliar condições de trabalho, uso adequado de Equipamentos de Proteção Individual e cumprimento das normas de segurança.\nA relação correta, na ordem apresentada, é",
+  "alts": [
+   "3 – 2 – 1.",
+   "2 – 1 – 3.",
+   "2 – 3 – 1.",
+   "3 – 1 – 2.",
+   "1 – 3 – 2."
+  ],
+  "gab": 1,
+  "tema": "coletiva",
+  "sub": "Saúde do trabalhador e ergonomia",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r2",
+  "base": "NOB/RH-SUS, Resolução CNS 330/2003; Lei 8.080/1990, art. 7º",
+  "coment": "A NOB/RH-SUS manda aplicar à saúde do trabalhador do SUS os mesmos princípios do sistema. Campanha contra o tabagismo, com conscientização e apoio para parar de fumar, é promoção da saúde (2). Incluir todos os profissionais na vacinação prioritária, qualquer que seja o vínculo, é universalidade, pois ninguém fica de fora por tipo de contrato (1). Inspeções conjuntas SUS e Ministério do Trabalho sobre condições de trabalho, EPI e normas de segurança articulam vigilância, prevenção e proteção, o que expressa a integralidade da atenção (3). Sequência 2, 1, 3.",
+  "porAlt": [
+   "Errada: a campanha contra o tabagismo é promoção da saúde, e não integralidade.",
+   "Correta: tabagismo é promoção (2), vacinação de todos os vínculos é universalidade (1) e inspeção conjunta é integralidade (3).",
+   "Errada: a inclusão de todos os profissionais na vacinação, sem distinção de vínculo, expressa universalidade.",
+   "Errada: a campanha antitabagismo é promoção e a inspeção conjunta, que articula vigilância e proteção, é integralidade.",
+   "Errada: a campanha antitabagismo não é universalidade, e a vacinação de todos os vínculos não é integralidade."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 29,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Com relação às orientações da Política Nacional de Saúde Integral da População Negra, avalie as afirmativas a seguir.\nI. Incluir o quesito cor no levantamento de informações relativas à saúde da população e no estabelecimento de iniciativas e metas.\nII. Substituir as práticas populares e religiosas de cuidado e saúde por técnicas e protocolos de medicina avançada e baseada em evidências.\nIII. Ampliar a participação de movimentos sociais organizados nas instâncias de controle social do sistema de saúde.\nEstá em consonância com a Política Nacional de Saúde Integral da População Negra o que se indica em",
+  "alts": [
+   "III, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gab": 2,
+  "tema": "sus",
+  "sub": "Políticas de equidade e populações vulneráveis",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Portaria GM/MS 992/2009 (Política Nacional de Saúde Integral da População Negra)",
+  "coment": "A PNSIPN reconhece o racismo como determinante social da saúde. Entre suas diretrizes e estratégias estão incluir e qualificar o quesito raça/cor nos sistemas de informação, para orientar metas e ações, e ampliar a participação do movimento negro e de outros movimentos sociais nas instâncias de controle social. A política valoriza e reconhece os saberes e práticas populares de saúde, inclusive os das religiões de matriz africana, e não propõe substituí-los. Por isso estão corretos os itens I e III.",
+  "porAlt": [
+   "Errada: o item I também está correto, pois o quesito cor é estratégia central da política.",
+   "Errada: o item II contraria a PNSIPN, que valoriza os saberes populares e religiosos de cuidado.",
+   "Correta: a política prevê o quesito cor na informação em saúde e a participação dos movimentos sociais no controle social.",
+   "Errada: o item II é incompatível com a política, que reconhece as práticas tradicionais em vez de substituí-las.",
+   "Errada: o item II não está em consonância com a PNSIPN."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 30,
+   "parte": "politicas"
+  }
+ },
+ {
+  "q": "Ao elaborar um programa de exercícios terapêuticos, o fisioterapeuta abordará os aspectos da funcionalidade.\nRelacione os aspectos da função elencados a seguir às suas respectivas definições.\n1. Equilíbrio\n2. Coordenação\n3. Mobilidade\n4. Controle Neuromuscular\n( ) Interação dos sistemas sensorial e motor que possibilita aos músculos prever ou responder às informações proprioceptivas e cinestésicas.\n( ) Habilidade de alinhar os segmentos do corpo contra a gravidade para manter ou mover o corpo em contraposição à força da gravidade.\n( ) Habilidade de estruturas ou segmentos do corpo de se moverem ou serem movidos para determinada amplitude de movimento.\n( ) Cadência e sequenciamento correto dos disparos musculares combinados com a intensidade apropriada de contração muscular durante todo movimento.\nA relação correta, na ordem apresentada, é",
+  "alts": [
+   "1 – 2 – 3 – 4.",
+   "2 – 1 – 3 – 4.",
+   "1 – 2 – 4 – 3.",
+   "4 – 3 – 2 – 1.",
+   "4 – 1 – 3 – 2."
+  ],
+  "gab": 4,
+  "tema": "recursos",
+  "sub": "Cinesioterapia e exercício terapêutico",
+  "cenario": "amb",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Kisner C, Colby LA, Borstad J. Therapeutic Exercise: Foundations and Techniques, 7ª ed., F.A. Davis, 2018, cap. 1 (aspectos da função física)",
+  "coment": "Kisner e Colby descrevem os aspectos da função física trabalhados no exercício terapêutico. Controle neuromuscular é a interação dos sistemas sensorial e motor que permite aos músculos antecipar ou responder à informação proprioceptiva e cinestésica (4). Equilíbrio é a capacidade de alinhar os segmentos corporais contra a gravidade para manter ou mover o corpo (1). Mobilidade é a capacidade de estruturas ou segmentos se moverem ou serem movidos numa amplitude (3). Coordenação é a cadência e a sequência correta dos disparos musculares, com intensidade adequada (2). Sequência 4, 1, 3, 2.",
+  "porAlt": [
+   "Errada: a primeira definição, de interação sensório-motora, é controle neuromuscular (4), e não equilíbrio.",
+   "Errada: acerta equilíbrio e mobilidade, mas troca coordenação e controle neuromuscular, que ficam na primeira e na última lacunas.",
+   "Errada: a interação sensório-motora é controle neuromuscular, e a cadência dos disparos musculares é coordenação.",
+   "Errada: acerta só o controle neuromuscular; alinhar o corpo contra a gravidade é equilíbrio, e não mobilidade.",
+   "Correta: controle neuromuscular, equilíbrio, mobilidade e coordenação, na ordem 4, 1, 3, 2."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 31,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Na avaliação fisioterapêutica, deve-se dar atenção ao exame dos sistemas para identificar qualquer anormalidade ou déficit que requeira testes adicionais.\nRelacione os sistemas corporais elencados a seguir às respectivas áreas de verificação.\n1. Cardiovascular/pulmonar\n2. Tegumentar\n3. Musculoesquelético\n4. Neuromuscular\n( ) Temperatura, protuberância e tumores.\n( ) Dor no tórax, tontura e edema periférico.\n( ) Simetria, ADM geral e força.\n( ) Controle motor, sensação e cefaleias intensas.\nA relação correta, na ordem apresentada, é",
+  "alts": [
+   "1 – 3 – 4 – 2.",
+   "1 – 2 – 3 – 4.",
+   "2 – 1 – 3 – 4.",
+   "2 – 1 – 4 – 3.",
+   "3 – 2 – 1 – 4."
+  ],
+  "gab": 2,
+  "tema": "avaliacao",
+  "sub": "Anamnese e exame físico",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "APTA. Guide to Physical Therapist Practice 3.0, 2014 (revisão dos sistemas); Kisner C, Colby LA, Borstad J. Therapeutic Exercise: Foundations and Techniques, 7ª ed., F.A. Davis, 2018",
+  "coment": "A revisão dos sistemas é um rastreio rápido, feito na avaliação, para decidir se algum sistema precisa de testes adicionais ou de encaminhamento. No tegumentar observam-se temperatura, cor, integridade e protuberâncias ou tumores da pele (2). No cardiovascular e pulmonar, sinais como dor torácica, tontura e edema periférico (1). No musculoesquelético, simetria, amplitude de movimento geral e força (3). No neuromuscular, controle motor, sensibilidade e queixas como cefaleia intensa (4). Sequência 2, 1, 3, 4.",
+  "porAlt": [
+   "Errada: temperatura e tumores de pele pertencem ao tegumentar, e dor torácica ao cardiovascular e pulmonar.",
+   "Errada: inverte os dois primeiros; temperatura e protuberâncias são do tegumentar, e dor torácica, do cardiopulmonar.",
+   "Correta: tegumentar, cardiovascular e pulmonar, musculoesquelético e neuromuscular, na ordem 2, 1, 3, 4.",
+   "Errada: simetria, ADM e força são achados musculoesqueléticos, e controle motor e sensibilidade, neuromusculares.",
+   "Errada: dor torácica, tontura e edema não são achados tegumentares, e temperatura da pele não é musculoesquelética."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 32,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para avaliar a mobilidade e o equilíbrio funcional, o fisioterapeuta mede o tempo em segundos que o indivíduo leva para se levantar de uma cadeira, percorrer uma distância de três metros, girar, retornar para a cadeira e sentar-se novamente.\nO cronômetro é disparado após o sinal de partida e parado somente quando o indivíduo se coloca novamente na posição inicial, sentado com as costas apoiadas na cadeira.\nO procedimento descrito é a aplicação do seguinte teste:",
+  "alts": [
+   "Test Timed Up and Go (TUG).",
+   "Dynamic Gait Index (DGI).",
+   "Medida de Independência Funcional (MIF).",
+   "Escala de Avaliação de Fugl-Meyer (EFM).",
+   "Velocidade da marcha dos 10 metros."
+  ],
+  "gab": 0,
+  "tema": "avaliacao",
+  "sub": "Escalas e testes funcionais",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Podsiadlo D, Richardson S. The Timed \"Up & Go\": a test of basic functional mobility for frail elderly persons. J Am Geriatr Soc 1991;39(2):142-148",
+  "coment": "O Timed Up and Go, descrito por Podsiadlo e Richardson em 1991, cronometra o tempo para levantar de uma cadeira com braços, andar 3 metros, girar, voltar e sentar-se com as costas apoiadas. Avalia mobilidade funcional e equilíbrio dinâmico e é muito usado no rastreio do risco de quedas em idosos. Os outros instrumentos medem coisas diferentes: o DGI pontua tarefas de marcha, a MIF mede independência nas atividades, a Fugl-Meyer avalia o comprometimento sensório-motor após AVC e o teste de 10 metros mede a velocidade da marcha.",
+  "porAlt": [
+   "Correta: levantar, andar 3 metros, girar, voltar e sentar, cronometrado, é o Timed Up and Go.",
+   "Errada: o Dynamic Gait Index pontua tarefas de marcha com mudanças de velocidade, giros e obstáculos, sem cronometrar esse percurso.",
+   "Errada: a MIF mede o grau de independência em autocuidado, mobilidade, comunicação e cognição, e não um percurso cronometrado.",
+   "Errada: a Fugl-Meyer avalia o comprometimento motor e sensitivo após AVC, item a item, e não o tempo de um percurso.",
+   "Errada: o teste de 10 metros mede a velocidade da marcha em linha reta, sem levantar, girar e sentar."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 33,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A marcha, principal meio de locomoção do ser humano, pode ser alterada por diversos fatores, necessitando de avaliação detalhada de cada etapa de sua execução. O ciclo da marcha consiste de duas fases: apoio e balanço.\nEm relação à fase de apoio, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) A fase representa cerca de 40% do ciclo da marcha.\n( ) A fase representa cerca de 60% do ciclo da marcha.\n( ) Nessa fase, ocorrem a descarga do peso e o apoio simples do membro.\n( ) Nessa fase, ocorrem dois eventos instantâneos: contato inicial e retirada do contato.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – F – F – V.",
+   "F – V – V – V.",
+   "F – V – F – V.",
+   "V – F – V – V.",
+   "F – V – F – F."
+  ],
+  "gab": 1,
+  "tema": "bases",
+  "sub": "Análise da marcha",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "Perry J, Burnfield JM. Gait Analysis: Normal and Pathological Function, 2ª ed., Slack, 2010",
+  "coment": "Pela divisão de Perry, o ciclo da marcha tem a fase de apoio, cerca de 60% do ciclo, e a de balanço, cerca de 40%, na velocidade habitual. No apoio ocorrem a aceitação do peso (contato inicial e resposta à carga), o apoio simples (médio apoio e apoio terminal) e o pré-balanço. O contato inicial e a retirada do pé, no desprendimento dos dedos, são eventos instantâneos que delimitam a fase de apoio. Por isso a primeira afirmativa é falsa e as demais são verdadeiras: F, V, V, V.",
+  "porAlt": [
+   "Errada: o apoio ocupa cerca de 60% do ciclo, e não 40%, e nele ocorrem descarga de peso e apoio simples.",
+   "Correta: apoio com cerca de 60% do ciclo, com descarga de peso e apoio simples, delimitado pelo contato inicial e pela retirada do pé.",
+   "Errada: a descarga de peso e o apoio simples acontecem justamente na fase de apoio, então a terceira afirmativa é verdadeira.",
+   "Errada: 40% corresponde ao balanço; o apoio ocupa cerca de 60% do ciclo da marcha.",
+   "Errada: a fase de apoio inclui descarga de peso e apoio simples e é delimitada por contato inicial e retirada do pé."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 34,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A biomecânica da coluna vertebral é complexa em que cada segmento terá características diferenciadas que conferem graus de mobilidade diferentes.\nNa coluna vertebral, a realização da rotação axial pura é permitida apenas",
+  "alts": [
+   "na articulação atlantoaxial e na junção toracolombar.",
+   "na articulação atlanto-occipital.",
+   "na junção toracolombar.",
+   "na junção cérvico-torácica.",
+   "na articulação lombo-sacra."
+  ],
+  "gab": 0,
+  "tema": "bases",
+  "sub": "Cinesiologia e biomecânica",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r2",
+  "base": "Neumann DA. Kinesiology of the Musculoskeletal System, 3ª ed., Elsevier, 2017",
+  "coment": "A articulação atlantoaxial (C1 e C2) responde por grande parte da rotação cervical e permite rotação axial praticamente pura, porque o atlas gira em torno do dente do áxis sem acoplamento importante. Na junção toracolombar, a vértebra de transição tem facetas superiores de padrão torácico e inferiores de padrão lombar, e o texto usado pela banca a aponta como o outro local de rotação axial pura. A atlanto-occipital faz sobretudo flexão e extensão; a junção cervicotorácica e a lombossacra combinam a rotação com outros movimentos. A afirmação sobre a junção toracolombar varia entre autores.",
+  "porAlt": [
+   "Correta: a atlantoaxial gira em torno do dente do áxis, e a junção toracolombar é o outro ponto citado para rotação axial pura.",
+   "Errada: a atlanto-occipital faz principalmente flexão e extensão da cabeça, com rotação mínima.",
+   "Errada: a junção toracolombar sozinha deixa de fora a atlantoaxial, principal articulação de rotação da coluna.",
+   "Errada: a junção cervicotorácica faz rotação acoplada à inclinação lateral, e não rotação axial pura.",
+   "Errada: na lombossacra predominam flexão e extensão; a orientação das facetas lombares limita a rotação."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 35,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Conciliar estabilidade e mobilidade para a coluna vertebral é um desafio. Na região lombar, a estabilidade e a mobilidade são obtidas pela ação de músculos globais ou locais.\nNessa região há um músculo de estabilidade local que desempenha papel de pré-fixação, pois é ativado antes do início de qualquer movimento ou perturbação e que, em conjunto com outros músculos, é um provedor ativo do controle rotacional e lateral da coluna, enquanto mantém níveis adequados de pressão intra-abdominal, aumentando a rigidez da coluna lombar.\nO texto refere-se ao seguinte músculo :",
+  "alts": [
+   "oblíquo interno.",
+   "tensor da fáscia lata.",
+   "quadrado do lombar.",
+   "reto do abdome.",
+   "transverso do abdome."
+  ],
+  "gab": 4,
+  "tema": "bases",
+  "sub": "Cinesiologia e biomecânica",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "Hodges PW, Richardson CA. Inefficient muscular stabilization of the lumbar spine associated with low back pain: a motor control evaluation of transversus abdominis. Spine 1996;21(22):2640-2650",
+  "coment": "O transverso do abdome é o principal estabilizador local anterolateral da coluna lombar. Hodges e Richardson (1996) mostraram que ele se ativa antes do músculo motor primário em movimentos rápidos dos membros, numa ação antecipatória independente da direção do movimento, e que esse disparo se atrasa em pessoas com lombalgia. Pela tensão na fáscia toracolombar e pela pressão intra-abdominal, aumenta a rigidez segmentar e o controle rotacional e lateral. O reto do abdome é motor global, o tensor da fáscia lata atua no quadril, e oblíquo interno e quadrado do lombo não têm esse papel antecipatório descrito.",
+  "porAlt": [
+   "Errada: o oblíquo interno colabora na estabilização, mas não é o músculo descrito com pré-ativação independente da direção.",
+   "Errada: o tensor da fáscia lata é músculo do quadril, flexor e abdutor, sem papel na estabilidade lombar local.",
+   "Errada: o quadrado do lombo estabiliza no plano frontal, mas não é o músculo profundo de ativação antecipatória descrito.",
+   "Errada: o reto do abdome é flexor global do tronco, gerador de torque, e não estabilizador local.",
+   "Correta: o transverso do abdome ativa-se antes do movimento e aumenta a pressão intra-abdominal e a rigidez lombar."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 37,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Exercícios para ganho de amplitude do movimento (ADM) devem ser utilizados com objetivos funcionais. O fisioterapeuta precisa identificar, para cada função, os movimentos básicos que devem ser recuperados/ estimulados.\nPara recuperar a função de comer (levar a mão à boca), os movimentos básicos que precisam de exercícios para ganho de ADM são",
+  "alts": [
+   "flexão de cotovelo e supinação de antebraço e alguma flexão, abdução e rotação lateral de ombro.",
+   "abdução e rotação lateral de ombro, flexão de cotovelo e rotação cervical.",
+   "rotação lateral de ombro, supinação do antebraço e inclinação lateral do pescoço.",
+   "flexão de ombro e extensão de cotovelo.",
+   "abdução e rotação lateral de ombro, extensão de cotovelo e alguma inclinação lateral de tronco."
+  ],
+  "gab": 0,
+  "tema": "recursos",
+  "sub": "Cinesioterapia e exercício terapêutico",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "r1",
+  "base": "Kisner C, Colby LA, Borstad J. Therapeutic Exercise: Foundations and Techniques, 7ª ed., F.A. Davis, 2018 (exercícios de amplitude de movimento com padrões funcionais)",
+  "coment": "Levar a mão à boca exige sobretudo flexão do cotovelo e supinação do antebraço, para orientar a palma e o alimento para a boca, com algum grau de flexão, abdução e rotação lateral do ombro para posicionar o membro diante do rosto. Kisner e Colby recomendam, nos exercícios de amplitude com objetivo funcional, identificar os movimentos básicos de cada tarefa e treiná-los em padrões que a reproduzam. Extensão de cotovelo afasta a mão da boca, e movimentos de pescoço e de tronco são compensações, e não os componentes principais.",
+  "porAlt": [
+   "Correta: flexão do cotovelo e supinação, com alguma flexão, abdução e rotação lateral do ombro, compõem o levar a mão à boca.",
+   "Errada: rotação cervical não é componente básico da tarefa, e falta a supinação do antebraço.",
+   "Errada: falta a flexão do cotovelo, movimento principal da tarefa, e inclinar o pescoço é compensação.",
+   "Errada: a extensão do cotovelo afasta a mão da boca; a tarefa exige flexão do cotovelo.",
+   "Errada: extensão do cotovelo e inclinação do tronco não levam a mão à boca nem substituem a flexão do cotovelo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 38,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Relacione cada recurso físico a seguir à descrição de seu principal efeito terapêutico.\n1. Estimulação Elétrica Nervosa Transcutânea (TENS)\n2. Estimulação Elétrica Funcional (FES)\n3. Ultrassom terapêutico\n4. Laser\n( ) Efeitos térmicos que levam a relaxamento muscular e melhoria da elasticidade tecidual.\n( ) Reduz a percepção da dor pela liberação de endorfinas e a modulação da condução nervosa.\n( ) Absorvida pelo citocromo c oxidase, melhora o reparo do tecido e o metabolismo oxidativo celular.\n( ) Facilita a realização de movimentos funcionais e ajuda a prevenir a atrofia muscular.\nA relação correta, na ordem apresentada, é",
+  "alts": [
+   "1 – 2 – 3 – 4.",
+   "3 – 4 – 2 – 1.",
+   "4 – 3 – 1 – 2.",
+   "3 – 1 – 4 – 2.",
+   "4 – 1 – 2 – 3."
+  ],
+  "gab": 3,
+  "tema": "recursos",
+  "sub": "Eletroterapia",
+  "cenario": "amb",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Cameron MH. Physical Agents in Rehabilitation: An Evidence-Based Approach to Practice, 5ª ed., Elsevier, 2018",
+  "coment": "O ultrassom terapêutico em modo contínuo aquece tecidos profundos, o que aumenta a extensibilidade do colágeno e favorece o relaxamento muscular (3). A TENS reduz a percepção da dor pela teoria das comportas, em alta frequência, e pela liberação de opioides endógenos, em baixa frequência (1). No laser de baixa potência, a luz vermelha e infravermelha próxima é absorvida pela citocromo c oxidase mitocondrial, aumenta a produção de ATP e favorece o reparo tecidual (4). A FES ativa músculos para produzir movimento funcional e atenua a atrofia (2). Sequência 3, 1, 4, 2.",
+  "porAlt": [
+   "Errada: o efeito térmico é do ultrassom, e a analgesia por endorfinas e comportas é da TENS.",
+   "Errada: acerta o ultrassom, mas a analgesia é da TENS e a absorção pela citocromo c oxidase é do laser.",
+   "Errada: o laser não é o recurso térmico de relaxamento, e o ultrassom não atua por endorfinas.",
+   "Correta: ultrassom, TENS, laser e FES, na ordem 3, 1, 4, 2.",
+   "Errada: acerta a TENS, mas a FES não age pela citocromo c oxidase e o ultrassom não é o recurso de movimento funcional."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 39,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Avalie se as contraindicações para aplicação de correntes elétricas na reabilitação incluem:\nI. marcapassos ou dispositivos eletrônicos implantados;\nII. trombose venosa profunda;\nIII. infecções;\nIV. lesões cutâneas.\nEstão corretos os itens",
+  "alts": [
+   "I, II e III, apenas.",
+   "I, II e IV, apenas.",
+   "II, III e IV, apenas.",
+   "II e III, apenas.",
+   "I, II, III e IV."
+  ],
+  "gab": 4,
+  "tema": "recursos",
+  "sub": "Eletroterapia",
+  "cenario": "amb",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Cameron MH. Physical Agents in Rehabilitation: An Evidence-Based Approach to Practice, 5ª ed., Elsevier, 2018",
+  "coment": "Os livros de eletroterapia listam como situações que impedem a corrente sobre a área: marcapasso e outros dispositivos eletrônicos implantados, pelo risco de interferência; trombose venosa ou arterial e tromboflebite, pelo risco de desprender o trombo com a contração e o aumento do fluxo; infecção ativa, pelo risco de disseminação; e pele lesionada, onde a densidade de corrente se concentra e pode queimar. Alguns autores tratam lesão de pele e infecção como precaução, e não como contraindicação absoluta; a banca considerou os quatro itens.",
+  "porAlt": [
+   "Errada: deixa de fora a pele lesionada, onde a corrente se concentra e pode causar queimadura.",
+   "Errada: deixa de fora a infecção ativa na área, pelo risco de disseminação com o aumento do fluxo local.",
+   "Errada: deixa de fora o marcapasso, a contraindicação mais clássica das correntes elétricas.",
+   "Errada: omite marcapasso e lesões cutâneas, ambos listados entre as situações que impedem a aplicação.",
+   "Correta: marcapasso, trombose venosa profunda, infecção e lesão cutânea contraindicam a corrente sobre a área."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 40,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A reabilitação da mão, independentemente da causa da disfunção, tem características complexas que precisam de intervenção fisioterapêutica o mais precoce possível na fase aguda.\nEm relação ao tema, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Um dos objetivos da intervenção precoce na fase aguda é manipular o local lesionado para permitir a cicatrização.\n( ) Exercícios de amplitude de movimento passiva (ADMP) são executados por meio da amplitude de movimento disponível.\n( ) ADMP pode ser aplicada na amplitude de movimento disponível para alongar patologicamente estruturas encurtadas do tecido.\n( ) Exercícios de amplitude de movimento ativa (ADMA) devem ser executados com exercícios compostos para o aumento da amplitude.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "F – V – V – F.",
+   "F – V – V – V.",
+   "V – V – V – V.",
+   "V – V – V – F.",
+   "F – F – F – F."
+  ],
+  "gab": 0,
+  "tema": "orto",
+  "sub": "Membro superior",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "r2",
+  "base": "Kisner C, Colby LA, Borstad J. Therapeutic Exercise: Foundations and Techniques, 7ª ed., F.A. Davis, 2018",
+  "coment": "Na fase aguda após lesão da mão, a prioridade é proteger o local para permitir a cicatrização, controlar edema e dor e manter a mobilidade das articulações não envolvidas; manipular o local lesionado contraria esse objetivo (F). A ADM passiva é feita dentro da amplitude disponível (V). Para a banca, a ADM passiva no limite da amplitude disponível também serve para alongar estruturas patologicamente encurtadas (V), embora Kisner e Colby distingam exercício de amplitude de alongamento. A ADM ativa, na fase aguda, começa com movimentos protegidos e não com exercícios compostos para ganhar amplitude (F). Sequência F, V, V, F.",
+  "porAlt": [
+   "Correta: não manipular a lesão, ADMP na amplitude disponível, ADMP para alongar e ADMA sem exercícios compostos: F, V, V, F.",
+   "Errada: na fase aguda a ADM ativa não começa por exercícios compostos para ganhar amplitude.",
+   "Errada: manipular o local lesionado na fase aguda prejudica a cicatrização, que é o que se quer proteger.",
+   "Errada: o objetivo da fase aguda é proteger o local lesionado, e não manipulá-lo.",
+   "Errada: a ADM passiva é executada dentro da amplitude disponível, então a segunda afirmativa é verdadeira."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 42,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Qualquer material colocado entre a sola do sapato e o pé que exerça alguma influência nas forças de pressão que atuem no membro, é considerado uma palmilha e os diferentes tipos de palmilha variam de acordo com o objetivo físico-funcional.\nA órtese plantar denominada “Palmilha 2/3” é aquela que",
+  "alts": [
+   "apoia somente o calcanhar.",
+   "acomoda todo o pé.",
+   "termina antes da cabeça dos metatarsos.",
+   "termina na altura da cabeça dos metatarsos.",
+   "apoia a base lateral de todo pé."
+  ],
+  "gab": 2,
+  "tema": "recursos",
+  "sub": "Órteses, próteses e tecnologia assistiva",
+  "cenario": "amb",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "Carvalho JA. Órteses: um recurso terapêutico complementar, 2ª ed., Manole, 2013",
+  "coment": "As palmilhas são classificadas pelo comprimento, conforme a área do pé que recebem. A palmilha inteira acomoda todo o pé, e a de calcanhar apoia só o retropé. A palmilha 2/3 termina antes das cabeças dos metatarsos, deixando antepé e dedos livres; assim corrige retropé e arco sem carregar as cabeças metatarsais e cabe em calçados mais justos. A nomenclatura por frações (2/3, 3/4) varia entre fabricantes e autores, por isso vale a definição do texto de referência da banca.",
+  "porAlt": [
+   "Errada: a peça que apoia só o calcanhar é a palmilha de calcanhar, e não a 2/3.",
+   "Errada: a palmilha que acomoda todo o pé é a palmilha inteira, de comprimento total.",
+   "Correta: a palmilha 2/3 termina antes das cabeças dos metatarsos, deixando livres o antepé e os dedos.",
+   "Errada: pela classificação adotada, a 2/3 termina antes, e não na altura, das cabeças dos metatarsos.",
+   "Errada: apoio da borda lateral é um elemento ou cunha da palmilha e não define o seu comprimento."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 43,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A prescrição de órtese deve ser indicada e/ou acompanhada pelo fisioterapeuta, objetivando melhorar o desempenho funcional no processo de reabilitação do indivíduo.\nAs órteses suropodálicas ou órteses tornozelo-pé (ankle-foot orthosis - AFO’s) são aparelhos ortopédicos que",
+  "alts": [
+   "podem ser fixas, não permitindo movimento ao nível da articulação do tornozelo, ou articuladas.",
+   "controlam o alinhamento e a movimentação do tornozelo e joelho.",
+   "trazem a articulação alinhada com a patela no plano frontal.",
+   "evitam uma rotação interna da articulação do quadril durante a transferência de peso.",
+   "garantem o movimento de plantiflexão."
+  ],
+  "gab": 0,
+  "tema": "recursos",
+  "sub": "Órteses, próteses e tecnologia assistiva",
+  "cenario": "amb",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "Edelstein JE, Bruckner J. Orthotics: A Comprehensive Clinical Approach, Slack, 2002; Carvalho JA. Órteses: um recurso terapêutico complementar, 2ª ed., Manole, 2013",
+  "coment": "A órtese tornozelo-pé (AFO) envolve perna, tornozelo e pé e controla o tornozelo e a subtalar. Pode ser fixa (sólida), sem movimento no tornozelo, ou articulada, com articulações que permitem ou limitam a dorsiflexão e a flexão plantar, além de modelos com molas ou batentes. É usada, por exemplo, no pé caído após AVC ou lesão do nervo fibular, para impedir a queda do antepé no balanço. Controlar também o joelho exige uma KAFO (órtese joelho-tornozelo-pé), e o quadril não é alvo direto da AFO.",
+  "porAlt": [
+   "Correta: a AFO pode ser fixa, sem movimento no tornozelo, ou articulada.",
+   "Errada: a AFO não se estende acima do joelho; controlar o joelho exige uma órtese joelho-tornozelo-pé (KAFO).",
+   "Errada: articulação alinhada com a patela no plano frontal é detalhe de órteses que incluem o joelho, e não da AFO.",
+   "Errada: a AFO não controla a rotação do quadril; isso exige órteses que incluam o quadril ou cabos derrotadores.",
+   "Errada: muitas AFOs bloqueiam ou limitam a flexão plantar, como no pé caído; não garantem esse movimento."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 44,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em fisioterapia respiratória, são observados o padrão e o ritmo respiratórios que podem indicar alterações patológicas.\nO ritmo respiratório que apresenta uma fase de apneia seguida de uma série de inspirações profundas até o máximo, seguida de decréscimo até nova pausa, caracteriza uma anormalidade do ritmo e da frequência do ritmo respiratório, conhecida como",
+  "alts": [
+   "respiração atáxica.",
+   "respiração de Biot.",
+   "hiperpneia.",
+   "taquipneia.",
+   "respiração de Cheyne Stokes."
+  ],
+  "gab": 4,
+  "tema": "avaliacao",
+  "sub": "Anamnese e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Porto CC, Porto AL. Semiologia Médica, 8ª ed., Guanabara Koogan, 2019",
+  "coment": "A respiração de Cheyne-Stokes alterna períodos de apneia com incursões que aumentam progressivamente de amplitude até um máximo e depois diminuem até nova pausa, num padrão crescendo e decrescendo. Aparece na insuficiência cardíaca grave, em lesões neurológicas e em intoxicações. Na respiração de Biot, que muitos autores chamam de atáxica, as incursões são irregulares em amplitude e ritmo, intercaladas por apneias, sem o crescendo e decrescendo. Hiperpneia é aumento da amplitude, e taquipneia, aumento da frequência.",
+  "porAlt": [
+   "Errada: a respiração atáxica é irregular em amplitude e ritmo, sem o crescendo e decrescendo descrito.",
+   "Errada: no ritmo de Biot as incursões têm amplitude irregular e são interrompidas por apneias, sem aumento e redução graduais.",
+   "Errada: hiperpneia é aumento da amplitude das incursões, sem apneias cíclicas.",
+   "Errada: taquipneia é só aumento da frequência respiratória, sem pausas nem variação cíclica de amplitude.",
+   "Correta: apneia seguida de incursões crescentes até um máximo e decrescentes até nova pausa é Cheyne-Stokes."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 45,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em semiologia respiratória, para se observar uma correlação clínica, é importante anotar o sexo biológico do paciente, pois algumas patologias são mais comuns em um sexo do que em outro.\nUma patologia muito comum em mulheres é",
+  "alts": [
+   "a anemia falciforme.",
+   "o adenocarcinoma brônquico.",
+   "a tuberculose.",
+   "o enfisema.",
+   "a bronquite crônica."
+  ],
+  "gab": 1,
+  "tema": "avaliacao",
+  "sub": "Anamnese e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Porto CC, Porto AL. Semiologia Médica, 8ª ed., Guanabara Koogan, 2019; WHO Classification of Tumours Editorial Board. Thoracic Tumours, 5ª ed., IARC, 2021",
+  "coment": "Na anamnese, o sexo orienta o raciocínio porque algumas doenças respiratórias têm distribuição desigual. O adenocarcinoma é o tipo histológico de câncer de pulmão mais frequente e o que predomina nas mulheres e nos não fumantes, enquanto o carcinoma epidermoide historicamente predominava no homem fumante. A anemia falciforme é hereditária e não tem predomínio por sexo, e a tuberculose é mais notificada em homens. Enfisema e bronquite crônica foram classicamente associados ao homem tabagista; hoje a DPOC cresce entre as mulheres, por isso a questão depende do recorte clássico da semiologia.",
+  "porAlt": [
+   "Errada: a anemia falciforme é doença genética autossômica recessiva e afeta igualmente os dois sexos.",
+   "Correta: o adenocarcinoma é o tipo de câncer de pulmão que predomina em mulheres e em não fumantes.",
+   "Errada: a tuberculose é mais frequente e mais notificada em homens.",
+   "Errada: o enfisema foi classicamente associado ao homem tabagista, embora a DPOC cresça entre as mulheres.",
+   "Errada: a bronquite crônica tem o mesmo recorte clássico do enfisema, de predomínio no homem fumante."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 46,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Para o paciente hospitalizado, o exame da pele é indispensável, devido às correlações clínicas. Um dos aspectos a ser observado é a coloração, localizada e generalizada.\nAvalie se a palidez generalizada indica:\nI. obstrução da artéria femoral;\nII. diminuição das hemácias circulantes;\nIII. vasoconstrição por estímulos neurogênicos;\nIV. vasoconstrição por estímulos hormonais.\nEstão corretos os itens",
+  "alts": [
+   "I, II, III e IV.",
+   "I, III e IV, apenas.",
+   "II, III e IV, apenas.",
+   "II e IV, apenas.",
+   "I, II e III, apenas."
+  ],
+  "gab": 2,
+  "tema": "avaliacao",
+  "sub": "Anamnese e exame físico",
+  "cenario": "enf",
+  "comp": "aval",
+  "nivel": "r1",
+  "base": "Porto CC, Porto AL. Semiologia Médica, 8ª ed., Guanabara Koogan, 2019",
+  "coment": "Palidez generalizada reflete redução do sangue oxigenado nos capilares de toda a pele. As causas são a diminuição das hemácias ou da hemoglobina circulante, como nas anemias, e a vasoconstrição cutânea difusa, por estímulo neurogênico (dor intensa, emoção, síncope) ou hormonal (catecolaminas, como no choque). A obstrução da artéria femoral produz palidez localizada no membro afetado, com frialdade e redução de pulsos, e por isso não explica palidez generalizada. Corretos II, III e IV.",
+  "porAlt": [
+   "Errada: inclui a obstrução da artéria femoral, que causa palidez localizada no membro, e não generalizada.",
+   "Errada: inclui a obstrução femoral, causa localizada, e omite a redução de hemácias, causa clássica de palidez difusa.",
+   "Correta: anemia e vasoconstrição neurogênica ou hormonal causam palidez generalizada.",
+   "Errada: omite a vasoconstrição neurogênica, como na dor intensa ou na síncope, que também gera palidez difusa.",
+   "Errada: inclui a obstrução femoral, causa de palidez localizada, e omite a vasoconstrição hormonal."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 47,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Aspiração endotraqueal é um procedimento que objetiva a remoção de secreções em vias aéreas superiores e inferiores, utilizado em pacientes em ventilação mecânica ou em respiração espontânea. Por ser um procedimento com riscos potenciais, requer técnica apurada, monitoramento constante e cuidados especiais.\nEm relação a esse procedimento, avalie as afirmativas a seguir.\nI. Para calcular o tamanho da sonda usa-se a fórmula: tamanho da cânula × 3/2.\nII. Antes, durante e após a aspiração deve-se monitorar o paciente observando-se, entre outros fatores, a frequência cardíaca.\nIII. Antes, durante e após a aspiração deve-se observar a pressão intracraniana em paciente monitorado.\nIV. Aumento da pressão inspiratória em pacientes ventilados em modalidade à pressão, é um sinal que evidencia a necessidade de aspiração.\nEstão corretas apenas as afirmativas",
+  "alts": [
+   "I, II e III.",
+   "I, II e IV.",
+   "II, III e IV.",
+   "II e III.",
+   "I e II."
+  ],
+  "gab": 0,
+  "tema": "uti",
+  "sub": "Via aérea artificial e traqueostomia",
+  "cenario": "uti",
+  "comp": "tec",
+  "nivel": "r2",
+  "base": "AARC Clinical Practice Guidelines. Endotracheal suctioning of mechanically ventilated patients with artificial airways 2010. Respir Care 2010;55(6):758-764",
+  "coment": "A diretriz da AARC (2010) recomenda sonda que ocupe menos de 50% da luz do tubo em adultos; na prática, o calibre em French é estimado multiplicando o diâmetro interno do tubo, em milímetros, por 3/2, como no item I. Antes, durante e depois da aspiração monitoram-se frequência e ritmo cardíacos, SpO2, padrão respiratório e, no neurocrítico monitorado, a pressão intracraniana, que pode subir com o estímulo da sonda. Na ventilação a volume, a secreção eleva a pressão de pico; na modalidade a pressão, a pressão é fixa e o sinal é a queda do volume corrente. Por isso o item IV está errado.",
+  "porAlt": [
+   "Correta: o calibre por tubo vezes 3/2 e a monitorização da frequência cardíaca e da PIC estão certos; o item IV, não.",
+   "Errada: inclui o item IV; na modalidade a pressão a secreção reduz o volume corrente, e não aumenta a pressão.",
+   "Errada: inclui o item IV, que descreve o sinal da ventilação a volume, e exclui o item I, que está correto.",
+   "Errada: omite o item I; estimar a sonda pelo diâmetro do tubo vezes 3/2 é a regra prática correta.",
+   "Errada: omite o item III; no paciente com PIC monitorada, a aspiração pode elevá-la e exige vigilância."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 49,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Os recém-nascidos a termo e pré-termo sentem mais dor que as crianças maiores e os adultos, pois não têm as vias inibitórias bem desenvolvidas.\nUma escala importante para medir a dor é a Escala de NIPS (Neonatal Infant Pain Scale).\nAcerca da Escala NIPS, é correto afirmar que",
+  "alts": [
+   "tem 4 indicadores de dor, avaliados de 0 a 1 ponto.",
+   "tem 6 indicadores de dor, avaliados de 0 a 2 pontos.",
+   "pontuação igual ou maior do que 6 indica presença de dor.",
+   "é utilizada apenas em recém-nascidos a termo.",
+   "é utilizada apenas em recém-nascidos a pré-termo."
+  ],
+  "gab": 1,
+  "tema": "pediatria",
+  "sub": "UTI neonatal e prematuridade",
+  "cenario": "uti",
+  "comp": "aval",
+  "nivel": "r2",
+  "base": "Lawrence J et al. The development of a tool to assess neonatal pain. Neonatal Netw 1993;12(6):59-66",
+  "coment": "A NIPS (Lawrence e colaboradores, 1993) tem 6 indicadores: expressão facial, choro, padrão respiratório, movimento dos braços, movimento das pernas e estado de alerta. Cinco são pontuados de 0 a 1 e só o choro vai de 0 a 2, com total máximo de 7; pontuação igual ou maior que 4 indica dor. A escala foi validada em recém-nascidos a termo e pré-termo. A alternativa B é a única que acerta o número de indicadores, mas generaliza a faixa de 0 a 2, que vale só para o choro; as demais estão claramente erradas.",
+  "porAlt": [
+   "Errada: a NIPS tem 6 indicadores, e não 4; cinco vão de 0 a 1 e o choro, de 0 a 2.",
+   "Correta: a NIPS tem 6 indicadores; a faixa de 0 a 2, porém, vale só para o choro, e os demais vão de 0 a 1.",
+   "Errada: o ponto de corte para dor é 4 ou mais, num total máximo de 7.",
+   "Errada: a NIPS é usada tanto em recém-nascidos a termo quanto em pré-termo.",
+   "Errada: a escala não é exclusiva do pré-termo; foi desenvolvida e é usada também no recém-nascido a termo."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 50,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Avalie se as seguintes afirmativas acerca das alterações cardiorrespiratórias resultantes de treinamento que são evidenciadas em repouso estão corretas.\nI. A magnitude da redução da frequência cardíaca de repouso é maior quando o nível de aptidão é mais baixo.\nII. O débito cardíaco em repouso é aproximadamente o mesmo em indivíduos treinados e destreinados.\nIII. No treinamento físico de endurance, há menor conteúdo de mioglobina.\nIV. No treinamento físico de endurance, há menor atividade enzimática do ciclo de Krebs.\nEstão corretas as afirmativas",
+  "alts": [
+   "III e IV, apenas.",
+   "II, III e IV, apenas.",
+   "II e III, apenas.",
+   "I e IV, apenas.",
+   "I e II, apenas."
+  ],
+  "gab": 4,
+  "tema": "bases",
+  "sub": "Fisiologia muscular e do exercício",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r2",
+  "base": "McArdle WD, Katch FI, Katch VL. Exercise Physiology: Nutrition, Energy, and Human Performance, 8ª ed., Wolters Kluwer, 2015",
+  "coment": "O treinamento aeróbio reduz a frequência cardíaca de repouso, efeito maior em quem parte de baixa aptidão, porque o volume sistólico aumenta. Como o débito cardíaco de repouso depende da demanda metabólica, que pouco muda, ele fica semelhante em treinados e destreinados: a FC menor é compensada pelo volume sistólico maior. No músculo, o endurance aumenta o conteúdo de mioglobina, o número e o tamanho das mitocôndrias e a atividade das enzimas do ciclo de Krebs e da beta-oxidação. Por isso III e IV, que falam em redução, estão errados.",
+  "porAlt": [
+   "Errada: o endurance aumenta, e não reduz, a mioglobina e a atividade das enzimas do ciclo de Krebs.",
+   "Errada: o item II está certo, mas III e IV invertem o efeito do treino sobre a mioglobina e as enzimas oxidativas.",
+   "Errada: omite o item I, que está certo, e inclui o III, pois a mioglobina aumenta com o treino.",
+   "Errada: inclui o item IV; a atividade das enzimas do ciclo de Krebs aumenta com o treinamento aeróbio.",
+   "Correta: a queda da FC de repouso é maior em quem tem baixa aptidão, e o débito cardíaco de repouso não muda."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 51,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "A aterosclerose resulta em um estreitamento da luz arterial, mas a trombose é a maior responsável pelos efeitos cardiovasculares.\nEm relação ao coração, os eventos que resultam da formação de trombos no interior das artérias coronárias são",
+  "alts": [
+   "angina instável e ataque cardíaco.",
+   "angina instável e arritmia sinusal.",
+   "insuficiência ventricular esquerda ou direita.",
+   "hipertrofia miocárdica e hipertensão.",
+   "apoplexia e hipertensão."
+  ],
+  "gab": 0,
+  "tema": "cardio",
+  "sub": "Fisiologia cardiovascular e eletrocardiograma",
+  "cenario": "enf",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "Byrne RA et al. 2023 ESC Guidelines for the management of acute coronary syndromes. Eur Heart J 2023",
+  "coment": "A ruptura ou erosão da placa aterosclerótica expõe material trombogênico, e o trombo formado na coronária reduz o fluxo de forma súbita. Quando a obstrução é parcial ou transitória, surge a angina instável ou o infarto sem supradesnivelamento de ST; quando é oclusiva e prolongada, ocorre o infarto agudo do miocárdio, o ataque cardíaco. Por isso a diretriz da ESC de 2023 agrupa esses quadros como síndrome coronariana aguda. Insuficiência ventricular, arritmias e hipertrofia podem ser consequências tardias ou ter outras causas, e apoplexia designa o AVC.",
+  "porAlt": [
+   "Correta: o trombo coronário causa a síndrome coronariana aguda, da angina instável ao infarto.",
+   "Errada: arritmia sinusal é variação fisiológica do ritmo ligada à respiração, e não efeito do trombo.",
+   "Errada: a insuficiência ventricular pode complicar o infarto, mas não é o evento direto da trombose coronária.",
+   "Errada: hipertrofia miocárdica e hipertensão resultam de sobrecarga crônica de pressão, e não de trombose aguda.",
+   "Errada: apoplexia designa o AVC, evento cerebral, e a hipertensão não decorre do trombo coronário."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 52,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As abordagens fisioterapêuticas neurológicas mais atuais sobre controle motor baseiam-se no aprendizado motor e na neuroplasticidade. Para tal, as técnicas são baseadas em estratégias de tratamento.\nRelacione as categorias de estratégias de tratamento a seguir elencadas com seus respectivos princípios básicos.\n1. Treinamento por Compensação\n2. Treinamento por Substituição\n3. Treinamento por Habituação\n4. Adaptação Neural\n( ) Ensinar o paciente a usar um sistema sensorial ou grupo muscular diferente para substituir a função de outro sistema que foi perdida.\n( ) Uso de um dispositivo auxiliar ou órtese para compensar uma alteração permanente ou função do sistema corporal que foi perdida.\n( ) Estimular as alterações na estrutura e na função do sistema nervoso(SNC/SNP) por meio da prática repetitiva com atenção.\n( ) Provocação de sintomas com base na atividade com o objetivo de redução dos sintomas em prática repetida.\nA relação correta, na ordem apresentada, é",
+  "alts": [
+   "1 – 2 – 4 – 3.",
+   "2 – 1 – 3 – 4.",
+   "1 – 2 – 3 – 4.",
+   "4 – 2 – 1 – 3.",
+   "2 – 1 – 4 – 3."
+  ],
+  "gab": 4,
+  "tema": "neuro",
+  "sub": "Abordagens terapêuticas em neurologia",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "r2",
+  "base": "O'Sullivan SB, Schmitz TJ, Fulk GD. Physical Rehabilitation, 7ª ed., F.A. Davis, 2019",
+  "coment": "O'Sullivan descreve categorias de estratégia no treino do controle motor. Na substituição, o paciente aprende a usar outro sistema sensorial ou outro grupo muscular para assumir a função perdida, como a visão no lugar da propriocepção (2). Na compensação, usa-se dispositivo auxiliar ou órtese diante de perda permanente (1). A adaptação neural busca mudanças na estrutura e na função do sistema nervoso pela prática repetitiva e com atenção, base da neuroplasticidade (4). A habituação provoca os sintomas repetidamente, como a tontura na reabilitação vestibular, para reduzi-los (3). Sequência 2, 1, 4, 3.",
+  "porAlt": [
+   "Errada: inverte compensação e substituição; usar outro sistema é substituição, e órtese é compensação.",
+   "Errada: inverte habituação e adaptação neural; prática repetitiva com atenção é adaptação neural.",
+   "Errada: troca entre si as duas primeiras e as duas últimas categorias.",
+   "Errada: a troca de um sistema por outro não é adaptação neural, e órtese não é substituição.",
+   "Correta: substituição, compensação, adaptação neural e habituação, na ordem 2, 1, 4, 3."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 54,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Indivíduos com diagnósticos diferentes podem ter as mesmas alterações do equilíbrio.\nAvalie se, em casos de alterações de equilíbrio, as opções de equipamentos que podem ser utilizadas para treino de equilíbrio incluem:\nI. estimulação visual optocinética.\nII. plataforma de força com biofeedback.\nIII. oscilação postural.\nIV. minitrampolins.\nEstão corretos os itens",
+  "alts": [
+   "I, II, III e IV.",
+   "II, III e IV, apenas.",
+   "I, II e III, apenas.",
+   "I, III e IV, apenas.",
+   "II e III, apenas."
+  ],
+  "gab": 0,
+  "tema": "bases",
+  "sub": "Postura e equilíbrio",
+  "cenario": "amb",
+  "comp": "tec",
+  "nivel": "r1",
+  "base": "O'Sullivan SB, Schmitz TJ, Fulk GD. Physical Rehabilitation, 7ª ed., F.A. Davis, 2019",
+  "coment": "O treino de equilíbrio é organizado pela alteração funcional, e não pelo diagnóstico, porque condições diferentes produzem déficits semelhantes. Os recursos incluem estimulação visual optocinética, que desafia a integração visual e vestibular; plataforma de força com biofeedback visual ou sonoro do centro de pressão; treino de oscilação postural, com deslocamentos controlados do centro de massa dentro do limite de estabilidade; e superfícies instáveis, como minitrampolins, bolas e espumas, que reduzem a confiabilidade da informação somatossensorial. Os quatro itens estão corretos.",
+  "porAlt": [
+   "Correta: estímulo optocinético, plataforma com biofeedback, oscilação postural e minitrampolim servem ao treino de equilíbrio.",
+   "Errada: omite a estimulação optocinética, usada para treinar a integração visual e vestibular.",
+   "Errada: omite o minitrampolim, superfície instável que desafia a informação somatossensorial.",
+   "Errada: omite a plataforma de força com biofeedback, recurso clássico de treino do controle postural.",
+   "Errada: omite o estímulo optocinético e o minitrampolim, ambos úteis no treino de equilíbrio."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 55,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "As técnicas de estimulação proprioceptiva combinada têm êxito devido aos efeitos combinados de múltiplos estímulos.\nAcerca do tema, relacione as técnicas a seguir às suas definições.\n1. Aproximação\n2. Padrões de resistência de Rood\n3. Posicionamento corporal total\n4. Inibição pós-excitatória com extensão, amplitude, rotação e agitação\n( ) Se baseia no potencial de ação ou no padrão de resposta elétrica de um neurônio por ocasião da estimulação e em toda a fase de resposta até o neurônio voltar ao normal.\n( ) Manutenção da postura por um período determinado e o alongamento excêntrico dentro e fora da amplitude encurtada.\n( ) Implica no uso do posicionamento e da gravidade para atenuar a atividade aferente sobre os neurônios motores alfa, causando assim uma diminuição do tônus, ou relaxamento.\n( ) Geralmente aplicada ao tornozelo e ao joelho com a intenção de minimizar a flexão plantar e ao mesmo tempo facilitar a co-contração postural em torno do tornozelo.\nA relação correta, na ordem apresentada, é",
+  "alts": [
+   "2 – 4 – 3 – 1.",
+   "4 – 2 – 3 – 1.",
+   "1 – 3 – 4 – 2.",
+   "3 – 2 – 4 – 1.",
+   "4 – 3 – 2 – 1."
+  ],
+  "gab": 1,
+  "tema": "neuro",
+  "sub": "Abordagens terapêuticas em neurologia",
+  "cenario": "amb",
+  "comp": "tec",
+  "nivel": "r3",
+  "base": "Umphred DA et al. Umphred's Neurological Rehabilitation, 7ª ed., Elsevier, 2020",
+  "coment": "Umphred agrupa técnicas que somam vários estímulos proprioceptivos. A inibição pós-excitatória com extensão, amplitude, rotação e agitação se baseia no comportamento do neurônio após a estimulação, do potencial de ação até o retorno ao repouso (4). Os padrões de resistência de Rood mantêm uma postura por tempo determinado e usam alongamento excêntrico dentro e fora da amplitude encurtada (2). O posicionamento corporal total usa a postura e a gravidade para reduzir a atividade aferente sobre os motoneurônios alfa e diminuir o tônus (3). A aproximação, em geral no tornozelo e no joelho, reduz a flexão plantar e facilita a cocontração postural (1). Sequência 4, 2, 3, 1.",
+  "porAlt": [
+   "Errada: inverte as duas primeiras; o comportamento do neurônio após o estímulo é a base da inibição pós-excitatória.",
+   "Correta: inibição pós-excitatória, padrões de Rood, posicionamento corporal total e aproximação, na ordem 4, 2, 3, 1.",
+   "Errada: a aproximação é a técnica aplicada a tornozelo e joelho para cocontração, a última da lista.",
+   "Errada: inverte posicionamento corporal total e inibição pós-excitatória na primeira e na terceira lacunas.",
+   "Errada: inverte padrões de Rood e posicionamento corporal total na segunda e na terceira lacunas."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 56,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em alguns bebês de alto risco, a estabilidade postural excessiva na hiperextensão do pescoço pode contribuir para uma sequência de alterações na mobilidade.\nEssa hipertonia postural de alto risco aparece com um perfil postural, entre outros, caracterizado por",
+  "alts": [
+   "movimento frequente das pernas em flexão e abdução.",
+   "pelve imóvel com pernas em padrão abdutor.",
+   "tronco excessivamente estendido e pelve muito imóvel (inclinação posterior).",
+   "ombros elevados com escápulas aduzidas e diminuição do movimento dos braços na linha média.",
+   "ombros elevados com escápulas abduzidas e agitação no movimento dos braços na linha média."
+  ],
+  "gab": 3,
+  "tema": "pediatria",
+  "sub": "Paralisia cerebral",
+  "cenario": "amb",
+  "comp": "aval",
+  "nivel": "r3",
+  "base": "Umphred DA et al. Umphred's Neurological Rehabilitation, 7ª ed., Elsevier, 2020",
+  "coment": "Em bebês de alto risco, como prematuros, a estabilidade obtida pela hiperextensão do pescoço tende a se associar a elevação dos ombros e adução das escápulas (retração escapular). Esse padrão fixa a cintura escapular, dificulta levar as mãos à linha média e reduz o movimento dos braços diante do corpo, atrasando a exploração mão a mão e o apoio nos antebraços. Movimento frequente das pernas em flexão e abdução é comportamento típico, e a extensão excessiva do tronco se associa a inclinação anterior, e não posterior, da pelve.",
+  "porAlt": [
+   "Errada: movimento frequente das pernas em flexão e abdução é comportamento típico, e não sinal de hipertonia postural.",
+   "Errada: o perfil que nasce da hiperextensão cervical se expressa na cintura escapular; pernas em padrão abdutor não o caracterizam.",
+   "Errada: a extensão excessiva do tronco associa-se a inclinação anterior da pelve, e não posterior.",
+   "Correta: ombros elevados, escápulas aduzidas e pouco movimento dos braços na linha média acompanham a hiperextensão cervical.",
+   "Errada: o padrão é de escápulas aduzidas, retraídas, com redução e não agitação do movimento dos braços na linha média."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 57,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Durante a gestação, o exercício é indicado observando-se alguns cuidados. Há, entretanto, exercícios / atividades que são contraindicados.\nUma contraindicação para a gestante é",
+  "alts": [
+   "o treino de força.",
+   "o mergulho em profundidade com descompressão.",
+   "a caminhada acelerada.",
+   "o ciclismo.",
+   "a natação."
+  ],
+  "gab": 1,
+  "tema": "mulher",
+  "sub": "Gestação e puerpério",
+  "cenario": "amb",
+  "comp": "cond",
+  "nivel": "r1",
+  "base": "ACOG Committee Opinion nº 804. Physical Activity and Exercise During Pregnancy and the Postpartum Period. Obstet Gynecol 2020;135(4):e178-e188",
+  "coment": "O ACOG (Committee Opinion 804, 2020) recomenda exercício regular na gestação sem complicações, como caminhada, natação, bicicleta ergométrica e treino de força moderado. Entre as atividades a evitar, cita o mergulho autônomo (scuba), porque o feto não está protegido contra a doença descompressiva, além de esportes de contato, atividades com alto risco de queda, salto de paraquedas e ioga ou pilates em ambiente aquecido. O ciclismo ao ar livre pede cautela pelo risco de queda, mas não é contraindicado como modalidade.",
+  "porAlt": [
+   "Errada: o treino de força de intensidade moderada é recomendado na gestação sem complicações.",
+   "Correta: o mergulho autônomo é contraindicado porque o feto fica exposto à doença descompressiva.",
+   "Errada: a caminhada acelerada é atividade aeróbia recomendada na gestação.",
+   "Errada: o ciclismo, sobretudo estacionário, é atividade aceita; ao ar livre pede cuidado pelo risco de queda.",
+   "Errada: a natação é uma das atividades mais recomendadas na gestação."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 58,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "O climatério ocorre na meia-idade da mulher, período em que ocorrem alterações importantes, entre elas, a incontinência urinária.\nEm relação à incontinência urinária da mulher, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) O hipoestrogenismo altera a função de estruturas do assoalho pélvico.\n( ) A perda de urina acontece pelo desequilíbrio entre as pressões uretral e vesical.\n( ) A incontinência só ocorre em momentos de esforço extremo.\n( ) A musculatura do assoalho pélvico sofre retração tecidual e aumento tônico.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "V – V – V – V.",
+   "F – F – V – V.",
+   "V – V – F – F.",
+   "V – F – F – V.",
+   "V – V – F – V."
+  ],
+  "gab": 2,
+  "tema": "mulher",
+  "sub": "Assoalho pélvico e incontinência",
+  "cenario": "amb",
+  "comp": "base",
+  "nivel": "r1",
+  "base": "Haylen BT et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for female pelvic floor dysfunction. Int Urogynecol J 2010;21(1):5-26",
+  "coment": "No climatério, o hipoestrogenismo reduz a espessura e a vascularização do epitélio uretral e vaginal e altera o colágeno e o trofismo das estruturas de suporte, comprometendo o fechamento uretral (V). A perda de urina ocorre quando a pressão vesical supera a pressão de fechamento uretral (V). A incontinência pode surgir com esforços mínimos, como tossir ou levantar, ou com urgência, e não só em esforço extremo (F). Com a idade e a queda estrogênica, a musculatura do assoalho pélvico tende a hipotrofia e perda de força e de tônus, e não a aumento tônico (F). Sequência V, V, F, F.",
+  "porAlt": [
+   "Errada: a incontinência não depende de esforço extremo, e o assoalho pélvico tende a hipotrofia, e não a aumento tônico.",
+   "Errada: hipoestrogenismo e desequilíbrio de pressões são verdadeiros; as duas últimas afirmativas é que são falsas.",
+   "Correta: hipoestrogenismo e desequilíbrio entre pressão vesical e uretral são verdadeiros; as outras duas, falsas.",
+   "Errada: a perda de urina decorre sim do desequilíbrio entre pressão vesical e uretral, e o assoalho não ganha tônus.",
+   "Errada: no climatério a musculatura do assoalho pélvico tende a hipotrofia e perda de força, e não a retração e aumento tônico."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 59,
+   "parte": "especificas"
+  }
+ },
+ {
+  "q": "Em relação ao Código de Ética e Deontologia da Fisioterapia, de 2013, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) A atualização cadastral deve ocorrer, no mínimo, a cada dois anos, respeitadas as regras específicas quanto ao recadastramento nacional.\n( ) O fisioterapeuta avalia sua capacidade técnica e somente aceita atribuição ou assume encargo quando capaz de desempenho seguro para o cliente/paciente/usuário, em respeito aos direitos humanos.\n( ) O fisioterapeuta deve comunicar à chefia imediata da instituição em que trabalha ou à autoridade competente, fato de que tenha conhecimento que seja tipificado como crime, contravenção ou infração ética, apenas se souber que há provas sobre o fato.\n( ) A responsabilidade do fisioterapeuta por erro cometido em sua atuação profissional é atenuada quando o erro for cometido pela coletividade de uma instituição ou de uma equipe, e a responsabilidade individual será apurada na medida de sua culpabilidade.\nAs afirmativas são, respectivamente,",
+  "alts": [
+   "F – V – F – F.",
+   "F – V – V – V.",
+   "V – V – V – V.",
+   "V – F – V – F.",
+   "V – F – F – F."
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Código de Ética e Deontologia da Fisioterapia",
+  "cenario": "ger",
+  "comp": "norma",
+  "nivel": "r1",
+  "base": "Resolução COFFITO 424/2013 (Código de Ética e Deontologia da Fisioterapia), arts. 3º, 5º, 7º e 18",
+  "coment": "O Código de Ética da Fisioterapia (Res. COFFITO 424/2013) manda atualizar o cadastro no mínimo a cada ano, e não a cada dois anos (art. 3º), por isso a primeira é falsa. O art. 5º diz que o fisioterapeuta avalia sua capacidade técnica e só aceita atribuição ou assume encargo quando capaz de desempenho seguro, em respeito aos direitos humanos (V). O art. 7º obriga a comunicar à chefia ou à autoridade competente fato tipificado como crime, contravenção ou infração ética, sem condicionar à existência de provas (F). O art. 18 diz que a responsabilidade por erro não é diminuída quando cometido na coletividade de uma instituição ou equipe (F). Sequência F, V, F, F.",
+  "porAlt": [
+   "Correta: atualização anual, só aceitar encargo com desempenho seguro, comunicar sem exigir provas e responsabilidade não atenuada: F, V, F, F.",
+   "Errada: o dever de comunicar não depende de provas (art. 7º), e a responsabilidade por erro coletivo não é atenuada (art. 18).",
+   "Errada: a atualização cadastral é no mínimo anual, e não a cada dois anos (art. 3º).",
+   "Errada: a segunda afirmativa reproduz o art. 5º e é verdadeira, e a terceira acrescenta uma condição que o código não traz.",
+   "Errada: a segunda afirmativa reproduz o art. 5º do código e é verdadeira."
+  ],
+  "fonte": {
+   "banca": "EBSERH (FGV)",
+   "ano": 2025,
+   "prova": "EBSERH 2024 Fisioterapeuta",
+   "n": 60,
+   "parte": "especificas"
+  }
+ }
+]
