@@ -59,6 +59,19 @@ reabilitação cardiovascular SBC 2020. A conferir no DOU: telefisioterapia 619/
   `APPS` de `MedTech/backend/functions/sinal.js` e deploy (ele roda o `.command`); a venda precisa do produto no
   `MedTech/backend/functions/planos.json` e do deploy-backend.
 
+## Estado em 15/10/2026 (fi-v3, no ar em medtechbr.com.br/fisiare/, repo MedTechBR/fisiare)
+2.274 questões: 2.234 de prova real (ENARE 2024–2026, EBSERH 2023 IBFC 8 cargos e 2024 FGV, SES-PE 2023–2026,
+HCPA, UFCSPA, UFPA 2023–2026, UNICAMP 2026, UERJ 2022–2026, FGV municipais/estaduais, IBADE, Selecon, Marinha
+2021–2025) + 40 autorais de AMOSTRA do título COFFITO (leva301, aguardando aprovação). 234 repetidas entre
+cadernos ficam uma vez com `fonte.tb`. ~8% das reais descartadas na triagem (motivos em
+provas-reais/relatorios/*.json). Editorial de questões idênticas às do Enfermare reaproveitado por
+`docs/reaproveita_enfermare.py`. 9 leituras (ética, VM, desmame/VNI, respiratória, cardio, AVC, recursos,
+ortopedia, pediatria/neo) passaram por dois conferentes; 154 cartões; 8 casos. Comentários do ENARE auditados.
+À venda na linha Multi (site 56b099f + 596e9fc, _mtauth v46, _mtacesso v14).
+Pendências: deploy do backend (sinal.js, conteudo.js e planos.json já editados em MedTech/backend/functions) para
+erratas/sinalização/curador do Fisiare; baixar o caderno do COFFITO em 07/12/2026; "a conferir" que sobrou nas
+leituras (grau AAP 2014 na bronquiolite, tabela de Houghton 2010, texto das Portarias 665/2012 e 800/2015).
+
 ## Fluxo de publicação
 `bash docs/publica.sh "msg"` (para no primeiro erro). Lotes em escrita: um nome por linha em
 `lotes-questoes/EM_ANDAMENTO.txt` (fora do banco e do commit). Leitura sem `_entradas_<nome>.json` fica fora do
